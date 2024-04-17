@@ -1,0 +1,1660 @@
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 282, in askai
+    pyautogui.moveTo(findboxes(qtype())[0])
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 594, in wrapper
+    returnVal = wrappedFunction(*args, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 1285, in moveTo
+    x, y = _normalizeXYArgs(x, y)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 679, in _normalizeXYArgs
+    return Point(int(firstArg[0]), int(firstArg[1]))
+                 ^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'Box'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 357, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 331, in solve
+    response = askai(question)
+               ^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 296, in askai
+    response = model.generate_content([question], stream=True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 226, in generate_content
+    iterator = self._client.stream_generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 852, in stream_generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\timeout.py", line 120, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\grpc_helpers.py", line 170, in error_remapped_callable
+    return _StreamingResponseIterator(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\grpc_helpers.py", line 92, in __init__
+    self._stored_first_result = next(self._wrapped)
+                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\grpc\_channel.py", line 542, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\grpc\_channel.py", line 959, in _next
+    _common.wait(self._state.condition.wait, _response_ready)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\grpc\_common.py", line 156, in wait
+    _wait_once(wait_fn, MAXIMUM_WAIT_TIMEOUT, spin_cb)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\grpc\_common.py", line 116, in _wait_once
+    wait_fn(timeout=timeout)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+***
+Error Detected - Could not find blank to click
+***
+
+Skip To Content
+Dashboard
+DASHBOARD
+COURSES
+CALENDAR
+277INBOX
+HELP
+EconomicsAssignmentsCheckpoint 12: Supply
+Morgan Howard
+Morgan Howard
+Home
+Announcements
+Discussions
+Grades
+Syllabus
+Modules
+StrongMinded
+Conferences
+Course Evaluation
+Now take the Checkpoint and show what you’ve learned thus far. It will check your understanding of the concepts you've been working on in this lesson. Are you ready?
+
+
+
+If you have prepared thoroughly, you should do well. If you have not, now is a good time to go back and review. Take another look at the Key Terms, scan the readings, review the videos, and read over your notes. If you are unsure about anything, ask for help now.
+
+
+
+When you are ready, relax, take a deep breath, and get comfortable. If you have difficulty with any of the questions, review the material again and, after reviewing, take the Checkpoint again. Remember, you may take the Checkpoint up to three times. Only your highest score will be recorded in the Gradebook.
+
+
+
+Good luck!
+
+The following content is partner provided
+
+The preceding content is partner provided
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 343, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 331, in solve
+    question, responses = copyquestion()
+                          ^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 266, in copyquestion
+    question = question.split('Question')[2].split('Skip')[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '4']
+---
+---
+AI Response = ['$', '4']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$', '$1']
+---
+---
+Filtered Data = ['$', '$1']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$', '$1']
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+---
+Click = Box(left=302, top=696, width=20, height=26)
+---
+---
+Correct Answer = ['$']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$6$6', '$8$8', '$10$10', '$4$4']
+---
+---
+Filtered Data = ['$6$6', '$8$8', '$10$10', '$4$4']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6$6', '$8$8', '$10$10', '$4$4']
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 339, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 329, in solve
+    correct = select(response, responses, answers, boxes)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 309, in select
+    Error('no correct anwers detected')
+    ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'error'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 339, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 329, in solve
+    correct = select(response, responses, answers, boxes)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 309, in select
+    Error('no correct anwers detected')
+    ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'error'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+***
+Error Detected - Could not find blank to click
+***
+
+Skip To Content
+Dashboard
+DASHBOARD
+COURSES
+CALENDAR
+277INBOX
+HELP
+EconomicsAssignmentsCheckpoint 12: Supply
+Morgan Howard
+Morgan Howard
+Home
+Announcements
+Discussions
+Grades
+Syllabus
+Modules
+StrongMinded
+Conferences
+Course Evaluation
+Now take the Checkpoint and show what you’ve learned thus far. It will check your understanding of the concepts you've been working on in this lesson. Are you ready?
+
+
+
+If you have prepared thoroughly, you should do well. If you have not, now is a good time to go back and review. Take another look at the Key Terms, scan the readings, review the videos, and read over your notes. If you are unsure about anything, ask for help now.
+
+
+
+When you are ready, relax, take a deep breath, and get comfortable. If you have difficulty with any of the questions, review the material again and, after reviewing, take the Checkpoint again. Remember, you may take the Checkpoint up to three times. Only your highest score will be recorded in the Gradebook.
+
+
+
+Good luck!
+
+The following content is partner provided
+
+The preceding content is partner provided
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 347, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 335, in solve
+    question, responses = copyquestion()
+                          ^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 269, in copyquestion
+    question = question.split('Question')[2].split('Skip')[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$6$6', '$8$8', '$1', '$4$4']
+---
+---
+Filtered Data = ['$6$6', '$8$8', '$1', '$4$4']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6$6', '$8$8', '$1', '$4$4']
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 347, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 337, in solve
+    correct = select(response, responses, answers, boxes)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 317, in select
+    Error('no correct anwers detected')
+    ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'error'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['$', '4']
+---
+---
+AI Response = ['$', '4']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 347, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 337, in solve
+    correct = select(response, responses, answers, boxes)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 317, in select
+    Error('no correct anwers detected')
+    ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'error'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['']
+---
+---
+Filtered Data = []
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = []
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['']
+---
+---
+AI Response = ['']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 347, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 337, in solve
+    correct = select(response, responses, answers, boxes)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 317, in select
+    Error('no correct anwers detected')
+    ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'error'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['']
+---
+---
+Filtered Data = []
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = []
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['']
+---
+---
+AI Response = ['']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 347, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 337, in solve
+    correct = select(response, responses, answers, boxes)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 317, in select
+    Error('no correct anwers detected')
+    ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'error'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+***
+Error Detected - Could not find copyimage to click
+***
+---
+Image Question
+---
+---
+Filtered Data = ['$', '6']
+---
+---
+AI Response = ['$', '6']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 347, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 337, in solve
+    correct = select(response, responses, answers, boxes)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 317, in select
+    Error('no correct anwers detected')
+    ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'error'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+---
+Image Question
+---
+---
+Filtered Data = ['', '$', '6']
+---
+---
+AI Response = ['', '$', '6']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 347, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 337, in solve
+    correct = select(response, responses, answers, boxes)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\test.py", line 317, in select
+    Error('no correct anwers detected')
+    ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'error'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py test.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Filtered Data = ['$6', '$8', '$10', '$4']
+---
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+---
+Image Question
+---
+---
+AI Response =  $6
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$6']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+---
+Image Question
+---
+---
+AI Response =  $6
+---
+---
+Click = Box(left=302, top=696, width=20, height=26)
+---
+---
+Correct Answer = ['$6']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 359, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 331, in solve
+    boxes, answers = findboxes(qtype())
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 201, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{type}{x}.png', confidence=0.8):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.710)
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+---
+Image Question
+---
+---
+AI Response =  $6
+---
+---
+Click = Box(left=299, top=697, width=25, height=25)
+---
+---
+Correct Answer = ['$6']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 359, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 331, in solve
+    boxes, answers = findboxes(qtype())
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 201, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{type}{x}.png', confidence=0.8):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.710)
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+---
+Image Question
+---
+---
+AI Response =  $6
+---
+---
+Click = Box(left=299, top=697, width=25, height=25)
+---
+---
+Correct Answer = ['$6']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 359, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 331, in solve
+    boxes, answers = findboxes(qtype())
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 201, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{type}{x}.png', confidence=0.8):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.710)
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+---
+Image Question
+---
+---
+AI Response =  $6
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$6']
+---
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+---
+Image Question
+---
+---
+AI Response =  $6
+---
+---
+Click = Box(left=302, top=696, width=20, height=26)
+---
+---
+Correct Answer = ['$6']
+---
+
+Checkpoint 12
+10 of 1010 of 10
+---
+Question = Question:  demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).    What is the price of widgets when the quantity demanded is 4?
+---
+---
+Responses = ['$6', '$8', '$10', '$4']
+---
+---
+Image Question
+---
+---
+AI Response =  $6
+---
+---
+Click = Box(left=302, top=659, width=20, height=26)
+---
+---
+Correct Answer = ['$6']
+---
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 357, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 330, in solve
+    question, responses = copyquestion()
+                          ^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 265, in copyquestion
+    question = question.split('Question')[2].split('Skip')[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 264
+    questionnumber = question.split('Question')[0]).splitlines()
+                                                  ^
+SyntaxError: unmatched ')'
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 358, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 331, in solve
+    question, responses = copyquestion()
+                          ^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 265, in copyquestion
+    show(filter(questionnumber[2]), questtionnumber[1])
+                                    ^^^^^^^^^^^^^^^
+NameError: name 'questtionnumber' is not defined. Did you mean: 'questionnumber'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['9', '', 'o', 'f', '1', '0']
+---
+---
+Question = Question:  What are variable costs?
+---
+---
+Responses = ['e']
+---
+---
+AI Response = e
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['e']
+---
+***
+Error Detected - Could not find blank to click
+***
+---
+Checkpoint 12 = ['9', '', 'o', 'f', '1', '0']
+---
+***
+Error Detected - could not find checkboxes
+***
+---
+Question = Question:  What are variable costs?
+---
+---
+Responses = ['e']
+---
+***
+Error Detected - could not find checkboxes
+***
+[ WARN:0@12.777] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 358, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 332, in solve
+    response = askai(question)
+               ^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 280, in askai
+    boxes = findboxes(qtype())[0]
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 199, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{type}.png', confidence=0.8):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 231, in _locateAll_opencv
+    needleImage = _load_cv2(needleImage, grayscale)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 193, in _load_cv2
+    raise IOError(
+OSError: Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['1 of ']
+---
+---
+Question = Question:  Read the scenario.    Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.      Which best describes the outcome of the above scenario?
+---
+---
+Responses = ['C']
+---
+---
+AI Response = C
+---
+---
+Click = Box(left=302, top=591, width=20, height=26)
+---
+---
+Correct Answer = ['C']
+---
+---
+Checkpoint 12 = ['2 of ']
+---
+---
+Question = Question:  Which is an example of the law of supply?
+---
+---
+Responses = ['e']
+---
+---
+AI Response = e
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['e']
+---
+***
+Error Detected - could not locate button
+***
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['1 of ']
+---
+---
+Question = Question:  Read the scenario.    Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.      Which best describes the outcome of the above scenario?
+---
+---
+Responses = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them', 'Car Company X will increase the supply of automobiles it produces and will sell them ', 'Car Company X will decrease the supply of automobiles it produces and likely will sell the', 'Car Company X will increase the supply of automobiles it produces and will sell them']
+---
+---
+AI Response = Car Company X will decrease the supply of automobiles it produces and likely will sell them
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Click = Box(left=302, top=759, width=20, height=26)
+---
+---
+Correct Answer = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them', 'Car Company X will decrease the supply of automobiles it produces and likely will sell the']
+---
+***
+Error Detected - could not find checkboxes
+***
+[ WARN:0@9.349] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 347, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 319, in solve
+    boxes, answers = findboxes(qtype())
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 199, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{type}.png', confidence=0.8):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 231, in _locateAll_opencv
+    needleImage = _load_cv2(needleImage, grayscale)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 193, in _load_cv2
+    raise IOError(
+OSError: Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['1 of 101 of 10']
+---
+---
+Question = Question:  Read the scenario.    Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.      Which best describes the outcome of the above scenario?
+---
+---
+Responses = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.  Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.', 'Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.  Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.']
+---
+---
+AI Response = Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.
+---
+---
+Correct Answer = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.']
+---
+---
+Checkpoint 12 = ['2 of 102 of 10']
+---
+---
+Question = Question:  Which is an example of the law of supply?
+---
+---
+Responses = ['The price of a product decreases, resulting in a decrease supply.The price of a product decreases, resulting in a decrease supply.', 'The price of a product decreases, resulting in a surplus.The price of a product decreases, resulting in a surplus.', 'The price of a product increases, resulting in a shortage.The price of a product increases, resulting in a shortage.', 'The price of a product increases, resulting in a decrease in supply.The price of a product increases, resulting in a decrease in supply.']
+---
+---
+AI Response = The price of a product increases, resulting in a decrease in supply.
+---
+***
+Error Detected - no correct anwers detected
+***
+---
+Correct Answer = []
+---
+***
+Error Detected - could not find checkboxes
+***
+[ WARN:0@16.212] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 349, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 321, in solve
+    boxes, answers = findboxes(qtype())
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 199, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{type}.png', confidence=0.8):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 231, in _locateAll_opencv
+    needleImage = _load_cv2(needleImage, grayscale)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 193, in _load_cv2
+    raise IOError(
+OSError: Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['1 of 101 of 10']
+---
+---
+Question = Question:  Read the scenario.    Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.      Which best describes the outcome of the above scenario?
+---
+---
+Responses = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.  Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.', 'Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.  Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.']
+---
+---
+AI Response = Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.
+---
+---
+Correct Answer = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.']
+---
+***
+Error Detected - could not locate button
+***
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['1 of 101 of 10']
+---
+---
+Question = Question:  Read the scenario.    Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.      Which best describes the outcome of the above scenario?
+---
+---
+Responses = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.  Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.', 'Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.  Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.']
+---
+---
+AI Response = Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.
+---
+---
+Correct Answer = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.  Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.']
+---
+***
+Error Detected - could not locate button
+***
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['1 of ']
+---
+---
+Question = Question:  Read the scenario.    Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.      Which best describes the outcome of the above scenario?
+---
+---
+Responses = ['C']
+---
+---
+AI Response = C
+---
+---
+Correct Answer = ['C']
+---
+---
+Checkpoint 12 = ['2 of ']
+---
+---
+Question = Question:  Which is an example of the law of supply?
+---
+---
+Responses = ['e']
+---
+---
+AI Response = e
+---
+---
+Correct Answer = ['e']
+---
+---
+Checkpoint 12 = ['3 of ']
+---
+---
+Question = Question:  When is a product likely to have elastic supply?
+---
+---
+Responses = ['n', 'he']
+---
+---
+AI Response = he
+---
+---
+Correct Answer = ['he']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['']
+---
+---
+Question = Question:  Which is an example of the law of supply?
+---
+---
+Responses = ['']
+---
+---
+AI Response = []
+---
+---
+Correct Answer = ['']
+---
+***
+Error Detected - could not locate button
+***
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['2 of ']
+---
+---
+Question = Question:  Which is an example of the law of supply?
+---
+---
+Responses = ['e']
+---
+---
+AI Response = e
+---
+---
+Correct Answer = ['e']
+---
+***
+Error Detected - could not locate button
+***
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 345, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 318, in solve
+    question, responses = copyquestion()
+                          ^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 255, in copyquestion
+    show(filter([questionnumber[2]]), questionnumber[1])
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 226, in filter
+    for n2 in range(n, n4):
+                       ^^
+NameError: name 'n4' is not defined. Did you mean: 'n'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = ['2 of ']
+---
+---
+Question = Question:  Which is an example of the law of supply?
+---
+---
+Responses = ['The price of a product decreases, resulting in a decrea', 'The price of a product decreases, resulting in a', 'The price of a product increases, resulting in a ', 'The price of a product increases, resulting in a decrease']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 204, in locateCenterOnScreen
+    return pyscreeze.locateCenterOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.379)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 202, in findboxes
+    width = int(find('topr').x - left)
+                ^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 51, in find
+    return(pyautogui.locateCenterOnScreen(f'img/{png}.png', confidence=conf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 174, in wrapper
+    raise ImageNotFoundException  # Raise PyAutoGUI's ImageNotFoundException.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyautogui.ImageNotFoundException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 204, in locateCenterOnScreen
+    return pyscreeze.locateCenterOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.617)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 346, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 320, in solve
+    response = askai(question)
+               ^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 268, in askai
+    boxes = findboxes(qtype())[0]
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 204, in findboxes
+    width = int(find('nextquestionsm').x - left)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 51, in find
+    return(pyautogui.locateCenterOnScreen(f'img/{png}.png', confidence=conf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 174, in wrapper
+    raise ImageNotFoundException  # Raise PyAutoGUI's ImageNotFoundException.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyautogui.ImageNotFoundException
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Checkpoint 12 = 1 of 10
+---
+---
+Question = Question:  Read the scenario.    Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.      Which best describes the outcome of the above scenario?
+---
+---
+Responses = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.', 'Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.']
+---
+---
+AI Response = Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.
+---
+---
+Correct Answer = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.']
+---
+---
+Checkpoint 12 = 2 of 10
+---
+---
+Question = Question:  Which is an example of the law of supply?
+---
+---
+Responses = ['The price of a product decreases, resulting in a decrease supply.', 'The price of a product decreases, resulting in a surplus.', 'The price of a product increases, resulting in a shortage.', 'The price of a product increases, resulting in a decrease in supply.']
+---
+---
+AI Response = The price of a product increases, resulting in an increase in supply.
+---
+***
+Error Detected - no correct anwers detected
+***
+---
+Correct Answer = []
+---
+---
+Checkpoint 12 = 3 of 10
+---
+---
+Question = Question:  When is a product likely to have elastic supply?
+---
+---
+Responses = ['when production of a product is difficult to replicate', 'when production of a product is the result of a monopoly', 'when production of a product is easy to replicate', 'when the production of a product is dangerous']
+---
+---
+AI Response = when production of a product is easy to replicate
+---
+---
+Correct Answer = ['when production of a product is easy to replicate']
+---
+---
+Checkpoint 12 = 4 of 10
+---
+---
+Question = Question:  Which product is most likely to have elastic supply in the short run?
+---
+---
+Responses = ['oil', 'diamond ring', 'MP3 player', 'candy']
+---
+---
+AI Response = oil
+---
+---
+Correct Answer = ['oil']
+---
+---
+Checkpoint 12 = 5 of 10
+---
+---
+Question = Question:  What is the difference between marginal product and total product?
+---
+---
+Responses = ['Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.', 'Total product is defined as the total gross profit of a firm before taxes are withheld, whereas marginal product is the firm’s net revenue.', 'Total product is defined as the firm’s net revenue, whereas marginal product is the total gross profit of a firm before taxes are withheld.', 'Total product is defined as the change in output when a firm introduces one more unit of input, whereas marginal product is defined as the total output of a firm.']
+---
+---
+AI Response = Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.
+---
+---
+Correct Answer = ['Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 204, in locateCenterOnScreen
+    return pyscreeze.locateCenterOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.379)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 202, in findboxes
+    width = int(find('topr').x - left)
+                ^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 51, in find
+    return(pyautogui.locateCenterOnScreen(f'img/{png}.png', confidence=conf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 174, in wrapper
+    raise ImageNotFoundException  # Raise PyAutoGUI's ImageNotFoundException.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyautogui.ImageNotFoundException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 204, in locateCenterOnScreen
+    return pyscreeze.locateCenterOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.617)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 344, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 316, in solve
+    boxes, answers = findboxes(qtype())
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 204, in findboxes
+    width = int(find('nextquestionsm').x - left)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 51, in find
+    return(pyautogui.locateCenterOnScreen(f'img/{png}.png', confidence=conf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 174, in wrapper
+    raise ImageNotFoundException  # Raise PyAutoGUI's ImageNotFoundException.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyautogui.ImageNotFoundException
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>

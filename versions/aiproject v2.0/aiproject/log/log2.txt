@@ -1,0 +1,694 @@
+---
+Question = Question:
+What is the definition of the Law of Variable Proportions?
+
+
+---
+---
+Responses = [' As prices increase, the supply for goods and services increases.', ' As prices increase, the demand for goods and services decreases.', 'Output in the short run will change when one input is varied and others remain constant.', ' Additional output of a product is created when one more unit of input is introduced.']
+---
+---
+AI Response = Output in the short run will change when one input is varied and others remain constant.
+---
+---
+Click = Box(left=302, top=616, width=20, height=26)
+---
+---
+Correct Answer = ['Output in the short run will change when one input is varied and others remain constant.']
+---
+---
+Question = Question:
+What are the Three Stages of Production?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['increasing returns', 'diminishing returns', 'marginal returns', 'negative returns']
+---
+---
+AI Response = ['increasing returns', 'diminishing returns', 'negative returns']
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Click = Box(left=302, top=642, width=20, height=26)
+---
+---
+Correct Answer = ['increasing returns', 'diminishing returns', 'negative returns']
+---
+---
+Percentage = 75
+---
+---
+Question = Question:
+Which most accurately describes a firm’s goal regarding revenue?
+
+
+---
+---
+Responses = ['A firm will stop producing when its marginal cost has reached stage III of production.', 'A firm will continue producing until its marginal revenue exceeds its marginal cost.', 'A firm will continue producing until its marginal revenue equals its marginal cost.', 'A firm will stop producing before its marginal costs exceed its marginal revenue.']
+---
+---
+AI Response = A firm will continue producing until its marginal revenue equals its marginal cost.
+---
+---
+Click = Box(left=302, top=625, width=20, height=26)
+---
+---
+Correct Answer = ['A firm will continue producing until its marginal revenue equals its marginal cost.']
+---
+---
+Question = Question:
+What is marginal cost?
+
+
+---
+---
+Responses = ['the cost when taxes are taken into account', 'the costs that change based on the number of units produced', 'the cost to produce one additional unit', 'the costs that do not change regardless of the number of units produced']
+---
+---
+AI Response = the cost to produce one additional unit
+---
+---
+Click = Box(left=302, top=592, width=20, height=26)
+---
+---
+Correct Answer = ['the cost to produce one additional unit']
+---
+---
+Percentage = 100
+---
+---
+Question = Question:
+How does a company entice the consumer to buy more using marginal analysis?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['charging extra tax on a discounted item', ' offering a buy one, get one free sale', ' raising the price on the initial purchase', 'giving away a prize with each purchase']
+---
+---
+AI Response = ['offering a buy one, get one free sale', 'giving away a prize with each purchase']
+---
+---
+Click = Box(left=302, top=677, width=20, height=26)
+---
+---
+Correct Answer = ['giving away a prize with each purchase']
+---
+---
+Question = Question:
+In economics, what is the definition of margins?
+
+
+---
+---
+Responses = [' the edge of an economics textbook that you are using', ' the ability to buy stock cheaply and pay for the rest later', ' the border around a country on a map or globe', 'the ability to identify and observe certain limits']
+---
+---
+AI Response = the ability to identify and observe certain limits
+---
+---
+Click = Box(left=302, top=627, width=20, height=26)
+---
+---
+Correct Answer = ['the ability to identify and observe certain limits']
+---
+---
+Percentage = 75
+---
+---
+Question = Question:
+Read the scenario.
+
+William is looking to track sales at various stores. The price, color, and size of the item being tracked are the same at each store.
+
+Which is the dependent variable?
+
+
+---
+---
+Responses = ['the color', 'the store', 'the price', 'the size']
+---
+---
+AI Response = the store
+---
+---
+Click = Box(left=302, top=701, width=20, height=26)
+---
+---
+Correct Answer = ['the store']
+---
+---
+Question = Question:
+Examine the graph illustrating Ken’s bank account.
+
+Graph shows money on y-axis, from $0 to $5,500, and time on the x-axis, from 0 to about 19 years. The data line tracks savings slowly increasing from $5,000 for a period of 10 years, followed by a sharp decrease to $4,000 at the 10-year mark, followed by another steady increase for the next eight years.
+
+In what year did Ken withdraw about $1,000 from his bank account?
+
+
+---
+---
+Responses = ['year 10', 'year 3.5', 'year 7.5', 'year 6']
+---
+---
+AI Response = year 10
+---
+---
+Click = Box(left=302, top=652, width=20, height=26)
+---
+---
+Correct Answer = ['year 10']
+---
+Error: Could not find checkboxes
+---
+Question = Question:
+Examine the graph illustrating Ken’s bank account.
+
+Graph shows money on y-axis, from $0 to $5,500, and time on the x-axis, from 0 to about 19 years. The data line tracks savings slowly increasing from $5,000 for a period of 10 years, followed by a sharp decrease to $4,000 at the 10-year mark, followed by another steady increase for the next eight years.
+
+In what year did Ken withdraw about $1,000 from his bank account?
+
+
+---
+---
+Responses = ['year 10', 'year 3.5', 'year 7.5', 'year 6']
+---
+---
+AI Response = year 10
+---
+---
+Click = Box(left=302, top=652, width=20, height=26)
+---
+---
+Correct Answer = ['year 10']
+---
+Error: Could not find checkboxes
+[ WARN:0@101.401] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']
+Error: Could not find checkboxes
+---
+Question = Question:
+Examine the graph illustrating Ken’s bank account.
+
+Graph shows money on y-axis, from $0 to $5,500, and time on the x-axis, from 0 to about 19 years. The data line tracks savings slowly increasing from $5,000 for a period of 10 years, followed by a sharp decrease to $4,000 at the 10-year mark, followed by another steady increase for the next eight years.
+
+In what year did Ken withdraw about $1,000 from his bank account?
+
+
+---
+---
+Responses = ['year 10', 'year 3.5', 'year 7.5', 'year 6']
+---
+---
+AI Response = year 10
+---
+---
+Click = Box(left=302, top=652, width=20, height=26)
+---
+---
+Correct Answer = ['year 10']
+---
+Error: Could not find checkboxes
+---
+Question = Question:
+Examine the graph illustrating Ken’s bank account.
+
+Graph shows money on y-axis, from $0 to $5,500, and time on the x-axis, from 0 to about 19 years. The data line tracks savings slowly increasing from $5,000 for a period of 10 years, followed by a sharp decrease to $4,000 at the 10-year mark, followed by another steady increase for the next eight years.
+
+In what year did Ken withdraw about $1,000 from his bank account?
+
+
+---
+---
+Responses = ['year 10', 'year 3.5', 'year 7.5', 'year 6']
+---
+---
+AI Response = year 10
+---
+---
+Click = Box(left=302, top=652, width=20, height=26)
+---
+---
+Correct Answer = ['year 10']
+---
+Error: Could not find checkboxes
+[ WARN:0@113.803] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+Read the scenario.
+
+Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.
+
+Which best describes the outcome of the above scenario?
+
+
+---
+---
+Responses = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.', 'Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.']
+---
+---
+AI Response = Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.
+---
+---
+Click = Box(left=302, top=594, width=20, height=26)
+---
+---
+Correct Answer = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.']
+---
+---
+Question = Question:
+Which is an example of the law of supply?
+
+
+---
+---
+Responses = ['The price of a product increases, resulting in a shortage.', 'The price of a product decreases, resulting in a decrease supply.', 'The price of a product decreases, resulting in a surplus.', 'The price of a product increases, resulting in a decrease in supply.']
+---
+---
+AI Response = The price of a product increases, resulting in a decrease in supply.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['The price of a product increases, resulting in a decrease in supply.']
+---
+---
+Question = Question:
+When is a product likely to have elastic supply?
+
+
+---
+---
+Responses = ['when production of a product is easy to replicate', 'when the production of a product is dangerous', 'when production of a product is difficult to replicate', 'when production of a product is the result of a monopoly']
+---
+---
+AI Response = when production of a product is easy to replicate
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['when production of a product is easy to replicate']
+---
+---
+Question = Question:
+Which product is most likely to have elastic supply in the short run?
+
+
+---
+---
+Responses = ['candy', 'diamond ring', 'MP3 player', 'oil']
+---
+---
+AI Response = oil
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['oil']
+---
+---
+Question = Question:
+What is the difference between marginal product and total product?
+
+
+---
+---
+Responses = ['Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.', ' Total product is defined as the change in output when a firm introduces one more unit of input, whereas marginal product is defined as the total output of a firm.', ' Total product is defined as the total gross profit of a firm before taxes are withheld, whereas marginal product is the firm’s net revenue.', ' Total product is defined as the firm’s net revenue, whereas marginal product is the total gross profit of a firm before taxes are withheld.']
+---
+---
+AI Response = Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.
+---
+---
+Click = Box(left=302, top=549, width=20, height=26)
+---
+---
+Correct Answer = ['Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.']
+---
+---
+Question = Question:
+Read the scenario.
+
+A company’s production is slowing. Each additional variable produces more units but at a decreasing rate.
+
+This company is in which stage of production?
+
+
+---
+---
+Responses = ['They are in stage one.', 'They are between stage one and stage two.', 'They are in stage two.', ' They are between stage two and stage three.']
+---
+---
+AI Response = They are in stage two.
+---
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['They are in stage two.']
+---
+---
+Question = Question:
+What does the law of variable proportions say about marginal product?
+
+
+---
+---
+Responses = ['It will decline if multiple inputs are increased.', 'It will increase if labor inputs are increased.', 'It will decline if only one input is increased.', 'It will increase if all inputs are increased slowly.']
+---
+---
+AI Response = It will decline if multiple inputs are increased.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['It will decline if multiple inputs are increased.']
+---
+---
+Question = Question:
+When a business wants to calculate all of the money it collects, what is it concerned with?
+
+
+---
+---
+Responses = ['fixed revenue', ' variable revenue', 'marginal revenue', 'total revenue']
+---
+---
+AI Response = total revenue
+---
+---
+Click = Box(left=302, top=634, width=20, height=26)
+---
+---
+Correct Answer = ['total revenue']
+---
+---
+Question = Question:
+What are variable costs?
+
+
+---
+---
+Responses = ['They are costs that change the most during stage one of production.', ' They are costs that remain the same regardless of the stage of production.', 'They are costs that remain the same regardless of units produced.', 'They are costs that change based on the number of units produced.']
+---
+---
+AI Response = They are costs that change based on the number of units produced.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['They are costs that change based on the number of units produced.']
+---
+Error: Could not find checkboxes
+---
+Question = Question:
+demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).
+
+What is the price of widgets when the quantity demanded is 4?
+
+
+---
+---
+Responses = ['$10', '$8', '$4', '$6']
+---
+---
+AI Response = $6
+---
+[IndexError('list index out of range'), 'Fatal Error, press Enter to continue']
+---
+Percentage = 60
+---
+---
+Percentage = 60
+---
+---
+Question = Question:
+Read the scenario.
+
+Car Company X manufactures automobiles. Its costs of production have recently risen because the cost of electricity needed to power the manufacturing plants have increased.
+
+Which best describes the outcome of the above scenario?
+
+
+---
+---
+Responses = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at higher prices.', 'Car Company X will increase the supply of automobiles it produces and will sell them at lower prices.', 'Car Company X will decrease the supply of automobiles it produces and likely will sell them at lower prices.']
+---
+---
+AI Response = Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.
+---
+---
+Click = Box(left=302, top=600, width=20, height=26)
+---
+---
+Correct Answer = ['Car Company X will decrease the supply of automobiles it produces and likely will sell them at higher prices.']
+---
+---
+Question = Question:
+Which is an example of the law of supply?
+
+
+---
+---
+Responses = ['The price of a product decreases, resulting in a decrease supply.', 'The price of a product increases, resulting in a shortage.', 'The price of a product decreases, resulting in a surplus.', 'The price of a product increases, resulting in a decrease in supply.']
+---
+---
+AI Response = The price of a product increases, resulting in a decrease in supply.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['The price of a product increases, resulting in a decrease in supply.']
+---
+---
+Question = Question:
+When is a product likely to have elastic supply?
+
+
+---
+---
+Responses = ['when production of a product is the result of a monopoly', 'when production of a product is easy to replicate', 'when production of a product is difficult to replicate', 'when the production of a product is dangerous']
+---
+---
+AI Response = when production of a product is easy to replicate
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['when production of a product is easy to replicate']
+---
+---
+Question = Question:
+Which product is most likely to have elastic supply in the short run?
+
+
+---
+---
+Responses = ['candy', 'oil', 'diamond ring', 'MP3 player']
+---
+---
+AI Response = oil
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['oil']
+---
+---
+Question = Question:
+What is the difference between marginal product and total product?
+
+
+---
+---
+Responses = ['Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.', ' Total product is defined as the firm’s net revenue, whereas marginal product is the total gross profit of a firm before taxes are withheld.', ' Total product is defined as the change in output when a firm introduces one more unit of input, whereas marginal product is defined as the total output of a firm.', ' Total product is defined as the total gross profit of a firm before taxes are withheld, whereas marginal product is the firm’s net revenue.']
+---
+---
+AI Response = Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.
+---
+---
+Click = Box(left=302, top=549, width=20, height=26)
+---
+---
+Correct Answer = ['Total product is defined as the total output of a firm, whereas marginal product is defined as the change in output when a firm introduces one more unit of input.']
+---
+---
+Question = Question:
+Read the scenario.
+
+A company’s production is slowing. Each additional variable produces more units but at a decreasing rate.
+
+This company is in which stage of production?
+
+
+---
+---
+Responses = [' They are between stage two and stage three.', 'They are in stage two.', 'They are in stage one.', 'They are between stage one and stage two.']
+---
+---
+AI Response = They are between stage two and stage three.
+---
+Error: No correct anwers detected
+---
+Correct Answer = []
+---
+---
+Question = Question:
+What does the law of variable proportions say about marginal product?
+
+
+---
+---
+Responses = ['It will increase if labor inputs are increased.', 'It will increase if all inputs are increased slowly.', 'It will decline if only one input is increased.', 'It will decline if multiple inputs are increased.']
+---
+---
+AI Response = It will decline if only one input is increased.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['It will decline if only one input is increased.']
+---
+---
+Question = Question:
+When a business wants to calculate all of the money it collects, what is it concerned with?
+
+
+---
+---
+Responses = ['total revenue', ' variable revenue', 'marginal revenue', 'fixed revenue']
+---
+---
+AI Response = total revenue
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['total revenue']
+---
+---
+Question = Question:
+What are variable costs?
+
+
+---
+---
+Responses = ['They are costs that change the most during stage one of production.', ' They are costs that remain the same regardless of the stage of production.', 'They are costs that change based on the number of units produced.', 'They are costs that remain the same regardless of units produced.']
+---
+---
+AI Response = They are costs that change based on the number of units produced.
+---
+---
+Click = Box(left=302, top=576, width=20, height=26)
+---
+---
+Correct Answer = ['They are costs that change based on the number of units produced.']
+---
+Error: Could not find checkboxes
+---
+Question = Question:
+demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).
+
+What is the price of widgets when the quantity demanded is 4?
+
+
+---
+---
+Responses = ['$4', '$10', '$6', '$8']
+---
+---
+AI Response = $6
+---
+[IndexError('list index out of range'), 'Fatal Error, press Enter to continue']
+---
+Question = Question:
+Read the scenario.
+
+A company’s production is slowing. Each additional variable produces more units but at a decreasing rate.
+
+This company is in which stage of production?
+
+
+---
+---
+Responses = [' They are between stage two and stage three.', 'They are in stage two.', 'They are in stage one.', 'They are between stage one and stage two.']
+---
+---
+AI Response = They are between stage two and stage three.
+---
+Error: No correct anwers detected
+---
+Correct Answer = []
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+Error: Could not find checkboxes
+---
+Question = Question:
+demand curve showing the quantity of widgets demanded at prices ranging from $0 to $10. With quantity on the x-axis and price on the y-axis, the coordinates of the graph are (0,10), (2,8), (4,6), (6,4), (8,2), (10,0).
+
+What is the price of widgets when the quantity demanded is 4?
+
+
+---
+---
+Responses = ['$4', '$10', '$6', '$8']
+---
+---
+AI Response = $6
+---
+[IndexError('list index out of range'), 'Fatal Error, press Enter to continue']
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---

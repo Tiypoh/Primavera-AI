@@ -1,0 +1,2098 @@
+C:\Users\kylew\Desktop\ai project>cd C:\Program Files\Google\Chrome\Application
+
+C:\Program Files\Google\Chrome\Application>chrome.exe
+
+C:\Program Files\Google\Chrome\Application>cd C:\Users\kylew\Desktop\ai project
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 1, in <module>
+    import pyautogui
+ModuleNotFoundError: No module named 'pyautogui'
+
+C:\Users\kylew\Desktop\ai project>py pip install pyautogui
+C:\Users\kylew\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\Users\\kylew\\Desktop\\ai project\\pip': [Errno 2] No such file or directory
+
+C:\Users\kylew\Desktop\ai project>py -m pip install pyautogui
+Collecting pyautogui
+  Downloading PyAutoGUI-0.9.54.tar.gz (61 kB)
+     ---------------------------------------- 61.2/61.2 kB 548.3 kB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting pymsgbox (from pyautogui)
+  Downloading PyMsgBox-1.0.9.tar.gz (18 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting pytweening>=1.0.4 (from pyautogui)
+  Downloading pytweening-1.2.0.tar.gz (171 kB)
+     ---------------------------------------- 171.2/171.2 kB 3.5 MB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting pyscreeze>=0.1.21 (from pyautogui)
+  Downloading PyScreeze-0.1.30.tar.gz (27 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting pygetwindow>=0.0.5 (from pyautogui)
+  Downloading PyGetWindow-0.0.9.tar.gz (9.7 kB)
+  Preparing metadata (setup.py) ... done
+Collecting mouseinfo (from pyautogui)
+  Downloading MouseInfo-0.1.3.tar.gz (10 kB)
+  Preparing metadata (setup.py) ... done
+Collecting pyrect (from pygetwindow>=0.0.5->pyautogui)
+  Downloading PyRect-0.2.0.tar.gz (17 kB)
+  Preparing metadata (setup.py) ... done
+Collecting pyperclip (from mouseinfo->pyautogui)
+  Downloading pyperclip-1.8.2.tar.gz (20 kB)
+  Preparing metadata (setup.py) ... done
+Building wheels for collected packages: pyautogui, pygetwindow, pyscreeze, pytweening, mouseinfo, pymsgbox, pyperclip, pyrect
+  Building wheel for pyautogui (pyproject.toml) ... done
+  Created wheel for pyautogui: filename=PyAutoGUI-0.9.54-py3-none-any.whl size=37596 sha256=7262610d0d5b0c243c949d01cceae3ef6c4de73ac7db2067f8dc37e04527f01a
+  Stored in directory: c:\users\kylew\appdata\local\pip\cache\wheels\d9\d6\47\04075995b093ecc87c212c9a3dbd34e59456c6fe504d65c3e4
+  Building wheel for pygetwindow (setup.py) ... done
+  Created wheel for pygetwindow: filename=PyGetWindow-0.0.9-py3-none-any.whl size=11080 sha256=b1c9c6131e878aa0a241006e8e45f5694cacae669a804ee2c2a91f576ba12e3f
+  Stored in directory: c:\users\kylew\appdata\local\pip\cache\wheels\b3\39\81\34dd7a2eca5f885f1f6e2796761970daf66a2d98ac1904f5f4
+  Building wheel for pyscreeze (pyproject.toml) ... done
+  Created wheel for pyscreeze: filename=PyScreeze-0.1.30-py3-none-any.whl size=14401 sha256=0bc7d03c86cd3e4e2a3b2e3ac0a86d415b49646691f7c60ecd5c3b427d81f92a
+  Stored in directory: c:\users\kylew\appdata\local\pip\cache\wheels\9c\02\ab\4e0b66866966de3adef00e6de37147b6ba529f6a682c64b7cf
+  Building wheel for pytweening (setup.py) ... done
+  Created wheel for pytweening: filename=pytweening-1.2.0-py3-none-any.whl size=8031 sha256=a22a8421198c990ceea0dc188e65c3b94ce61c63e1da042ed961c0a6fe0bc32f
+  Stored in directory: c:\users\kylew\appdata\local\pip\cache\wheels\23\d5\13\4e9bdadbfe3c78e47c675e7410c0eed2fbb63c5ea6cf1b40e7
+  Building wheel for mouseinfo (setup.py) ... done
+  Created wheel for mouseinfo: filename=MouseInfo-0.1.3-py3-none-any.whl size=10903 sha256=6cc93f64a25c9a860199fe1e456fba5bf6466edd4aef8e4774b93a18e191ad1e
+  Stored in directory: c:\users\kylew\appdata\local\pip\cache\wheels\b1\9b\f3\08650eb7f00af32f07789f3c6a101e0d7fc762b9891ae843bb
+  Building wheel for pymsgbox (pyproject.toml) ... done
+  Created wheel for pymsgbox: filename=PyMsgBox-1.0.9-py3-none-any.whl size=7417 sha256=2a86ba250602cdb20ed8da7200335ef0358e0dc9da34d68a9963cfb8256595e6
+  Stored in directory: c:\users\kylew\appdata\local\pip\cache\wheels\55\e7\aa\239163543708d1e15c3d9a1b89dbfe3954b0929a6df2951b83
+  Building wheel for pyperclip (setup.py) ... done
+  Created wheel for pyperclip: filename=pyperclip-1.8.2-py3-none-any.whl size=11136 sha256=3cde8c07cb0cc16b5537f83c771ef7df23c5147ec36a8fce69b182168d9a7c0b
+  Stored in directory: c:\users\kylew\appdata\local\pip\cache\wheels\b7\e1\45\ce0a91b8cdfed625867580ed90242e4581c4995f69fd062e07
+  Building wheel for pyrect (setup.py) ... done
+  Created wheel for pyrect: filename=PyRect-0.2.0-py2.py3-none-any.whl size=11205 sha256=4b0f98daa0df2a5414225fee7620085a931257ef4762e3600f9090116f3a6cba
+  Stored in directory: c:\users\kylew\appdata\local\pip\cache\wheels\0b\1e\d7\0c74bd8f60b39c14d84e307398786002aa7ddc905927cc03c5
+Successfully built pyautogui pygetwindow pyscreeze pytweening mouseinfo pymsgbox pyperclip pyrect
+Installing collected packages: pytweening, pyscreeze, pyrect, pyperclip, pymsgbox, pygetwindow, mouseinfo, pyautogui
+Successfully installed mouseinfo-0.1.3 pyautogui-0.9.54 pygetwindow-0.0.9 pymsgbox-1.0.9 pyperclip-1.8.2 pyrect-0.2.0 pyscreeze-0.1.30 pytweening-1.2.0
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 11, in <module>
+    wait(5)
+    ^^^^
+NameError: name 'wait' is not defined
+
+C:\Users\kylew\Desktop\ai project>py -m pip install time
+ERROR: Could not find a version that satisfies the requirement time (from versions: none)
+ERROR: No matching distribution found for time
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py -m pip install pyperclip
+Requirement already satisfied: pyperclip in c:\users\kylew\appdata\local\programs\python\python312\lib\site-packages (1.8.2)
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 18, in <module>
+    question = question.split("Questions")[1]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 17, in <module>
+    print(question)
+          ^^^^^^^^
+NameError: name 'question' is not defined
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 18, in <module>
+    question = question.split("Question")[2].split("Skip")[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 18, in <module>
+    question = question.split("Question")[2].split("Skip")[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 18, in <module>
+    question = question.split("Question")[2].split("Skip")[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 18, in <module>
+    question = question.split("Question")[2].split("Skip")[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 18, in <module>
+    question = question.split("Question")[2].split("Skip")[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+
+C:\Users\kylew\Desktop\ai project>py -m pip install google-generativeai
+Collecting google-generativeai
+  Downloading google_generativeai-0.4.0-py3-none-any.whl.metadata (6.2 kB)
+Collecting google-ai-generativelanguage==0.4.0 (from google-generativeai)
+  Downloading google_ai_generativelanguage-0.4.0-py3-none-any.whl.metadata (5.1 kB)
+Collecting google-auth>=2.15.0 (from google-generativeai)
+  Downloading google_auth-2.28.2-py2.py3-none-any.whl.metadata (4.7 kB)
+Collecting google-api-core (from google-generativeai)
+  Downloading google_api_core-2.17.1-py3-none-any.whl.metadata (2.7 kB)
+Collecting protobuf (from google-generativeai)
+  Downloading protobuf-4.25.3-cp310-abi3-win_amd64.whl.metadata (541 bytes)
+Collecting pydantic (from google-generativeai)
+  Downloading pydantic-2.6.4-py3-none-any.whl.metadata (85 kB)
+     ---------------------------------------- 85.1/85.1 kB 1.6 MB/s eta 0:00:00
+Collecting tqdm (from google-generativeai)
+  Downloading tqdm-4.66.2-py3-none-any.whl.metadata (57 kB)
+     ---------------------------------------- 57.6/57.6 kB 3.0 MB/s eta 0:00:00
+Collecting typing-extensions (from google-generativeai)
+  Downloading typing_extensions-4.10.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting proto-plus<2.0.0dev,>=1.22.3 (from google-ai-generativelanguage==0.4.0->google-generativeai)
+  Downloading proto_plus-1.23.0-py3-none-any.whl.metadata (2.2 kB)
+Collecting googleapis-common-protos<2.0.dev0,>=1.56.2 (from google-api-core->google-generativeai)
+  Downloading googleapis_common_protos-1.63.0-py2.py3-none-any.whl.metadata (1.5 kB)
+Requirement already satisfied: requests<3.0.0.dev0,>=2.18.0 in c:\users\kylew\appdata\local\programs\python\python312\lib\site-packages (from google-api-core->google-generativeai) (2.31.0)
+Collecting cachetools<6.0,>=2.0.0 (from google-auth>=2.15.0->google-generativeai)
+  Downloading cachetools-5.3.3-py3-none-any.whl.metadata (5.3 kB)
+Collecting pyasn1-modules>=0.2.1 (from google-auth>=2.15.0->google-generativeai)
+  Downloading pyasn1_modules-0.3.0-py2.py3-none-any.whl.metadata (3.6 kB)
+Collecting rsa<5,>=3.1.4 (from google-auth>=2.15.0->google-generativeai)
+  Downloading rsa-4.9-py3-none-any.whl.metadata (4.2 kB)
+Collecting annotated-types>=0.4.0 (from pydantic->google-generativeai)
+  Downloading annotated_types-0.6.0-py3-none-any.whl.metadata (12 kB)
+Collecting pydantic-core==2.16.3 (from pydantic->google-generativeai)
+  Downloading pydantic_core-2.16.3-cp312-none-win_amd64.whl.metadata (6.6 kB)
+Collecting colorama (from tqdm->google-generativeai)
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting grpcio<2.0dev,>=1.33.2 (from google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.0->google-ai-generativelanguage==0.4.0->google-generativeai)
+  Downloading grpcio-1.62.1-cp312-cp312-win_amd64.whl.metadata (4.2 kB)
+Collecting grpcio-status<2.0.dev0,>=1.33.2 (from google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.0->google-ai-generativelanguage==0.4.0->google-generativeai)
+  Downloading grpcio_status-1.62.1-py3-none-any.whl.metadata (1.3 kB)
+Collecting pyasn1<0.6.0,>=0.4.6 (from pyasn1-modules>=0.2.1->google-auth>=2.15.0->google-generativeai)
+  Downloading pyasn1-0.5.1-py2.py3-none-any.whl.metadata (8.6 kB)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\kylew\appdata\local\programs\python\python312\lib\site-packages (from requests<3.0.0.dev0,>=2.18.0->google-api-core->google-generativeai) (3.3.2)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\kylew\appdata\local\programs\python\python312\lib\site-packages (from requests<3.0.0.dev0,>=2.18.0->google-api-core->google-generativeai) (3.6)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\kylew\appdata\local\programs\python\python312\lib\site-packages (from requests<3.0.0.dev0,>=2.18.0->google-api-core->google-generativeai) (2.2.1)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\kylew\appdata\local\programs\python\python312\lib\site-packages (from requests<3.0.0.dev0,>=2.18.0->google-api-core->google-generativeai) (2024.2.2)
+Downloading google_generativeai-0.4.0-py3-none-any.whl (137 kB)
+   ---------------------------------------- 137.4/137.4 kB 4.0 MB/s eta 0:00:00
+Downloading google_ai_generativelanguage-0.4.0-py3-none-any.whl (598 kB)
+   ---------------------------------------- 598.7/598.7 kB 2.7 MB/s eta 0:00:00
+Downloading google_api_core-2.17.1-py3-none-any.whl (137 kB)
+   ---------------------------------------- 137.0/137.0 kB 4.1 MB/s eta 0:00:00
+Downloading google_auth-2.28.2-py2.py3-none-any.whl (186 kB)
+   ---------------------------------------- 186.9/186.9 kB 2.2 MB/s eta 0:00:00
+Downloading protobuf-4.25.3-cp310-abi3-win_amd64.whl (413 kB)
+   ---------------------------------------- 413.4/413.4 kB 2.9 MB/s eta 0:00:00
+Downloading pydantic-2.6.4-py3-none-any.whl (394 kB)
+   ---------------------------------------- 394.9/394.9 kB 3.1 MB/s eta 0:00:00
+Downloading pydantic_core-2.16.3-cp312-none-win_amd64.whl (1.9 MB)
+   ---------------------------------------- 1.9/1.9 MB 4.0 MB/s eta 0:00:00
+Downloading typing_extensions-4.10.0-py3-none-any.whl (33 kB)
+Downloading tqdm-4.66.2-py3-none-any.whl (78 kB)
+   ---------------------------------------- 78.3/78.3 kB ? eta 0:00:00
+Downloading annotated_types-0.6.0-py3-none-any.whl (12 kB)
+Downloading cachetools-5.3.3-py3-none-any.whl (9.3 kB)
+Downloading googleapis_common_protos-1.63.0-py2.py3-none-any.whl (229 kB)
+   ---------------------------------------- 229.1/229.1 kB 4.7 MB/s eta 0:00:00
+Downloading proto_plus-1.23.0-py3-none-any.whl (48 kB)
+   ---------------------------------------- 48.8/48.8 kB 2.4 MB/s eta 0:00:00
+Downloading pyasn1_modules-0.3.0-py2.py3-none-any.whl (181 kB)
+   ---------------------------------------- 181.3/181.3 kB 5.5 MB/s eta 0:00:00
+Downloading rsa-4.9-py3-none-any.whl (34 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading grpcio-1.62.1-cp312-cp312-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 3.6 MB/s eta 0:00:00
+Downloading grpcio_status-1.62.1-py3-none-any.whl (14 kB)
+Downloading pyasn1-0.5.1-py2.py3-none-any.whl (84 kB)
+   ---------------------------------------- 84.9/84.9 kB 4.7 MB/s eta 0:00:00
+Installing collected packages: typing-extensions, pyasn1, protobuf, grpcio, colorama, cachetools, annotated-types, tqdm, rsa, pydantic-core, pyasn1-modules, proto-plus, googleapis-common-protos, pydantic, grpcio-status, google-auth, google-api-core, google-ai-generativelanguage, google-generativeai
+  WARNING: The script tqdm.exe is installed in 'C:\Users\kylew\AppData\Local\Programs\Python\Python312\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts pyrsa-decrypt.exe, pyrsa-encrypt.exe, pyrsa-keygen.exe, pyrsa-priv2pub.exe, pyrsa-sign.exe and pyrsa-verify.exe are installed in 'C:\Users\kylew\AppData\Local\Programs\Python\Python312\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed annotated-types-0.6.0 cachetools-5.3.3 colorama-0.4.6 google-ai-generativelanguage-0.4.0 google-api-core-2.17.1 google-auth-2.28.2 google-generativeai-0.4.0 googleapis-common-protos-1.63.0 grpcio-1.62.1 grpcio-status-1.62.1 proto-plus-1.23.0 protobuf-4.25.3 pyasn1-0.5.1 pyasn1-modules-0.3.0 pydantic-2.6.4 pydantic-core-2.16.3 rsa-4.9 tqdm-4.66.2 typing-extensions-4.10.0
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 51, in <module>
+    question = question.split("Question")[2].split("Skip")[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 50, in <module>
+    question = question.split("Question")[2].split("Skip")[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 53, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 426, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 232, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 566, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\timeout.py", line 120, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+]
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+language that uses unconventional construction or differs from literal meaning to create a more powerful effect
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+I am unable to generate an answer, as no question was provided to analyze.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Is this a question?
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 49, in <module>
+    question = question.split("Question")[2].split("Skip")[0]
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 52, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 426, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 232, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 566, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\timeout.py", line 120, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.InternalServerError: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Connotation is the feeling or idea associated with a word or phrase.
+Denotation is the literal meaning of a word or phrase.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+language that uses unconventional construction or differs from literal meaning to create a more powerful effect
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Connotation is the feeling or idea associated with a word or phrase.
+Denotation is the literal meaning of a word or phrase.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+the universal truth that the author conveys through the characters and plot
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+a lesson that readers learn after reading a text
+the universal truth that the author conveys through the characters and plot
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+an overarching message or truth that is specific to a story
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+irony
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 52, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 434, in send_message
+    self._check_response(response=response, stream=stream)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 461, in _check_response
+    raise generation_types.StopCandidateException(response.candidates[0])
+google.generativeai.types.generation_types.StopCandidateException: index: 0
+finish_reason: SAFETY
+safety_ratings {
+  category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+  probability: NEGLIGIBLE
+}
+safety_ratings {
+  category: HARM_CATEGORY_HATE_SPEECH
+  probability: NEGLIGIBLE
+}
+safety_ratings {
+  category: HARM_CATEGORY_HARASSMENT
+  probability: MEDIUM
+}
+safety_ratings {
+  category: HARM_CATEGORY_DANGEROUS_CONTENT
+  probability: NEGLIGIBLE
+}
+
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 52, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 434, in send_message
+    self._check_response(response=response, stream=stream)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 461, in _check_response
+    raise generation_types.StopCandidateException(response.candidates[0])
+google.generativeai.types.generation_types.StopCandidateException: index: 0
+finish_reason: SAFETY
+safety_ratings {
+  category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+  probability: NEGLIGIBLE
+}
+safety_ratings {
+  category: HARM_CATEGORY_HATE_SPEECH
+  probability: NEGLIGIBLE
+}
+safety_ratings {
+  category: HARM_CATEGORY_HARASSMENT
+  probability: MEDIUM
+}
+safety_ratings {
+  category: HARM_CATEGORY_DANGEROUS_CONTENT
+  probability: NEGLIGIBLE
+}
+
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 18, in <module>
+    safety_settings=safety_settings)
+                    ^^^^^^^^^^^^^^^
+NameError: name 'safety_settings' is not defined
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 18, in <module>
+    safety_settings=none)
+                    ^^^^
+NameError: name 'none' is not defined. Did you mean: 'None'?
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 33, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 434, in send_message
+    self._check_response(response=response, stream=stream)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 461, in _check_response
+    raise generation_types.StopCandidateException(response.candidates[0])
+google.generativeai.types.generation_types.StopCandidateException: index: 0
+finish_reason: SAFETY
+safety_ratings {
+  category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+  probability: NEGLIGIBLE
+}
+safety_ratings {
+  category: HARM_CATEGORY_HATE_SPEECH
+  probability: NEGLIGIBLE
+}
+safety_ratings {
+  category: HARM_CATEGORY_HARASSMENT
+  probability: MEDIUM
+}
+safety_ratings {
+  category: HARM_CATEGORY_DANGEROUS_CONTENT
+  probability: NEGLIGIBLE
+}
+
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 23, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 434, in send_message
+    self._check_response(response=response, stream=stream)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 461, in _check_response
+    raise generation_types.StopCandidateException(response.candidates[0])
+google.generativeai.types.generation_types.StopCandidateException: index: 0
+finish_reason: SAFETY
+safety_ratings {
+  category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+  probability: NEGLIGIBLE
+}
+safety_ratings {
+  category: HARM_CATEGORY_HATE_SPEECH
+  probability: NEGLIGIBLE
+}
+safety_ratings {
+  category: HARM_CATEGORY_HARASSMENT
+  probability: MEDIUM
+}
+safety_ratings {
+  category: HARM_CATEGORY_DANGEROUS_CONTENT
+  probability: NEGLIGIBLE
+}
+
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+irony
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+irony
+sarcasm
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+a person's attitude or opinion
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The sound never stopped.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+hostility
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+to exist in a state of diminished vitality; to become feeble or spiritless
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+People are products of their society and the society itself is responsible for whatever happens to its people.
+
+The individual is only worth as much as he or she contributes to the community.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- 'Luxury likewise breaks in apace upon you to set forward your poverty and misery; there is an excessive vanity in apparel, and great cost in diet, and that not only in noblemen’s families, but even among tradesmen, among the farmers themselves, and among all ranks of persons. You have also many infamous houses, and, besides those that are known, the taverns and ale-houses are no better; add to these dice, cards, tables, football, tennis, and quoits, in which money runs fast away.'
+
+- 'If you do not find a remedy to these evils it is a vain thing to boast of your severity in punishing theft, which, though it may have the appearance of justice, yet in itself is neither just nor convenient; for if you suffer your people to be ill-educated, and their manners to be corrupted from their infancy, and then punish them for those crimes to which their first education disposed them, what else is to be concluded from this but that you first make thieves and then punish them?'
+
+- 'There was no reason to wonder at the matter, since this way of punishing thieves was neither just in itself nor good for the public; for, as the severity was too great, so the remedy was not effectual; simple theft not being so great a crime that it ought to cost a man his life; no punishment, how severe soever, being able to restrain those from robbing who can find out no other way of livelihood.'
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Utopians are required to either stay in the family trade or learn another that interests them, as long as their trade is put to use for the benefit of the community.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"You have talked prettily, for a stranger,' said he, 'having heard of many things among us which you have not been able to consider well; but I will make the whole matter plain to you, and will first repeat in order all that you have said; then I will show how much your ignorance of our affairs has misled you; and will, in the last place, answer all your arguments.'"
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The Cardinal believes that if punishment for minor offenses like theft were not severe, those prone to crime would be likely to continue committing or even escalating their crimes.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Hythloday uses irony to present his opinion that a society that does not provide for its people creates desperation and is thus responsible for improving living conditions rather than simply punishing people's wrongs.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+'You have also many infamous houses, and, besides those that are known, the taverns and ale-houses are no better; add to these dice, cards, tables, football, tennis, and quoits, in which money runs fast away; and those that are initiated into them must, in the conclusion, betake themselves to robbing for a supply.'
+'[I]t is plain and obvious that it is absurd and of ill consequence to the commonwealth that a thief and a murderer should be equally punished; for if a robber sees that his danger is the same if he is convicted of theft as if he were guilty of murder, this will naturally incite him to kill the person whom otherwise he would only have robbed.'
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+setting
+characterization
+tone
+plot
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+setting
+characterization
+tone
+plot
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+characterization
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+remorseful
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+she had spent many hours organizing the event
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+she had spent many hours organizing the event
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Ariel uses his magical powers to follow Prospero's requests exactly and creates a convincing illusion. The illusion of a horrific storm and a shipwreck brings the ship's occupants onto Prospero's island so he can carry out his plan.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The dialogue explains that Prospero and Miranda ended up on the deserted island due to some unfortunate event Miranda does not remember. The dialogue also foreshadows that this same event is the reason Prospero is carrying out his magical plan.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Prospero's acknowledgement of Miranda's emotions portrays a compassionate and reassuring tone, as he desires to ease her sorrow.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Prospero's acknowledgement of Miranda's emotions portrays a compassionate and reassuring tone, as he desires to ease her sorrow.
+Prospero's acknowledgement of Miranda's emotions portrays a calm and thoughtful tone, as he desires to quiet her mind.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+ARIEL
+And, as thou bad’st me,
+In troops I have dispersed them ’bout the isle.
+The King’s son have I landed by himself,
+Whom I left cooling of the air with sighs
+In an odd angle of the isle, and sitting,
+His arms in this sad knot.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- PROSPERO
+Thou liest, malignant thing. Hast thou forgot
+The foul witch Sycorax, who with age and envy
+Was grown into a hoop? Hast thou forgot her?
+
+
+- ARIEL
+And for the rest o’ th’ fleet,
+Which I dispersed, they all have met again,
+And are upon the Mediterranean float,
+Bound sadly home for Naples;
+Supposing that they saw the King’s ship wrecked,
+And his great person perish.
+
+
+- ARIEL
+Is there more toil? Since thou dost give me pains,
+Let me remember thee what thou hast promised,
+Which is not yet performed me.
+
+
+- PROSPERO
+Go make thyself like a nymph
+o’ th’ sea.
+Be subject to no sight but thine and mine, invisible
+To every eyeball else. Go take this shape,
+And hither come in ’t. Go; hence with diligence!
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- PROSPERO Thou liest, malignant thing. Hast thou forgot
+The foul witch Sycorax, who with age and envy
+Was grown into a hoop? Hast thou forgot her?
+- ARIEL And for the rest o’ th’ fleet,
+Which I dispersed, they all have met again,
+And are upon the Mediterranean float,
+Bound sadly home for Naples;
+Supposing that they saw the King’s ship wrecked,
+And his great person perish.
+- ARIEL Is there more toil? Since thou dost give me pains,
+Let me remember thee what thou hast promised,
+Which is not yet performed me.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+PROSPERO [to Ariel] Hast thou, which art but air, a touch, a feeling
+Of their afflictions, and shall not myself,
+One of their kind, that relish all as sharply
+Passion as they,
+be kindlier moved than thou art?
+Though with their high wrongs I am struck to th’ quick,
+Yet with my nobler reason ’gainst my fury
+Do I take part.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+**The following lines support Prospero’s claim:**
+
+- “Though with their high wrongs I am struck to th’ quick,
+Yet with my nobler reason ’gainst my fury
+Do I take part.”
+
+- “But this rough magic
+I here abjure; and, when I have required
+Some heavenly music,—which even now I do,—
+To work mine end upon their senses, that
+This airy charm is for, I’ll break my staff,
+Bury it certain fathoms in the earth,
+And deeper than did ever plummet sound
+I’ll drown my book.”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- MIRANDA
+The sky, it seems, would pour down stinking pitch,
+But that the sea, mounting to the welkin’s cheek,
+Dashes the fire out.
+
+- ARIEL
+I flamed amazement: sometime I’d divide,
+And burn in many places; on the topmast,
+The yards and bowsprit, would I flame distinctly,
+Then meet and join.
+
+- PROSPERO
+In few, they hurried us aboard a barque,
+Bore us some leagues to sea; where they prepared
+A rotten carcass of a boat, not rigged,
+Nor tackle, sail, nor mast; the very rats
+Instinctively have quit it.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The story is unnerving to Miranda because she does not want to remember her past, and she wants to remain on the island with Prospero. Prospero's story also calls forth Miranda's fears and doubts because she recognizes that he has caused so much suffering to the nobles during the shipwreck.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Ever since I called her out for copying my speech, Cammy won't talk to me and glares at me with complete enmity whenever she sees me.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+1. Juggling work, school, and family responsibilities was beginning to weigh heavily on Andrew. He knew that if he dedicated several hours to his project, he would allay most of his anxieties.
+4. After spending the day at the lake without sunscreen, John rushed to the local convenience store for aloe gel to allay the pain of his sunburn.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+War, represented metaphorically by the god Mars, cannot harm a poetic tribute of love.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+They have a grimy, dirty connotation, which implies that love shown through a monument will not live on, eternally pure.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+They have unappealing connotations, which helps the speaker use a mocking tone to insult death by saying he is usually found in unappealing places.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+They have unappealing connotations, which helps the speaker use a mocking tone to insult death by saying he is usually found in unappealing places.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The depiction of the dragon "with countenance fell" and who "clapped his iron wings" creates a triumphant tone and shows the dragon's fierce and cruel reaction to his perceived victory.
+
+The description of the sunset's grandeur as Phoebus's "fiery face in billows of the west" creates an epic tone that heightens the drama of this moment in the plot.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+a simile, comparing the dragon's cry to an ocean's roar
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The speaker is able to talk to death directly, which allows him to make a philosophical argument about the power of death.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+They compare death to rest and sleep to ironically make the point that death and sleep actually have very little in common.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Great deeds are possible when one fights for good against evil.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+One short sleepe past, wee wake eternally,
+And death shall be no more; death, thou shalt die.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The speaker suggests that his lover will live on in the poem and in lovers' eyes until Judgment Day, which implies that his lover is already dead.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The speaker feels confident mocking death because his faith in an afterlife assures him that death will not defeat him.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+This poem is the speaker's way of keeping his beloved alive until the end of time.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"shall outlive this powerful rhyme"
+"the living record of your memory"
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 52, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 426, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 232, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 566, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\timeout.py", line 120, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.InternalServerError: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+• Then God she praised, and thanked her faithful knight, That had achieved so great a conquest by his might.
+• And for his safety gan devoutly pray
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+He alternates between serious tones and cynical tones as he alternately depicts the actions of Lady Una and the dragon, to emphasize the difference between pure good and pure evil.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The battle with an evil dragon, who can still feel pain, shows how the Redcrosse Knight develops empathy for his enemy.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The description "Out of the sea fair Titan's dewy face" creates a peaceful tone, even though Lady Una has cause to worry.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- And pointing forth, Lo yonder is (said she)
+The brazen tower in which my parents dear
+For dread of that huge fiend imprisoned be,
+Whom I from far, see on the walls appear,
+Whose sight my feeble soul doth greatly cheer:
+- Their scepters stretched from East to Western shore,
+And all the world in their subjection held;
+Till that infernal fiend with foul uproar
+Forwasted all their land, and them expelled:
+Whom to avenge, she had this Knight from far compelled.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 52, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 426, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 232, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 566, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\timeout.py", line 120, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.InternalServerError: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The judge showed clemency when he sentenced the man to probation rather than jail time.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The judge showed clemency when he sentenced the man to probation rather than jail time.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+face
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+conflict
+setting
+motivation
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+the use of literary techniques, such as humor or irony, to expose the foolishness of others
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+After several unsuccessful confrontations with her supervisor, Sandra became inured to his harsh treatment in order to keep her job.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Despite the people's best efforts at survival, no vestige of their community remained following detonation of the bomb.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Gulliver works to gain his freedom by convincing the Lilliputians not to fear him and simultaneously gaining their trust.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+They view Gulliver's actions as noble, which encourages them to treat him with more kindness and leniency.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The conditions are written in a serious manner, contributing to the self-important tone.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"By which the reader may conceive an idea of the ingenuity of that people, as well as the prudent and exact economy of so great a prince."  Swift uses sarcasm and a mocking tone to emphasize that Gulliver finds the actions and decisions made by the emperor to be illogical and absurd.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"I was demanded in the method prescribed by their laws; which was, to hold my right foot in my left hand, and to place the middle finger of my right hand on the crown of my head, and my thumb on the tip of my right ear." The ridiculousness of what Gulliver is asked to do is representative of the same in the English government.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Despite the Lilliputians' perceived control of Gulliver, he could easily overpower all of them.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Gulliver requires 600 of the Lilliputians' beds in order to sleep.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Gulliver respects them, though he knows that he is more powerful.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+It demonstrates the absurd lengths people in society go to achieve success.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+characters
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+attitude
+feelings
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+come up with
+design
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+concern or protectiveness
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+It enables Rebecca to spend time with Ivanhoe and grow closer to him, allowing Ivanhoe to see how much she cares for him.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"Her voice faltered and her hand trembled, and it was only the cold question of Ivanhoe, "Is it you, gentle maiden?" which recalled her to herself, and reminded her the sensations which she felt were not and could not be mutual."
+"“He names not the Jew or Jewess,” said Rebecca internally; "yet what is our portion in him, and how justly am I punished by Heaven for letting my thoughts dwell upon him!"
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"Rebecca," said Ivanhoe, "thou hast painted a hero; surely they rest but to refresh their force, or to provide the means of crossing the moat—Under such a leader as thou hast spoken this knight to be, there are no craven fears, no cold-blooded delays, no yielding up a gallant emprise; since the difficulties which render it arduous render it also glorious."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+There is no just cause that warrants any kind of war or battle.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+She contends that his ideas are only reasons for bloodshed and violence and that knighthood is meaningless.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+All of them.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"By Saint John of Acre," said Ivanhoe, raising himself joyfully on his couch, "methought there was but one man in England that might do such a deed!"
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"I swear by the honor of my house—I vow by the name of my bright lady-love, I would endure ten years' captivity to fight one day by that good knight's side in such a quarrel as this!"
+
+"By Saint John of Acre," said Ivanhoe, raising himself joyfully on his couch, "methought there was but one man in England that might do such a deed!"
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Because of Rebecca's religious background, Ivanhoe feels that she, being Jewish, is far less a person than himself, being Christian.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+She feels that Ivanhoe should not want to injure others in battle because he is presently recovering from battle wounds.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- To the east, a vista opened, that exhibited the Apennines in their darkest horrors; and the long perspective of retiring summits, rising over each other, their ridges clothed with pines, exhibited a stronger image of grandeur, than any that Emily had yet seen.
+
+- She was going she scarcely knew whither, under the dominion of a person, from whose arbitrary disposition she had already suffered so much.
+
+- … while she had been so eloquently haranguing on ghosts and fairies, wandered about through other passages and galleries, till, at length, frightened by their intricacies and desolation, she called aloud for assistance: but they were beyond the hearing of the servants, who were on the other side of the castle.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- To the east, a vista opened, that exhibited the Apennines in their darkest horrors; and the long perspective of retiring summits, rising over each other, their ridges clothed with pines, exhibited a stronger image of grandeur, than any that Emily had yet seen.
+
+- ... while she had been so eloquently haranguing on ghosts and fairies, wandered about through other passages and galleries, till, at length, frightened by their intricacies and desolation, she called aloud for assistance: but they were beyond the hearing of the servants, who were on the other side of the castle.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+characters
+plot
+setting
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+so much as to go and tell it again
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The correct answer is:
+
+The drunken man on the street corner harangued the crowd about the president's social policies.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The customer harangued at the attendant as she demanded service. Her car was emitting a terrible noise when she turned the ignition.
+The drunken man on the street corner harangued the crowd about the president's social policies.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Emily's upcoming marriage to Morano makes her upset, as indicated in phrases such as "The gloom of these shades" and "equally gloomy and equally terrible."
+Emily's upcoming marriage to Morano makes her question her judgment, which is indicated in the use of clauses such as "gleamed on her imagination."
+Emily's upcoming marriage to Morano makes her more self-reflective, which is indicated in the use of clauses such as "raise the solemnity of Emily's feelings into awe."
+Emily's upcoming marriage to Morano makes her feel insignificant, as indicated in phrases such as "the tremendous precipices" and "over the summits."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Emily's upcoming marriage to Morano makes her upset, as indicated in phrases such as "The gloom of these shades" and "equally gloomy and equally terrible."
+Emily's upcoming marriage to Morano makes her question her judgment, which is indicated in the use of clauses such as "gleamed on her imagination."
+Emily's upcoming marriage to Morano makes her more self-reflective, which is indicated in the use of clauses such as "raise the solemnity of Emily's feelings into awe."
+Emily's upcoming marriage to Morano makes her feel insignificant, as indicated in phrases such as "the tremendous precipices" and "over the summits."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Emily's upcoming marriage to Morano makes her upset, as indicated in phrases such as "The gloom of these shades" and "equally gloomy and equally terrible."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Emily's upcoming marriage to Morano makes her upset, as indicated in phrases such as "The gloom of these shades" and "equally gloomy and equally terrible."
+Emily's upcoming marriage to Morano makes her question her judgment, which is indicated in the use of clauses such as "gleamed on her imagination."
+Emily's upcoming marriage to Morano makes her more self-reflective, which is indicated in the use of clauses such as "raise the solemnity of Emily's feelings into awe."
+Emily's upcoming marriage to Morano makes her feel insignificant, as indicated in phrases such as "the tremendous precipices" and "over the summits."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Emily's upcoming marriage to Morano makes her upset, as indicated in phrases such as "The gloom of these shades" and "equally gloomy and equally terrible."
+Emily's upcoming marriage to Morano makes her question her judgment, which is indicated in the use of clauses such as "gleamed on her imagination."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Words like "ancient," "mouldering," and "desolation" show that Emily feels sick with worry about her future at the castle.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Words like "long-suffering," "desolation," and "horror" contribute to a fearful tone.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Beyond the amphitheatre of mountains, that stretched below, whose tops appeared as numerous almost, as the waves of the sea, and whose feet were concealed by the forests ...
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 53, in <module>
+    convo.send_message(question)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 426, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 232, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 566, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\timeout.py", line 120, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.InternalServerError: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Desktop\ai project\parse.py", line 57, in <module>
+    print(Error)
+          ^^^^^
+NameError: name 'Error' is not defined. Did you mean: 'OSError'?
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Silent, lonely, and sublime, it seemed to stand the sovereign of the scene, and to frown defiance on all, who dared to invade its solitary reign. As the twilight deepened, its features became more awful in obscurity.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+‘The wind blew cold, and strewed the leaves about, and whistled dismally among those great old chesnut trees, that we passed, ma’amselle, as we came to the castle …’
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The story is disturbing to Emily because she already feels alone and afraid, and Annette's story reaffirms Emily's fears and apprehension about her new life in the desolate castle.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Emily is trying to be level-headed and avoid being afraid. She does not want to jump to irrational conclusions, which is shown by her questions to Annette.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+leave a part of a story or poem open to multiple interpretations, giving the text interest, depth, and complexity
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+theme
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+… whose frown,
+And wrinkled lip, and sneer of cold command …
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author is implying that the knight is torn by worry over the fate of the woman he loves.
+The author is hinting that the knight could be fantasizing about the consequences of true love.
+The author is suggesting that magical enchantment and infatuation can look very similar.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+• I set her on my pacing steed,
+And nothing else saw all day long,
+For sidelong would she bend, and sing
+A faery’s song.
+
+• And I awoke and found me here,
+On the cold hill’s side.
+And this is why I sojourn here,
+Alone and palely loitering …
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"And I awoke and found me here,
+On the cold hill’s side."
+
+"And there she lulled me asleep …"
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The forces of time and nature deal equally with everyone.
+Art outlasts empires and thus is more powerful.
+Kingdoms fall because of the pride and arrogance of their rulers.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The forces of time and nature deal equally with everyone.
+Art outlasts empires and thus is more powerful.
+Kingdoms fall because of the pride and arrogance of their rulers.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+An artist sculpted a likeness of the king, and because of that, something still remains of the ruler.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+I set her on my pacing steed,
+And nothing else saw all day long
+I set her on my pacing steed, And nothing else saw all day long
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+I set her on my pacing steed,
+And nothing else saw all day long
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+I set her on my pacing steed,
+And nothing else saw all day long
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The shattered statue and the words on the statue's pedestal convey a warning about the impermanence of art.
+The image of the endless desert sand symbolizes the infinite sweep of time.
+The words on the statue's pedestal are ironic because neither the king nor his works have survived.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"The decay" and "that colossal wreck" show the sadness and despair of the once-great kingdom's destruction.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The lily symbolizes death and the rose symbolizes life; this means that the knight appears ill and seems close to dying.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The change in speakers contributes to the sense that different versions of reality may exist in the poem.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The sound of my professor's deep, sonorous voice eventually made me doze off in class.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Crusoe is alone in a remote, unfamiliar place where he must build a life from scratch; this reveals him to be resourceful and hardworking.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+“Now,” said I, aloud, “my dear father’s words are come to pass; God’s justice has overtaken me, and I have none to help or hear me. I rejected the voice of Providence, which had mercifully put me in a posture or station of life wherein I might have been happy and easy; but I would neither see it myself nor learn to know the blessing of it from my parents. I left them to mourn over my folly, and now I am left to mourn under the consequences of it. I abused their help and assistance, who would have lifted me in the world, and would have made everything easy to me; and now I have difficulties to struggle with, too great for even nature itself to support, and no assistance, no help, no comfort, no advice.” Then I cried out, “Lord, be my help, for I am in great distress.”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+“Now,” said I, aloud, “my dear father’s words are come to pass; God’s justice has overtaken me, and I have none to help or hear me. I rejected the voice of Providence, which had mercifully put me in a posture or station of life wherein I might have been happy and easy; but I would neither see it myself nor learn to know the blessing of it from my parents. I left them to mourn over my folly, and now I am left to mourn under the consequences of it. I abused their help and assistance, who would have lifted me in the world, and would have made everything easy to me; and now I have difficulties to struggle with, too great for even nature itself to support, and no assistance, no help, no comfort, no advice.” Then I cried out, “Lord, be my help, for I am in great distress.”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Words like "injury" and "misery" contribute to a sorrowful tone.
+Words like "crying" and "notes of woe" create a gloomy, grim tone.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Blake is outraged by the fact that families allow and encourage child labor.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+And so Tom awoke, and we rose in the dark,
+And got with our bags and our brushes to work.
+Though the morning was cold, Tom was happy and warm:
+So, if all do their duty, they need not fear harm.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+‘Where are thy father and mother?  Say!’—
+‘They are both gone up to the church to pray.’
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+‘Where are thy father and mother?  Say!’—
+‘They are both gone up to the church to pray.’
+
+A little black thing among the snow,
+Crying! ‘weep! weep!’ in notes of woe!
+
+‘And because I am happy and dance and sing,
+They think they have done me no injury, …’
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The words "clothes of death" and "notes of woe" imply that the child in the poem from Songs of Experience has a more cynical perspective than the narrator in the Songs of Innocence poem. These words also imply that this child is aware of his own exploitation, unlike the child in the Songs of Innocence poem.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The sooty, confining chimneys are a metaphor for the sooty, confining city.
+The city setting shows the impact of the Industrial Revolution on childhood and on the natural world.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Even when I was afterwards, on due consideration, made sensible of my condition, how I was cast on this dreadful place, out of the reach of human kind, out of all hope of relief, or prospect of redemption, as soon as I saw but a prospect of living and that I should not starve and perish for hunger, all the sense of my affliction wore off; and I began to be very easy, applied myself to the works proper for my preservation and supply, and was far enough from being afflicted at my condition, as a judgment from heaven, or as the hand of God against me: these were thoughts which very seldom entered my head.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+They represent others like the chimney sweeper, and the reference to these common names for boys emphasizes how many there are as well as gives them identities.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The words coffins of black symbolize the dark, confining chimneys in which the children must work.
+The words coffins of black symbolize the dark, restricted lives of the children who work as sweeps.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+There’s little Tom Dacre, who cried when his head,
+That curled like a lamb’s back, was shaved; so I said,
+‘Hush, Tom! never mind it, for, when your head’s bare,
+You know that the soot cannot spoil your white hair.’
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Crusoe faces what he believes to be the consequences of his sin, which causes him to finally repent of his misdeeds.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+You know that the soot cannot spoil your white hair
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The church and government consider the children's suffering to be insignificant as long as these institutions themselves continue to prosper.
+The child's parents do not perceive the extent of his suffering because he continues to behave like a child.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+personification
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+simile
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The pool in my neighbor's backyard is set to regurgitate on a weekly schedule to keep algae from forming; the result is gallons of water spilling onto the street.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+My mom told me that I would need to help defray the costs of the car repairs following the accident. It would be tough, but I knew I was at fault for running the red light.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+We don't have to really understand the vocabulary words for our science class; we just need to regurgitate the definitions on the quiz.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+the representation of information in a minimal or subdued way; used for humor or emphasis
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+dramatic
+verbal
+character
+situational
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+dramatic
+verbal
+situational
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+dramatic
+verbal
+situational
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+dizzy
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+It refers to both a bee's tongue and an elephant's trunk, so it indicates that Alice could be seeing either.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The authoritative tone hides the true uselessness of the Red Queen's commands to Alice.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The dry biscuit made her thirst worse and so she does not want another.
+
+She is full from the dry biscuit and so she does not want another.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Everyone seemed satisfied with this, though Alice felt a little nervous at the idea of trains jumping at all.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Alice is committed to liking the Gnat despite his large size because she feels that their conversation has made them friends.
+Alice is unfazed by the size of the Gnat, which shows that she has not fully comprehended the oddness of the place in which she finds herself.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- “Never mind!” Alice said in a soothing tone, and stooping down to the daisies, who were just beginning again, she whispered. “If you don’t hold your tongues, I’ll pick you!”
+- “I don’t know what you mean by your way,” said the Queen: “all the ways about here belong to me. ...”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The chess game represents Alice's powerless state; to reach her goal, she must follow rules that are sometimes arbitrary and unrealistic.
+The chess game represents Alice's challenging experiences; to reach her goal, she must do things that are sometimes confusing.
+The chess game represents the absurdity of Alice's experiences; to reach her goal, she must become a chess piece.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- The chess game represents Alice's powerless state; to reach her goal, she must follow rules that are sometimes arbitrary and unrealistic.
+- The chess game represents Alice's challenging experiences; to reach her goal, she must do things that are sometimes confusing.
+- The chess game represents the absurdity of Alice's experiences; to reach her goal, she must become a chess piece.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Alice's lack of understanding of the truth implied in the Gnat's response, “It always happens,” shows that Alice might not have experienced a loss of someone close to her. Carroll treats death superficially, therefore, to stay true to Alice's perspective.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- Words like "even if she doesn't know her own name" generate a compassionate tone and show the reader that the gentleman in white paper recognizes and understands Alice's predicament as a child in Looking Glass World.
+
+- Words like "even if she doesn't know her alphabet" generate a sincere tone and show the reader that the adults on the train see Alice as a young child and understand how little she knows.
+
+- Words like "ought to know" generate a controlling tone and show the reader how unrealistic the adults' expectations are for Alice.
+
+- Words like "so young a child" generate a condescending tone and show the reader that those on the train do not take Alice seriously because she is young.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Words like "so young a child" generate a condescending tone and show the reader that those on the train do not take Alice seriously because she is young.
+Words like "ought to know" generate a controlling tone and show the reader how unrealistic the adults' expectations are for Alice.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+specific information in a reading that is used to support assertions
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Something that is implicit is understood despite not being clearly stated, while something that is explicit is clearly stated.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+After reading her brother's will, Jennifer learned that he had bequeathed the ancient family house to her.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+“I do not know whether the spotted handkerchiefs which so many of them wear over their heads might have suggested the strange adjective which she used.”
+
+“The idea of using a form of poison which could not possibly be discovered by any chemical test was just such a one as would occur to a clever and ruthless man who had had an Eastern training.”
+
+“An inspection of his chair showed me that he had been in the habit of standing on it, which of course would be necessary in order that he should reach the ventilator.”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+He will lose money when his stepdaughters marry.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Dr. Roylott has isolated himself from most people in his community, befriending people who are as solitary as he is.
+
+C:\Users\kylew\Desktop\ai project>py parse.py\
+C:\Users\kylew\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\Users\\kylew\\Desktop\\ai project\\parse.py\\': [Errno 22] Invalid argument
+
+C:\Users\kylew\Desktop\ai project>py parse.py\
+C:\Users\kylew\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'C:\\Users\\kylew\\Desktop\\ai project\\parse.py\\': [Errno 22] Invalid argument
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Multiple elements of the story, such as the gypsies who wear spotted handkerchiefs, might be interpreted as being related to a "speckled band," providing an intriguing set of possible answers.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+It foreshadows the devastation and despair Helen experiences following the death of her sister, Julia.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Holmes states, "This is my intimate friend and associate, Dr. Watson." This proves that Holmes trusts nobody except Watson, leaving him as the only reliable person to narrate the story and provide Holmes's perspective.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- He has a passion also for Indian animals, which are sent over to him by a correspondent, and he has at this moment a cheetah and a baboon.
+
+- He had no friends at all save the wandering gipsies, and he would give these vagabonds leave to encamp upon the few acres of bramble-covered land which represent the family estate.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"Violence does, in truth, recoil upon the violent, and the schemer falls into the pit which he digs for another."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"In this way I am no doubt indirectly responsible for Dr. Grimesby Roylott's death, and I cannot say that it is likely to weigh very heavily upon my conscience."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+a literary device in which words are used in a way that implies the opposite of their literal meaning
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+using mockery or irony as a way of conveying disapproval or contempt
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The student could connect demonstrative to demonstrate, and infer that demonstrative relates to the word show.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Forte means a strength or a specialty because the speaker implies that he is better at social studies than his other "strong subjects."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Algernon uses irony in this excerpt, as he explains that the entire foundation of marriage, which is commitment, is the very aspect that makes marriage unromantic.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Usually hair turns white with grief, so saying that Lady Harbury's hair turned gold is a humorous way of saying she is doing well and perhaps not missing her deceased husband.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author sarcastically implies that some members of the upper class have so little to do that smoking counts as a job for them.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+England is so unequal that if the education system were more effective, the majority of English society would revolt against the upper classes.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Jack. My dear Algy, I don’t know whether you will be able to understand my real motives. You are hardly serious enough. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It’s one’s duty to do so. And as a high moral tone can hardly be said to conduce very much to either one’s health or one’s happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+He chooses to present the similarity between Gwendolen's and Jack's brief styles of speech, which creates a humorous parallel between them.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Her description suggests that the name Ernest is especially poetic and profound, which creates irony since the man she is speaking to is named Jack.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author creates a wry, satirical tone by showing that Algernon is so judgmental and hypocritical that he is laughable.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+the use of words to express meanings different from their literal definitions in order to enhance power, persuasiveness, or beauty
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+assigning non-human characteristics or qualities to human things
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Cracks scored the concrete sidewalk, forcing the boys to skateboard carefully to school.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The bottle held only a few drops.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+This phrase depicts the grim situation and frightful possibilities that await the men on the battlefield.
+This phrase is a biblical allusion to "the valley of the shadow of death," a place of imminent danger.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+1. The phrase "the passion put to use in my old griefs" means that the speaker feels her love with the same intensity and power she used to feel toward old wrongs.
+2. The phrase "a love I seemed to lose with my lost saints" means that the speaker feels her love with the kind of trust and devotion she now feels toward religious icons.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The words "to do and die" depict a good soldier as one who knows that completing his job comes before anything else.
+The words "a man dismay’d/ Not tho’ the soldier knew" suggest a good soldier is one who does not allow emotions to overtake him.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The metaphor "Winter's dregs" implies that what remains of the season will be the worst, creating a tone of despair.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The Century's corpse
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The words leap and fiery suggest that the waves are excitedly carrying the speaker toward his destination. This contributes to the anticipation that the speaker feels in this moment.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The implicit meaning is that the couple are so emotional and filled with excitement at the sight of each other that nothing else compares.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+I leant upon a coppice gate
+When Frost was spectre-gray,
+And Winter’s dregs made desolate
+The weakening eye of day.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Melanie indiscreetly told coworkers what their boss had revealed to her.
+The zookeeper was bitten while indiscreetly playing with a dangerous snake.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Melanie indiscreetly told coworkers what their boss had revealed to her.
+The zookeeper was bitten while indiscreetly playing with a dangerous snake.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+A lawyer is reading what was left to people in a will.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Brooke uses simple, beautiful phrasing to further emphasize the pure goodness of England.
+Brooke shows that wherever the soldier is, he carries traces of his English upbringing with him.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Because the sentence leaves out specific details of what exactly the afterlife is like, it leaves the good or evil nature of this "inn" uncertain.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The description means the men wore blood, not shoes, on their feet, and this surprising choice of words reminds the reader of the shocking pain of war.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Understatement, because "You cannot miss that inn" is a very mild and subtle way to say that everyone can reach heaven.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+All of the excerpts provide evidence that the narrator feels war is unimaginably cruel.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- And watch the white eyes writhing in his face,
+His hanging face, like a devil's sick of sin …
+
+- If you could hear, at every jolt, the blood
+Come gargling from the froth-corrupted lungs …
+
+- In all my dreams before my helpless sight
+He plunges at me, guttering, choking, drowning.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Heaven is a place where people can rest, and there is room for anyone who travels there.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Through this phrase, the narrator makes clear that the well-established sentiment that it is sweet and glorious to die for your country is not true, even though it has been told many times.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The narrator's grave will become an English place because he is English, implying that his death will not be a tragedy.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"The slow dark hours" is a metaphorical way of describing death.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The phrase "I saw him drowning," although it usually means within water, refers to the fact that the stumbling man cannot breathe.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+He believes that his essence, which is English, will live on in the laughter and gentle friendship of English people to come, as shown by saying he will become a "pulse in the eternal mind."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Dust represents the soldier's body, which is from England, after it is buried abroad.
+Dust represents England and its values, expressed in soldiers who sacrifice their lives for their country.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The words Bent, beggars, and trudge show that the men are exhausted from the war, creating a weary tone.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"Heart" is a metaphor for an eternal part of the soldier's identity, not just his literal, physical heart.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Using such uniquely revolting imagery supports the narrator's larger point that war is too cruel to bring glory or sweetness.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Metaphor is used to tell the reader that the souls of all who have lived before are in the afterlife.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"Yea, beds for all who come" means that everyone who lives will eventually reach heaven.
+"Yea, beds for all who come" means that rest will be given to all who enter heaven.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The poem is divided into meaning-based sections: the first part a political commentary about war, and the second a religious commentary about heaven.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+to intercept
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+fake
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+setting
+plot
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+pacing
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+had been uncovered
+was still embedded
+edge of the pit
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+challenged
+confronted
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Ogilvy goes to the site of the crash to explore the area the morning after seeing the shooting star. Once there, he examines the cylinder. His actions characterize him as curious.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Ogilvy tries to help those inside the cylinder. His actions characterize him as compassionate.
+Ogilvy goes to the site of the crash to explore the area the morning after seeing the shooting star. Once there, he examines the cylinder. His actions characterize him as curious.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The War of the Worlds
+
+An enormous hole had been made by the impact of the projectile, and the sand and gravel had been flung violently in every direction over the heath, forming heaps visible a mile and a half away. The heather was on fire eastward, and a thin blue smoke rose against the dawn.
+They shouted consolation and promises, and went off back to the town again to get help. One can imagine them, covered with sand, excited and disordered, running up the little street in the bright sunlight just as the shop folks were taking down their shutters and people were opening their bedroom windows.
+He remained standing at the edge of the pit that the Thing had made for itself, staring at its strange appearance, astonished chiefly at its unusual shape and colour, and dimly perceiving even then some evidence of design in its arrival. The early morning was wonderfully still, and the sun, just clearing the pine trees towards Weybridge, was already warm.
+It was glaringly hot, not a cloud in the sky nor a breath of wind, and the only shadow was that of the few scattered pine trees. The burning heather had been extinguished, but the level ground towards Ottershaw was blackened as far as one could see, and still giving off vertical streamers of smoke.
+
+**Correct answers**:
+
+- He remained standing at the edge of the pit that the Thing had made for itself, staring at its strange appearance, astonished chiefly at its unusual shape and colour, and dimly perceiving even then some evidence of design in its arrival. The early morning was wonderfully still, and the sun, just clearing the pine trees towards Weybridge, was already warm.
+- It was glaringly hot, not a cloud in the sky nor a breath of wind, and the only shadow was that of the few scattered pine trees. The burning heather had been extinguished, but the level ground towards Ottershaw was blackened as far as one could see, and still giving off vertical streamers of smoke.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+All this had happened with such swiftness that I had stood motionless, dumbfounded and dazzled by the flashes of light. Had that death swept through a full circle, it must inevitably have slain me in my surprise. But it passed and spared me, and left the night about me suddenly dark and unfamiliar.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+A fearful tone is created through the narrator's thoughts of horror and his glance at the cylinder.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The boy's words serve to speed up the pacing of the plot because, as he is talking to the narrator, he is running past him to get away.
+The narrator is not close enough to see clearly into the pit, so the boy's words provide the narrator with the information he needs, which moves the plot forward.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The detailed description characterizes the narrator as a trustworthy source of information about the Martians.
+The detailed description increases suspense because the narrator's dread implies something bad is going to happen.
+The detailed description justifies the horror the narrator feels from this experience.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The narrator uses the metaphor to describe his fascination with the Martians as they exit the cylinder, providing him with a way to analyze his conflicting emotions. Fear paralyzes him, but curiosity forces him to remain in harm's way.
+
+By comparing himself to a battleground, the narrator shows that his turmoil is extreme, and that the events that have generated such strong feelings are extremely serious and violent.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The narrator views the public as complacent and unconcerned.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The narrator views the public as complacent and unconcerned.
+The narrator thinks the public is lazy and apathetic.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+tone
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+by using literary devices
+by employing specific word choices
+by including explicit details that emphasize certain parts of their texts
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The woman chided her son for his diffidence after finding a long-forgotten and moldy apple that had fallen behind the boy's bed.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Life-giving is used ironically to emphasize the fact that many believe alcohol to help increase social skills, especially in stressful social situations.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The phrase adds dark humor to the idea of being totally absorbed in a murder mystery, with its second meaning implying actual violence.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Although irrigate typically means providing water to help plants grow, in this excerpt it describes the way Cyril uses alcohol to boost his lagging confidence. This usage demonstrates how desperate Cyril is to please and impress the woman he hopes will be his mother-in-law.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- Cyril is so anxious to marry Amelia that he suggests they elope and send Lady Bassett "a picture postcard from Venice or somewhere."
+
+- When Cyril loses his book and can't finish the detective story, it is described as "the most poignant bereavement."
+C:\Users\kylew\Desktop\ai project>py parse.py
+Cyril's comment to Lady Bassett that her daughter will marry a "respectable interior decorator"
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+“It is impossible,” she said at length. “He is incapable of such an act. Lester Mapledurham is a man who once killed a lion with a sardine opener.”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author is amused that people can base an entire relationship on trivial and insufficient qualities.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author regards poets as intelligent and insightful, discussing at length topics that most people care about. This is reflected in his respectful use of "children, gazelles, money, fame, dogs, cats, doves," and so on.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Until this point, Cyril has remained meek and submissive. However, his quick thinking and sly actions reveal that he possesses inner cunning and boldness, which he then finds himself embracing.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+a literary technique that places one story inside another
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Flashback concerns information from previous events; framing concerns the order of how the story is related.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+vicious
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+poor, bastard things
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+By using a frame structure, the author shows the narrator's loss of feeling toward Manderley, and then goes back in time to provide the reasons why the narrator has lost her love for Manderley.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The narrator's fears about coming to Manderley are reflected in the discomfort she feels about the loud gate, the twisting road, and the inconsistently warm sunlight.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+It provides the narrator with a reminder of how much she has matured.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+All of the provided excerpts depict the narrator's thoughts and slow down the pacing of the plot.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- I forced a smile, and did not answer him, aware now of a stab of panic, an uneasy sickness that could not be controlled. Gone was my glad excitement, vanished my happy pride. I was like a child brought to her first school, or a little untrained maid who has never left home before, seeking a situation.
+
+- … [I]t had not occurred to him I dreaded this arrival at Manderley as much as I had longed for it in theory. Now the moment was upon me I wished it delayed. I wanted to draw up at some wayside inn and stay there, in a coffee-room, by an impersonal fire.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+• I can see myself now, unsuitably dressed as usual, although a bride of seven weeks, in a tan-coloured stockinette frock, a small fur known as a stone marten round my neck, and over all a shapeless mackintosh, far too big for me and dragging to my ankles.
+
+• I can close my eyes now, and look back on it, and see myself as I must have been, standing on the threshold of the house, a slim, awkward figure in my stockinette dress, clutching in my sticky hands a pair of gauntlet gloves.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The sentence increases curiosity with the word "again," indicating that the narrator keeps dreaming about Manderley.
+The sentence clarifies that what comes next will be a retelling of a dream, as indicated by the words "I dreamt."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The narrator feels sympathetic about Mrs. Danvers's emotionless handshake and senses that she needs to be helped in some way.
+The narrator feels rejected by Mrs. Danvers's emotionless handshake and assumes that Mrs. Danvers already looks down upon her.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- The phrase "the vanguard of the army" indicates that the nettles have taken control of the home's exterior.
+- The word "choked" indicates that the nettles are obstructing the beauty of the terrace.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+poem
+painting
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+the cost of knowledge
+the meaning of existence
+the conflict between good and evil
+the importance of home and family
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+the cost of knowledge
+the meaning of existence
+the conflict between good and evil
+the importance of home and family
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+the cost of knowledge
+the meaning of existence
+the conflict between good and evil
+the importance of home and family
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+wise
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+All of the above:
+
+The poem makes a passing reference at the end to the fall of Icarus, much as the body of Icarus is de-emphasized in the painting.
+The poem focuses on the everyday lives of people and animals, much as the painting focuses on a scene of everyday life.
+The poem describes the ship that sails past the plight of Icarus, much as the painting shows the contrast of calmness with chaos.
+The poem contains specific details of sound and sight, much like the sensory details shown in the painting.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- The poem makes a passing reference at the end to the fall of Icarus, much as the body of Icarus is de-emphasized in the painting.
+- The poem focuses on the everyday lives of people and animals, much as the painting focuses on a scene of everyday life.
+- The poem describes the ship that sails past the plight of Icarus, much as the painting shows the contrast of calmness with chaos.
+- The poem contains specific details of sound and sight, much like the sensory details shown in the painting.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The poem makes a passing reference at the end to the fall of Icarus, much as the body of Icarus is de-emphasized in the painting.
+The poem focuses on the everyday lives of people and animals, much as the painting focuses on a scene of everyday life.
+The poem describes the ship that sails past the plight of Icarus, much as the painting shows the contrast of calmness with chaos.
+The poem contains specific details of sound and sight, much like the sensory details shown in the painting.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The sunset is a symbol of the end of life.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The poem is set in a painting inside a museum, which creates an effect of distance from suffering.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The poem presents many metaphorical settings but ultimately reveals the real setting; the video does not appear to have any single real setting.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The image of the burning sun contributes to the mood of intense anger and passion the speaker feels.
+The black-and-white film contributes to a nostalgic, sentimental mood and perspective.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+In both the poem and the painting, the focus is on the disastrous aftermath of Icarus's flight, rather than on the flight itself.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The speaker in "Do Not Go Gentle Into That Good Night" wants his father to accept his destiny with confidence and no fear; the speaker in "Song of a Man Who Has Come Through" wants to charge forward and take control of his destiny.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+- Thomas uses images of blindness and light to demonstrate the far-seeing nature of art.
+- Lawrence uses images of birds and flight to show the heights that art can reach.
+- Thomas uses images of darkness and lightning to demonstrate the energy and illumination that art provides.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+**Correct answers:**
+
+* Thomas uses images of blindness and light to demonstrate the far-seeing nature of art.
+* Lawrence uses images of birds and flight to show the heights that art can reach.
+* Thomas uses images of darkness and lightning to demonstrate the energy and illumination that art provides.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Thomas views death as a negative force against which to actively fight, while Lawrence sees death as a positive force to embrace.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+the waving motion of the flag
+
+C:\Users\kylew\Desktop\ai project>
+C:\Users\kylew\Desktop\ai project>py parse.py
+Frodo is observant and thoughtful, and he had already decided to trust Strider based on his intuition.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Frodo and his friends are being followed by one or more mysterious strangers, which creates suspense and heightens tension.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+“The lesson in caution has been well learned,” said Strider with a grim smile. “But caution is one thing and wavering is another. You will never get to Rivendell now on your own, and to trust me is your only chance. You must make up your mind.”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"Pilgrim soul" refers to a part of the woman that only the speaker loves.
+"Pilgrim soul" refers to the woman’s spirit, which is always searching and seeking as it goes on a journey.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Burst and weep imply realization of a sad, sorrowful childhood.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"Boom of the tingling strings" reveals a dramatic, emotional tone.
+"Softly, in the dusk" suggests a gentle, nostalgic tone.
+"A mother who smiles as she sings" evokes a tender, intimate tone.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"And loved your beauty with love false or true" indicates that the speaker feels that not all the woman's lovers genuinely loved her.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"And loved your beauty with love false or true" indicates that the speaker feels that not all the woman's lovers genuinely loved her.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+"And loved the sorrows of your changing face" indicates that the speaker is aware of the woman's many transformations due to her lovers.
+"And loved your beauty with love false or true" indicates that the speaker feels that not all the woman's lovers genuinely loved her.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The speaker in the poem is the elderly woman described in the opening lines, and this woman is looking back upon her life.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The emphasis on specific details and description pauses the plot and helps convey the passage of time.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Softly, in the dusk, a woman is singing to me;
+Taking me back down the vista of years, till I see
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The contrast between past and present emphasizes the speaker's previous relationships and current independence.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+grief
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+It exerts control over its wearer.
+Its power is feared and sought by many.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Words like danger , fear , and turning pale contribute a dark, menacing tone, suggesting something threatening about the Black Riders.
+The dialogue of the characters shows that the Shadow in the East is related to the Black Riders.
+The characters are unable even to speak the name of the enemy, demonstrating their sense of fearfulness about the enemy.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Both poems treat the topic of the past with sentimentality and a sense of regret.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The speakers in both poems demonstrate a sense of satisfaction and happiness as they look back at their lives.
+The speakers in both poems convey a sense of nostalgia and longing for the past.
+The speaker in "When You Are Old" is looking forward and predicting a sense of regret in old age, while the adult speaker in "Piano" is looking back and grieving the loss of childhood.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The speakers in both poems convey a sense of nostalgia and longing for the past.
+The speaker in "When You Are Old" is looking forward and predicting a sense of regret in old age, while the adult speaker in "Piano" is looking back and grieving the loss of childhood.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+It suggests that the time ahead is unknowable and should not be predicted.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Sam's persistence in questioning Strider shows his loyalty to his friends and skepticism of strangers.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+not able to be stopped
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+pale
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+one that has not yet happened
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+flashback
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+devastation
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+death
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The flashback provides background on Captain Singh's past relationship with his son.
+The flashback provides a contrast between Captain Singh's present and past responsibilities.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Something terrible is going to happen because the message from Geneva will not reach the ship in time.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Something terrible is going to happen because the message from Geneva will not reach the ship in time.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Something terrible is going to happen because the message from Geneva will not reach the ship in time.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author mentions the Chrislamic belief that the asteroid was the instrument of doom and focuses on the fanatical factions in the flashback. This creates the potential for conflict in the main story.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author chooses to use dialogue, short sentences, and the quick action of the voting in this section to move the plot action quickly forward.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Earth is not the only planet in the solar system that is in danger from asteroids.
+Those heroes killed by the asteroid Kali will be brought home in the future to honor their sacrifice and achievement.Although the Earth is now safe from a collision with one asteroid, choosing to save worlds will continue to cost human lives.
+Even with progress and expanded space travel that will come in the future, asteroids will still be dangerous.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The comparison of the opening of the tanks to the opening of flowers creates an ironic contrast between the beauty of flowers and the terrible devastation of the explosion.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The asteroid can be seen as the hammer. It symbolizes an instrument of destruction used by God to punish humankind.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+As long as there are humans, there will be evil in the world.
+Any belief taken to an extreme loses its value.
+Advanced technology is not a cure-all for humankind's problems.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+As long as there are humans, there will be evil in the world.
+Any belief taken to an extreme loses its value.
+Advanced technology is not a cure-all for humankind's problems.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+intentionally downplaying or minimizing an event or feeling, often with the intent of calling the reader's attention to it or creating humor
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Max responded with understatement, by downplaying the destruction Nemo caused.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The context clues "became animated" and "high-level discussion" indicate that scintillating means "brilliant or stimulating."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The student could use the context clues "mess" and "dump" to infer that squalid means "dirty."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The implication that humans tend to talk without expressing any valuable thoughts creates ironic humor.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+He would prefer to defend his harmful actions in a fit of rage, so that he would be protected from facing his own disturbed feelings.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+His reaction implies that humans connect more deeply to entertainment and fast food than to countries or other people.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+He remarks that a formerly primitive species rose to become powerful members of the Galactic Civil Service.
+He contrasts the lovely natural features and native creatures of Vogsphere with the Vogons' brutal treatment of them.He implies the idea that a race that has achieved interstellar travel still lacks any kind of higher social and behavioral development.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+He contrasts the lovely natural features and native creatures of Vogsphere with the Vogons' brutal treatment of them.He implies the idea that a race that has achieved interstellar travel still lacks any kind of higher social and behavioral development.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Arthur feels that the Vogons have made a mistake, which he expresses with irony.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author uses satire to show that some people will choose to manipulate any evidence before them to support their previously held beliefs.
+The author uses irony to show that in some situations, logically proving a point doesn't necessarily lead to understanding the full truth.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author uses satire to show that some people will choose to manipulate any evidence before them to support their previously held beliefs.
+
+The author uses irony to show that in some situations, logically proving a point doesn't necessarily lead to understanding the full truth.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The author blends a historical summary into the exposition so that the reader will understand the history of the Vogons' cruelty before meeting Prostetnic Vogon Jeltz.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Vivid language like "smashing their shells" and "their backs would snap instantly" creates a satirical tone by overstating the Vogons' brutality and careless destruction.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+textual evidence
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Other football fans prefer to enjoy the sport from the comfort of their couches.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The student could use the context clues "academic goose-flesh," "pale corpse-coloured rubber," and "frozen, dead, a ghost" to infer a meaning of "white or washed-out."
+The student could note the similarity between the roots of pallid and pale.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+minor and unimportant
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+From her dim crimson cellar Lenina Crowne shot up seventeen stories, turned to the right as she stepped out of the lift, walked down a long corridor and, opening the door marked GIRLS’ DRESSING-ROOM, plunged into a deafening chaos of arms and bosoms and underclothing.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+“Yes,” said Mustapha Mond, nodding his head, “you may well shudder.”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+*  “And then it was over, and they were all streaming away, the long lines of boys and girls, each with its own little aluminum box of soma tablets.”
+
+
+*  “Our Ford—or Our Freud, as, for some inscrutable reason, he chose to call himself whenever he spoke of psychological matters—Our Freud had been the first to reveal the appalling dangers of family life. The world was full of fathers—was therefore full of misery; full of mothers—therefore of every kind of perversion from sadism to chastity; full of brothers, sisters, uncles, aunts—full of madness and suicide.”
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Corporations have taken over society, which is shown when Lenina refers to her family's car as "Our Ford."
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+These are the names of the castes of the social hierarchy, whose members all wear the same color.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Books are seen as a source of danger by those in power, so much so that children must be trained to permanently hate them, possibly because books contain knowledge that could destabilize society.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Error
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Citizens date many different people, but forming emotional bonds is looked down on, which is indicated by Fanny's surprise that Lenina has been dating the same boy for a while.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+The Director views the conditioning of the infants as a great accomplishment; the author views it as horrible mistreatment.
+
+C:\Users\kylew\Desktop\ai project>py parse.py
+Comparing the petals to the cheeks of babies who are deathly white, or angry from blowing trumpets, creates a chilling tone and implies that there will be something unnatural about the babies in this nursery.
+
+C:\Users\kylew\Desktop\ai project>

@@ -1,0 +1,5938 @@
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+'C:\Users\kylew\Documents\Personal\Coding\AI\aiproject' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question = Question:
+How can heavy federal debt lead to higher interest rates?
+
+
+---
+---
+Responses = ['The government spends more money by borrowing, which causes a rise in prices.', 'The government increases taxes to cover the debt, which leads to a decrease in individual income.', 'The government has to pay interest on the debt, which means it has less money to spend.', 'The government causes increased borrowing competition, which leads banks to increase interest rates.']
+---
+---
+AI Response = The government has to pay interest on the debt, which means it has less money to spend.
+---
+---
+Click = Box(left=302, top=627, width=20, height=26)
+---
+---
+Correct Answer = ['The government has to pay interest on the debt, which means it has less money to spend.']
+---
+---
+Question = Question:
+How does the existence of a large federal debt slow economic growth?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Unemployment becomes a problem, which leads to less real income.', 'The government may raise taxes to eliminate deficits, which could slow down the economy', 'Inflation rises rapidly, which discourages demand.', 'People are concerned about the future and do not want to invest.']
+---
+---
+AI Response = ['The government may raise taxes to eliminate deficits, which could slow down the economy', 'People are concerned about the future and do not want to invest.']
+---
+---
+Click = Box(left=302, top=621, width=20, height=26)
+---
+---
+Click = Box(left=302, top=703, width=20, height=26)
+---
+---
+Correct Answer = ['The government may raise taxes to eliminate deficits, which could slow down the economy', 'People are concerned about the future and do not want to invest.']
+---
+---
+Question = Question:
+What is the purpose of a balanced budget amendment to the US constitution?
+
+
+---
+---
+Responses = ['The amendment would force Congress to cut entitlement spending until the federal debt is gone.', 'The amendment would give states the opportunity to cut spending in order to balance the federal budget.', 'The amendment would require the US government to spend no more than it collects in taxes and other revenues, excluding borrowing.', 'The amendment would forbid Congress from increasing taxes until spending is cut to a reasonable rate.']
+---
+---
+AI Response = The amendment would require the US government to spend no more than it collects in taxes and other revenues, excluding borrowing.
+---
+---
+Click = Box(left=302, top=661, width=20, height=26)
+---
+---
+Correct Answer = ['The amendment would require the US government to spend no more than it collects in taxes and other revenues, excluding borrowing.']
+---
+---
+Question = Question:
+Which is the largest item in discretionary spending?
+
+
+---
+---
+Responses = ['transportation', 'defense', 'Social Security', 'Medicare']
+---
+---
+AI Response = defense
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['defense']
+---
+---
+Question = Question:
+What is the purpose of a contractionary fiscal policy?
+
+
+---
+---
+Responses = ['to increase the level of aggregate supply to slow deflation', 'to decrease the level of aggregate demand to slow rising inflation', 'to decrease the level of aggregate supply to grow the economy', 'to increase the level of aggregate demand to grow the economy']
+---
+---
+AI Response = to decrease the level of aggregate demand to slow rising inflation
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['to decrease the level of aggregate demand to slow rising inflation']
+---
+---
+Question = Question:
+Why would the government use an expansionary fiscal policy?
+
+
+---
+---
+Responses = ['to lower aggregate demand', 'to prevent inflation', 'to stimulate aggregate demand', 'to lower growth targets']
+---
+---
+AI Response = to stimulate aggregate demand
+---
+---
+Click = Box(left=302, top=598, width=20, height=26)
+---
+---
+Correct Answer = ['to stimulate aggregate demand']
+---
+---
+Question = Question:
+Which could be part of a fiscal policy?
+
+
+---
+---
+Responses = ['The government increases the reserve requirement.', 'The government chooses to raise interest rates.', 'The government increases taxes.', 'The government deregulates businesses.']
+---
+---
+AI Response = The government increases taxes.
+---
+---
+Click = Box(left=302, top=598, width=20, height=26)
+---
+---
+Correct Answer = ['The government increases taxes.']
+---
+---
+Question = Question:
+What is true of military spending in the United States?
+
+
+---
+---
+Responses = ['It is a major portion of discretionary spending.', 'It is a major portion of mandatory spending.', 'It is a minor portion of discretionary spending.', 'It is a minor portion of mandatory spending.']
+---
+---
+AI Response = It is a major portion of discretionary spending.
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['It is a major portion of discretionary spending.']
+---
+---
+Question = Question:
+What is true about spending on Social Security?
+
+
+---
+---
+Responses = ['It cannot be cut because it is part of mandatory spending.', 'It is the only budget item classified as entitlement spending.', 'It is the largest portion of discretionary spending.', 'It is second only to military spending as part of the federal budget.']
+---
+---
+AI Response = It cannot be cut because it is part of mandatory spending.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['It cannot be cut because it is part of mandatory spending.']
+---
+---
+Question = Question:
+How can the national debt impact private businesses?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Government borrowing can crowd private investors out of the lending market.', 'Government payments on interest cannot be used for programs.', 'Government spending can drive up prices for everyone.', 'Government tax policies can lead to an increase in demand.']
+---
+---
+AI Response = ['Government borrowing can crowd private investors out of the lending market.', 'Government spending can drive up prices for everyone.', 'Government tax policies can lead to an increase in demand.']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=633, width=20, height=26)
+---
+---
+Click = Box(left=302, top=670, width=20, height=26)
+---
+---
+Correct Answer = ['Government borrowing can crowd private investors out of the lending market.', 'Government spending can drive up prices for everyone.', 'Government tax policies can lead to an increase in demand.']
+---
+---
+Percentage = n~—
+---
+---
+Error: Input Percentage Manually
+Percentage =
+87
+87
+---
+---
+Question = Question:
+If Jim hides $30 under his mattress and he still has $30 there three weeks later, what function has the money fulfilled?
+
+
+---
+---
+Responses = ['store of value', 'medium of exchange', 'unit of account', 'transferability']
+---
+---
+AI Response = store of value
+---
+---
+Click = Box(left=302, top=552, width=20, height=26)
+---
+---
+Correct Answer = ['store of value']
+---
+---
+Question = Question:
+Read the sentence.
+
+The dollar can be broken down into cents.
+
+What characteristic is the dollar displaying in this example?
+
+
+---
+---
+Responses = ['durable', 'portable', 'transferable', 'divisible']
+---
+---
+AI Response = divisible
+---
+---
+Click = Box(left=302, top=709, width=20, height=26)
+---
+---
+Correct Answer = ['divisible']
+---
+---
+Percentage = 100
+---
+---
+Question = Question:
+What is money created by government decree?
+
+
+---
+---
+Responses = ['fiat money', 'commodity money', 'fiduciary money', 'commercial bank money']
+---
+---
+AI Response = fiat money
+---
+---
+Click = Box(left=302, top=592, width=20, height=26)
+---
+---
+Correct Answer = ['fiat money']
+---
+---
+Question = Question:
+Read the sentence.
+
+The US government issued greenbacks during the Civil War.
+
+What were greenbacks?
+
+
+---
+---
+Responses = ['gold coins only issued through state banks', 'paper money printed with green ink on the reverse side', 'copper coins that turned green through wear and tear', 'bonds using green paper to help support the war effort']
+---
+---
+AI Response = paper money printed with green ink on the reverse side
+---
+---
+Click = Box(left=302, top=635, width=20, height=26)
+---
+---
+Correct Answer = ['paper money printed with green ink on the reverse side']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+Which financial institutions typically have membership requirements, such as belonging to the military?
+
+
+---
+---
+Responses = ['central banks', 'credit unions', 'commercial banks', ' savings and loans']
+---
+---
+AI Response = credit unions
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['credit unions']
+---
+---
+Question = Question:
+What types of banking transactions can be performed through a mobile app?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['transfer funds from a 401(k) to a credit card', 'set up automatic bill pay', 'receive automatic payments from an employer', 'transfer money between savings and checking accounts']
+---
+---
+AI Response = ['transfer money between savings and checking accounts', 'set up automatic bill pay']
+---
+---
+Click = Box(left=302, top=604, width=20, height=26)
+---
+---
+Click = Box(left=302, top=641, width=20, height=26)
+---
+---
+Correct Answer = ['set up automatic bill pay', 'transfer money between savings and checking accounts']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+
+83
+---
+---
+Question = Question:
+Which noteworthy legislation limited how much banks could earn from investments, such as the selling of securities, and also established the Federal Deposit Insurance Corporation (FDIC)?
+
+
+---
+---
+Responses = [' Federal Reserve Act of 1913', 'Banking Act of 1933', 'Competitive Equality Banking Act of 1987', 'International Banking Act of 1978']
+---
+---
+AI Response = Banking Act of 1933
+---
+---
+Click = Box(left=302, top=607, width=20, height=26)
+---
+---
+Correct Answer = ['Banking Act of 1933']
+---
+---
+Question = Question:
+What were results of the Savings and Loan Crisis?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['The final cost to taxpayers who had to cover the deposit insurance was more than $100 billion.', 'People moved their deposits from savings and loan institutions to banks.', ' The Federal Deposit Insurance Corporation (FDIC) replaced the Federal Savings and Loan Insurance Corporation (FSLIC).', 'Many large commercial banks failed as they were absorbed by savings and loan institutions.']
+---
+---
+AI Response = ['The final cost to taxpayers who had to cover the deposit insurance was more than $100 billion.', 'People moved their deposits from savings and loan institutions to banks.', ' The Federal Deposit Insurance Corporation (FDIC) replaced the Federal Savings and Loan Insurance Corporation (FSLIC).']
+---
+---
+Click = Box(left=302, top=577, width=20, height=26)
+---
+---
+Click = Box(left=302, top=623, width=20, height=26)
+---
+---
+Click = Box(left=302, top=670, width=20, height=26)
+---
+---
+Correct Answer = ['The final cost to taxpayers who had to cover the deposit insurance was more than $100 billion.', 'People moved their deposits from savings and loan institutions to banks.', ' The Federal Deposit Insurance Corporation (FDIC) replaced the Federal Savings and Loan Insurance Corporation (FSLIC).']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Quiz Detected - Press Enter when you are ready to continue...
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+Which characteristic of money makes it possible to make change at stores?
+
+
+---
+---
+Responses = ['portability', 'limited availability', 'divisibility', 'durability']
+---
+---
+AI Response = divisibility
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['divisibility']
+---
+---
+Question = Question:
+Why is it important that money stores its value?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['so that sellers know the money will last', 'so that buyers know what their money will buy', 'so that sellers will accept it as payment', 'so that buyers know it is genuine']
+---
+---
+AI Response = ['so that buyers know what their money will buy', 'so that sellers will accept it as payment']
+---
+---
+Click = Box(left=302, top=597, width=20, height=26)
+---
+---
+Click = Box(left=302, top=633, width=20, height=26)
+---
+---
+Correct Answer = ['so that buyers know what their money will buy', 'so that sellers will accept it as payment']
+---
+---
+Question = Question:
+Which type of money derives its value from government decree, and not from gold or silver?
+
+
+---
+---
+Responses = ['fiat money', 'commodity money', 'commercial money', 'representative money']
+---
+---
+AI Response = fiat money
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['fiat money']
+---
+---
+Question = Question:
+Which legislation led to the creation of a national currency and national banking system?
+
+
+---
+---
+Responses = [' Federal Reserve Act of 1913', 'National Bank Act of 1863', 'Banking Act of 1933', 'Federal Deposit Insurance Act of 1950']
+---
+---
+AI Response = National Bank Act of 1863
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['National Bank Act of 1863']
+---
+---
+Question = Question:
+What is one way credit unions differ from commercial banks?
+
+
+---
+---
+Responses = ['Credit unions do not make real estate loans.', 'Credit unions do not have members.', 'Credit unions do not offer a variety of loans.', 'Credit unions do not exist to make a profit.']
+---
+---
+AI Response = Credit unions do not exist to make a profit.
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['Credit unions do not exist to make a profit.']
+---
+---
+Question = Question:
+Which is true regarding recent banking innovations?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Banking apps can be set to alert account holders of low balances.', 'People can deposit checks without visiting a bank.', 'Banks have stopped offering checking accounts.', 'Banks only accept deposits via an app or ATM machine.']
+---
+---
+AI Response = ['Banking apps can be set to alert account holders of low balances.', 'People can deposit checks without visiting a bank.']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=597, width=20, height=26)
+---
+---
+Correct Answer = ['Banking apps can be set to alert account holders of low balances.', 'People can deposit checks without visiting a bank.']
+---
+---
+Question = Question:
+What services do commercial banks provide?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = [' Banks offer customers investment accounts and services.', ' Banks offer customers a place to prepare and file tax returns.', 'Banks offer customers the ability to borrow money through loans.', 'Banks offer customers checking and savings accounts.']
+---
+---
+AI Response = ['Banks offer customers checking and savings accounts.', 'Banks offer customers the ability to borrow money through loans.']
+---
+---
+Click = Box(left=302, top=633, width=20, height=26)
+---
+---
+Click = Box(left=302, top=670, width=20, height=26)
+---
+---
+Correct Answer = ['Banks offer customers the ability to borrow money through loans.', 'Banks offer customers checking and savings accounts.']
+---
+---
+Question = Question:
+What government action occurred due to the Savings and Loan Crisis?
+
+
+---
+---
+Responses = ['Congress passed legislation restricting S&Ls from providing home loans.', 'Congress passed legislation forbidding S&Ls to accept deposits greater than $100,000.', 'Congress passed legislation supporting the deregulation of S&Ls.', 'Congress passed legislation transferring insurance coverage for S&Ls to the FDIC.']
+---
+---
+AI Response = Congress passed legislation transferring insurance coverage for S&Ls to the FDIC.
+---
+---
+Click = Box(left=302, top=668, width=20, height=26)
+---
+---
+Correct Answer = ['Congress passed legislation transferring insurance coverage for S&Ls to the FDIC.']
+---
+---
+Question = Question:
+What are consequences of the Savings and Loan Crisis?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Some people who worked at S&Ls were jailed for fraud.', 'United States taxpayers had to pay $100 billion in insurance claims.', 'The Federal Home Loan Bank Board (FHLBB) was established.', 'Regulations for S&Ls became much weaker.']
+---
+---
+AI Response = ['Some people who worked at S&Ls were jailed for fraud.', 'United States taxpayers had to pay $100 billion in insurance claims.']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['Some people who worked at S&Ls were jailed for fraud.', 'United States taxpayers had to pay $100 billion in insurance claims.']
+---
+---
+Question = Question:
+What was the purpose of the Banking Act of 1933?
+
+
+---
+---
+Responses = ['to improve bank security', 'to increase commercial bank lending', 'to expand bank ownership of securities', 'to develop investment banks']
+---
+---
+AI Response = to improve bank security
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['to improve bank security']
+---
+---
+Percentage = a
+---
+---
+Error: Input Percentage Manually
+Percentage =
+86Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 77, in percentage
+    show(percentage, 'Percentage')
+                 ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'a'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 340, in <module>
+    if checkfor('yes'):
+        ^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 118, in finish
+    x = False
+       ^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 84, in percentage
+    print('---\nError: Input Percentage Manually\nPercentage = ')
+    ^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question = Question:
+How does the circular flow of the financial system work?
+
+
+---
+---
+Responses = ['The government deposits funds into financial intermediaries, who then lend a portion to regional banks.', 'Borrowers deposit funds into financial intermediaries, who then lend a portion to savers.', 'Corporations deposit funds into financial intermediaries, who then lend a portion to Federal Reserve banks.', 'Savers deposit funds into financial intermediaries, who then lend a portion to borrowers.']
+---
+---
+AI Response = Savers deposit funds into financial intermediaries, who then lend a portion to borrowers.
+---
+---
+Click = Box(left=302, top=710, width=20, height=26)
+---
+---
+Correct Answer = ['Savers deposit funds into financial intermediaries, who then lend a portion to borrowers.']
+---
+---
+Question = Question:
+What is the primary role of a financial intermediary?
+
+
+---
+---
+Responses = ['to channel funds between savers and borrowers', 'to provide tax preparation services for corporations', ' to trade stocks on the New York Stock Exchange', ' to channel funds between foreign governments']
+---
+---
+AI Response = to channel funds between savers and borrowers
+---
+---
+Click = Box(left=302, top=532, width=20, height=26)
+---
+---
+Correct Answer = ['to channel funds between savers and borrowers']
+---
+---
+Percentage = 100
+---
+---
+Question = Question:
+What are the functions of a finance company?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['provide loans directly to consumers', 'purchase installment contracts from merchants', 'provide certificates of deposit to merchants', 'purchase mutual funds from a collection of investors']
+---
+---
+AI Response = ['provide loans directly to consumers', 'purchase installment contracts from merchants']
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['provide loans directly to consumers', 'purchase installment contracts from merchants']
+---
+---
+Question = Question:
+Read the definition.
+
+a regular payment dispersed to an individual during retirement from an investment fund to which an individual or employer has contributed
+
+Which is being defined?
+
+
+---
+---
+Responses = ['pension', 'equity', 'premium', 'dividend']
+---
+---
+AI Response = pension
+---
+---
+Click = Box(left=302, top=620, width=20, height=26)
+---
+---
+Correct Answer = ['pension']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+What is the definition of risk?
+
+
+---
+---
+Responses = [' the value of interest rates at the time of investment', ' the liquidity of an investment', 'the possibility of losing value on an investment', ' the rate of return on an investment']
+---
+---
+AI Response = the possibility of losing value on an investment
+---
+---
+Click = Box(left=302, top=592, width=20, height=26)
+---
+---
+Correct Answer = ['the possibility of losing value on an investment']
+---
+---
+Question = Question:
+What is the definition of return?
+
+
+---
+---
+Responses = ['the percentage of loss from a short-term investment', 'the profit or loss accumulated from an investment', 'the liquidity, or lack of liquidity, for an investment', 'the net profit of an investment when adjusted for inflation']
+---
+---
+AI Response = the profit or loss accumulated from an investment
+---
+---
+Click = Box(left=302, top=555, width=20, height=26)
+---
+---
+Correct Answer = ['the profit or loss accumulated from an investment']
+---
+---
+Percentage = 100
+---
+---
+Question = Question:
+What is the definition of a stock?
+
+
+---
+---
+Responses = ['a security sold by a corporation in exchange for shares of ownership in the company', 'a part of a company’s profits that are shared with its employees through bonuses', ' a pooling of investors and their funds to purchase a range of financial assets', 'a contract in which an investor loans money to a corporation and earns interest on a fixed schedule']
+---
+---
+AI Response = a security sold by a corporation in exchange for shares of ownership in the company
+---
+---
+Click = Box(left=302, top=542, width=20, height=26)
+---
+---
+Correct Answer = ['a security sold by a corporation in exchange for shares of ownership in the company']
+---
+---
+Question = Question:
+What is best defined as a “contract in which an individual loans money to a corporation and earns interest on a fixed schedule in return”?
+
+
+---
+---
+Responses = ['bond', 'stock', 'mutual fund', 'certificate of deposit']
+---
+---
+AI Response = bond
+---
+---
+Click = Box(left=302, top=551, width=20, height=26)
+---
+---
+Correct Answer = ['bond']
+---
+---
+Percentage = Slava’
+---
+Error on 100%
+---
+Discussion Detected - Press Enter when you are ready to continue...
+Traceback (most recent call last):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 204, in locateCenterOnScreen
+    return pyscreeze.locateCenterOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.555)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 346, in <module>
+    wait('Discussion')
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 48, in wait
+    click('strongmind')
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 59, in click
+    pyautogui.click(find(png, conf))
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 53, in find
+    return(pyautogui.locateCenterOnScreen(f'img/{png}.png', confidence=conf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 174, in wrapper
+    raise ImageNotFoundException  # Raise PyAutoGUI's ImageNotFoundException.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyautogui.ImageNotFoundException
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question = Question:
+Read the sentence.
+
+The government decides to raise taxes to spend more on programs.
+
+What effect will this most likely have on the economy?
+
+
+---
+---
+Responses = ['Raising taxes will decrease aggregate demand.', 'Raising taxes will increase aggregate demand.', 'Raising taxes will decrease the market price equilibrium.', 'Raising taxes will increase inflation.']
+---
+---
+AI Response = Raising taxes will decrease aggregate demand.
+---
+---
+Click = Box(left=302, top=615, width=20, height=26)
+---
+---
+Correct Answer = ['Raising taxes will decrease aggregate demand.']
+---
+---
+Question = Question:
+Read the scenario.
+
+Kim received a small raise at work so that her salary went from $58,000 per year to $60,000 per year. She is concerned that it might move her to the next tax bracket.
+
+Why would Kim be concerned about that?
+
+
+---
+---
+Responses = ['If she moves into another bracket, she would be forced by law to use an accountant to file taxes.', 'If she moves into another bracket, she can no longer use the 1040EZ.', 'If she moves into another bracket, she will pay a higher percentage for a portion of her taxes.', 'If she moves into another bracket, she will no longer receive a tax return.']
+---
+---
+AI Response = If she moves into another bracket, she will pay a higher percentage for a portion of her taxes.
+---
+---
+Click = Box(left=302, top=714, width=20, height=26)
+---
+---
+Correct Answer = ['If she moves into another bracket, she will pay a higher percentage for a portion of her taxes.']
+---
+---
+Question = Question:
+Which is an argument against the use of the ability-to-pay principal of taxation?
+
+
+---
+---
+Responses = ['People are not willing to pay unless they receive something in return.', 'It reduces the incentive to work hard and take risks to succeed.', 'It is difficult to determine who receives benefits from government spending.', 'People who earn more money have benefitted more from society.']
+---
+---
+AI Response = It reduces the incentive to work hard and take risks to succeed.
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['It reduces the incentive to work hard and take risks to succeed.']
+---
+---
+Question = Question:
+Which is an accurate comparison of corporate income taxes and individual income taxes?
+
+
+---
+---
+Responses = ['Corporate income taxes are approximately 50 percent of individual income taxes.', 'Corporate income taxes are over twice as much as individual income taxes.', 'Corporate income taxes are just about equal to individual income taxes.', 'Corporate income taxes are less than a quarter of individual income taxes.']
+---
+---
+AI Response = Corporate income taxes are less than a quarter of individual income taxes.
+---
+---
+Click = Box(left=302, top=634, width=20, height=26)
+---
+---
+Correct Answer = ['Corporate income taxes are less than a quarter of individual income taxes.']
+---
+---
+Question = Question:
+What is true regarding tax revenue at the state level?
+
+
+---
+---
+Responses = ['Many states rely on Medicare taxes to generate revenue.', 'Many states rely on excise taxes to generate revenue.', 'Many states rely on sales taxes to generate revenue.', 'Many states rely on Social Security taxes to generate revenue.']
+---
+---
+AI Response = Many states rely on sales taxes to generate revenue.
+---
+---
+Click = Box(left=302, top=598, width=20, height=26)
+---
+---
+Correct Answer = ['Many states rely on sales taxes to generate revenue.']
+---
+---
+Question = Question:
+Why is tax reform needed in the United States?
+
+
+---
+---
+Responses = ['The tax system has become overly complex and is losing some of its efficiency.', 'Current income taxes are regressive but need to become progressive.', 'The Constitution does not allow income tax collection even though it occurs.', 'The existing system makes it impossible to collect enough revenue.']
+---
+---
+AI Response = The tax system has become overly complex and is losing some of its efficiency.
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['The tax system has become overly complex and is losing some of its efficiency.']
+---
+---
+Question = Question:
+What is true regarding transfer payments?
+
+
+---
+---
+Responses = ['They are used to purchase goods for the federal government.', 'They do not result in the purchase of a good by the federal government.', 'They are not used to provide services from the state governments.', 'They are used by state governments to send money to the federal government.']
+---
+---
+AI Response = They do not result in the purchase of a good by the federal government.
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['They do not result in the purchase of a good by the federal government.']
+---
+---
+Question = Question:
+What is an example of government expenditure that positively affects the economy?
+
+
+---
+---
+Responses = ['The government increases tariffs with foreign nations, resulting in a trade freeze.', 'The government opens a military base in a small town, increasing demand for local products.', 'The government increases corporate taxes, causing prices of goods to increase.', 'The government increases regulations on the airline industry, increasing barriers to entry.']
+---
+---
+AI Response = The government opens a military base in a small town, increasing demand for local products.
+---
+---
+Click = Box(left=302, top=571, width=20, height=26)
+---
+---
+Correct Answer = ['The government opens a military base in a small town, increasing demand for local products.']
+---
+---
+Question = Question:
+What is the result of government spending on higher education?
+
+
+---
+---
+Responses = ['Public universities have lower tuition rates than do private universities.', 'Private universities have lower tuition rates than do public universities.', 'Private universities lack research-based programs compared to public universities.', 'Public universities are able to operate while running yearly deficits.']
+---
+---
+AI Response = Public universities have lower tuition rates than do private universities.
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['Public universities have lower tuition rates than do private universities.']
+---
+---
+Question = Question:
+What is true about the federal budget?
+
+
+---
+---
+Responses = ['Congress cannot remove anything from the budget unless the president agrees.', 'The president develops it and presents it to Congress for approval.', 'Congress is required to balance the budget each year.', 'The president can veto portions of the budget that are wasteful.']
+---
+---
+AI Response = The president develops it and presents it to Congress for approval.
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['The president develops it and presents it to Congress for approval.']
+---
+---
+Question = Question:
+What role do state governments play in funding education?
+
+
+---
+---
+Responses = ['They play a minor role in funding education.', 'They provide significant funds for education.', 'They are the sole providers of education funds.', 'They fund only institutions of higher education.']
+---
+---
+AI Response = They provide significant funds for education.
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['They provide significant funds for education.']
+---
+---
+Question = Question:
+Social welfare programs enacted by the government to help people in need focus on which primary areas?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['food', 'medical care', 'housing', 'tuition assistance']
+---
+---
+AI Response = ['food', 'medical care', 'housing']
+---
+---
+Click = Box(left=302, top=580, width=20, height=26)
+---
+---
+Click = Box(left=302, top=616, width=20, height=26)
+---
+---
+Click = Box(left=302, top=653, width=20, height=26)
+---
+---
+Correct Answer = ['food', 'medical care', 'housing']
+---
+---
+Question = Question:
+What is the difference between government deficit and national debt?
+
+
+---
+---
+Responses = [' Government deficit is money owed to other countries; national debt is a shortage of currency.', 'Government deficit is caused by poor laws; national debt is caused by too many taxes.', 'Government deficit is solved by taxation; national debt is solved by taking out loans.', 'Government deficit is a yearly discrepancy; national debt is accumulated over time.']
+---
+---
+AI Response = Government deficit is a yearly discrepancy; national debt is accumulated over time.
+---
+---
+Click = Box(left=302, top=693, width=20, height=26)
+---
+---
+Correct Answer = ['Government deficit is a yearly discrepancy; national debt is accumulated over time.']
+---
+---
+Question = Question:
+What is true about the United States national debt?
+
+
+---
+---
+Responses = [' It was the cause of the 2008 housing market crash.', 'It requires the government to pay large yearly interest payments.', 'It has resulted in significant cuts to Social Security and Medicare.', 'It leads to rapid inflation and rising unemployment.']
+---
+---
+AI Response = It requires the government to pay large yearly interest payments.
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['It requires the government to pay large yearly interest payments.']
+---
+---
+Question = Question:
+How does the federal debt impact the economy?
+
+
+---
+---
+Responses = ['It can slow growth by decreasing the tax rate.', 'It can slow growth by decreasing the cost to borrow money.', ' It can slow growth by preventing inflation.', 'It can slow growth by decreasing consumer confidence.']
+---
+---
+AI Response = It can slow growth by decreasing consumer confidence.
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['It can slow growth by decreasing consumer confidence.']
+---
+---
+Question = Question:
+How would a balanced budget amendment to the Constitution discourage deficit spending?
+
+
+---
+---
+Responses = ['It would force repayment of the federal debt before another budget deficit would be allowed.', 'It would prohibit Congress from adding any new funding to the president’s budget.', 'It would require that, in a new budget, expenses could not exceed revenue in most situations.', 'It would change the budget process, so that Congress and the president have to collaborate.']
+---
+---
+AI Response = It would require that, in a new budget, expenses could not exceed revenue in most situations.
+---
+---
+Click = Box(left=302, top=627, width=20, height=26)
+---
+---
+Correct Answer = ['It would require that, in a new budget, expenses could not exceed revenue in most situations.']
+---
+---
+Question = Question:
+Which type of discretionary spending usually has wide support?
+
+
+---
+---
+Responses = ['spending that helps a specific group', 'spending that provides health care', 'spending associated with entitlement programs', 'spending that helps a large group']
+---
+---
+AI Response = spending that helps a large group
+---
+---
+Click = Box(left=302, top=634, width=20, height=26)
+---
+---
+Correct Answer = ['spending that helps a large group']
+---
+---
+Question = Question:
+What is the largest area of federal discretionary spending each year?
+
+
+---
+---
+Responses = ['space program', 'defense spending', 'veterans benefits', 'social security']
+---
+---
+AI Response = defense spending
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['defense spending']
+---
+---
+Question = Question:
+Why does money need to be in limited supply?
+
+
+---
+---
+Responses = ['to prevent counterfeiting', 'it is tied to commodities', 'it is tied to gold', 'to protect its value']
+---
+---
+AI Response = to protect its value
+---
+---
+Click = Box(left=302, top=598, width=20, height=26)
+---
+---
+Correct Answer = ['to protect its value']
+---
+---
+Question = Question:
+Read the sentences.
+
+An important function of money is to act as a store of value. Gold is excellent as a store of value.
+
+What is a difficulty with using gold as money?
+
+
+---
+---
+Responses = ['It can deteriorate quickly.', 'It is impossible to transport easily.', 'It is not widely acceptable to people.', 'It is difficult to divide into smaller units.']
+---
+---
+AI Response = It is difficult to divide into smaller units.
+---
+---
+Click = Box(left=302, top=685, width=20, height=26)
+---
+---
+Correct Answer = ['It is difficult to divide into smaller units.']
+---
+---
+Question = Question:
+Which is true about central banking in the United States?
+
+
+---
+---
+Responses = ['It began with the Banking Act of 1863.', 'It ended with the passage of the Gold Standard Act of 1900.', 'It began with the creation of the First Bank of the United States.', 'It ended with the creation of the Federal Reserve Bank.']
+---
+---
+AI Response = It began with the creation of the First Bank of the United States.
+---
+---
+Click = Box(left=302, top=562, width=20, height=26)
+---
+---
+Correct Answer = ['It began with the creation of the First Bank of the United States.']
+---
+---
+Question = Question:
+What do savings and loans specialize in?
+
+
+---
+---
+Responses = ['accepting very large deposits', 'making real estate loans', 'selling a variety of securities', ' offering high-interest deposit accounts']
+---
+---
+AI Response = making real estate loans
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['making real estate loans']
+---
+---
+Question = Question:
+What is automatic bill pay?
+
+
+---
+---
+Responses = [' a system people can use to have their bills paid each month from their bank account', 'a system companies use to receive past-due funds that people owe', 'a system banks use to ensure that people pay the fees they owe for account overdrafts', 'a system the government uses to make sure people pay their property taxes']
+---
+---
+AI Response =  a system people can use to have their bills paid each month from their bank account
+---
+---
+Click = Box(left=302, top=535, width=20, height=26)
+---
+---
+Correct Answer = [' a system people can use to have their bills paid each month from their bank account']
+---
+---
+Question = Question:
+What are the purposes of financial intermediaries?
+
+(Select three that apply.)
+
+
+---
+---
+Responses = ['enable people to day-trade stocks and bonds', 'enable people to purchase a certificate of deposit (CD)', 'enable people to earn a profit storing money', 'enable people to store money in a safe place']
+---
+---
+AI Response = ['enable people to store money in a safe place', 'enable people to purchase a certificate of deposit (CD)', 'enable people to earn a profit storing money']
+---
+---
+Click = Box(left=302, top=597, width=20, height=26)
+---
+---
+Click = Box(left=302, top=633, width=20, height=26)
+---
+---
+Click = Box(left=302, top=634, width=20, height=26)
+---
+---
+Correct Answer = ['enable people to purchase a certificate of deposit (CD)', 'enable people to earn a profit storing money', 'enable people to store money in a safe place']
+---
+---
+Question = Question:
+What are examples of banking financial intermediaries?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['savings and loans', 'stock brokerages', 'commercial banks', 'credit unions']
+---
+---
+AI Response = ['savings and loans', 'commercial banks', 'credit unions']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=633, width=20, height=26)
+---
+---
+Click = Box(left=302, top=670, width=20, height=26)
+---
+---
+Correct Answer = ['savings and loans', 'commercial banks', 'credit unions']
+---
+---
+Question = Question:
+What are examples of nonbank financial intermediaries?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['finance companies', 'savings and loans', 'credit unions', 'life insurance companies']
+---
+---
+AI Response = ['finance companies', 'life insurance companies']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=670, width=20, height=26)
+---
+---
+Correct Answer = ['finance companies', 'life insurance companies']
+---
+---
+Question = Question:
+Which accurately describes a 401(k) plan?
+
+
+---
+---
+Responses = ['a tax deferred retirement plan offered by employers', 'an IOU issued by the government promising a fixed rate of return', 'US government securities purchased as a group through an investment firm', 'a security that represents part ownership of a company']
+---
+---
+AI Response = a tax deferred retirement plan offered by employers
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['a tax deferred retirement plan offered by employers']
+---
+---
+Question = Question:
+Which accurately describes a money market account?
+
+
+---
+---
+Responses = ['a retirement package offered strictly to government employees', 'a savings account at a bank that requires a high minimum balance', 'part ownership of a company, purchased from a brokerage house', 'securities purchased as a group through an investment firm']
+---
+---
+AI Response = a savings account at a bank that requires a high minimum balance
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['a savings account at a bank that requires a high minimum balance']
+---
+---
+Question = Question:
+Which type of bond is considered the safest and offers the least amount of risk?
+
+
+---
+---
+Responses = ['corporate bond', 'municipal bond', 'treasury bond', 'foreign bond']
+---
+---
+AI Response = treasury bond
+---
+---
+Click = Box(left=302, top=598, width=20, height=26)
+---
+---
+Correct Answer = ['treasury bond']
+---
+---
+Percentage = 87
+---
+---
+Project Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+Read the sentence.
+
+The gross domestic product (GDP) shrunk by 2 percent over a 12-month period.
+
+What can you infer about the economy?
+
+
+---
+---
+Responses = ['The GDP indicates a decline in interest rates.', 'The GDP indicates an economic expansion.', 'The GDP indicates a rise on interest rates.', 'The GDP indicates an economic contraction.']
+---
+---
+AI Response = The GDP indicates an economic contraction.
+---
+---
+Click = Box(left=302, top=708, width=20, height=26)
+---
+---
+Correct Answer = ['The GDP indicates an economic contraction.']
+---
+---
+Question = Question:
+Read the sentence.
+
+To calculate _[blank]_, the quantity of final goods and services are multiplied by the price.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['interest rates', 'consumer price index', 'gross domestic product', 'inflation']
+---
+---
+AI Response = gross domestic product
+---
+---
+Click = Box(left=302, top=691, width=20, height=26)
+---
+---
+Correct Answer = ['gross domestic product']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+What is included in the consumer price index (CPI)?
+
+
+---
+---
+Responses = ['all goods produced by US companies', 'a sampling of goods from manufacturing', 'a sampling of goods across industries', 'all goods produced in the United States']
+---
+---
+AI Response = a sampling of goods across industries
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['a sampling of goods across industries']
+---
+---
+Question = Question:
+What is the consumer price index (CPI)?
+
+
+---
+---
+Responses = ['a measure of inflation', 'a measure of tax rates', 'a measure of unemployment', 'a measure of economic growth']
+---
+---
+AI Response = a measure of inflation
+---
+---
+Click = Box(left=302, top=533, width=20, height=26)
+---
+---
+Correct Answer = ['a measure of inflation']
+---
+---
+Percentage = 100
+---
+---
+Question = Question:
+What is defined as a common indicator of an economy’s health based on the total value of goods and services produced during a fiscal year?
+
+
+---
+---
+Responses = ['unemployment rate', 'consumer price index', 'debt to equity ratio', 'gross domestic product']
+---
+---
+AI Response = gross domestic product
+---
+---
+Click = Box(left=302, top=697, width=20, height=26)
+---
+---
+Correct Answer = ['gross domestic product']
+---
+---
+Question = Question:
+What is an economic indicator that calculates the total value of goods and services produced during a fiscal year that also factors in inflation?
+
+
+---
+---
+Responses = ['real gross domestic product', 'producer price index', 'gross domestic product', 'consumer price index']
+---
+---
+AI Response = gross domestic product
+---
+---
+Click = Box(left=302, top=661, width=20, height=26)
+---
+---
+Correct Answer = ['gross domestic product']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+50
+50
+---
+---
+Percentage = 50
+---
+---
+Question = Question:
+What is defined as a common indicator of an economy’s health based on the total value of goods and services produced during a fiscal year?
+
+
+---
+---
+Responses = ['unemployment rate', 'gross domestic product', 'consumer price index', 'debt to equity ratio']
+---
+---
+AI Response = gross domestic product
+---
+---
+Click = Box(left=302, top=624, width=20, height=26)
+---
+---
+Correct Answer = ['gross domestic product']
+---
+---
+Question = Question:
+What is an economic indicator that calculates the total value of goods and services produced during a fiscal year that also factors in inflation?
+
+
+---
+---
+Responses = ['gross domestic product', 'consumer price index', 'producer price index', 'real gross domestic product']
+---
+---
+AI Response = real gross domestic product
+---
+---
+Click = Box(left=302, top=588, width=20, height=26)
+---
+---
+Click = Box(left=302, top=697, width=20, height=26)
+---
+---
+Correct Answer = ['gross domestic product', 'real gross domestic product']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+Read the sentence.
+
+The _[blank]_ approach adds up the value at each stage of production, where the value added is the total sales minus the value of intermediate inputs.
+
+Which accurately completes the sentence?
+
+
+---
+---
+Responses = ['production', 'spending', 'advertising', 'income']
+---
+---
+AI Response = production
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['production']
+---
+---
+Question = Question:
+What is defined as the market value of all final goods and services produced in a country in a specific time frame?
+
+
+---
+---
+Responses = ['consumer price index', 'Human Development Index', 'gross domestic product', 'Dow Jones Industrial Average']
+---
+---
+AI Response = gross domestic product
+---
+---
+Click = Box(left=302, top=625, width=20, height=26)
+---
+---
+Correct Answer = ['gross domestic product']
+---
+---
+Percentage = 100
+---
+---
+Question = Question:
+Read the sentence.
+
+One way that a weak economy can affect _[blank]_ is that it can make accepting and distributing goods more difficult, as well as intensify scarcity.
+
+Which accurately completes the sentence?
+
+
+---
+---
+Responses = ['the standard of living', 'foreign trade', 'government spending', 'entrepreneurship']
+---
+---
+AI Response = the standard of living
+---
+---
+Click = Box(left=302, top=620, width=20, height=26)
+---
+---
+Correct Answer = ['the standard of living']
+---
+---
+Question = Question:
+Read the sentence.
+
+One way that a strong economy affects _[blank]_ is that it makes business owners more prone to take risks.
+
+Which accurately completes the sentence?
+
+
+---
+---
+Responses = ['entrepreneurship', 'government spending', 'foreign trade', 'the standard of living']
+---
+---
+AI Response = entrepreneurship
+---
+---
+Click = Box(left=302, top=620, width=20, height=26)
+---
+---
+Correct Answer = ['entrepreneurship']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+
+50
+---
+---
+Percentage = 50
+---
+---
+Question = Question:
+Read the sentence.
+
+One way that a weak economy can affect _[blank]_ is that it can make accepting and distributing goods more difficult, as well as intensify scarcity.
+
+Which accurately completes the sentence?
+
+
+---
+---
+Responses = ['entrepreneurship', 'government spending', 'the standard of living', 'foreign trade']
+---
+---
+AI Response = the standard of living
+---
+---
+Click = Box(left=302, top=692, width=20, height=26)
+---
+---
+Correct Answer = ['the standard of living']
+---
+---
+Question = Question:
+Read the sentence.
+
+One way that a strong economy affects _[blank]_ is that it makes business owners more prone to take risks.
+
+Which accurately completes the sentence?
+
+
+---
+---
+Responses = ['government spending', 'the standard of living', 'foreign trade', 'entrepreneurship']
+---
+---
+AI Response = entrepreneurship
+---
+---
+Click = Box(left=302, top=729, width=20, height=26)
+---
+---
+Correct Answer = ['entrepreneurship']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+80
+80
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+Traceback (most recent call last):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 204, in locateCenterOnScreen
+    return pyscreeze.locateCenterOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.555)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 346, in <module>
+    wait('Discussion')
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 48, in wait
+    click('strongmind')
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 59, in click
+    pyautogui.click(find(png, conf))
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 53, in find
+    return(pyautogui.locateCenterOnScreen(f'img/{png}.png', confidence=conf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 174, in wrapper
+    raise ImageNotFoundException  # Raise PyAutoGUI's ImageNotFoundException.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyautogui.ImageNotFoundException
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question = Question:
+What does a decline in gross domestic product (GDP) communicate to economists?
+
+
+---
+---
+Responses = ['The total dollar value of all intermediate goods and services within a 12-month period decreased.', 'The total dollar value of all final goods and services within a 12-month period decreased.', 'The prices of all final goods and services within a 12-month period decreased.', ' The rate of inflation of all intermediate goods and services within a 12-month period decreased.']
+---
+---
+AI Response = The total dollar value of all final goods and services within a 12-month period decreased.
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['The total dollar value of all final goods and services within a 12-month period decreased.']
+---
+---
+Question = Question:
+What is the formula for measuring GDP?
+
+
+---
+---
+Responses = ['final goods and services divided by the price', 'final goods and services multiplied by the price', 'intermediate goods and services divided by the price', 'intermediate goods and services multiplied by the price']
+---
+---
+AI Response = final goods and services multiplied by the price
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['final goods and services multiplied by the price']
+---
+---
+Question = Question:
+Which accurately describes price indexes economists use to monitor prices and inflation?
+
+
+---
+---
+Responses = ['Consumer price indexes economists use to measure prices and inflation include the gross national product and the gross domestic product.', 'Consumer price indexes economists use to measure prices and inflation include the consumer price index, the producer price index, and the GDP deflator.', ' Consumer price indexes economists use to measure prices and inflation include NASDAQ, S&P 500, and the Dow Jones.', 'Consumer price indexes economists use to measure prices and inflation include the Lorenz curve and the Phillips curve.']
+---
+---
+AI Response = Consumer price indexes economists use to measure prices and inflation include the consumer price index, the producer price index, and the GDP deflator.
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['Consumer price indexes economists use to measure prices and inflation include the consumer price index, the producer price index, and the GDP deflator.']
+---
+---
+Question = Question:
+How does a change in population impact gross domestic product (GDP)?
+
+
+---
+---
+Responses = ['If the population decreases and production increases, per capita GDP will decrease.', 'If the population increases but production stays the same, per capita GDP will decrease.', 'If the population increases and production increases, per capita GDP will decrease.', 'If the population decreases and production decreases, per capita GDP will increase.']
+---
+---
+AI Response = If the population increases but production stays the same, per capita GDP will decrease.
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['If the population increases but production stays the same, per capita GDP will decrease.']
+---
+---
+Question = Question:
+How does an increase of the retiree (elderly) population impact the economy?
+
+
+---
+---
+Responses = ['An increase in nonproducing citizens increases gross national product.', ' An increase in nonproducing citizens decreases the consumer price index.', 'An increase in nonproducing citizens increases per capita GDP.', 'An increase in nonproducing citizens decreases per capita GDP.']
+---
+---
+AI Response = An increase in nonproducing citizens decreases per capita GDP.
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['An increase in nonproducing citizens decreases per capita GDP.']
+---
+---
+Question = Question:
+How does increasing life expectancy affect population size?
+
+
+---
+---
+Responses = ['Increasing life expectancy decreases the death rate, which increases population size.', 'Increasing life expectancy increases the death rate, which decreases population size.', 'Increasing life expectancy decreases the death rate, which decreases population size.', 'Increasing life expectancy increases the death rate, which increases population size.']
+---
+---
+AI Response = Increasing life expectancy decreases the death rate, which increases population size.
+---
+---
+Click = Box(left=302, top=549, width=20, height=26)
+---
+---
+Correct Answer = ['Increasing life expectancy decreases the death rate, which increases population size.']
+---
+---
+Question = Question:
+How is real GDP different from nominal GDP?
+
+
+---
+---
+Responses = ['Real GDP is not adjusted for inflation and often appears higher than nominal GDP.', 'Real GDP is adjusted for inflation and often appears higher than nominal GDP.', 'Real GDP is not adjusted for inflation and often appears lower than nominal GDP.', 'Real GDP is adjusted for inflation and often appears lower than nominal GDP.']
+---
+---
+AI Response = Real GDP is adjusted for inflation and often appears lower than nominal GDP.
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['Real GDP is adjusted for inflation and often appears lower than nominal GDP.']
+---
+---
+Question = Question:
+When would nominal GDP appear lower than real GDP?
+
+
+---
+---
+Responses = ['when the rate of growth is positive', 'when the rate of inflation is negative', 'when the rate of growth is negative', 'when the rate of inflation is positive']
+---
+---
+AI Response = when the rate of inflation is negative
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['when the rate of inflation is negative']
+---
+---
+Question = Question:
+Read the sentences.
+
+When measuring GDP, it is important to note that businesses’ goods flow to consumers, whose payments for those goods provide profits for those businesses. This process can be depicted as flowing in a _[blank]_ shape.
+
+Which accurately completes the sentence?
+
+
+---
+---
+Responses = ['circular', 'unidentifiable', 'linear', 'rectangular']
+---
+---
+AI Response = circular
+---
+---
+Click = Box(left=302, top=645, width=20, height=26)
+---
+---
+Correct Answer = ['circular']
+---
+---
+Question = Question:
+Why is measuring economic performance important?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['It can help individuals know how their standard of living could be affected.', 'It can help businesses know how their ability to take risks with new products could be affected.', ' It can help legislators know whether they should write more tax laws.', 'It can help governments know how their spending could be affected.']
+---
+---
+AI Response = ['It can help individuals know how their standard of living could be affected.', 'It can help businesses know how their ability to take risks with new products could be affected.', 'It can help governments know how their spending could be affected.']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Click = Box(left=302, top=667, width=20, height=26)
+---
+---
+Correct Answer = ['It can help individuals know how their standard of living could be affected.', 'It can help businesses know how their ability to take risks with new products could be affected.', 'It can help governments know how their spending could be affected.']
+---
+---
+Percentage = 90
+---
+---
+Question = Question:
+What does gross domestic product (GDP) measure?
+
+
+---
+---
+Responses = ['economic growth', 'consumer prices', 'demand', 'inflation']
+---
+---
+AI Response = economic growth
+---
+---
+Click = Box(left=302, top=532, width=20, height=26)
+---
+---
+Correct Answer = ['economic growth']
+---
+---
+Question = Question:
+Review the list.
+
+a rising unemployment rate
+a decline in GDP
+What does the list indicate about economic growth?
+
+
+---
+---
+Responses = ['The economy is in a boom.', 'The economy has reached a trough.', 'The economy is about to grow.', 'The economy is in a decline.']
+---
+---
+AI Response = The economy is in a decline.
+---
+---
+Click = Box(left=302, top=692, width=20, height=26)
+---
+---
+Correct Answer = ['The economy is in a decline.']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question = Question:
+What does gross domestic product (GDP) measure?
+
+
+---
+---
+Responses = ['inflation', 'economic growth', 'consumer prices', 'demand']
+---
+---
+AI Response = economic growth
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Correct Answer = ['economic growth']
+---
+---
+Question = Question:
+Review the list.
+
+a rising unemployment rate
+a decline in GDP
+What does the list indicate about economic growth?
+
+
+---
+---
+Responses = ['The economy is in a decline.', 'The economy is about to grow.', 'The economy is in a boom.', 'The economy has reached a trough.']
+---
+---
+AI Response = The economy is in a decline.
+---
+---
+Click = Box(left=302, top=619, width=20, height=26)
+---
+---
+Correct Answer = ['The economy is in a decline.']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+What are potential causes of a business cycle expansion?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Interest rates are lowered to encourage borrowing.', 'A new industry is developed.', 'Interest rates are raised to stop inflation.', 'Production increases to meet new demands.']
+---
+---
+AI Response = ['Interest rates are lowered to encourage borrowing.', 'A new industry is developed.', 'Production increases to meet new demands.']
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Click = Box(left=302, top=678, width=20, height=26)
+---
+---
+Correct Answer = ['Interest rates are lowered to encourage borrowing.', 'A new industry is developed.', 'Production increases to meet new demands.']
+---
+---
+Question = Question:
+What are potential causes of a business cycle contraction?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Interest rates are lowered, making it easier to borrow money.', 'Interest rates are raised, making it more expensive to borrow money.', 'Production is slowed to minimize excess inventory.', 'War causes people to become reluctant to purchase goods.']
+---
+---
+AI Response = ['Interest rates are raised, making it more expensive to borrow money.', 'Production is slowed to minimize excess inventory.']
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Click = Box(left=302, top=641, width=20, height=26)
+---
+---
+Correct Answer = ['Interest rates are raised, making it more expensive to borrow money.', 'Production is slowed to minimize excess inventory.']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+83
+83
+---
+---
+Question = Question:
+Which type of unemployment is caused by a contraction of the business cycle?
+
+
+---
+---
+Responses = ['cyclical', 'frictional', 'seasonal', 'structural']
+---
+---
+AI Response = cyclical
+---
+---
+Click = Box(left=302, top=533, width=20, height=26)
+---
+---
+Correct Answer = ['cyclical']
+---
+---
+Question = Question:
+How can the government combat structural unemployment?
+
+
+---
+---
+Responses = ['increase spending on imports resulting in a trade deficit', 'discontinue Pell grants for legal immigrants', 'implement new training programs to help workers acquire new skills', 'increase the retirement age to receive Social Security benefits']
+---
+---
+AI Response = implement new training programs to help workers acquire new skills
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['implement new training programs to help workers acquire new skills']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+Which could cause rapid inflation?
+
+
+---
+---
+Responses = ['a significant wage increase', ' an increase in supply', 'a decrease in the cost of natural resources', 'a rise in stock prices']
+---
+---
+AI Response = a significant wage increase
+---
+---
+Click = Box(left=302, top=533, width=20, height=26)
+---
+---
+Correct Answer = ['a significant wage increase']
+---
+---
+Question = Question:
+What would be a government response to slow inflation?
+
+
+---
+---
+Responses = ['A government could raise taxes to decrease the money in circulation.', 'A government could increase interest rates to encourage business loans.', 'A government could decrease taxes to decrease the money in circulation.', 'A government could decrease interest rates to discourage business loans.']
+---
+---
+AI Response = A government could raise taxes to decrease the money in circulation.
+---
+---
+Click = Box(left=302, top=533, width=20, height=26)
+---
+---
+Correct Answer = ['A government could raise taxes to decrease the money in circulation.']
+---
+---
+Percentage = ar
+---
+Error on 100%
+---
+Question = Question:
+Read the scenario.
+
+Joanne, a former account manager at a large corporation, recently lost her job. Although her family can still pay its bills and afford groceries, the family no longer has discretionary income for leisure activities, such as going to restaurants or movie theaters. They have much less money compared to their friends and neighbors. This is an example of _[blank]_.
+
+Which most accurately completes the sentence?
+
+
+---
+---
+Responses = ['relative poverty', 'a population at risk', 'the poverty threshold', 'absolute poverty']
+---
+---
+AI Response = relative poverty
+---
+---
+Click = Box(left=302, top=652, width=20, height=26)
+---
+---
+Correct Answer = ['relative poverty']
+---
+---
+Question = Question:
+Which is an example of absolute poverty?
+
+
+---
+---
+Responses = ['The Smith family lives in an unsafe, decaying apartment with mold issues, and they oftentimes cannot afford food each day.', 'Jill lives in an expensive urban city and has $10,000 in credit card debt. She cannot afford to pay off her debt for many years.', ' Bill works part-time as a construction worker. He cannot afford a car but earns enough money to pay his bills.', ' The Davis family lives in an apartment complex in a large US city. The apartment complex is safe, yet there is some gang activity on a nearby corner.']
+---
+---
+AI Response = The Smith family lives in an unsafe, decaying apartment with mold issues, and they oftentimes cannot afford food each day.
+---
+---
+Click = Box(left=302, top=542, width=20, height=26)
+---
+---
+Correct Answer = ['The Smith family lives in an unsafe, decaying apartment with mold issues, and they oftentimes cannot afford food each day.']
+---
+---
+Percentage = 100
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+What is true regarding economic growth?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Economic growth creates jobs and in turn provides income.', 'Economic growth raises per capita gross domestic product (GDP).', 'Economic growth reduces the consumer price index (CPI).', 'Economic growth decreases the tax base.']
+---
+---
+AI Response = ['Economic growth creates jobs and in turn provides income.', 'Economic growth raises per capita gross domestic product (GDP).']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Correct Answer = ['Economic growth creates jobs and in turn provides income.', 'Economic growth raises per capita gross domestic product (GDP).']
+---
+---
+Question = Question:
+What is a desirable long-term growth rate of the GDP to show the economy is healthy while minimizing effects of inflation?
+
+
+---
+---
+Responses = ['20 percent to 30 percent', '10 percent to 15 percent', '6 percent to 8 percent', '2 percent to 3 percent']
+---
+---
+AI Response = '6 percent to 8 percent'
+---
+---
+Click = Box(left=302, top=617, width=20, height=26)
+---
+---
+Correct Answer = ['6 percent to 8 percent']
+---
+---
+Question = Question:
+How do improvements in technology impact economic growth in the long run?
+
+
+---
+---
+Responses = ['They trigger an increase in hiring, which leads to growth.', 'They cause a shift in resources during implementation, which slows growth.', 'They make production more efficient, which leads to growth.', 'They generate an increase in capital investment, which slows growth.']
+---
+---
+AI Response = They make production more efficient, which leads to growth.
+---
+---
+Click = Box(left=302, top=562, width=20, height=26)
+---
+---
+Correct Answer = ['They make production more efficient, which leads to growth.']
+---
+---
+Question = Question:
+Why might the economy slow during wartime?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = [' A government may reduce tariffs with rival nations.', ' People might stock up on products, which would cause inflation.', 'People might choose to save money instead of buy new products.', 'An economy may need to divert resources to a war effort.']
+---
+---
+AI Response = ['An economy may need to divert resources to a war effort.', 'People might choose to save money instead of buy new products.']
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Click = Box(left=302, top=684, width=20, height=26)
+---
+---
+Correct Answer = ['People might choose to save money instead of buy new products.', 'An economy may need to divert resources to a war effort.']
+---
+---
+Question = Question:
+Which describes frictional unemployment?
+
+
+---
+---
+Responses = ['Floyd quits his job at the store to look for a better-paying job in manufacturing.', 'Floyd loses his job at the factory, and he does not have the skills for other available jobs.', 'Floyd works at a retail store during the holidays, and he is laid off at the start of the new calendar year.', 'Floyd is working at a yogurt shop when he decides to quit his job and go back to school.']
+---
+---
+AI Response = Floyd loses his job at the factory, and he does not have the skills for other available jobs.
+---
+---
+Click = Box(left=302, top=585, width=20, height=26)
+---
+---
+Correct Answer = ['Floyd loses his job at the factory, and he does not have the skills for other available jobs.']
+---
+---
+Question = Question:
+Which is most likely to be implemented by the government to overcome structural unemployment?
+
+
+---
+---
+Responses = ['tax incentives to stimulate business growth', 'career counseling to help people find the jobs they really want', 'temporary assistance programs to provide aid through the holidays', 'courses or programs to help workers develop new skills']
+---
+---
+AI Response = courses or programs to help workers develop new skills
+---
+---
+Click = Box(left=302, top=654, width=20, height=26)
+---
+---
+Correct Answer = ['courses or programs to help workers develop new skills']
+---
+---
+Question = Question:
+What has happened when demand-pull causes inflation?
+
+
+---
+---
+Responses = ['Too much money chased too few goods.', 'There was not enough money to buy up the supply.', 'Incomes did not keep pace with the cost of goods.', 'Businesses made up for lost revenue by increasing prices.']
+---
+---
+AI Response = Too much money chased too few goods.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['Too much money chased too few goods.']
+---
+---
+Question = Question:
+What does the consumer price index (CPI) measure?
+
+
+---
+---
+Responses = ['It adds the cost of goods produced, and then subtracts exports.', 'It measures the change in stock prices against a change in consumer prices.', 'It averages the total cost of all final goods produced.', 'It tracks increases in prices to measure inflation.']
+---
+---
+AI Response = It tracks increases in prices to measure inflation.
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['It tracks increases in prices to measure inflation.']
+---
+---
+Question = Question:
+How has income inequality in the United States changed?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Income inequality has decreased due to improved public education.', 'Income inequality has decreased due to welfare programs funded by the government.', 'Income inequality has increased partly due to the demand for skilled workers.', 'Income inequality has increased partly due to the rise of single parents.']
+---
+---
+AI Response = ['Income inequality has increased partly due to the demand for skilled workers.', 'Income inequality has increased partly due to the rise of single parents.']
+---
+---
+Click = Box(left=302, top=653, width=20, height=26)
+---
+---
+Click = Box(left=302, top=689, width=20, height=26)
+---
+---
+Correct Answer = ['Income inequality has increased partly due to the demand for skilled workers.', 'Income inequality has increased partly due to the rise of single parents.']
+---
+---
+Question = Question:
+Which antipoverty program offers medical insurance for low-income individuals and families?
+
+
+---
+---
+Responses = ['Capital gains', 'Pell grants', 'Social Security', 'Medicaid']
+---
+---
+AI Response = Medicaid
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['Medicaid']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+
+70
+---
+---
+Question = Question:
+Read the sentence.
+
+The Federal Reserve is considered to be the _[blank]_ bank of the United States of America.
+
+Which correctly completes the sentence?
+
+
+---
+---
+Responses = ['local', 'national', 'state', 'regional']
+---
+---
+AI Response = national
+---
+---
+Click = Box(left=302, top=656, width=20, height=26)
+---
+---
+Correct Answer = ['national']
+---
+---
+Question = Question:
+Why did Congress create the Federal Reserve?
+
+
+---
+---
+Responses = ['It was created to provide high interest rate loans to Mexico and Canada.', 'It was created to oversee trade and commerce between all 50 states.', 'It was created to provide economic stability and a remedy for uninsured investments.', 'It was created to provide a standard form of currency for the 13 colonies.']
+---
+---
+AI Response = It was created to provide economic stability and a remedy for uninsured investments.
+---
+---
+Click = Box(left=302, top=570, width=20, height=26)
+---
+---
+Correct Answer = ['It was created to provide economic stability and a remedy for uninsured investments.']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+50
+50
+---
+---
+Percentage = 50
+---
+---
+Question = Question:
+Read the sentence.
+
+The Federal Reserve is considered to be the _[blank]_ bank of the United States of America.
+
+Which correctly completes the sentence?
+
+
+---
+---
+Responses = ['state', 'regional', 'local', 'national']
+---
+---
+AI Response = national
+---
+---
+Click = Box(left=302, top=729, width=20, height=26)
+---
+---
+Correct Answer = ['national']
+---
+---
+Question = Question:
+Why did Congress create the Federal Reserve?
+
+
+---
+---
+Responses = ['It was created to oversee trade and commerce between all 50 states.', 'It was created to provide high interest rate loans to Mexico and Canada.', 'It was created to provide economic stability and a remedy for uninsured investments.', 'It was created to provide a standard form of currency for the 13 colonies.']
+---
+---
+AI Response = It was created to provide economic stability and a remedy for uninsured investments.
+---
+---
+Click = Box(left=302, top=616, width=20, height=26)
+---
+---
+Correct Answer = ['It was created to provide economic stability and a remedy for uninsured investments.']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+Read the sentence.
+
+The Federal Reserve Bank is responsible for entering _[blank]_ into circulation.
+
+Which correctly completes the sentence?
+
+
+---
+---
+Responses = ['stocks', ' bonds', 'money', 'debt']
+---
+---
+AI Response = money
+---
+---
+Click = Box(left=302, top=673, width=20, height=26)
+---
+---
+Correct Answer = ['money']
+---
+---
+Question = Question:
+Read the sentence.
+
+The _[blank]_ nominates chairmen and vice chairmen to the Federal Reserve.
+
+Which correctly completes the sentence?
+
+
+---
+---
+Responses = ['president', 'majority leader of the senate', 'secretary of state', 'chief justice of the supreme court']
+---
+---
+AI Response = president
+---
+---
+Click = Box(left=302, top=600, width=20, height=26)
+---
+---
+Correct Answer = ['president']
+---
+---
+Percentage = Slava’
+---
+Error on 100%
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 356, in <module>
+    nextpg()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 160, in nextpg
+    pyautogui.press('end')
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 595, in wrapper
+    _handlePause(kwargs.get("_pause", True))
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 639, in _handlePause
+    time.sleep(PAUSE)
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question = Question:
+What was the name of the money the Continental Congress authorized?
+
+
+---
+---
+Responses = ['dollars', 'gold standards', 'continentals', 'greenbacks']
+---
+---
+AI Response = continentals
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['continentals']
+---
+---
+Question = Question:
+Which was most used by early US colonists to purchase and trade goods?
+
+
+---
+---
+Responses = ['commodity money', 'barter system', 'Spanish dollars', 'gold standard']
+---
+---
+AI Response = Spanish dollars
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['Spanish dollars']
+---
+---
+Percentage = Ic- Fiistory
+---
+---
+Error: Input Percentage Manually
+Percentage =
+
+50
+---
+---
+Percentage = 50
+---
+---
+Question = Question:
+What was the name of the money the Continental Congress authorized?
+
+
+---
+---
+Responses = ['continentals', 'gold standards', 'greenbacks', 'dollars']
+---
+---
+AI Response = continentals
+---
+---
+Click = Box(left=302, top=533, width=20, height=26)
+---
+---
+Correct Answer = ['continentals']
+---
+---
+Question = Question:
+Which was most used by early US colonists to purchase and trade goods?
+
+
+---
+---
+Responses = ['commodity money', 'gold standard', 'Spanish dollars', 'barter system']
+---
+---
+AI Response = Spanish dollars
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['Spanish dollars']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+
+80
+---
+---
+Quiz Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+How is the Federal Reserve funded?
+
+
+---
+---
+Responses = ['It earns revenue by charging ATM and deposit fees.', 'It is funded by the White House.', 'It is funded by Congress.', 'It earns interest from government securities.']
+---
+---
+AI Response = It earns interest from government securities.
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['It earns interest from government securities.']
+---
+---
+Question = Question:
+What are bank reserves?
+
+
+---
+---
+Responses = ['a bank’s ownership of physical property such as real estate', 'a bank’s holding of deposits and physical cash in the bank’s vault', 'government securities owned by the Federal Reserve Bank', 'stocks and bonds owned by a bank and held as collateral']
+---
+---
+AI Response = a bank’s holding of deposits and physical cash in the bank’s vault
+---
+---
+Click = Box(left=302, top=569, width=20, height=26)
+---
+---
+Correct Answer = ['a bank’s holding of deposits and physical cash in the bank’s vault']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+50
+50
+---
+---
+Percentage = 50
+---
+---
+Question = Question:
+How is the Federal Reserve funded?
+
+
+---
+---
+Responses = ['It earns revenue by charging ATM and deposit fees.', 'It is funded by the White House.', 'It is funded by Congress.', 'It earns interest from government securities.']
+---
+---
+AI Response = It earns interest from government securities.
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['It earns interest from government securities.']
+---
+---
+Question = Question:
+What are bank reserves?
+
+
+---
+---
+Responses = ['a bank’s ownership of physical property such as real estate', 'stocks and bonds owned by a bank and held as collateral', 'government securities owned by the Federal Reserve Bank', 'a bank’s holding of deposits and physical cash in the bank’s vault']
+---
+---
+AI Response = a bank’s holding of deposits and physical cash in the bank’s vault
+---
+---
+Click = Box(left=302, top=642, width=20, height=26)
+---
+---
+Correct Answer = ['a bank’s holding of deposits and physical cash in the bank’s vault']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+80
+80
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+What are the duties and responsibilities of the Federal Reserve?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['The Federal Reserve establishes and oversees America’s tax code.', 'The Federal Reserve implements American monetary policy.', 'The Federal Reserve establishes rules and regulations concerning insider trading.', 'The Federal Reserve stabilizes and safeguards the nation’s economy.']
+---
+---
+AI Response = ['The Federal Reserve implements American monetary policy.', 'The Federal Reserve stabilizes and safeguards the nation’s economy.']
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Click = Box(left=302, top=633, width=20, height=26)
+---
+---
+Correct Answer = ['The Federal Reserve implements American monetary policy.', 'The Federal Reserve stabilizes and safeguards the nation’s economy.']
+---
+---
+Question = Question:
+Read the sentence.
+
+According to its charter, the Federal Reserve Bank is governed by a(n) _[blank]_ of governors.
+
+Which correctly completes the sentence?
+
+
+---
+---
+Responses = ['league', 'board', 'chamber', 'association']
+---
+---
+AI Response = board
+---
+---
+Click = Box(left=302, top=662, width=20, height=26)
+---
+---
+Correct Answer = ['board']
+---
+---
+Question = Question:
+Where are the Federal Reserve branches located?
+
+
+---
+---
+Responses = ['along the Pacific coast', 'throughout the United States', 'along the Atlantic coast', 'only in Washington, DC']
+---
+---
+AI Response = throughout the United States
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['throughout the United States']
+---
+---
+Question = Question:
+How does an individual become a governor of a Federal Reserve branch?
+
+
+---
+---
+Responses = ['by presidential appointment', 'by congressional appointment', 'by popular vote', 'by Senate majority vote']
+---
+---
+AI Response = by presidential appointment
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['by presidential appointment']
+---
+---
+Question = Question:
+Which entity regulates the Federal Reserve Bank by requiring board governors to testify about their work?
+
+
+---
+---
+Responses = ['Department of Commerce', 'Congress', 'Supreme Court', 'US Mint']
+---
+---
+AI Response = Congress
+---
+---
+Click = Box(left=302, top=581, width=20, height=26)
+---
+---
+Correct Answer = ['Congress']
+---
+---
+Question = Question:
+Why is the Federal Reserve managed by federal government oversight?
+
+
+---
+---
+Responses = [' The Federal Reserve is responsible for stabilizing prices.', 'The Federal Reserve is responsible for paying off government debt.', 'The Federal Reserve is responsible for collecting income taxes.', 'The Federal Reserve is responsible for printing and coining money.']
+---
+---
+AI Response = The Federal Reserve is responsible for stabilizing prices.
+---
+Error: No correct anwers detected
+---
+Correct Answer = []
+---
+---
+Question = Question:
+How does Congress hold the Federal Reserve accountable?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['The Government Accountability Office (GAO) can audit the Federal Reserve’s activities.', 'Appointees of the Federal Reserve can appear before congressional committees to provide testimony.', 'The president of the United States can veto policies concerning interest rates.', "The Federal Reserve's board of governors can be called to appear before a tribunal of the US Supreme Court."]
+---
+---
+AI Response = ['Appointees of the Federal Reserve can appear before congressional committees to provide testimony.']
+---
+---
+Click = Box(left=302, top=626, width=20, height=26)
+---
+---
+Correct Answer = ['Appointees of the Federal Reserve can appear before congressional committees to provide testimony.']
+---
+---
+Question = Question:
+Which form of currency was authorized by the Continental Congress and eventually became worthless due to inflation?
+
+
+---
+---
+Responses = ['continentals', 'English pounds', 'Spanish dollars', 'greenbacks']
+---
+---
+AI Response = continentals
+---
+---
+Click = Box(left=302, top=544, width=20, height=26)
+---
+---
+Correct Answer = ['continentals']
+---
+---
+Question = Question:
+Which accurately describes the barter system during the colonial era of the United States before a national currency evolved?
+
+
+---
+---
+Responses = ['Tobacco and animal skins were common mediums of exchange.', 'Silk and tea were common mediums of exchange.', ' Squash and chili peppers were common mediums of exchange.', 'Coffee and cocoa beans were common mediums of exchange.']
+---
+---
+AI Response = Tobacco and animal skins were common mediums of exchange.
+---
+---
+Click = Box(left=302, top=544, width=20, height=26)
+---
+---
+Correct Answer = ['Tobacco and animal skins were common mediums of exchange.']
+---
+---
+Question = Question:
+Which accurately describes how the Federal Reserve is funded?
+
+
+---
+---
+Responses = ['The Federal Reserve is funded by international banks, including World Bank.', ' The Federal Reserve is funded by Congress and is part of the Department of Commerce.', 'The Federal Reserve earns interest from its ownership of government securities.', 'The Federal Reserve receives a portion of income tax revenues paid for by the people.']
+---
+---
+AI Response = The Federal Reserve earns interest from its ownership of government securities.
+---
+---
+Click = Box(left=302, top=617, width=20, height=26)
+---
+---
+Correct Answer = ['The Federal Reserve earns interest from its ownership of government securities.']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 341, in <module>
+    finish()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 132, in finish
+    time.sleep(1)
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question = Question:
+Why is the Federal Reserve managed by federal government oversight?
+
+
+---
+---
+Responses = [' The Federal Reserve is responsible for stabilizing prices.', 'The Federal Reserve is responsible for paying off government debt.', 'The Federal Reserve is responsible for collecting income taxes.', 'The Federal Reserve is responsible for printing and coining money.']
+---
+---
+AI Response = The Federal Reserve is responsible for stabilizing prices.
+---
+Error: No correct anwers detected
+---
+Correct Answer = []
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 341, in <module>
+    finish()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 132, in finish
+    time.sleep(1)
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Question = Already Solved
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+85
+85
+---
+---
+Question = Question:
+Read the sentence.
+
+When a nation has a(n) _[blank]_ advantage, they can produce a good or service at a lower cost than another nation that has the same resources.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['comparative', 'absolute', 'opportunity', 'laissez-faire']
+---
+---
+AI Response = comparative
+---
+---
+Click = Box(left=302, top=619, width=20, height=26)
+---
+---
+Correct Answer = ['comparative']
+---
+---
+Question = Question:
+Read the sentence.
+
+In the early 1800s, David Ricardo developed the theory of _[blank]_ advantage, which describes how a nation may have lower opportunity costs than another nation.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['comparative', 'laissez-faire', 'absolute', 'opportunity']
+---
+---
+AI Response = comparative
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['comparative']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+80
+80
+---
+---
+Question = Question:
+What are important arguments in favor of trade protection policies?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Trade protection policies increase people’s wages.', 'Trade protection policies protect a country’s security.', 'Trade protection policies increase tariff revenue.', 'Trade protection policies protect infant industries.']
+---
+---
+AI Response = ['Trade protection policies protect infant industries.', 'Trade protection policies protect a country’s security.']
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Click = Box(left=302, top=640, width=20, height=26)
+---
+---
+Correct Answer = ['Trade protection policies protect a country’s security.', 'Trade protection policies protect infant industries.']
+---
+---
+Question = Question:
+What were the results of the Smoot-Hawley Tariff passed by Congress in 1930?
+
+
+---
+---
+Responses = ['Free trade emerged between the United States and the European Union (EU), resulting in a boom of the US economy.', 'Thousands of imported goods from China were no longer taxed, resulting in a flood of Chinese electronics to the United States.', 'Thousands of imported goods were taxed, resulting in a trade freeze between the United States and several countries.', 'Tariffs were eliminated between the United States and Mexico, resulting in numerous US businesses relocating to Mexico.']
+---
+---
+AI Response = Thousands of imported goods were taxed, resulting in a trade freeze between the United States and several countries.
+---
+---
+Click = Box(left=302, top=640, width=20, height=26)
+---
+---
+Correct Answer = ['Thousands of imported goods were taxed, resulting in a trade freeze between the United States and several countries.']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+80
+80
+---
+---
+Question = Question:
+How much did the United States earn in exports in 2015?
+
+
+---
+---
+Responses = ['$2.3 trillion', '$3.0 trillion', '$3.6 trillion', '$5.0 trillion']
+---
+---
+AI Response = $2.3 trillion
+---
+---
+Click = Box(left=302, top=592, width=20, height=26)
+---
+---
+Correct Answer = ['$2.3 trillion']
+---
+---
+Question = Question:
+What is a good or service sold to a foreign nation?
+
+
+---
+---
+Responses = ['import', 'export', 'commodity', 'subsidy']
+---
+---
+AI Response = export
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Correct Answer = ['export']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+When the world was on the gold standard, which system was used to determine the value of a country’s currency as compared to another country’s currency?
+
+
+---
+---
+Responses = ['flexible exchange rate', 'fixed exchange rate', 'managed floating rate', 'floating exchange rate']
+---
+---
+AI Response = fixed exchange rate
+---
+---
+Click = Box(left=302, top=589, width=20, height=26)
+---
+---
+Correct Answer = ['fixed exchange rate']
+---
+---
+Question = Question:
+Under which system do the forces of supply and demand establish the value of a country’s currency as compared to another country’s currency?
+
+
+---
+---
+Responses = ['trade deficit', 'flexible exchange rate', 'fixed exchange rate', 'trade surplus']
+---
+---
+AI Response = flexible exchange rate
+---
+---
+Click = Box(left=302, top=589, width=20, height=26)
+---
+---
+Correct Answer = ['flexible exchange rate']
+---
+---
+Percentage = 100
+---
+---
+Question = Question:
+When does a country have a trade deficit?
+
+
+---
+---
+Responses = ['when the cost of a country’s exports exceeds the value of its imports', 'when the cost of a country’s imports is equal to the value of its exports', 'when the cost of a country’s imports exceeds the value of its exports', 'when the cost of a country’s exports is equal to the value of its imports']
+---
+---
+AI Response = when the cost of a country’s imports exceeds the value of its exports
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['when the cost of a country’s imports exceeds the value of its exports']
+---
+---
+Question = Question:
+When does a country have a trade surplus?
+
+
+---
+---
+Responses = ['when the cost of a country’s exports is equal to the cost of its imports', 'when the cost of a country’s imports exceeds the cost of its exports', 'when the cost of a country’s exports exceeds the cost of its imports', 'when the cost of a country’s imports is equal to the cost of its exports']
+---
+---
+AI Response = when the cost of a country’s exports exceeds the cost of its imports
+---
+---
+Click = Box(left=302, top=606, width=20, height=26)
+---
+---
+Correct Answer = ['when the cost of a country’s exports exceeds the cost of its imports']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+What is a benefit of international trade?
+
+
+---
+---
+Responses = ['an improvement in pollution', ' an improvement in working conditions', 'an increase in the variety of goods', ' an increase in wages']
+---
+---
+AI Response = an increase in the variety of goods
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['an increase in the variety of goods']
+---
+---
+Question = Question:
+What is a benefit of international trade?
+
+
+---
+---
+Responses = ['the diffusion of culture and ideas between nations', 'the use of a fixed exchange rate in modern global society', 'an increase in tariffs between competing nations', 'a decrease in trade of ideas and cultural practices between nations']
+---
+---
+AI Response = the diffusion of culture and ideas between nations
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['the diffusion of culture and ideas between nations']
+---
+---
+Question = Question:
+How can infant industries be harmed by open free trade?
+
+
+---
+---
+Responses = ['They will have to use expensive raw materials from their own countries.', 'They will not receive the revenue from tariffs.', 'They will face pressure to produce products quickly.', 'They will not survive due to high production costs.']
+---
+---
+AI Response = They will not survive due to high production costs.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['They will not survive due to high production costs.']
+---
+---
+Question = Question:
+Read the scenario.
+
+The United States engages in free trade with Holland. Last year, the United States decided to put a 75 percent tariff on imported tulips.
+
+Why would the United States impose that tariff?
+
+
+---
+---
+Responses = ['to ensure that the two countries have a steady supply of tulips', 'to guarantee low prices for US consumers', 'to protect US tulip growers from competition', 'to promote other types of trade between the two countries']
+---
+---
+AI Response = to protect US tulip growers from competition
+---
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['to protect US tulip growers from competition']
+---
+---
+Question = Question:
+What position did labor unions take on the free trade agreements passed in the 1990s?
+
+
+---
+---
+Responses = ['They were in favor of them because they believed new products would be offered.', 'They were opposed to them because they wanted the tariff revenue.', 'They were in favor of them because they believed US wages would rise.', 'They were opposed to them because they feared the loss of US jobs.']
+---
+---
+AI Response = They were opposed to them because they feared the loss of US jobs.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['They were opposed to them because they feared the loss of US jobs.']
+---
+---
+Question = Question:
+What is an argument for free trade?
+
+
+---
+---
+Responses = ['The availability of natural resources decreases.', 'The supply of products decreases.', 'The possibility of a trade freeze decreases.', 'The distribution of income improves.']
+---
+---
+AI Response = The possibility of a trade freeze decreases.
+---
+---
+Click = Box(left=302, top=576, width=20, height=26)
+---
+---
+Correct Answer = ['The possibility of a trade freeze decreases.']
+---
+---
+Question = Question:
+What is a goal of the North American Free Trade Agreement?
+
+
+---
+---
+Responses = ['to reduce legislative oversight and improve production', 'to decrease trade barriers and tariffs', ' to increase tariffs and raise revenues', 'to protect the jobs of workers and increase wages']
+---
+---
+AI Response = to decrease trade barriers and tariffs
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['to decrease trade barriers and tariffs']
+---
+---
+Question = Question:
+What is the purpose of the North American Free Trade Agreement?
+
+
+---
+---
+Responses = ['to impose tariffs between Mexico, the United States and Canada', 'to increase skilled labor forces in Mexico, Cuba and the United States', 'to increase trade between Mexico, the United States, and Canada', 'to improve work visa programs between Mexico, Cuba and the United States']
+---
+---
+AI Response = to increase trade between Mexico, the United States, and Canada
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['to increase trade between Mexico, the United States, and Canada']
+---
+---
+Question = Question:
+Read the statement.
+
+The exchange rate for converting US dollars to the British pound is .767.
+
+How much is $200 US worth in Great Britain?
+
+
+---
+---
+Responses = ['£352', '£153', '£276', '£263']
+---
+---
+AI Response = £153
+---
+---
+Click = Box(left=302, top=642, width=20, height=26)
+---
+---
+Correct Answer = ['£153']
+---
+---
+Question = Question:
+What is the trade-weighted value of the dollar?
+
+
+---
+---
+Responses = ['an index showing the value of the US dollar compared against the US stock market', 'an index showing the value of foreign currencies compared against the US stock market', 'an index showing the current foreign exchange value of the US dollar compared to prior decades while accounting for inflation', 'an index showing the measurement of the foreign exchange value of the US dollar in relation to foreign currencies commonly used in trade']
+---
+---
+AI Response = an index showing the measurement of the foreign exchange value of the US dollar in relation to foreign currencies commonly used in trade
+---
+---
+Click = Box(left=302, top=697, width=20, height=26)
+---
+---
+Correct Answer = ['an index showing the measurement of the foreign exchange value of the US dollar in relation to foreign currencies commonly used in trade']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+70
+70
+---
+---
+Question = Question:
+How does the World Bank Group assist developing countries?
+
+
+---
+---
+Responses = ['It funds military campaigns against terrorist organizations.', 'It provides deposit insurance for banking customers.', ' It creates legislation to eliminate tariffs.', 'It offers loans to developing countries.']
+---
+---
+AI Response = It offers loans to developing countries.
+---
+---
+Click = Box(left=302, top=642, width=20, height=26)
+---
+---
+Correct Answer = ['It offers loans to developing countries.']
+---
+---
+Question = Question:
+What are some of the most common obstacles to a developing country’s economic growth?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['low population growth due to poor health care', 'lack of educational opportunities for the populace', 'a lack of clean water and nutritious foods', 'limited lending institutions that provide loans']
+---
+---
+AI Response = ['lack of educational opportunities for the populace', 'a lack of clean water and nutritious foods']
+---
+---
+Click = Box(left=302, top=591, width=20, height=26)
+---
+---
+Click = Box(left=302, top=627, width=20, height=26)
+---
+---
+Correct Answer = ['lack of educational opportunities for the populace', 'a lack of clean water and nutritious foods']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+
+83
+---
+---
+Question = Question:
+Which of Rostow’s Five Stages of Economic Growth involves agricultural production and hunting and gathering?
+
+
+---
+---
+Responses = ['Drive to maturity', 'Takeoff', 'Traditional society', 'Preconditions for takeoff']
+---
+---
+AI Response = Traditional society
+---
+---
+Click = Box(left=302, top=685, width=20, height=26)
+---
+---
+Correct Answer = ['Traditional society']
+---
+---
+Question = Question:
+Which region of the world accounts for the most people living in extreme poverty?
+
+
+---
+---
+Responses = ['China', 'South America', 'India', 'Sub-Saharan Africa']
+---
+---
+AI Response = Sub-Saharan Africa
+---
+---
+Click = Box(left=302, top=642, width=20, height=26)
+---
+---
+Correct Answer = ['Sub-Saharan Africa']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Question = Question:
+Which correctly explains the effects of population growth in developing countries?
+
+
+---
+---
+Responses = ['Population growth is lower in less developed countries due to high infant mortality, creating fewer demands on education.', ' Population growth improves a developing nation’s credit in the eyes of foreign banks, and its ability to borrow money.', 'Population growth is higher in less developed countries, creating greater demands on health care and education.', 'Population growth leads to a larger labor force and skilled workers, which improves the economy in developed countries.']
+---
+---
+AI Response = Population growth is higher in less developed countries, creating greater demands on health care and education.
+---
+---
+Click = Box(left=302, top=655, width=20, height=26)
+---
+---
+Correct Answer = ['Population growth is higher in less developed countries, creating greater demands on health care and education.']
+---
+---
+Question = Question:
+What are major obstacles to economic development for developing countries?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['external debt to foreign banks', 'low population growth', 'progressive tax code', 'debt to foreign banks']
+---
+---
+AI Response = ['external debt to foreign banks', 'debt to foreign banks']
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Click = Box(left=302, top=641, width=20, height=26)
+---
+---
+Correct Answer = ['external debt to foreign banks', 'debt to foreign banks']
+---
+---
+Percentage = 62
+---
+---
+Percentage = 62
+---
+---
+Question = Question:
+Which correctly explains the effects of population growth in developing countries?
+
+
+---
+---
+Responses = [' Population growth improves a developing nation’s credit in the eyes of foreign banks, and its ability to borrow money.', 'Population growth leads to a larger labor force and skilled workers, which improves the economy in developed countries.', 'Population growth is lower in less developed countries due to high infant mortality, creating fewer demands on education.', 'Population growth is higher in less developed countries, creating greater demands on health care and education.']
+---
+---
+AI Response = Population growth is higher in less developed countries, creating greater demands on health care and education.
+---
+---
+Click = Box(left=302, top=711, width=20, height=26)
+---
+---
+Correct Answer = ['Population growth is higher in less developed countries, creating greater demands on health care and education.']
+---
+---
+Question = Question:
+What are major obstacles to economic development for developing countries?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['debt to foreign banks', 'progressive tax code', 'external debt to foreign banks', 'low population growth']
+---
+---
+AI Response = ['external debt to foreign banks']
+---
+---
+Click = Box(left=302, top=641, width=20, height=26)
+---
+---
+Correct Answer = ['external debt to foreign banks']
+---
+---
+Percentage = ——
+---
+---
+Error: Input Percentage Manually
+Percentage =
+75
+75
+---
+---
+Question = Question:
+Which international agency would most likely be involved in funding the construction of a water pipeline in a developing country?
+
+
+---
+---
+Responses = ['ASEAN', 'International Monetary Fund', 'World Bank Group', 'OPEC']
+---
+---
+AI Response = World Bank Group
+---
+---
+Click = Box(left=302, top=625, width=20, height=26)
+---
+---
+Correct Answer = ['World Bank Group']
+---
+---
+Question = Question:
+Which international agency consists of 189 countries, promotes international monetary cooperation, and facilitates international trade?
+
+
+---
+---
+Responses = ['International Monetary Fund', 'European Union', 'United Nations', 'Eurasian Development Bank']
+---
+---
+AI Response = International Monetary Fund
+---
+---
+Click = Box(left=302, top=552, width=20, height=26)
+---
+---
+Correct Answer = ['International Monetary Fund']
+---
+---
+Percentage =
+---
+Error on 100%
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+How do gross national product (GNP) and gross domestic product (GDP) differ?
+
+
+---
+---
+Responses = ['While GNP includes imports and exports of goods and services, GDP only includes the net exports of goods and services.', 'While GNP includes production by all people and businesses of a country, GDP only includes production within a country’s borders.', 'While GNP includes investments as well as production of goods and services, GDP only includes production of goods and services.', 'While GNP includes production of all goods and services, GDP only includes production of final goods and services.']
+---
+---
+AI Response = While GNP includes production by all people and businesses of a country, GDP only includes production within a country’s borders.
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['While GNP includes production by all people and businesses of a country, GDP only includes production within a country’s borders.']
+---
+---
+Question = Question:
+Read the scenario.
+
+A United States company produces widgets in Brazil.
+
+Which is true about the calculation of widget production?
+
+
+---
+---
+Responses = ['The dollar value of the widgets would be included in a GNP calculation.', 'The dollar value of the widgets would not be included in either a GNP or a GDP calculation.', 'The dollar value of the widgets would be included in both a GNP and a GDP calculation.', 'The dollar value of the widgets would be included in a GDP calculation.']
+---
+---
+AI Response = The dollar value of the widgets would be included in a GDP calculation.
+---
+---
+Click = Box(left=302, top=754, width=20, height=26)
+---
+---
+Correct Answer = ['The dollar value of the widgets would be included in a GDP calculation.']
+---
+---
+Question = Question:
+Read the passage.
+
+This is the most widely used measure of inflation and is sometimes viewed as an indicator of the effectiveness of government economic policy. It provides information about price changes in the nation's economy to government, business, labor, and private citizens, and it is used by them to help guide economic decisions.
+
+What is being described?
+
+
+---
+---
+Responses = ['producer price index', 'export price index', 'consumer price index', 'import price index']
+---
+---
+AI Response = consumer price index
+---
+---
+Click = Box(left=302, top=732, width=20, height=26)
+---
+---
+Correct Answer = ['consumer price index']
+---
+---
+Question = Question:
+What is the primary tool used to measure inflation?
+
+
+---
+---
+Responses = ['gross national product', 'durable goods shipments', 'gross domestic product', 'consumer price index']
+---
+---
+AI Response = consumer price index
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['consumer price index']
+---
+---
+Question = Question:
+How does a rise in life expectancy impact population growth?
+
+
+---
+---
+Responses = ['It does not impact population growth.', 'It slows population growth.', 'It reverses population growth.', 'It increases population growth.']
+---
+---
+AI Response = It increases population growth.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['It increases population growth.']
+---
+---
+Question = Question:
+Why does nominal gross domestic product (GDP) sometimes seem larger than real GDP?
+
+
+---
+---
+Responses = ['Real GDP includes inflation in its calculation, whereas nominal GDP does not.', 'Real GDP counts only final products, whereas nominal GDP does not.', 'Real GDP uses an accurate calculation, whereas nominal GDP does not.', 'Real GDP counts imports, whereas nominal GDP does not.']
+---
+---
+AI Response = Real GDP includes inflation in its calculation, whereas nominal GDP does not.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['Real GDP includes inflation in its calculation, whereas nominal GDP does not.']
+---
+---
+Question = Question:
+Which describes a way that gross domestic product (GDP) is used to measure the economy?
+
+
+---
+---
+Responses = ['If GDP increases for 12 months straight, a country is in a contraction.', 'If GDP decreases for six months straight, a country is in a recession.', 'If GDP decreases for 12 months straight, a country is in a trough.', 'If GDP increases for six months straight, a country is facing rapid inflation.']
+---
+---
+AI Response = If GDP increases for 12 months straight, a country is in a contraction.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['If GDP increases for 12 months straight, a country is in a contraction.']
+---
+---
+Question = Question:
+What impact can government policies have on the business cycle?
+
+
+---
+---
+Responses = ['Policies that raise interest rates may cause an economic contraction.', 'Policies that lower interest rates may cause an economic contraction.', 'Policies that lower taxes may cause an economic contraction.', 'Policies that decrease spending may cause an economic expansion.']
+---
+---
+AI Response = Policies that raise interest rates may cause an economic contraction.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['Policies that raise interest rates may cause an economic contraction.']
+---
+---
+Question = Question:
+What is true regarding seasonal unemployment?
+
+
+---
+---
+Responses = ['It is much harder to predict than other types of unemployment.', 'It has negative costs similar to those of other types of unemployment.', 'It is likely to last longer than other types of unemployment.', 'It is not as troubling to the government as other types of unemployment.']
+---
+---
+AI Response = It is not as troubling to the government as other types of unemployment.
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['It is not as troubling to the government as other types of unemployment.']
+---
+---
+Question = Question:
+Read the sentence.
+
+The cost of lumber has increased 145 percent since last quarter.
+
+What is the most likely outcome in the furniture market?
+
+
+---
+---
+Responses = ['The market will see a rapid rise in inflation because inelastic products respond quickly to market forces.', 'The market will see demand-pull inflation because consumers need more of the product.', 'The market will see no inflation because there has not been a change in personal income.', 'The market will see cost-push inflation because the increased cost of inputs force prices higher.']
+---
+---
+AI Response = The market will see cost-push inflation because the increased cost of inputs force prices higher.
+---
+---
+Click = Box(left=302, top=759, width=20, height=26)
+---
+---
+Correct Answer = ['The market will see cost-push inflation because the increased cost of inputs force prices higher.']
+---
+---
+Question = Question:
+Which accurately describes a cause for inflation?
+
+
+---
+---
+Responses = [' The government places too little money into circulation.', 'The government places too much money into circulation.', 'The Federal Reserve raises interest rates and slows economic activity.', 'The Federal Reserve requires banks to keep more money on reserve.']
+---
+---
+AI Response = The government places too much money into circulation.
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['The government places too much money into circulation.']
+---
+---
+Question = Question:
+What are consequences of rapid inflation?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['People postpone purchasing expensive items, such as homes, until prices drop.', 'Savings accounts become less desirable because interest earned is lower than inflation', 'Individual purchasing power decreases, which results in a decrease in demand.', 'Individual purchasing power increases, which results in an increase in demand.']
+---
+---
+AI Response = ['People postpone purchasing expensive items, such as homes, until prices drop.', 'Savings accounts become less desirable because interest earned is lower than inflation', 'Individual purchasing power decreases, which results in a decrease in demand.']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=607, width=20, height=26)
+---
+---
+Click = Box(left=302, top=653, width=20, height=26)
+---
+---
+Correct Answer = ['People postpone purchasing expensive items, such as homes, until prices drop.', 'Savings accounts become less desirable because interest earned is lower than inflation', 'Individual purchasing power decreases, which results in a decrease in demand.']
+---
+---
+Question = Question:
+How does the Federal Reserve stabilize and safeguard the nation’s economy?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['It distributes currency and oversees fiscal conditions.', 'It implements American monetary policy.', 'It regulates banks and defends consumer credit rights.', ' It regulates and oversees the NASDAQ stock exchange.']
+---
+---
+AI Response = ['It implements American monetary policy.', 'It regulates banks and defends consumer credit rights.']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Correct Answer = ['It implements American monetary policy.', 'It regulates banks and defends consumer credit rights.']
+---
+---
+Question = Question:
+What are functions of the Federal Reserve?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['It offers financial services within the government.', 'It prints US dollars.', 'It enters US currency into circulation.', 'It creates US coins.']
+---
+---
+AI Response = ['It offers financial services within the government.', 'It enters US currency into circulation.']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Correct Answer = ['It offers financial services within the government.', 'It enters US currency into circulation.']
+---
+---
+Question = Question:
+How does the Federal Reserve Bank fit into the balance of power among the three branches of the federal government established by the Constitution?
+
+
+---
+---
+Responses = ['The Chair of the Federal Reserve is appointed in a secret meeting.', 'The Chair of the Federal Reserve is appointed by Congress and approved by the Supreme Court.', 'The Chair of the Federal Reserve is appointed by the president and approved by the Senate.', 'The Chair of the Federal Reserve is elected by popular vote.']
+---
+---
+AI Response = The Chair of the Federal Reserve is appointed by the president and approved by the Senate.
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['The Chair of the Federal Reserve is appointed by the president and approved by the Senate.']
+---
+---
+Question = Question:
+Who appoints the Board of Governors of the Federal Reserve System?
+
+
+---
+---
+Responses = ['the US Supreme Court', 'the US House of Representatives', 'the US Senate', 'the US President']
+---
+---
+AI Response = the US President
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['the US President']
+---
+---
+Question = Question:
+Why is federal oversight crucial to the operation of the Federal Reserve Bank?
+
+
+---
+---
+Responses = ['The Federal Reserve sets rules and regulations for the New York Stock Exchange.', 'The Federal Reserve is the nation’s central banking system.', 'The Federal Reserve funds mandatory government expenditures.', 'The Federal Reserve controls the nomination of legislators to committees.']
+---
+---
+AI Response = The correct answer is: 'The Federal Reserve is the nation’s central banking system.'
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['The Federal Reserve is the nation’s central banking system.']
+---
+---
+Question = Question:
+What is the Government Accountability Office (GAO)?
+
+
+---
+---
+Responses = ['an internal review agency of the Federal Reserve used to promote its mission', 'a private agency that advises the government about fiscal policy', 'a government agency that answers to Congress and audits the United States Mint', 'an independent agency that answers to Congress and audits the Federal Reserve']
+---
+---
+AI Response = an independent agency that answers to Congress and audits the Federal Reserve
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['an independent agency that answers to Congress and audits the Federal Reserve']
+---
+---
+Question = Question:
+How does the law of comparable advantage lead to international trade?
+
+
+---
+---
+Responses = ['Countries make products they can produce efficiently and are able to get the rest of what they need through trade.', 'Countries that do not engage in trade are in a stronger position economically than countries that do trade.', 'Countries that have more resources are able to trade for a wider variety of items that can be offered for sale.', 'Countries that cannot produce products efficiently have to trade for the goods and services that other countries have.']
+---
+---
+AI Response = Countries make products they can produce efficiently and are able to get the rest of what they need through trade.
+---
+---
+Click = Box(left=302, top=549, width=20, height=26)
+---
+---
+Correct Answer = ['Countries make products they can produce efficiently and are able to get the rest of what they need through trade.']
+---
+---
+Question = Question:
+When might a country produce a product even though it cannot do so efficiently?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['to minimize the sale of exports', 'to ensure national security', 'to ensure a trade deficit', 'to increase the balance of trade']
+---
+---
+AI Response = ['to ensure national security']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Correct Answer = ['to ensure national security']
+---
+---
+Question = Question:
+What reasons do protectionists cite most for restricting trade?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['to protect US jobs due to cheap labor in other countries', 'to protect US infant industries that tend to have high production costs', 'to protect US taxpayers from increased income and corporate tax rates', ' to protect national security and prohibit US reliance on other countries']
+---
+---
+AI Response = ['to protect US jobs due to cheap labor in other countries', 'to protect US infant industries that tend to have high production costs', 'to protect national security and prohibit US reliance on other countries']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Correct Answer = ['to protect US jobs due to cheap labor in other countries', 'to protect US infant industries that tend to have high production costs']
+---
+---
+Question = Question:
+How are exchange rates determined in a flexible exchange rate system?
+
+
+---
+---
+Responses = ['US dollar compared to the pound', 'inflation and deflation', 'US dollar compared to the euro', 'supply and demand']
+---
+---
+AI Response = supply and demand
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['supply and demand']
+---
+---
+Question = Question:
+Read the statement.
+
+Country A is running a trade deficit.
+
+What must Country A do to reverse this trend?
+
+
+---
+---
+Responses = ['It must continue the course it is currently following.', 'It must print more money so people will spend more.', 'It must increase trade exports with other countries.', ' It must hire more workers to increase products for export.']
+---
+---
+AI Response = It must increase trade exports with other countries.
+---
+---
+Click = Box(left=302, top=679, width=20, height=26)
+---
+---
+Correct Answer = ['It must increase trade exports with other countries.']
+---
+---
+Question = Question:
+What are consequences of a weak dollar?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['unemployment in export industries', 'increase in the cost of imports', 'unemployment in import industries', 'increase in the cost of exports']
+---
+---
+AI Response = ['increase in the cost of imports', 'unemployment in import industries']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Correct Answer = ['increase in the cost of imports', 'unemployment in import industries']
+---
+---
+Question = Question:
+Which is an example of regional cooperation to promote economic growth?
+
+
+---
+---
+Responses = ['Neighboring countries negotiate tariffs and duties regarding trade.', 'Neighboring countries remain separate but work together to promote peace.', 'Neighboring countries sign a pact to limit immigration into their countries.', 'Neighboring countries set up quotas on resources that can be sold.']
+---
+---
+AI Response = Neighboring countries negotiate tariffs and duties regarding trade.
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['Neighboring countries negotiate tariffs and duties regarding trade.']
+---
+---
+Question = Question:
+Why would wealthy nations have an interest in the development of poor nations?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['It opens up new markets for goods and services.', 'They want to improve tariff revenues with imports.', 'It leads to migration between the countries.', 'They feel an ethical or moral obligation to do so.']
+---
+---
+AI Response = ['It opens up new markets for goods and services.', 'They feel an ethical or moral obligation to do so.']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=670, width=20, height=26)
+---
+---
+Correct Answer = ['It opens up new markets for goods and services.', 'They feel an ethical or moral obligation to do so.']
+---
+---
+Question = Question:
+How can the World Bank help developing nations economically?
+
+
+---
+---
+Responses = ['It can sell medical drugs and other treatments to clinics at a very low cost, saving the patients money.', 'It can work to remove serious health problems so resources can shift to economic growth.', ' It can protect and negotiate free trade deals between neighboring nations.', 'It can provide loans to developing countries to build new infrastructures.']
+---
+---
+AI Response = It can provide loans to developing countries to build new infrastructures.
+---
+---
+Click = Box(left=302, top=687, width=20, height=26)
+---
+---
+Correct Answer = ['It can provide loans to developing countries to build new infrastructures.']
+---
+---
+Question = Question:
+Which is a characteristic of the takeoff stage of Rostow's Five Stages of Economic Growth?
+
+
+---
+---
+Responses = [' Advancements in technology require a skilled labor force competent in electronics, medicine, and engineering.', ' The population as a whole has its basic needs met and enjoys a high standard of living focused on consumer goods.', ' The labor of a country is unskilled and focuses on agricultural production, animal husbandry, and the harvesting of timber.', 'A country begins to grow rapidly and new industries start to emerge that drive further economic development.']
+---
+---
+AI Response = A country begins to grow rapidly and new industries start to emerge that drive further economic development.
+---
+---
+Click = Box(left=302, top=703, width=20, height=26)
+---
+---
+Correct Answer = ['A country begins to grow rapidly and new industries start to emerge that drive further economic development.']
+---
+---
+Question = Question:
+How can a developing nation improve its economy if it lacks natural resources?
+
+
+---
+---
+Responses = ['It can engage in international trade.', 'It can default on loans owed to foreign banks.', 'It can place high tariffs on all of its imports.', 'It can flood foreign exchange markets with its currency.']
+---
+---
+AI Response = It can engage in international trade.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['It can engage in international trade.']
+---
+---
+Percentage = oor‘out of 100%
+---
+---
+Error: Input Percentage Manually
+Percentage =
+
+71
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+What is the definition of economics?
+
+
+---
+---
+Responses = ['laws for the states', 'laws for the home', 'laws for the land', 'laws for the government']
+---
+---
+AI Response = 'laws for the land'
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['laws for the land']
+---
+---
+Question = Question:
+What are the four Ps of marketing, also known as the marketing mix?
+
+
+---
+---
+Responses = ['product, price, promotion, and place', 'permit, personalize, prepare, and plan', 'persevere, perform, promise, and predict', 'pace, payment, privacy, and persistence']
+---
+---
+AI Response = product, price, promotion, and place
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['product, price, promotion, and place']
+---
+---
+Question = Question:
+What is defined as income available after taxes and other mandatory expenses?
+
+
+---
+---
+Responses = ['passive income', 'investment income', 'fixed income', 'disposable income']
+---
+---
+AI Response = disposable income
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['disposable income']
+---
+---
+Question = Question:
+What is a plan for spending your money to meet your wants and needs?
+
+
+---
+---
+Responses = ['income statement', 'fiscal policy', 'budget', 'balance sheet']
+---
+---
+AI Response = budget
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['budget']
+---
+---
+Question = Question:
+Read the sentence.
+
+A __________ card is issued by a credit union or bank and allows the user to purchase goods and services by electronically deducting funds directly from his or her checking account.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = [' debit', 'credit', 'prepaid', 'charge']
+---
+---
+AI Response = debit
+---
+Error: No correct anwers detected
+---
+Click = Box(left=302, top=645, width=20, height=26)
+---
+---
+Correct Answer = ['debit']
+---
+---
+Question = Question:
+Read the sentence.
+
+A(n) _________ loan requires the borrower to write a post-dated check for the amount he or she wishes to borrow, in addition to a fee, in exchange for cash.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['auto', 'payday', ' home equity', 'student']
+---
+---
+AI Response = payday
+---
+---
+Click = Box(left=302, top=662, width=20, height=26)
+---
+---
+Correct Answer = ['payday']
+---
+---
+Question = Question:
+What is creditworthiness?
+
+
+---
+---
+Responses = ['an appraisal made by an accountant to determine a client’s tax status', ' the ability of a borrower to open a checking account at a bank or credit union', 'the ability of a customer to open a savings account that earns interest on the amount deposited', 'an appraisal made by a lender about how likely a customer is to repay a loan as agreed']
+---
+---
+AI Response = an appraisal made by a lender about how likely a customer is to repay a loan as agreed
+---
+---
+Click = Box(left=302, top=678, width=20, height=26)
+---
+---
+Correct Answer = ['an appraisal made by a lender about how likely a customer is to repay a loan as agreed']
+---
+---
+Question = Question:
+Read the sentence.
+
+The term _________ is defined as the ability of a borrower to have access to money from a lender and then to pay back the lender in the future, usually with interest.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['credit', 'indemnity', 'collateral', 'debit']
+---
+---
+AI Response = credit
+---
+---
+Click = Box(left=302, top=626, width=20, height=26)
+---
+---
+Correct Answer = ['credit']
+---
+---
+Question = Question:
+What is the definition of scarcity?
+
+
+---
+---
+Responses = ['when society does not have enough resources to produce all of the things people want', ' when society wants to reduce federal spending on entitlement and welfare programs', 'when the government charges taxes and fees to other countries who wish to trade', 'when government spending exceeds the revenue gained from collecting income taxes']
+---
+---
+AI Response = when society does not have enough resources to produce all of the things people want
+---
+---
+Click = Box(left=302, top=549, width=20, height=26)
+---
+---
+Correct Answer = ['when society does not have enough resources to produce all of the things people want']
+---
+---
+Question = Question:
+Which form of economics studies the impact of individual and business decisions on economic markets?
+
+
+---
+---
+Responses = ['heterodox economics', 'microeconomics', 'macroeconomics', 'behavioral economics']
+---
+---
+AI Response = microeconomics
+---
+---
+Click = Box(left=302, top=595, width=20, height=26)
+---
+---
+Correct Answer = ['microeconomics']
+---
+---
+Question = Question:
+Which form of economics studies the economy as a whole?
+
+
+---
+---
+Responses = ['macroeconomics', 'microeconomics', 'heterodox economics', 'behavioral economics']
+---
+---
+AI Response = macroeconomics
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['macroeconomics']
+---
+---
+Question = Question:
+Which economic theory did Adam Smith propose in his book The Wealth of Nations?
+
+
+---
+---
+Responses = ['behavioral economics', 'invisible hand', 'game theory', 'public choice theory']
+---
+---
+AI Response = 'invisible hand'
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['invisible hand']
+---
+---
+Question = Question:
+Read the sentence.
+
+__________ is a political system that favors an economic structure run by businesses and individuals rather than the government.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['Communism', 'Fascism', 'Capitalism', 'Marxism']
+---
+---
+AI Response = Capitalism
+---
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['Capitalism']
+---
+---
+Question = Question:
+Read the sentence.
+
+__________ is a political system that favors an economic structure in which the means of production is owned and monitored by the government.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['Feudalism', 'Capitalism', 'Anarchism', 'Socialism']
+---
+---
+AI Response = Socialism
+---
+---
+Click = Box(left=302, top=735, width=20, height=26)
+---
+---
+Correct Answer = ['Socialism']
+---
+---
+Question = Question:
+Read the sentence.
+
+___________ is a political system in which the government owns all businesses and the economy.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['Feudalism', 'Capitalism', 'Communism', 'Anarchism']
+---
+---
+AI Response = Communism
+---
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['Communism']
+---
+---
+Question = Question:
+Read the sentence.
+
+___________ is a political theory that allows for complete freedom of the individual and the absence of government.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['Feudalism', 'Anarchism', 'Capitalism', 'Communism']
+---
+---
+AI Response = Anarchism
+---
+---
+Click = Box(left=302, top=662, width=20, height=26)
+---
+---
+Correct Answer = ['Anarchism']
+---
+---
+Question = Question:
+Which law, signed in 2012, gives private companies more access to capital and makes it easier for certain companies to go public on US stock exchanges?
+
+
+---
+---
+Responses = ['Employee Free Choice Act', 'JOBS Act', 'North American Free Trade Agreement', 'New Deal']
+---
+---
+AI Response = JOBS Act
+---
+---
+Click = Box(left=302, top=595, width=20, height=26)
+---
+---
+Correct Answer = ['JOBS Act']
+---
+---
+Question = Question:
+Read the sentence.
+
+The term __________ elasticity is defined as a measure that demonstrates how consumers respond to changes in the prices of goods and services.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['income', 'supply', ' demand', 'unit']
+---
+---
+AI Response = demand
+---
+Error: No correct anwers detected
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['demand']
+---
+---
+Question = Question:
+What measure demonstrates how producers respond to changes in prices of products and services?
+
+
+---
+---
+Responses = ['supply elasticity', 'demand elasticity', 'law of supply', 'law of variable proportions']
+---
+---
+AI Response = supply elasticity
+---
+---
+Click = Box(left=302, top=558, width=20, height=26)
+---
+---
+Correct Answer = ['supply elasticity']
+---
+---
+Question = Question:
+Read the sentence.
+
+A ___________ is defined as barring prices from exceeding a certain maximum.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['deficit', 'surplus', 'price ceiling', 'price floor']
+---
+---
+AI Response = price ceiling
+---
+---
+Click = Box(left=302, top=679, width=20, height=26)
+---
+---
+Correct Answer = ['price ceiling']
+---
+---
+Question = Question:
+Minimum wage is an example of what type of pricing structure?
+
+
+---
+---
+Responses = ['price ceiling', 'deflation', 'inflation', 'price floor']
+---
+---
+AI Response = price floor
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['price floor']
+---
+---
+Question = Question:
+Read the sentence.
+
+The term ___________ is defined as the rise in the general price level of goods and services.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['depression', 'recession', 'deflation', 'inflation']
+---
+---
+AI Response = inflation
+---
+---
+Click = Box(left=302, top=735, width=20, height=26)
+---
+---
+Correct Answer = ['inflation']
+---
+---
+Question = Question:
+Read the sentence.
+
+The term __________ money is defined as the type of money created by government decree.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['fiduciary', 'coin', 'fiat', 'commodity']
+---
+---
+AI Response = fiat
+---
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['fiat']
+---
+---
+Question = Question:
+Read the statement.
+
+The US government issued paper money printed with green ink on the back side during the Civil War.
+
+What was this form of currency called?
+
+
+---
+---
+Responses = ['sawbucks', 'cabbage-backs', 'shekels', 'greenbacks']
+---
+---
+AI Response = greenbacks
+---
+---
+Click = Box(left=302, top=735, width=20, height=26)
+---
+---
+Correct Answer = ['greenbacks']
+---
+---
+Question = Question:
+Read the sentence.
+
+A(n) __________ is regular payment dispersed to an individual during retirement from an investment fund to which the individual or his/her employer has contributed.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['pension', 'dividend', 'CD', 'annuity']
+---
+---
+AI Response = annuity
+---
+---
+Click = Box(left=302, top=699, width=20, height=26)
+---
+---
+Correct Answer = ['annuity']
+---
+---
+Question = Question:
+Read the sentence.
+
+A(n) __________ is a security sold by a corporation in exchange for shares of ownership in the company.
+
+What best completes the sentence?
+
+
+---
+---
+Responses = ['mutual fund', 'annuity', 'stock', 'bond']
+---
+---
+AI Response = stock
+---
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['stock']
+---
+---
+Question = Question:
+What is the definition of a bond?
+
+
+---
+---
+Responses = [' a security that is sold by a corporation in exchange for shares of ownership in the company', 'a contract to loan money to a corporation and earn interest on a fixed schedule in return', 'a portion of a company’s profits that is shared with that company’s stockholders', 'a pooling of investors and their funds to purchase a range of financial assets']
+---
+---
+AI Response = a contract to loan money to a corporation and earn interest on a fixed schedule in return
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['a contract to loan money to a corporation and earn interest on a fixed schedule in return']
+---
+---
+Question = Question:
+Read the sentence.
+
+__________ is defined as the market value of all final goods and services produced in a country in a specific time frame.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['gross domestic product', 'consumer price index', 'capital gains', 'market capitalization']
+---
+---
+AI Response = gross domestic product
+---
+---
+Click = Box(left=302, top=626, width=20, height=26)
+---
+---
+Correct Answer = ['gross domestic product']
+---
+---
+Question = Question:
+Read the sentence.
+
+When the amount of a country's imports exceeds the value of its exports, this results in a __________.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['flexible exchange rate', 'fixed exchange rate', 'trade deficit', 'trade surplus']
+---
+---
+AI Response = trade deficit
+---
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['trade deficit']
+---
+---
+Question = Question:
+Read the sentence.
+
+When the amount of a country's exports exceeds the cost of its imports, this is known as a __________.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['trade deficit', 'trade balance', 'trade surplus', 'trade gap']
+---
+---
+AI Response = trade surplus
+---
+---
+Click = Box(left=302, top=698, width=20, height=26)
+---
+---
+Correct Answer = ['trade surplus']
+---
+---
+Percentage = 93
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question = Question:
+Which is the most effective solution when planning for retirement?
+
+
+---
+---
+Responses = ['Hide the money under a mattress in the house.', 'Ask the human resources person for advice.', 'Start as soon as possible to maximize savings.', 'Read a book about economics and take notes.']
+---
+---
+AI Response = Start as soon as possible to maximize savings.
+---
+---
+Click = Box(left=302, top=616, width=20, height=26)
+---
+---
+Correct Answer = ['Start as soon as possible to maximize savings.']
+---
+---
+Question = Question:
+Read the sentence.
+
+The marketing mix, also known as the Four Ps of Marketing, consists of product, price, promotion, and _[blank]_.
+
+Which best completes the sentence?
+
+
+---
+---
+Responses = ['profit', 'presale', 'packaging', 'place']
+---
+---
+AI Response = place
+---
+---
+Click = Box(left=302, top=735, width=20, height=26)
+---
+---
+Correct Answer = ['place']
+---
+---
+Question = Question:
+Which type of expense can change based on use or volume?
+
+
+---
+---
+Responses = ['fixed', 'mandatory', 'voluntary', 'variable']
+---
+---
+AI Response = variable
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['variable']
+---
+---
+Question = Question:
+Read the scenario.
+
+Joe works full time as a carpenter and brings home $3,000 per month. He owes a total of $1,500 in fixed expenses every month, which includes items such as rent and insurance.
+
+If Joe had $1,000 in variable expenses such as groceries and entertainment, what would be his ending balance?
+
+
+---
+---
+Responses = ['$500', '$400', ' $150', '$250']
+---
+---
+AI Response = '$400'
+---
+---
+Click = Box(left=302, top=695, width=20, height=26)
+---
+---
+Correct Answer = ['$400']
+---
+---
+Question = Question:
+What was the original purpose of savings and loan associations?
+
+
+---
+---
+Responses = ['a way for groups of people to pool their money so that each member could purchase a vehicle', 'a way for groups of people to pool their money so that each member could save for a vacation', 'a way for groups of people to pool their money so that each member could build or buy a home', 'a way for groups of people to pool their money so that each member could open a business']
+---
+---
+AI Response = a way for groups of people to pool their money so that each member could build or buy a home
+---
+---
+Click = Box(left=302, top=661, width=20, height=26)
+---
+---
+Correct Answer = ['a way for groups of people to pool their money so that each member could build or buy a home']
+---
+---
+Question = Question:
+What are some advantages of using a debit card as opposed to cash?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Debit cards can help track spending carefully and accurately.', 'Debit cards can be replaced if they are lost.', 'Debit cards can be set up to provide a revolving line of credit.', 'Debit cards can provide monthly interest payments.']
+---
+---
+AI Response = ['Debit cards can help track spending carefully and accurately.', 'Debit cards can be replaced if they are lost.']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Correct Answer = ['Debit cards can help track spending carefully and accurately.', 'Debit cards can be replaced if they are lost.']
+---
+---
+Question = Question:
+Read the scenario.
+
+Alan and Samuel each have a 30-year mortgage. Both mortgages were approved at the same time. Alan pays 5 percent interest, while Samuel only pays 3.5 percent.
+
+If Alan and Samuel are the same age and make the same amount of money, why is Alan paying more in interest?
+
+
+---
+---
+Responses = [' Samuel has more credit cards, so he receives a better rate.', ' Alan has a better credit score, so his interest rate is higher.', 'Samuel has a better credit score, so his interest rate is lower.', ' Alan has a longer credit history, so he receives a worse rate.']
+---
+---
+AI Response = Samuel has a better credit score, so his interest rate is lower.
+---
+---
+Click = Box(left=302, top=718, width=20, height=26)
+---
+---
+Correct Answer = ['Samuel has a better credit score, so his interest rate is lower.']
+---
+---
+Question = Question:
+Which is an example of an unsecured revolving loan?
+
+
+---
+---
+Responses = ['credit card', 'student loan', 'home mortgage', 'auto loan']
+---
+---
+AI Response = credit card
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['credit card']
+---
+---
+Question = Question:
+How are whole life insurance and term life insurance different?
+
+
+---
+---
+Responses = [' Whole life insurance payments vary, but term life insurance payments do not.', 'Whole life insurance expires, but term life insurance does not.', 'Whole life insurance does not expire, but term life insurance does.', 'Whole life insurance pays death benefits, but term life insurance does not.']
+---
+---
+AI Response = Whole life insurance does not expire, but term life insurance does.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['Whole life insurance does not expire, but term life insurance does.']
+---
+---
+Question = Question:
+What role does income tax serve for the federal government?
+
+
+---
+---
+Responses = ['It is used to fund savings and loan institutions.', 'It is used to fund the Federal Reserve.', 'It is the largest source of revenue for the federal government.', 'It is the largest expense for the federal government.']
+---
+---
+AI Response = It is the largest source of revenue for the federal government.
+---
+---
+Click = Box(left=302, top=576, width=20, height=26)
+---
+---
+Correct Answer = ['It is the largest source of revenue for the federal government.']
+---
+---
+Question = Question:
+Which are benefits of a mixed market economy?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['A mixed market economy focuses on the community over the individual.', 'A mixed market economy provides some regulation to protect consumers.', 'A mixed market economy focuses on tradition to answer economic questions.', 'A mixed market economy provides a wide variety of products and services.']
+---
+---
+AI Response = ['A mixed market economy provides some regulation to protect consumers.', 'A mixed market economy provides a wide variety of products and services.']
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Correct Answer = ['A mixed market economy provides some regulation to protect consumers.', 'A mixed market economy provides a wide variety of products and services.']
+---
+---
+Question = Question:
+Read the sentence.
+
+Manny wishes to sell candy bars to his classmates to earn extra money.
+
+Which economic question identifies his consumers?
+
+
+---
+---
+Responses = ['how to produce', 'what to produce', 'for whom to produce', 'why to produce']
+---
+---
+AI Response = for whom to produce
+---
+---
+Click = Box(left=302, top=665, width=20, height=26)
+---
+---
+Correct Answer = ['for whom to produce']
+---
+---
+Question = Question:
+Why do command economies fail?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Large, slow bureaucracies form.', 'The market allocates resources.', 'Everyone is expected to work.', 'People have little incentive to innovate.']
+---
+---
+AI Response = ['Large, slow bureaucracies form.', 'People have little incentive to innovate.']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=684, width=20, height=26)
+---
+---
+Correct Answer = ['Large, slow bureaucracies form.', 'People have little incentive to innovate.']
+---
+---
+Question = Question:
+Read the sentence.
+
+In a market economy, the exclusive possession or control of the supply or trade in a commodity or service can develop, discouraging competition.
+
+What is this called?
+
+
+---
+---
+Responses = ['monopoly', ' distribution', 'competition', 'market']
+---
+---
+AI Response = monopoly
+---
+---
+Click = Box(left=302, top=626, width=20, height=26)
+---
+---
+Correct Answer = ['monopoly']
+---
+---
+Question = Question:
+Which accurately reflect the role of government in a mixed market economy?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['The government requires businesses to provide truthful advertising.', 'The government owns or partially owns some businesses.', 'The government does not promote competition between businesses.', 'The government ensures business monopolies stay intact.']
+---
+---
+AI Response = ['The government requires businesses to provide truthful advertising.', 'The government owns or partially owns some businesses.']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['The government requires businesses to provide truthful advertising.', 'The government owns or partially owns some businesses.']
+---
+---
+Question = Question:
+Which are characteristics of the US mixed market economy?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['consumer sovereignty', 'private property', 'limited competition', 'profit motive']
+---
+---
+AI Response = ['consumer sovereignty', 'private property', 'profit motive']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Click = Box(left=302, top=633, width=20, height=26)
+---
+---
+Correct Answer = ['consumer sovereignty', 'private property', 'profit motive']
+---
+---
+Question = Question:
+What arguments can be made for advantages of strong regulation of an industry?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['to promote innovative practices', 'to ensure there is adequate competition', 'to provide consumer protection', 'to decrease the burden on private business']
+---
+---
+AI Response = ['to provide consumer protection', 'to ensure there is adequate competition']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Correct Answer = ['to ensure there is adequate competition', 'to provide consumer protection']
+---
+---
+Question = Question:
+What are examples of the US government indirectly impacting the economy without being in direct competition with private business?
+
+
+---
+---
+Responses = ['regulating gas and electric public utility companies', 'owning and operating the United States Postal Service', 'owning and operating the Federal Deposit Insurance Corporation', 'providing social security benefits to retirees']
+---
+---
+AI Response = ['regulating gas and electric public utility companies', 'providing social security benefits to retirees']
+---
+---
+Click = Box(left=302, top=546, width=20, height=26)
+---
+---
+Click = Box(left=302, top=620, width=20, height=26)
+---
+---
+Correct Answer = ['regulating gas and electric public utility companies', 'providing social security benefits to retirees']
+---
+---
+Question = Question:
+What is true about setting up a sole proprietorship?
+
+
+---
+---
+Responses = [' The owner will pay higher taxes for natural resources.', 'The owner has to file paperwork with the state before opening the business.', 'The owner cannot sell stock until the business has been open for six months.', 'The owner has unlimited personal liability and is responsible for all debt.']
+---
+---
+AI Response = The owner has unlimited personal liability and is responsible for all debt.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['The owner has unlimited personal liability and is responsible for all debt.']
+---
+---
+Question = Question:
+What makes setting up a corporation difficult?
+
+
+---
+---
+Responses = ['The articles of incorporation must be filed in every state in which the company does business.', 'There are many tax and legal requirements that must be met.', 'A company must be in business for five years before incorporating.', 'Only certain types of businesses are allowed to incorporate.']
+---
+---
+AI Response = There are many tax and legal requirements that must be met.
+---
+---
+Click = Box(left=302, top=595, width=20, height=26)
+---
+---
+Correct Answer = ['There are many tax and legal requirements that must be met.']
+---
+---
+Question = Question:
+Read the statement.
+
+Economists note that personal income rose by 5 percent last year.
+
+What impact will the change in personal income have on demand?
+
+
+---
+---
+Responses = ['It will cause the demand curve to shift down.', 'It will cause the demand curve to shift left.', 'It will cause the demand curve to shift up.', 'It will cause the demand curve to shift right.']
+---
+---
+AI Response = It will cause the demand curve to shift right.
+---
+---
+Click = Box(left=302, top=701, width=20, height=26)
+---
+---
+Correct Answer = ['It will cause the demand curve to shift right.']
+---
+---
+Question = Question:
+Which is true regarding inelastic demand?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Products that are inelastic are sensitive to price changes.', 'Products that are inelastic do not have substitutes.', 'Products that are inelastic tend to be luxury items.', 'Products that are inelastic meet an important need.']
+---
+---
+AI Response = ['Products that are inelastic do not have substitutes.', 'Products that are inelastic meet an important need.']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Click = Box(left=302, top=684, width=20, height=26)
+---
+---
+Correct Answer = ['Products that are inelastic do not have substitutes.', 'Products that are inelastic meet an important need.']
+---
+---
+Question = Question:
+Read the scenario.
+
+Jane has a carpet cleaning business. The cost of production for her business went down due to cleaning solution becoming less expensive.
+
+What would happen to the supply curve in this scenario?
+
+
+---
+---
+Responses = ['The supply curve will shift down.', 'The supply curve will shift right.', 'The supply curve will shift up.', 'The supply curve will shift left.']
+---
+---
+AI Response = The supply curve will shift right.
+---
+---
+Click = Box(left=302, top=662, width=20, height=26)
+---
+---
+Correct Answer = ['The supply curve will shift right.']
+---
+---
+Question = Question:
+How does time impact elasticity of supply?
+
+
+---
+---
+Responses = ['A product is typically more elastic in the short run.', 'A product can become more elastic in the long run.', 'A product that is inelastic in the long run will not be in the short run.', 'A product that is elastic in the short run will not be in the long run.']
+---
+---
+AI Response = A product is typically more elastic in the short run.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['A product is typically more elastic in the short run.']
+---
+---
+Question = Question:
+What will most likely happen if a toy supplier sets a price too low for a product?
+
+
+---
+---
+Responses = ['A surplus will occur in which supply exceeds the demand of the product.', 'The government will set a price floor, prohibiting prices from falling.', 'The government will set a price ceiling, limiting the maximum price of the product.', 'A shortage will occur in which demand exceeds the supply of the product.']
+---
+---
+AI Response = A shortage will occur in which demand exceeds the supply of the product.
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['A shortage will occur in which demand exceeds the supply of the product.']
+---
+---
+Question = Question:
+A price ceiling helps consumers by keeping costs low, but what is the possible downside?
+
+
+---
+---
+Responses = [' A consumer’s potential income is increased.', 'A consumer’s potential buying power is limited.', 'A retailer’s potential income is limited.', ' A retailer’s potential buying power is increased.']
+---
+---
+AI Response = A consumer’s potential buying power is limited.
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['A consumer’s potential buying power is limited.']
+---
+---
+Question = Question:
+Read the scenario.
+
+Company X is making profits providing a new satellite service, but other firms cannot enter their market to compete with them. This is because Company X owns the patent on the process to develop the new service..
+
+What type of monopoly does Company X have?
+
+
+---
+---
+Responses = ['geographical', 'technological', 'natural', 'artificial']
+---
+---
+AI Response = technological
+---
+---
+Click = Box(left=302, top=682, width=20, height=26)
+---
+---
+Correct Answer = ['technological']
+---
+---
+Question = Question:
+What is an argument for government deregulation of products and services?
+
+
+---
+---
+Responses = ['Deregulation leads to an increase in public disclosures', 'Deregulation leads to an increase in consumer choices.', 'Deregulation leads to an increase in tax incentives.', 'Deregulation leads to an increase in consumer confidence.']
+---
+---
+AI Response = Deregulation leads to an increase in consumer choices.
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['Deregulation leads to an increase in consumer choices.']
+---
+---
+Question = Question:
+How does a union get its power?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['through collective bargaining', 'through purchasing government bonds', 'through a company’s articles of incorporation', 'through the membership of workers']
+---
+---
+AI Response = ['through collective bargaining', 'through the membership of workers']
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Click = Box(left=302, top=670, width=20, height=26)
+---
+---
+Correct Answer = ['through collective bargaining', 'through the membership of workers']
+---
+---
+Question = Question:
+Which accurately describes why the government may set a price floor such as minimum wage?
+
+
+---
+---
+Responses = ['to ensure people earn enough money to afford housing and food', 'to ensure businesses can afford to pay their workers while still earning a profit', 'to ensure a labor surplus during a recession or depression', 'to ensure a labor deficit during times of economic expansion']
+---
+---
+AI Response = to ensure people earn enough money to afford housing and food
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['to ensure people earn enough money to afford housing and food']
+---
+---
+Question = Question:
+What would most likely happen if the federal government decreased taxes for its citizens?
+
+
+---
+---
+Responses = ['The US tax code would change from a progressive to a regressive system.', 'Aggregate demand would increase, especially for wealthy individuals.', 'Aggregate demand would decrease, especially for wealthy individuals.', 'The US tax code would change from a proportional to a regressive system.']
+---
+---
+AI Response = Aggregate demand would increase, especially for wealthy individuals.
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['Aggregate demand would increase, especially for wealthy individuals.']
+---
+---
+Question = Question:
+Why should an effective tax be efficient?
+
+
+---
+---
+Responses = ['so that people feel the tax is fair', 'so the costs of collection are low', 'so that everything is transparent', 'so that it is difficult to avoid paying']
+---
+---
+AI Response = so the costs of collection are low
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['so the costs of collection are low']
+---
+---
+Question = Question:
+When does the tax rate increase under a progressive tax?
+
+
+---
+---
+Responses = ['when a person purchases a home', 'when a person’s income increases', 'when a person gets married', 'when a person’s job changes']
+---
+---
+AI Response = when a person’s income increases
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['when a person’s income increases']
+---
+---
+Question = Question:
+Which are accurate regarding how government spending affects the economy?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['The government makes payments to poor families and redistributes wealth in the nation.', 'Opening a military base spurs the economy in the surrounding area.', 'Increased government spending reduces federal deficits and inflation.', 'Public universities funded by taxpayers on average cost more than private universities.']
+---
+---
+AI Response = ['The government makes payments to poor families and redistributes wealth in the nation.', 'Opening a military base spurs the economy in the surrounding area.']
+---
+---
+Click = Box(left=302, top=584, width=20, height=26)
+---
+---
+Click = Box(left=302, top=630, width=20, height=26)
+---
+---
+Correct Answer = ['The government makes payments to poor families and redistributes wealth in the nation.', 'Opening a military base spurs the economy in the surrounding area.']
+---
+---
+Question = Question:
+What category of spending is included in mandatory spending of the federal budget?
+
+
+---
+---
+Responses = ['health care spending', 'military spending', 'transportation spending', 'education spending']
+---
+---
+AI Response = health care spending
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['health care spending']
+---
+---
+Question = Question:
+What is a likely consequence of decades of deficit spending?
+
+
+---
+---
+Responses = ['increasing debt payments', 'rising unemployment', 'rising laissez-faire practices', 'increasing income inequality']
+---
+---
+AI Response = increasing debt payments
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['increasing debt payments']
+---
+---
+Question = Question:
+What is true regarding mandatory spending?
+
+
+---
+---
+Responses = ['It is set by law and cannot be altered.', 'It is determined based on available funds.', 'It is determined based on tax revenues.', 'It is set each fiscal year based on need.']
+---
+---
+AI Response = It is set by law and cannot be altered.
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['It is set by law and cannot be altered.']
+---
+---
+Question = Question:
+What was a problem with using cowrie shells as an early form of money?
+
+
+---
+---
+Responses = ['They were too portable.', 'They were too plentiful.', 'They were not durable.', 'They were not widely accepted.']
+---
+---
+AI Response = They were not widely accepted.
+---
+---
+Click = Box(left=302, top=598, width=20, height=26)
+---
+---
+Correct Answer = ['They were not widely accepted.']
+---
+---
+Question = Question:
+What was an effect of the Banking Act of 1863?
+
+
+---
+---
+Responses = ['Some banks went out of business because of taxes.', 'Federal currency was tied to the gold standard.', 'Federal banks were forbidden to issue bonds.', 'Many banks started to create their own currencies.']
+---
+---
+AI Response = Federal currency was tied to the gold standard.
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['Federal currency was tied to the gold standard.']
+---
+---
+Question = Question:
+Which is a stock index used to measure the performance and prices of stocks?
+
+
+---
+---
+Responses = ['Dow Jones Industrial Average', 'Initial Public Offering', 'American Stock Exchange', 'New York Stock Exchange']
+---
+---
+AI Response = Dow Jones Industrial Average
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['Dow Jones Industrial Average']
+---
+---
+Question = Question:
+What are the primary reasons people choose to invest and trade stocks?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['to earn money that is liquid', 'to earn capital gains', 'to earn predictable quarterly interest', 'to earn a dividend']
+---
+---
+AI Response = ['to earn money that is liquid', 'to earn capital gains']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['to earn money that is liquid', 'to earn capital gains']
+---
+---
+Question = Question:
+Read the scenario.
+
+In the last quarter, there was a 4 percent increase in gross domestic product (GDP).
+
+What can be inferred from the scenario?
+
+
+---
+---
+Responses = ['The economy is growing.', 'A recession is impending.', 'A recession has just ended.', 'The economy is shrinking.']
+---
+---
+AI Response = The economy is growing.
+---
+---
+Click = Box(left=302, top=592, width=20, height=26)
+---
+---
+Correct Answer = ['The economy is growing.']
+---
+---
+Question = Question:
+Which is true about per capita GDP?
+
+
+---
+---
+Responses = ['An increase in population leads to a decrease in per capita GDP because more government services are needed.', 'An increase in population leads to a positive impact on per capita GDP if the additional population does not produce.', 'An increase in population can have a negative impact on per capita GDP if the additional population does not produce.', 'An increase in population leads to an increase in per capita GDP because there are more people to produce.']
+---
+---
+AI Response = An increase in population can have a negative impact on per capita GDP if the additional population does not produce.
+---
+---
+Click = Box(left=302, top=661, width=20, height=26)
+---
+---
+Correct Answer = ['An increase in population can have a negative impact on per capita GDP if the additional population does not produce.']
+---
+---
+Question = Question:
+Why would an economist review real GDP?
+
+
+---
+---
+Responses = ['to evaluate the amount of production for each person in the country', 'to remove the impact of inflation for a year-to-year comparison', 'to determine the amount of government spending in a 12-month period', 'to measure the impact of taxation on the level of production']
+---
+---
+AI Response = to remove the impact of inflation for a year-to-year comparison
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['to remove the impact of inflation for a year-to-year comparison']
+---
+---
+Question = Question:
+Which action could the government take to slow inflation?
+
+
+---
+---
+Responses = ['Raise interest rates.', 'Expand money supply.', 'Cut taxes.', 'Increase spending.']
+---
+---
+AI Response = Raise interest rates.
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['Raise interest rates.']
+---
+---
+Question = Question:
+What are the responsibilities of the Federal Reserve?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['implements American monetary policy', 'enters money into circulation', 'oversees the New York Stock Exchange', 'establishes federal trade regulations and tariffs']
+---
+---
+AI Response = ['implements American monetary policy', 'enters money into circulation']
+---
+---
+Click = Box(left=302, top=574, width=20, height=26)
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Correct Answer = ['implements American monetary policy', 'enters money into circulation']
+---
+---
+Question = Question:
+What are benefits of international trade?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['It causes a trade surplus in which countries have more than they need.', 'It allows countries to acquire goods they cannot produce efficiently.', 'It leads to new and shared ideas as a result of cultural diffusion.', 'It ensures that countries are protected in the event of war or conflict.']
+---
+---
+AI Response = ['It allows countries to acquire goods they cannot produce efficiently.', 'It leads to new and shared ideas as a result of cultural diffusion.']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Correct Answer = ['It allows countries to acquire goods they cannot produce efficiently.', 'It leads to new and shared ideas as a result of cultural diffusion.']
+---
+---
+Question = Question:
+Which is true regarding tariffs?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Tariffs can raise revenue for the government.', 'Tariffs can lead to lower consumer costs.', 'Tariffs can promote free trade.', 'Tariffs can lead to a trade freeze.']
+---
+---
+AI Response = Tariffs can raise revenue for the government.
+---
+---
+Click = Box(left=302, top=560, width=20, height=26)
+---
+---
+Correct Answer = ['Tariffs can raise revenue for the government.']
+---
+---
+Question = Question:
+Which accurately reflect economic conditions in developing nations?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['Most developing nations are located in the G7 countries of Western Europe.', 'Education is often reserved for the wealthiest members of society.', 'Developing nations often lack efficient and effective law enforcement.', 'Lending institutions do not exist or only serve wealthy members of society.']
+---
+---
+AI Response = ['Education is often reserved for the wealthiest members of society.', 'Developing nations often lack efficient and effective law enforcement.']
+---
+---
+Click = Box(left=302, top=597, width=20, height=26)
+---
+---
+Click = Box(left=302, top=633, width=20, height=26)
+---
+---
+Correct Answer = ['Education is often reserved for the wealthiest members of society.', 'Developing nations often lack efficient and effective law enforcement.']
+---
+---
+Question = Question:
+What are major obstacles to economic development for developing countries?
+
+(Select all that apply.)
+
+
+---
+---
+Responses = ['regressive tax code', 'limited natural resources', 'low skilled workforce', 'high population growth']
+---
+---
+AI Response = ['limited natural resources', 'low skilled workforce', 'high population growth']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Click = Box(left=302, top=684, width=20, height=26)
+---
+---
+Correct Answer = ['limited natural resources', 'low skilled workforce', 'high population growth']
+---
+---
+Percentage =
+---
+---
+Error: Input Percentage Manually
+Percentage =
+73
+73
+---

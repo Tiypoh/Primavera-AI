@@ -1,0 +1,2524 @@
+log8 (Environmental Science A Unit 5-6)
+
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 25
+---
+---
+Question = Question:  Which statement best describes natural selection?
+---
+---
+Responses = ['It is the movement of genetic material from one population to another.', 'It is the changes in the characteristics of a species over several generations.', 'It is the process by which populations of living organisms adapt and change.', 'It is the differences in the characteristics of individuals of the same species.']
+---
+---
+Correct Answer = ['It is the process by which populations of living organisms adapt and change.']
+---
+---
+Question Number = 2 of 25
+---
+---
+Question = Question:  Which option describes a condition required for natural selection to occur?
+---
+---
+Responses = ['low reproduction rate', 'production of more offspring than can survive', 'transmission of a specific trait from offspring to parent', 'absence of variation in the traits']
+---
+---
+Correct Answer = ['production of more offspring than can survive']
+---
+---
+Question Number = 3 of 25
+---
+---
+Question = Question:  How does genetic variation help individuals in a population?
+---
+---
+Responses = ['It increases the chances of hiding from predators.', 'It increases the chances of finding food and shelter.', 'It increases the chances of survival and reproduction in a changing environment.', 'It increases the chances of mating with superior females of the species.']
+---
+---
+Correct Answer = ['It increases the chances of survival and reproduction in a changing environment.']
+---
+---
+Question Number = 4 of 25
+---
+---
+Question = Question:  What best defines the fitness of an organism?    Select all that apply.
+---
+---
+Responses = ['ability to survive', 'ability to find prey', 'ability to resist growth', 'ability to avoid predators', 'ability to reproduce']
+---
+---
+Correct Answer = ['ability to survive', 'ability to avoid predators', 'ability to reproduce']
+---
+---
+Question Number = 5 of 25
+---
+---
+Question = Question:  A region has rabbits with two different coat colors—brown and white. The white rabbits are easily spotted in the grassy field by a hawk from above.      How will natural selection affect the frequency of the trait in the rabbit population?
+---
+---
+Responses = ['White- and brown-colored rabbits will become equal in number due to selective predation.', 'White-colored rabbits will increase in number due to lack of predation.', 'Brown-colored rabbits will increase in number due to lack of predation.', 'Brown-colored rabbits will decrease due to predation and will eventually become extinct.']
+---
+---
+Correct Answer = ['Brown-colored rabbits will increase in number due to lack of predation.']
+---
+---
+Question Number = 6 of 25
+---
+---
+Question = Question:  What is biodiversity?
+---
+---
+Responses = ['The term describes a living thing that can function on its own.', 'The term describes the geographical area where the abiotic and biotic parts work together.', 'The term describes a group of organisms that have similar characteristics.', 'The term describes the variety of life on Earth.']
+---
+---
+Correct Answer = ['The term describes the variety of life on Earth.']
+---
+---
+Question Number = 7 of 25
+---
+---
+Question = Question:  What defines a mutation?
+---
+---
+Responses = ['any change in the nucleotide sequence of the genome', 'any change in the number of cells in the body of the organism', 'any change in the amino acid sequence of the protein', 'any change in the growth and development of the organism']
+---
+---
+Correct Answer = ['any change in the nucleotide sequence of the genome']
+---
+---
+Question Number = 8 of 25
+---
+---
+Question = Question:  In North America, apple maggots and hawthorn maggots are commonly observed. The apple-feeding organism developed from the hawthorn-feeding species somewhere between 1800 and 1850 after the introduction of apples in North America. Now both organisms are found in the same area but do not feed on the same food items.    Which type of speciation is present in these organisms?
+---
+---
+Responses = ['allopatric', 'peripatric', 'parapatric', 'sympatric']
+---
+---
+Correct Answer = ['sympatric']
+---
+---
+Question Number = 9 of 25
+---
+---
+Question = Question:  In inbreeding, closely related individuals reproduce, which reduces the overall genetic variation.    What is the likely significance of low genetic variation in a population?
+---
+---
+Responses = ['The population cannot evolve in response to changing environments.', 'The population cannot produce offspring in the same habitat.', 'The population can no longer breed independently.', 'The population cannot migrate to other places with the same habitat.']
+---
+---
+Correct Answer = ['The population cannot evolve in response to changing environments.']
+---
+---
+Question Number = 10 of 25
+---
+---
+Question = Question:  What best defines a genetic disorder?    Select all that apply.
+---
+---
+Responses = ['increase in the number of cells in the body', 'alteration in the amino acid sequence', 'changes in the protein structure', 'mutation in a gene', 'abnormality of a chromosome']
+---
+---
+Correct Answer = ['mutation in a gene', 'abnormality of a chromosome']
+---
+---
+Question Number = 11 of 25
+---
+---
+Question = Question:  What are the causes of biodiversity loss in a given area?    Select all that apply.
+---
+---
+Responses = ['afforestation', 'more availability of food', 'invasive species', 'change in climate', 'habitat fragmentation']
+---
+---
+Correct Answer = ['invasive species', 'change in climate', 'habitat fragmentation']
+---
+---
+Question Number = 12 of 25
+---
+---
+Question = Question:  What is habitat fragmentation?
+---
+---
+Responses = ['The process in which a larger habitat gets divided into smaller habitats.', 'The process in which organisms from isolated habitats migrate to a larger habitat.', 'The process in which smaller habitats combine to form a larger habitat.', 'The process in which organisms from larger habitats migrate to isolated habitats.']
+---
+---
+Correct Answer = ['The process in which a larger habitat gets divided into smaller habitats.']
+---
+---
+Question Number = 13 of 25
+---
+---
+Question = Question:  The red-eyed tree frog is found in the canopy of rainforests throughout Central America, Southern Mexico, and South America. It feeds on flies and moths.      What will reduce the population of this frog?
+---
+---
+Responses = ['consistent climate for a prolonged time', 'lack of snakes that feed on the red-eyed frog', 'clearing of forest land', 'increase in the population of flies']
+---
+---
+Correct Answer = ['clearing of forest land']
+---
+---
+Question Number = 14 of 25
+---
+---
+Question = Question:  What option best defines invasive species?
+---
+---
+Responses = ['an organism that can reproduce naturally with members of the same species', 'an organism that normally lives in a particular area', 'an organism that is not native to a particular area', 'an organism adapted to a particular set of resources']
+---
+---
+Correct Answer = ['an organism that is not native to a particular area']
+---
+---
+Question Number = 15 of 25
+---
+---
+Question = Question:  Kudzu is a plant of the pea family that is native to Japan. It was introduced in the United States as a great tool for soil erosion. However, Kudzu is now overtaking and displacing other plants of the southeastern United States such as Sweetshrub, Bee Balm, Big Bluestem, and many more.    Which of these is an invasive species? 
+---
+---
+Responses = ['Bee Balm', 'Big Bluestem', 'Kudzu', 'Sweetshrub']
+---
+---
+Correct Answer = ['Kudzu']
+---
+---
+Question Number = 16 of 25
+---
+---
+Question = Question:  The zebra mussel is a species native to Europe that was accidentally introduced to other regions, including the United States.    How has the introduction of this invasive species impacted the ecosystem of the Great lakes?
+---
+---
+Responses = ['It prevents absorption of nutrients by other organisms.', 'It increases algal blooms.', 'It decreases the temperature of the water.', 'It consumes a high amount of carbon dioxide.']
+---
+---
+Correct Answer = ['It increases algal blooms.']
+---
+---
+Question Number = 17 of 25
+---
+---
+Question = Question:  In Seneca lake, plankton are the producers that are consumed by many fish. When the fish die, they are decomposed by bacteria. This process releases vital nutrients into the water for producers. Zebra mussels are an invasive species that also feed on plankton.    What will be the effect of zebra mussels on the food web if they are introduced into Seneca lake?
+---
+---
+Responses = ['The population of fish will decrease.', 'The number of bacteria in the lake will increase.', 'The population of plankton in the lake will increase.', 'The number of nutrients in the lake will decrease.']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['The population of plankton in the lake will increase.', 8]]
+---
+---
+Question Number = 18 of 25
+---
+---
+Question = Question:  What does it mean to hybridize an organism?
+---
+---
+Responses = ['The act of breeding individuals in a natural habitat.', 'The act of breeding individuals of the same species.', 'The act of breeding individuals of two different species.', 'The act of breeding individuals in captivity.']
+---
+---
+Correct Answer = ['The act of breeding individuals of two different species.']
+---
+---
+Question Number = 19 of 25
+---
+---
+Question = Question:  What categorizes a species as endangered?
+---
+---
+Responses = ['the members of species reproduce less in a particular year compared to the previous year', 'there are no more members of the species alive in any location of the world', 'the number of species increases in one area while decreases in another area', 'the species is likely to become extinct either in a specific area or worldwide']
+---
+---
+Correct Answer = ['the species is likely to become extinct either in a specific area or worldwide']
+---
+---
+Question Number = 20 of 25
+---
+---
+Question = Question:  When there are less than 2,500 mature individuals of a species, then that species is classified as endangered. The table shows the list of species and their current numbers in the world.    Species     Number     white rhino    20,000     Cross River gorilla    200-300     fin whale    100,000     brown bear    200,000       Which of these is an endangered species?
+---
+---
+Responses = ['brown bear', 'white rhino', 'Cross River gorilla', 'fin whale']
+---
+---
+Correct Answer = ['Cross River gorilla']
+---
+---
+Question Number = 21 of 25
+---
+---
+Question = Question:  What is the Endangered Species Act?
+---
+---
+Responses = ['It is a program for the isolation of endangered species from their natural habitat and placement into an area where they receive extensive care.', 'It is a program that prevents the entry of invasive species into an area where they can threaten the endangered species.', 'It is a program that includes artificial breeding of endangered species.', 'It is a program for the conservation of endangered species and their habitats.']
+---
+---
+Correct Answer = ['It is a program for the conservation of endangered species and their habitats.']
+---
+---
+Question Number = 22 of 25
+---
+---
+Question = Question:  What is a gene drive?
+---
+---
+Responses = ['It is a genetic engineering technology that prevents the inheritance of paternal genes in the offspring.', 'It is a genetic engineering technology that allows the inheritance of only beneficial genes to the next generation.', 'It is a genetic engineering technology that prevents the inheritance of maternal genes in the offspring.', 'It is a genetic engineering technology that guarantees the inheritance of a specific gene in the next generation.']
+---
+---
+Correct Answer = ['It is a genetic engineering technology that guarantees the inheritance of a specific gene in the next generation.']
+---
+---
+Question Number = 23 of 25
+---
+---
+Question = Question:  What are the potential uses of a gene drive?    Select all that apply.
+---
+---
+Responses = ['eliminating an invasive species', 'increasing the resistance in disease-causing agents', 'increasing the life span of native species', 'eliminating the use of pesticides']
+---
+---
+Correct Answer = ['eliminating an invasive species']
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  How does a gene drive work?
+---
+---
+Responses = ['It increases the chances of a gene being passed on to the next generation by creating an organism that is heterozygous for a desired gene.', 'It increases the chances of mutation in the gene to allow the survival of selected organisms.', 'It increases the number of genes in the parent organism for its expression at large scale.', 'It increases the chances of a gene being passed on to the next generation by creating an organism that is homozygous for a desired gene.']
+---
+---
+Correct Answer = ['It increases the chances of a gene being passed on to the next generation by creating an organism that is homozygous for a desired gene.']
+---
+---
+Question Number = 25 of 25
+---
+---
+Question = Question:  How are genes inherited in organisms that are diploid?
+---
+---
+Responses = ['No sets of genes are passed to offspring.', 'A set of genes is passed from each offspring to the parent organisms.', 'Only one set of genes is passed on to offspring.', 'A set of genes is passed from each parent organism to the resulting offspring.']
+---
+---
+Correct Answer = ['A set of genes is passed from each parent organism to the resulting offspring.']
+---
+---
+Percentage = 93
+---
+***
+Error Detected - Could not find next to click
+***
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What are characteristics of populations?    Select all that apply.
+---
+---
+Responses = ['Populations have species that live in various areas.', 'Populations can occur at different scales.', 'Populations have individuals from one species.', 'Populations have a mixture of different species.']
+---
+---
+Correct Answer = ['Populations can occur at different scales.', 'Populations have individuals from one species.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  What factors can increase a population's size?    Select all that apply.
+---
+---
+Responses = ['when more individuals are born', 'when individuals die', 'when individuals leave the population', 'when more individuals join the population']
+---
+---
+Correct Answer = ['when more individuals are born', 'when more individuals join the population']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  How is birthrate defined?
+---
+---
+Responses = ['Birthrate is the size of offspring per individual over a period of time.', 'Birthrate is the number of offspring per population over a period of time.', 'Birthrate is the number of offspring per individual over a period of time.', 'Birthrate is the location of the offspring in the population over a period of time.']
+---
+---
+Correct Answer = ['Birthrate is the number of offspring per population over a period of time.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  How is death rate defined?
+---
+---
+Responses = ['Death rate is the number of deaths in a population per unit of time.', 'Death rate is the number of deaths minus births in a population per unit of time.', 'Death rate is the number of each death type in a population per unit of time.', 'Death rate is the likelihood of death of each member of a population per unit of time.']
+---
+---
+Correct Answer = ['Death rate is the number of deaths in a population per unit of time.']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What scenario describes a characteristic of a population?     Select all that apply.
+---
+---
+Responses = ['25 goats, 25 pigs, and 50 cows make up a single population in a small town.', 'A population of ants can be very small or very large depending on the sources available.', '100 goats make up a single population in a small town.', 'A population of birds must always stay the same size in order for their flying patterns to work.']
+---
+---
+Correct Answer = ['25 goats, 25 pigs, and 50 cows make up a single population in a small town.', 'A population of ants can be very small or very large depending on the sources available.']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What is a population?
+---
+---
+Responses = ['A population has individuals from one species within nearby geographical areas that can breed and share genes.', 'A population has individuals from a few species within the same geographical area that cannot breed or share genes.', 'A population includes members from different species that live in the same geographical area and interact with one another.', 'A population includes members of a species that live in one area and interact with one another.']
+---
+---
+Correct Answer = ['A population includes members of a species that live in one area and interact with one another.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What are characteristics of a population?
+---
+---
+Responses = ['being large in size and containing only one species', 'occurring at different scales and containing only one species', 'occurring at different scales and containing multiple species', 'being small in size and containing a few species']
+---
+---
+Correct Answer = ['occurring at different scales and containing multiple species']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What characteristics apply to a population?    Select all that apply.
+---
+---
+Responses = ['can be small or large in scale', 'are unable to share genes', 'only made up of one species', 'only made up of marine species', 'individuals are genetically identical to each other']
+---
+---
+Correct Answer = ['can be small or large in scale', 'only made up of one species']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What can decrease a population's size?
+---
+---
+Responses = ['death rate and emigration', 'birthrate and immigration', 'death rate and immigration', 'birthrate and emigration']
+---
+---
+Correct Answer = ['death rate and emigration']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What are examples of how population size can be affected?    Select all that apply.
+---
+---
+Responses = ['Hunting of deer increases and causes more deer to die.', 'A couple of foxes leave a population just as a couple of foxes join.', 'Some bears join a population after their forest has been cut down.', 'A few birds leave a population due to low resources.', 'The births and deaths of a population of mice stay the same.']
+---
+---
+Correct Answer = ['Hunting of deer increases and causes more deer to die.', 'Some bears join a population after their forest has been cut down.', 'A few birds leave a population due to low resources.']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is the birthrate in a human population?
+---
+---
+Responses = ['the number of births per hour per person', 'the number of births per year per person', 'the number of births per year per 1,000 people', 'the number of births per day per 1,000 people']
+---
+---
+Correct Answer = ['the number of births per year per 1,000 people']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What could cause the population of a small town to change?     Select all that apply.
+---
+---
+Responses = ['many people move into the town, but none move out', 'a few people moved away but the same number of people moved into the town', 'more people are born than die in a year', 'the number of people born in a year is the same as the number of people that died']
+---
+---
+Correct Answer = ['many people move into the town, but none move out', 'more people are born than die in a year']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What situation can affect population size?     Select all that apply.
+---
+---
+Responses = ['A country has become unsafe due to the threat of war causing people to move to other countries.', 'A country has a limited amount of resources, so no one moves to it or leaves.', 'A country has a terrible drought causing the available food to decline and therefore forcing people to move out.', 'A country has become a vacation hotspot causing the same number of locals to leave as tourists move in.']
+---
+---
+Correct Answer = ['A country has become unsafe due to the threat of war causing people to move to other countries.', 'A country has a terrible drought causing the available food to decline and therefore forcing people to move out.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What is the death rate?    Select all that apply.
+---
+---
+Responses = ['The death rate is the number of deaths per hour per 100 people in a human population.', 'The death rate is the number of deaths in a population per unit of time.', 'The death rate is the number of deaths per year per 1,000 people in a human population.', 'The death rate is the number of deaths in a family per unit of time.']
+---
+---
+Correct Answer = ['The death rate is the number of deaths in a population per unit of time.', 'The death rate is the number of deaths per year per 1,000 people in a human population.']
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  A population of geese has 3,000   individuals. In one year, 15,000   goslings were born. There were 7,000   deaths in that same year.    What is the birthrate of the population?
+---
+---
+Responses = [None, '1', ',000 ']
+---
+***
+Error Detected - ['Fatal Error', TypeError("'in <string>' requires string as left operand, not NoneType")]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  A population of geese has 3,000   individuals. In one year, 15,000   goslings were born. There were 7,000   deaths in that same year.    What is the birthrate of the population?
+---
+---
+Responses = [None, '1', ',000 ']
+---
+***
+Error Detected - ['Fatal Error', TypeError("'in <string>' requires string as left operand, not NoneType")]
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  A population of geese has 3,000   individuals. In one year, 15,000   goslings were born. There were 7,000   deaths in that same year.    What is the birthrate of the population?
+---
+---
+Responses = [' ', '1', ' ind', ',000 ']
+---
+---
+Program = Stopping
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [[' ', 2]]
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  There are, on average, 23,700   chickens on a farm. Each day, 62   chicks are hatched. What is the birthrate of chickens over one year?
+---
+---
+Responses = ['382,258   per 1,000', '954.85   per 1,000', '1,047.28   per 1,000', '2.616   per 1,000']
+---
+---
+Correct Answer = ['1,047.28   per 1,000']
+---
+---
+Program = Starting
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  What characteristics can be true of a stable population?    Select all that apply.
+---
+---
+Responses = ['Stable populations can have neither an increase nor a decrease.', 'Stable populations decrease and then grow.', 'Stable populations can decrease.', 'Stable populations can grow.', 'Stable populations grow and then decrease.']
+---
+---
+Correct Answer = ['Stable populations can have neither an increase nor a decrease.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which example population shows a stable population that is also stationary?
+---
+---
+Responses = [None, '', 'th rate =31   per 1 textsf comma 0']
+---
+***
+Error Detected - ['Fatal Error', TypeError("'in <string>' requires string as left operand, not NoneType")]
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+***
+Error Detected - Could not find checkboxes
+***
+---
+Program = Exiting
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which example population shows a stable population that is also stationary?
+---
+---
+Responses = [None, '', 'th rate =31   per 1 textsf comma 0']
+---
+***
+Error Detected - Could not find checkboxes
+***
+---
+Program = Exiting
+---
+[ WARN:0@6.990] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 381, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 370, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 346, in function
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 334, in solve
+    correct = select(response, responses)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 301, in select
+    boxes, ocrresponses = findboxes()
+                          ^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 233, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{qtype()}.png', confidence=0.65):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 231, in _locateAll_opencv
+    needleImage = _load_cv2(needleImage, grayscale)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 193, in _load_cv2
+    raise IOError(
+OSError: Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which example population shows a stable population that is also stationary?
+---
+---
+Responses = [None, '', 'th rate =31   per 1 textsf comma 0']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 381, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 370, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 346, in function
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 334, in solve
+    correct = select(response, responses)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 302, in select
+    [correct.append(x) for x in responses if x in response]
+                                             ^^^^^^^^^^^^^
+TypeError: 'in <string>' requires string as left operand, not NoneType
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 357
+    global run = not run
+               ^
+SyntaxError: invalid syntax
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 378
+    global run
+    ^^^^^^^^^^
+SyntaxError: name 'run' is used prior to global declaration
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 380
+    global run
+    ^^^^^^^^^^
+SyntaxError: name 'run' is used prior to global declaration
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+OCR Responses = ['birthrate=54per1000deathrate=86per1000', 'birthrate=31per1000deathrate=31per1000', 'birthrate=71per1000deathrate=70per1000', 'birthrate=95per1000deathrate=27per1000']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which example population shows a stable population that is also stationary?
+---
+---
+Responses = ['birthrate=54per1000deathrate=86per1000', 'birthrate=31per1000deathrate=31per1000', 'birthrate=71per1000deathrate=70per1000', 'birthrate=95per1000deathrate=27per1000']
+---
+---
+OCR Responses = ['birthrate=54per1000deathrate=86per1000', 'birthrate=31per1000deathrate=31per1000', 'birthrate=71per1000deathrate=70per1000', 'birthrate=95per1000deathrate=27per1000']
+---
+---
+Correct Answer = ['birthrate=31per1000deathrate=31per1000']
+---
+---
+OCR Responses = ['birthrate=54per1000deathrate=86per1000', 'birthrate=71per1000deathrate=70per1000', 'birthrate=95per1000deathrate=27per1000']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which example population shows a stable population that is also stationary?
+---
+---
+Responses = ['birthrate=54per1000deathrate=86per1000', 'birthrate=71per1000deathrate=70per1000', 'birthrate=95per1000deathrate=27per1000']
+---
+---
+OCR Responses = ['birthrate=54per1000deathrate=86per1000', 'birthrate=71per1000deathrate=70per1000', 'birthrate=95per1000deathrate=27per1000']
+---
+---
+Correct Answer = ['birthrate=71per1000deathrate=70per1000']
+---
+---
+Percentage = 33
+---
+---
+Percentage = 33
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  A population of geese has 3,000   individuals. In one year, 15,000   goslings were born. There were 7,000   deaths in that same year.    What is the birthrate of the population?
+---
+---
+Responses = ['2,333.3   per 1,000', '5,000   per 1,000', '15,000   individuals', '11,000   individuals']
+---
+---
+OCR Responses = ['i']
+---
+---
+Correct Answer = ['2,333.3   per 1,000']
+---
+---
+Program = Starting
+---
+---
+Program = Exiting
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  There are, on average, 23,700   chickens on a farm. Each day, 62   chicks are hatched. What is the birthrate of chickens over one year?
+---
+---
+Responses = ['954.85   per 1,000', '1,047.28   per 1,000', '382,258   per 1,000', '2.616   per 1,000']
+---
+---
+OCR Responses = ['95485per1000', '104728per1000', '382258per1000', '2616per1000']
+---
+---
+Correct Answer = ['1,047.28   per 1,000']
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 250
+    if box.top not in boxrange
+                              ^
+SyntaxError: expected ':'
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  There are, on average, 23,700   chickens on a farm. Each day, 62   chicks are hatched. What is the birthrate of chickens over one year?
+---
+---
+Responses = ['954.85   per 1,000', '1,047.28   per 1,000', '382,258   per 1,000', '2.616   per 1,000']
+---
+---
+Correct Answer = ['2.616   per 1,000']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  There are, on average, 23,700   chickens on a farm. Each day, 62   chicks are hatched. What is the birthrate of chickens over one year?
+---
+---
+Responses = ['954.85   per 1,000', '1,047.28   per 1,000', '382,258   per 1,000', '2.616   per 1,000']
+---
+***
+Error Detected - ['Fatal Error', IndexError('list index out of range')]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  What characteristics can be true of a stable population?    Select all that apply.
+---
+---
+Responses = ['Stable populations can have neither an increase nor a decrease.', 'Stable populations can grow.', 'Stable populations decrease and then grow.', 'Stable populations can decrease.', 'Stable populations grow and then decrease.']
+---
+---
+Correct Answer = ['Stable populations can have neither an increase nor a decrease.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which example population shows a stable population that is also stationary?
+---
+---
+Responses = ['', 'th rate =31   per']
+---
+---
+Correct Answer = ['']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which example population shows a stable population that is also stationary?
+---
+---
+Responses = ['', 'th rate =31   per']
+---
+---
+Correct Answer = ['']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Percentage = 25
+---
+---
+Percentage = 25
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  A population of geese has 3,000   individuals. In one year, 15,000   goslings were born. There were 7,000   deaths in that same year.    What is the birthrate of the population?
+---
+---
+Responses = ['15,000   individuals', '11,000   individuals', '2,333.3   per 1,000', '5,000   per 1,000']
+---
+---
+Correct Answer = ['5,000   per 1,000']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  There are, on average, 23,700   chickens on a farm. Each day, 62   chicks are hatched. What is the birthrate of chickens over one year?
+---
+---
+Responses = ['2.616   per 1,000', '382,258   per 1,000', '1,047.28   per 1,000', '954.85   per 1,000']
+---
+---
+Correct Answer = ['1,047.28   per 1,000']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  What characteristics can be true of a stable population?    Select all that apply.
+---
+---
+Responses = ['Stable populations can decrease.', 'Stable populations can have neither an increase nor a decrease.', 'Stable populations decrease and then grow.', 'Stable populations can grow.', 'Stable populations grow and then decrease.']
+---
+---
+Correct Answer = ['Stable populations can have neither an increase nor a decrease.']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which example population shows a stable population that is also stationary?
+---
+---
+Responses = ['birthrate=95per1000deathrate=27per1000', 'birthrate=54per1000deathrate=86per1000', 'birthrate=71per1000deathrate=70per1000', 'birthrate=31per1000deathrate=31per1000']
+---
+---
+Correct Answer = ['birthrate=31per1000deathrate=31per1000']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Which letter of the alphabet best defines the shape of a logistic growth curve?
+---
+---
+Responses = ['J', 'N', 'V', 'S']
+---
+---
+Correct Answer = ['S']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What characterizes a logistic growth curve?    Select all that apply.
+---
+---
+Responses = ['exponential growth, slowing growth, flattens', 'S-shaped population growth curve', 'J-shaped population growth curve', 'slow growth, exponential growth', 'slow growth, exponential growth, slowing growth, flattens']
+---
+---
+Correct Answer = ['exponential growth, slowing growth, flattens', 'S-shaped population growth curve', 'slow growth, exponential growth', 'slow growth, exponential growth, slowing growth, flattens']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  In the Transition Demographic Model, a population at which stage is likely to be experiencing exponential growth?
+---
+---
+Responses = ['declining', 'high stationary', 'early expanding', 'low stationary']
+---
+---
+Correct Answer = ['early expanding']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Exponential growth in a population can be identified by which shape of a population growth curve?
+---
+---
+Responses = ['slow downward trend', 'flat horizontal trend', 'sudden rapid upward trend', 'slow steady upward trend']
+---
+---
+Correct Answer = ['sudden rapid upward trend']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which scenario distinguishes linear from exponential growth?
+---
+---
+Responses = ['Linear growth will occur in a population which doubles each year, whereas exponential growth will occur in a population which increases by 2 million organisms a year.', 'Linear growth will occur in a population which increases by 2 million organisms a year, whereas exponential growth will occur in a population which is cut in half each year.', 'Linear growth will occur in a population which increases by 2 million organisms a year, whereas exponential growth will occur in a population which doubles each year.', 'Linear growth will occur in a population which is cut in half each year, whereas exponential growth will occur in a population which increases by 2 million organisms a year.']
+---
+---
+Program = Stopping
+---
+---
+Correct Answer = ['Linear growth will occur in a population which increases by 2 million organisms a year, whereas exponential growth will occur in a population which doubles each year.']
+---
+---
+Program = Starting
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  How would birth and death rates compare in linear versus exponential population growth?
+---
+---
+Responses = ['Both birth and death rates are similar in linear growth, while birth rates far exceed death rates in exponential growth.', 'Birth rates are lower than death rates in linear growth, while birth rates exceed death rates in a consistent pattern in exponential growth.', 'Birth rates far exceed death rates in linear growth, while birth and death rates are similar in exponential growth.', 'Birth rates exceed death rates in a consistent pattern in linear growth, while birth rates far exceed death rates in exponential growth.']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['Birth rates exceed death rates in a consistent pattern in linear growth, while birth rates far exceed death rates in exponential growth.', 20]]
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  In a graph, how is linear growth different from exponential growth?    Select all that apply.  
+---
+---
+Responses = ['Linear growth shows consistent growth over time while exponential growth curves show sudden rapid increase in growth.', 'Linear growth shows straight horizontal lines while exponential growth curves show straight vertical lines.', 'Linear growth goes in only one direction while exponential growth curves changes from almost horizontal to being almost vertical.', 'Linear growth appears as diagonal lines sloping upwards while exponential growth curves are J-shaped.']
+---
+---
+Correct Answer = ['Linear growth shows consistent growth over time while exponential growth curves show sudden rapid increase in growth.', 'Linear growth appears as diagonal lines sloping upwards while exponential growth curves are J-shaped.']
+---
+---
+Percentage = 91
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What term refers to a nutrient that limits the growth or abundance of a population?
+---
+---
+Responses = ['limiting factor', 'micronutrient', 'carrying capacity', 'logistic']
+---
+---
+Correct Answer = ['limiting factor']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which of the following factors would be the limiting factor for plants growing on a farm?
+---
+---
+Responses = ['sunlight', 'nitrogen', 'oxygen', 'predators']
+---
+---
+Correct Answer = ['nitrogen']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which description best models the relationship between limiting factors and carrying capacity? 
+---
+---
+Responses = ['If iron is the limiting factor for plant growth, increasing the amounts of other nutrients before iron will increase the carrying capacity.', 'If iron is the limiting factor for plant growth, increasing the amount of iron will increase the carrying capacity.', 'If iron is the limiting factor for plant growth, decreasing the amount of iron will increase the carrying capacity.']
+---
+---
+Correct Answer = ['If iron is the limiting factor for plant growth, increasing the amount of iron will increase the carrying capacity.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which statement is true of the sustainable use of resources?
+---
+---
+Responses = ['Resources are used at the rate they are replaced.', 'Resources are used faster than they are replaced.', 'Resources are replaced faster than they are used.']
+---
+---
+Correct Answer = ['Resources are used at the rate they are replaced.']
+---
+---
+Percentage = 100
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What is a limiting factor?
+---
+---
+Responses = ["aspects of an organism's environment that do not affect carrying capacity", 'anything that limits the growth or abundance of a population', "aspects of an organism's environment that are not needed for it to grow", 'anything that causes an ecosystem to collapse']
+---
+---
+Correct Answer = ['anything that limits the growth or abundance of a population']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What is a micronutrient?
+---
+---
+Responses = ['something an organism needs in very small amounts', 'an important component of single-celled organisms', 'something that organisms only get from the air', 'a type of food that is broken up into small particles']
+---
+---
+Correct Answer = ['something an organism needs in very small amounts']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What is the term for the largest number of individuals an environment can support over a sustained period of time?
+---
+---
+Responses = ['limiting factor', 'logistic', 'biotic potential', 'carrying capacity']
+---
+---
+Correct Answer = ['carrying capacity']
+---
+---
+Image Question
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Study the graph.    A graph showing the population growth. More information in the long description.     © 2020 StrongMind      Long Description: Population Growth Graph  A graph with time on the x-axis and population on the y-axis. The population grows slowly from 0, starts to increase rapidly after a population of 5, starts to slow down around 45, peaks at 95, then fluctuates between 95 and 85 for the remainder of the time.          What represents carrying capacity on a graph?
+---
+---
+Responses = ['95', '90', '5', '50']
+---
+---
+Correct Answer = ['95', '5']
+---
+---
+Image Question
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Study the graph.    A graph showing the population size over time for 4 different treatments. More information in the long description.    © 2020 StrongMind    Long Description       A scientist tried growing plants with and without adding nutrients to the soil. The population sizes are recorded on the graph.     Which are true statements about the experiment?    Select all that apply.
+---
+---
+Responses = ['iron and potassium are not limiting factors', 'iron and potassium are limiting factors', 'carrying capacity is greatest when iron and potassium are both present', 'carrying capacity is greatest without any added nutrients']
+---
+---
+Correct Answer = ['iron and potassium are limiting factors']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What is an example of a micronutrient that can affect the carrying capacity of the environment?
+---
+---
+Responses = ['nitrogen', 'copper', 'oxygen in the air', 'predators']
+---
+---
+Correct Answer = ['copper']
+---
+---
+Image Question
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Study the graph.     A graph showing the population over time. The population fluctuates around a low population value for several years. In 2010, the population rises and fluctuates around a new value of about twice the size of the previous one.    © 2020 StrongMind        The graph represents the size of a plant population. In 2010, a small amount of copper was added to the soil.    What can be concluded from the graph?
+---
+---
+Responses = ['copper is toxic to plants', 'copper was a limiting factor', 'the carrying capacity is unaffected by copper', 'there are no more limiting factors after 2010']
+---
+---
+Correct Answer = ['copper was a limiting factor']
+---
+---
+Image Question
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Study the image.     A wooden barrel with boards of different heights is holding water. More information in the long description.    © 2020 StrongMind      Long Description: Carrying Capacity and Limiting Factors  The shortest board is labeled A. The second shortest board is labeled B. The height of the water in the barrel is labeled C, and is pouring out over the board that is labeled A. The tallest board is labeled D.             Which of the labeled locations model the relationship between carrying capacity and limiting factors?
+---
+---
+Responses = ['C and D', 'A and C', 'A and D', 'A and B']
+---
+---
+Correct Answer = ['A and C']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is meant by sustainable?
+---
+---
+Responses = ['what goes up comes down', 'what is used is replaced', 'what is absorbed is released', 'what goes in comes out']
+---
+---
+Correct Answer = ['what is used is replaced']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  When a population is at its carrying capacity, the environmental resources it depends on are _[blank]_.
+---
+---
+Responses = ['unused', 'sustainable', 'slowly degraded', 'accumulating']
+---
+---
+Correct Answer = ['sustainable']
+---
+---
+Percentage = 85
+---
+---
+Quiz Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Blight is a fungal disease that can affect the entire haul of a crop in very little time. What would be the likely impact on the population of potato crops on a farm if some potatoes get infected by this disease, assuming no other factor impacts the population size?
+---
+---
+Responses = ['The population of potatoes will begin to decline.', 'The population of potatoes will remain the same.', 'The population of potatoes will grow but will not contain nutrients.', 'The population of potatoes will begin to increase.']
+---
+---
+Correct Answer = ['The population of potatoes will begin to decline.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Why is it difficult to know the carrying capacity of the environment for humans?    Select all that apply.
+---
+---
+Responses = ['Humans artificially add energy resources into their environment to increase resources.', 'Not all human populations use the same amount of resources.', 'It is not possible to calculate the birth and death rates for human populations.', 'Human populations are not limited by factors.']
+---
+---
+Correct Answer = ['Humans artificially add energy resources into their environment to increase resources.', 'Not all human populations use the same amount of resources.']
+---
+---
+Image Question
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Study the graph.    A graph showing lynx and hare populations from 1860 to 1935. More information in the long description.    © 2020 StrongMind      Long Description: Lynx and Hare Populations and Hare Peaks Image  The lynx population is slightly lower than the hare population most of the time. The lynx population peaks roughly every ten years (that is, 1866, 1876, 1886, etc.). The hare population also peaks every ten years, but slightly earlier (that is, 1866, 1876, 1886, etc.). The general trend shows both populations declining after each 10-year peak.            According to the graph showing populations of arctic hares, and their major predator the lynx, what limits the lynx population?
+---
+---
+Responses = ['competition for food and water resources with the lynx population', 'the number of hares available as prey limits the lynx population', 'a major event like disease or a weather disaster occurring approximately every ten years']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['the number of hares available as prey limits the lynx population', 11]]
+---
+---
+Image Question
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Study the graph.    A graph showing population at various times. More information in the long description.    © 2020 StrongMind      Long Description: Carrying Capacity Graph  Population size on the vertical y-axis and time on the horizontal x-axis. Carrying capacity is shown as a horizontal line high on the graph. The population starts low, below the carrying capacity. The population increases in a J-shaped curve initially. As the population nears carrying capacity, it becomes an S-shaped line. Once the population reaches carrying capacity, it rises and falls slightly around the carrying capacity, going slightly above and below the dashed line.               The graph depicts a population of woodland animals that has recovered after a large forest fire. Based on the graph, what would be expected to happen to the population at time Z if its food source is reduced?
+---
+---
+Responses = ['The population size will decrease to a value of less than 100.', 'The population will fluctuate slightly around the value of 100.', 'The population will increase above the value of 100.']
+---
+---
+Correct Answer = ['The population size will decrease to a value of less than 100.']
+---
+---
+Percentage = 100
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 25
+---
+---
+Question = Question:  What is the definition of a population?
+---
+---
+Responses = ['all of the different groups of species that live in one area and interact with one another', 'the living organisms and nonliving features in an area', 'a group of individuals that are genetically related and can reproduce with one another', 'members of a species that live in one area and interact with one another']
+---
+---
+Correct Answer = ['members of a species that live in one area and interact with one another']
+---
+---
+Question Number = 2 of 25
+---
+---
+Question = Question:  Which characteristics are true of a population?    Select all that apply.
+---
+---
+Responses = ['A population is a group of organisms from one species.', 'Individuals in a population live in one geographical area together.', 'A population is several groups of different species.', 'Individuals in a population can breed with one another.', 'A population includes the living and nonliving things in the environment.']
+---
+---
+Correct Answer = ['A population is a group of organisms from one species.', 'Individuals in a population live in one geographical area together.', 'Individuals in a population can breed with one another.']
+---
+---
+Question Number = 3 of 25
+---
+---
+Question = Question:  Which factors cause the size of a population to increase?    Select all that apply.
+---
+---
+Responses = ['death rate', 'immigration', 'emigration', 'birth rate']
+---
+---
+Correct Answer = ['immigration', 'birth rate']
+---
+---
+Question Number = 4 of 25
+---
+---
+Question = Question:  Which factors affect population size but are also reversible?    Select all that apply.
+---
+---
+Responses = ['birth', 'immigration', 'death', 'emigration']
+---
+---
+Correct Answer = ['birth', 'immigration']
+---
+---
+Question Number = 5 of 25
+---
+---
+Question = Question:  Which statement  is the best definition of the term birth rate?
+---
+---
+Responses = ['the number of individuals born in a population over a period of time', 'the number of offspring an individual has over their lifetime', 'the number of individuals that produce offspring in a population over a period of time', 'the number of offspring per individual every year']
+---
+---
+Correct Answer = ['the number of individuals born in a population over a period of time']
+---
+---
+Question Number = 6 of 25
+---
+---
+Question = Question:  Which statement best describes the term death rate?
+---
+---
+Responses = ['the mortality of a species over its existence', 'the number of organisms in an ecosystem that die over time', 'the number of deaths in a population per unit of time', 'the total number of deaths in a population']
+---
+---
+Correct Answer = ['the number of deaths in a population per unit of time']
+---
+---
+Question Number = 7 of 25
+---
+---
+Question = Question:  A small town had a population of 5,000 people in the year 2010. The birth rate that year was 3 per every 1,000 people. The death rate was 4 per every 1,000 people. Two members of the population immigrated, and 20 members of the population emigrated. Using this information, what is the population size for the year 2011?
+---
+---
+Responses = ['4,977', '5,017', '5,013', '4,981']
+---
+---
+Correct Answer = ['4,981']
+---
+---
+Question Number = 8 of 25
+---
+---
+Question = Question:  A population consisted of 100,000 individuals in the year 2015. The death rate was 25 per every 1,000 individuals. If the population size was 105,000 in the year 2016, what was the birth rate in 2015?
+---
+---
+Responses = ['75 per every 1,000', '7.5 per every 1,000', '5.025 per every 1,000', '50.25 per every 1,000']
+---
+---
+Correct Answer = ['75 per every 1,000']
+---
+---
+Question Number = 9 of 25
+---
+---
+Question = Question:  What does it mean in the context of population dynamics if a population is stable?
+---
+---
+Responses = ['Birth and death rates are consistent, and the population is growing or shrinking at a consistent rate.', 'Birth rates are increasing and death rates are decreasing, and the population is growing.', 'Birth and death rates are neither increasing nor decreasing, and the population is not changing in size.', 'Birth and death rates cancel one another out, and the population is not changing in size.']
+---
+---
+Correct Answer = ['Birth and death rates cancel one another out, and the population is not changing in size.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 11 of 25
+---
+---
+Question = Question:  What necessary features should be included on a population growth curve graph?    Select all that apply.
+---
+---
+Responses = ['a line graphing the birth rate', 'time as the independent variable', 'a line showing change in population', 'population as the dependent variable', 'a line graphing the death rate']
+---
+---
+Correct Answer = ['time as the independent variable', 'a line showing change in population', 'population as the dependent variable']
+---
+---
+Question Number = 12 of 25
+---
+---
+Question = Question:  Which statement best describes a logistic growth curve?
+---
+---
+Responses = ['The population growth increases rapidly over time, then slows down and plateaus.', 'The population growth slowly increases over time, then rapidly increases, then slowly increases again, forming an S-shape.', 'The population growth increases slowly over time, then suddenly increases rapidly, shooting almost straight upward.', 'The population growth is straight, running diagonally, showing an equal increase in population and time.']
+---
+---
+Correct Answer = ['The population growth increases rapidly over time, then slows down and plateaus.']
+---
+---
+Image Question
+---
+---
+Question Number = 13 of 25
+---
+---
+Question = Question:  Which graph shows exponential growth in a population?    A graph of the number of organisms versus time. More information in the long description.    © 2020 StrongMind      Population Growth Image  Long Description  The y-axis is the number organisms and the x-axis is the time. There are four lines that begin at the origin: A, B, C, and D. The slope of Line A is up and to the right and is greater than Line B. Line C gradually slopes up and to the right and then flattens. Line D is horizontal at first and then slopes rapidly up and to the right.
+---
+---
+Responses = ['D', 'A', 'B', 'C']
+---
+---
+Correct Answer = ['D']
+---
+---
+Question Number = 14 of 25
+---
+---
+Question = Question:  Which sentence distinguishes between exponential and linear growth?
+---
+---
+Responses = ['Exponential growth increases rapidly over time; linear growth occurs at a steady rate.', 'Exponential growth occurs at a steady rate; linear growth increases and decreases rapidly over time.', 'Exponential growth increases and decreases rapidly over time; linear growth occurs at a steady rate.', 'Exponential growth occurs at a steady rate; linear growth increases rapidly over time.']
+---
+---
+Correct Answer = ['Exponential growth increases rapidly over time; linear growth occurs at a steady rate.']
+---
+---
+Question Number = 15 of 25
+---
+---
+Question = Question:  What is a limiting factor?
+---
+---
+Responses = ['an event that exerts little influence on populations in an ecosystem', 'a resource that limits the growth or abundance of a population', 'a resource that increases the growth or abundance of a population', 'an event that causes populations in an environment to decline']
+---
+---
+Correct Answer = ['a resource that limits the growth or abundance of a population']
+---
+---
+Question Number = 16 of 25
+---
+---
+Question = Question:  Which phrase describes carrying capacity?
+---
+---
+Responses = ['the largest number of individuals an environment can support over a sustained period of time', 'measure of the constant change in the number of organisms an ecosystem can sustain', 'measure of the average number of a population an ecosystem can sustain', 'the smallest number of individuals an environment can support over a sustained period of time']
+---
+---
+Correct Answer = ['the largest number of individuals an environment can support over a sustained period of time']
+---
+---
+Question Number = 17 of 25
+---
+---
+Question = Question:  What factors affect the carrying capacity of the environment?    Select all that apply.
+---
+---
+Responses = ['climate', 'living space', 'time', 'food and water availability', 'population']
+---
+---
+Correct Answer = ['climate', 'living space', 'food and water availability']
+---
+---
+Question Number = 18 of 25
+---
+---
+Question = Question:  Amy is looking for a model of the relationship between limiting factors and carrying capacity.    Which would be the best model?
+---
+---
+Responses = ['two helium balloons because when limiting factors go up, the carrying capacity goes up', 'a compressed spring because limiting factors and carrying factors both decrease or increase together', 'two balls dropping because when limiting factors go down, the carrying capacity goes down', 'a seesaw because when limiting factors go down, the carrying capacity goes up']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['a seesaw because when limiting factors go down, the carrying capacity goes up', 2]]
+---
+---
+Question Number = 19 of 25
+---
+---
+Question = Question:  Which option defines sustainable?
+---
+---
+Responses = ['the loss of some populations and the gain of others', 'the use of resources at a rate which allows them not to become depleted', 'the elimination of limiting factors', 'the planned use of resources at a rate which is faster than they are replaced']
+---
+---
+Correct Answer = ['the use of resources at a rate which allows them not to become depleted']
+---
+---
+Image Question
+---
+---
+Question Number = 20 of 25
+---
+---
+Question = Question:  Study the graph.    A model of fish population and biomass of algae is shown. More information in long description.    © 2020 StrongMind      Fish Population Image  Long Description  The y-axis is the fish population and the x-axis is the biomass of algae. The line begins at the origin near the bottom of the graph and curves up and to the right.            According to this model, what limits the population of fish in the lake?
+---
+---
+Responses = ['a high algal biomass', 'a low fish population because they produce carbon dioxide', 'a low algal biomass', 'a low fish population because they compete with algae']
+---
+---
+Correct Answer = ['a low algal biomass']
+---
+---
+Image Question
+---
+---
+Question Number = 21 of 25
+---
+---
+Question = Question:  Study the graph.    A graph of population size over time. More information in long description.    © 2020 StrongMind      Population Size Image  Long Description  A graph showing the growth of a population over time. Vertical y-axis shows the population size and the x-axis shows time. A trend line shows what starts out as an S-shaped curve. At the top, the line levels out, but not to a straight horizontal line. Instead, the line wobbles above and below a horizontal dotted line.            Which part of the graph represents the carrying capacity for this population?
+---
+---
+Responses = ['the intersection of the solid line and y-axis', 'the solid line slowly curving upward from the origin', 'the intersection of the dashed line and y-axis', 'the dashed line running through the wobbling line']
+---
+---
+Correct Answer = ['the dashed line running through the wobbling line']
+---
+---
+Question Number = 22 of 25
+---
+---
+Question = Question:  What happens to the population when the birth rate is greater than the death rate, assuming no other factors impact population size?
+---
+---
+Responses = ['population size decreases', 'population size is constant', 'population size is not predictable', 'population size increases']
+---
+---
+Correct Answer = ['population size increases']
+---
+---
+Question Number = 23 of 25
+---
+---
+Question = Question:  What immediate impact does a pandemic, or disease that spreads worldwide, have on human population?
+---
+---
+Responses = ['It has no effect on the size of the human population.', 'It decreases the human population.', 'It keeps the human population constant.', 'It increases the human population.']
+---
+---
+Correct Answer = ['It decreases the human population.']
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Which statement best explains the carrying capacity of the human population?
+---
+---
+Responses = ['The carrying capacity of the human population is the average number of people that the Earth’s environment can sustain.', 'The carrying capacity of the human population is the maximum number of people for which the Earth’s environment can continually provide food, water, shelter, mates, and other factors without being degraded.', 'The carrying capacity of the human population is the maximum number of people for which the Earth’s environment can provide food, water, shelter, mates, and other factors, even if they run out.', 'The carrying capacity of the human population is the minimum number of people for which the Earth’s environment can always provide food, water, shelter, mates, and other factors.']
+---
+---
+Correct Answer = ['The carrying capacity of the human population is the maximum number of people for which the Earth’s environment can continually provide food, water, shelter, mates, and other factors without being degraded.']
+---
+---
+Question Number = 25 of 25
+---
+---
+Question = Question:  Suppose a major tsunami occurred in the Pacific Ocean, impacting coastal areas. What impact would this natural event have upon coastal populations?
+---
+---
+Responses = ['Populations would likely fall and rise unpredictably.', 'Populations would likely decrease.', 'Populations would likely stay the same.', 'Populations would likely increase.']
+---
+---
+Correct Answer = ['Populations would likely decrease.']
+---
+---
+Percentage = 83
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Which statement best defines ecotourism?
+---
+---
+Responses = ['tourism that keeps the natural environment pristine and sustains local communities', 'tourism that is meant to conserve the natural environment by preserving natural resources, educating visitors, and sustaining local communities by boosting the economy', 'tourism that conserves the natural environment and completely supports local economies', 'tourism that keeps the natural environment pristine and completely supports local economies']
+---
+---
+Correct Answer = ['tourism that is meant to conserve the natural environment by preserving natural resources, educating visitors, and sustaining local communities by boosting the economy']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which options are distinct positive effects, or pros, of ecotourism?    Select all that apply. 
+---
+---
+Responses = ['high rates of visitation', 'education about conservation', 'sustainable income for locals', 'poaching protected wildlife']
+---
+---
+Correct Answer = ['education about conservation', 'sustainable income for locals']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  In African wildlife parks, safaris are a popular way for humans to experience the park, see animals, and travel from one place to another. People take several vehicles around the savanna, tracking wildlife to take photographs and view the animals from afar. People may camp in the bush or go back to a local hotel. Rangers leading them know how to find the animals and navigate the wilderness with ease.    What might be some negative effects of this kind of ecotourism?    Select all that apply.
+---
+---
+Responses = ['photography of the wildlife', 'noise from vehicles and people', 'pollution', 'degradation of habitat']
+---
+---
+Correct Answer = ['noise from vehicles and people', 'pollution', 'degradation of habitat']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  What happens to a population that is overhunted?
+---
+---
+Responses = ['an increase in resources for the population', 'an increase in the population', 'a plateau in the population', 'a severe decline in the population']
+---
+---
+Correct Answer = ['a severe decline in the population']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  How are parts of the environment negatively affected by hunting?    Select all that apply.
+---
+---
+Responses = ['Competitor relationships are altered if a predator population declines, and another predator population will likely decline too.', 'Habitats are protected and restored by many licensed hunting practices.', 'Diversity can be disrupted when animals are killed for certain characteristics.', 'Predator/prey relationships are altered if a predator population declines and the prey population increases.', 'Migration patterns can be changed, and animals may stop going to certain areas.']
+---
+---
+Correct Answer = ['Diversity can be disrupted when animals are killed for certain characteristics.', 'Predator/prey relationships are altered if a predator population declines and the prey population increases.', 'Migration patterns can be changed, and animals may stop going to certain areas.']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  What are examples of how overfishing affects the environment?    Select all that apply.
+---
+---
+Responses = ['Nets can provide nursery sites for sea animals.', 'Dragging nets on the ocean floor improves breeding sites.', 'Abandoned fishing equipment pollutes the ocean floor.', 'Dredging flattens the ocean floor and destroys corals.']
+---
+---
+Correct Answer = ['Abandoned fishing equipment pollutes the ocean floor.', 'Dredging flattens the ocean floor and destroys corals.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What are some sustainable fishing policies?    Select all that apply.
+---
+---
+Responses = ['bycatch', 'size limits', 'blast fishing', 'trawling', 'catch-and-release']
+---
+---
+Correct Answer = ['size limits', 'catch-and-release']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What are examples of how hunting has negatively affected the environment?    Select all that apply.
+---
+---
+Responses = ['The hunting policies have changed the behaviors of the adult male Scandinavian brown bears.', 'The intentional overhunting of the Tasmanian tiger led to its extinction.', 'The hunting of the great auk has increased resources and allowed their population to thrive.', 'The hunting of Bengal tigers has allowed them to become more diverse.']
+---
+---
+Correct Answer = ['The intentional overhunting of the Tasmanian tiger led to its extinction.', 'The hunting of the great auk has increased resources and allowed their population to thrive.', 'The hunting of Bengal tigers has allowed them to become more diverse.']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What happens during overhunting?
+---
+---
+Responses = ['The number of individuals hunted in a species is high enough to cause small offspring to be produced.', 'The number of individuals hunted in a species is high enough to cause a population decline.', 'The number of individuals hunted in a species is high enough to cause a surplus of animal resources for humans.', 'The number of individuals hunted in a species is high enough to cause a population to migrate.']
+---
+---
+Correct Answer = ['The number of individuals hunted in a species is high enough to cause a population decline.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What are some effects of dragging the ocean with nets?
+---
+---
+Responses = ['destroying shelters, removing aquatic plants, and ruining breeding and nursery sites', 'protecting aquatic plants, providing breeding sites, and flattening the ocean floor', 'decreasing shark populations, protecting the ocean floor, and increasing shelter sites', 'increasing coral reef populations and removing nursery, breeding, and hiding sites']
+---
+---
+Correct Answer = ['destroying shelters, removing aquatic plants, and ruining breeding and nursery sites']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What helps increase the diversity of aquatic species and protects fish reproduction?
+---
+---
+Responses = ['catch-and-release fishing and dredging', 'trawling and size limits', 'bycatch and fishing seasons', 'catch-and-release fishing and fishing seasons']
+---
+---
+Correct Answer = ['catch-and-release fishing and fishing seasons']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which factors define ecotourism?    Select all that apply.
+---
+---
+Responses = ['preventing humans from accessing the wilderness', 'preserving natural resources', 'sustaining the local economy', 'educating visitors', 'safely harvesting natural resources']
+---
+---
+Correct Answer = ['preserving natural resources', 'sustaining the local economy', 'educating visitors']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Hiking can be a form of ecotourism.    How can hiking potentially have negative impacts on the environment?    Select all that apply.
+---
+---
+Responses = ['poaching of endangered species', 'financial gain for local economies', 'litter left behind', 'noise disturbing the animals', 'degradation of trails']
+---
+---
+Correct Answer = ['litter left behind', 'noise disturbing the animals', 'degradation of trails']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  How can ecotourism be used to support further conservation efforts?    Select all that apply.  
+---
+---
+Responses = ['Financial gains can be used to reinvest in habitat restoration.', 'Locals and visitors can be educated on the importance of the environment.', 'More trails and roads can be developed as visitation increases.', 'Earnings can be applied toward resource harvesting in the area.']
+---
+---
+Correct Answer = ['Financial gains can be used to reinvest in habitat restoration.', 'Locals and visitors can be educated on the importance of the environment.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  In order to educate the public about endangered species and threatened places, information must be distributed to a wide variety and high volume of people. This may lead to people investing in the preservation of the habitat and organisms.    What is the most likely potential downside of educating many people about a threatened habitat?
+---
+---
+Responses = ['If the species goes extinct or habitat is destroyed, the money used to educate people about it was wasted.', 'People may choose not to donate because they assume others will donate.', 'Visitation to the area may increase, further endangering and disturbing the area.', 'Poachers may decide to hunt in the area because they know what animals exist there.']
+---
+---
+Correct Answer = ['Visitation to the area may increase, further endangering and disturbing the area.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Some areas still struggle with protecting habitats even with ecotourism in place.    What are some environmental problems that occur despite ecotourism?    Select all that apply.
+---
+---
+Responses = ['hunting with a guide', 'specimen collection for research', 'poaching', 'illegal logging', 'wildlife photography']
+---
+---
+Correct Answer = ['poaching', 'illegal logging']
+---
+---
+Percentage = 73
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...---
+Program = Stopping
+---
+   -
+---gram = Exiting
+---
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What recreational activities are likely to adversely affect marine ecosystems?    Select all that apply.
+---
+---
+Responses = ['traveling in a speedboat', 'going for a swim', 'fishing from the shoreline', 'using Jet Skis']
+---
+---
+Correct Answer = ['traveling in a speedboat', 'using Jet Skis']
+---
+---
+Percentage = 100
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...s
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  What are possible effects of the use of small personal watercraft on a marine environment?    Select all that apply.
+---
+---
+Responses = ['increase in the biodiversity of the marine environment', 'damage or death to marine organisms', 'decrease in the amount of sunlight available to organisms', 'loss of habitat due to destruction of coral', 'reduced ability of a species to maintain its population']
+---
+---
+Correct Answer = ['damage or death to marine organisms', 'loss of habitat due to destruction of coral', 'reduced ability of a species to maintain its population']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Over the course of a summer, two boys used a small boat almost daily to go diving in shallow waters away from a beach shoreline.  Each time, they stopped in the same spot, dropping anchor in the coral reefs below the boat. By the end of the summer, they noticed a decrease in the amount of fish they saw during their dives.    Which is the most likely explanation for their observations?
+---
+---
+Responses = ["The boat's anchor polluted the water, adversely affecting the coral reefs and fish.", 'The frequency of the visits caused the water to warm, which damaged the coral reefs and then affected the fish.', "The boat's presence acted as a form of invasive species, which harmed and decreased the fish population.", 'The boat and anchor might have destroyed or damaged the coral reefs, which is the habitat of some fish.']
+---
+---
+Correct Answer = ['The boat and anchor might have destroyed or damaged the coral reefs, which is the habitat of some fish.']
+---
+---
+Percentage = 100
+---
+---
+Quiz Detected - Press Enter when you are ready to continue...---
+Program = Stopping
+---
+s---
+Program = Exiting
+---
+q
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What is an effect of habitat restoration on the environment?
+---
+---
+Responses = ['New habitats are made to promote the growth of invasive species.', 'Species become endangered when habitats are restored.', 'Species may return to locations that were once damaged.', 'Natural spaces are cleared for house construction.']
+---
+---
+Correct Answer = ['Species may return to locations that were once damaged.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  What are ways that humans affect the environment while doing recreational activities?    Select all that apply.
+---
+---
+Responses = ['Humans going off the trail can cause damage to the environment.', 'Humans leave trash that animals may try to eat.', 'Humans leave food scraps that help provide food for organisms.', 'Humans increase the food available for bees by picking flowers.']
+---
+---
+Correct Answer = ['Humans going off the trail can cause damage to the environment.', 'Humans leave trash that animals may try to eat.']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which explains the need to rehabilitate nature trails?    Select all that apply.
+---
+---
+Responses = ['decreased sediments', 'nature trails being overused', 'volunteers being available to help', 'increased sediments']
+---
+---
+Correct Answer = ['nature trails being overused']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Why is it important for nature trails used by ATVs to be rehabilitated?    Select all that apply.
+---
+---
+Responses = ['Vegetation can be lost due to erosion if nature trails are not rehabilitated.', 'Sediment production is increased, making it easier to move on the trail.', 'The habitable area for plants and animals increases.', 'Runoff is increased making it easier for water to escape the trail.']
+---
+---
+Correct Answer = ['Vegetation can be lost due to erosion if nature trails are not rehabilitated.', 'The habitable area for plants and animals increases.']
+---
+---
+Percentage = 87
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What activities done near an ocean beach are likely to negatively affect aquatic life?
+---
+---
+Responses = ['water aerobics and swimming', 'boating and using Jet Skis', 'surfing and snorkeling', 'diving and photographing']
+---
+---
+Correct Answer = ['boating and using Jet Skis']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What are risks posed to a marine ecosystem when use of personal watercraft causes the loss of a keystone species such as the terrapin?    Select all that apply.
+---
+---
+Responses = ['The population of organisms that are preyed upon by the keystone species would increase beyond the ability of the ecosystem to sustain it.', 'The biodiversity of the ecosystem would increase because a predator had been removed.', 'Organisms that feed on the keystone species may also become lost to the ecosystem.', 'The ecosystem would adapt because organisms are able to find other feeding arrangements.', 'The biodiversity of the ecosystem would change and eventually decrease.']
+---
+---
+Correct Answer = ['The population of organisms that are preyed upon by the keystone species would increase beyond the ability of the ecosystem to sustain it.', 'Organisms that feed on the keystone species may also become lost to the ecosystem.', 'The biodiversity of the ecosystem would change and eventually decrease.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What explains why small boats might adversely affect the population of manatees?    Select all that apply.
+---
+---
+Responses = ['Manatees and small boats are both likely to be in shallow water, which increases risk of collision.', 'Manatees, which are closely related to elephants, are huge organisms, so they are unlikely to be affected by small boats.', 'Manatees have a low reproduction rate, so any damage from small boats can have a huge effect on their numbers.', 'Manatees feed on sea grasses, keeping that population under control, which clears the water for small boats.']
+---
+---
+Correct Answer = ['Manatees and small boats are both likely to be in shallow water, which increases risk of collision.', 'Manatees have a low reproduction rate, so any damage from small boats can have a huge effect on their numbers.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Why would the use of personal watercraft adversely affect wildlife?
+---
+---
+Responses = ['Its speed in shared spaces can lead to a collision.', 'The watercraft may be poisonous to the wildlife.', 'Its presence may cause wildlife to become tame.', 'The quietness of the watercraft may make wildlife susceptible to predators.']
+---
+---
+Correct Answer = ['Its speed in shared spaces can lead to a collision.']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What are ways to reduce the impact of recreational boats on wildlife?    Select all that apply.
+---
+---
+Responses = ['setting low speed limits in shared spaces', 'mandating that boats use propeller guards', 'allowing boat owners free access to marine environments', 'having "no-wake" and other protected zones', 'organizing boat tours to view the wildlife']
+---
+---
+Correct Answer = ['setting low speed limits in shared spaces', 'mandating that boats use propeller guards', 'having "no-wake" and other protected zones']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which phrases explain the need for nature trail rehabilitation?    Select all that apply.
+---
+---
+Responses = ['nature conservancy demand', 'improved access for humans', 'preservation of land', 'increased biodiversity']
+---
+---
+Correct Answer = ['improved access for humans', 'preservation of land']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Why do nature trails need rehabilitation?
+---
+---
+Responses = ['to reduce the production of sediments', 'to increase the appearance of wildlife', 'to increase the amount of runoff', 'to reduce ATV access']
+---
+---
+Correct Answer = ['to reduce the production of sediments']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What effect do species preservation efforts have upon the environment?
+---
+---
+Responses = ['They increase national park trail access to humans.', 'They reduce nature conservancy.', 'They return habitats to their previous state.', 'They protect and improve the genetic diversity of the species.']
+---
+---
+Correct Answer = ['They protect and improve the genetic diversity of the species.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is the effect of ATV use on national forests?    Select all that apply.
+---
+---
+Responses = ['decreased loss of vegetation', 'decreased erosion', 'increased access to remote locations', 'increased runoff']
+---
+---
+Correct Answer = ['increased access to remote locations']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What is the effect of habitat restoration?
+---
+---
+Responses = ['reduction in habitat loss', 'reduction of native species', 'increase in invasive species', 'increase in habitat loss']
+---
+---
+Correct Answer = ['reduction in habitat loss']
+---
+---
+Percentage = 87
+---
+---
+Question Number = 1 of 30
+---
+---
+Question = Question:  What are some ways that the oceans moderate climate?    Select all that apply.
+---
+---
+Responses = ['The oceans absorb solar energy.', 'The oceans store carbon as deep ocean sediments.', 'The oceans reflect solar energy due to their high salt content.', 'The oceans absorb carbon dioxide from the atmosphere.']
+---
+---
+Correct Answer = ['The oceans absorb solar energy.', 'The oceans store carbon as deep ocean sediments.', 'The oceans absorb carbon dioxide from the atmosphere.']
+---
+---
+Question Number = 2 of 30
+---
+---
+Question = Question:  What could reduce the biodiversity of a population?    Select all that apply.
+---
+---
+Responses = ['inbreeding between individuals', 'hybridizing with related species', 'overhunting of animals', 'a change in climate']
+---
+---
+Correct Answer = ['inbreeding between individuals', 'overhunting of animals']
+---
+---
+Question Number = 3 of 30
+---
+---
+Question = Question:  What describes the conditions needed for natural selection to occur?    Select all that apply. 
+---
+---
+Responses = ['Variation in traits exists between organisms.', 'Organisms compete for resources.', 'More offspring are produced than can survive.', 'The climate remains stable over a long period of time.']
+---
+---
+Correct Answer = ['Variation in traits exists between organisms.', 'Organisms compete for resources.', 'More offspring are produced than can survive.']
+---
+---
+Question Number = 4 of 30
+---
+---
+Question = Question:  What explains the change in the Biston betularia moth’s population color during the Industrial Revolution?
+---
+---
+Responses = ['habitat fragmentation', 'genetic disorder', 'increased predation caused by invasive species', 'increased pollution, resulting in a change in the color of trees']
+---
+---
+Correct Answer = ['increased pollution, resulting in a change in the color of trees']
+---
+---
+Question Number = 5 of 30
+---
+---
+Question = Question:  What factors would naturally change an ecosystem?    Select all that apply.
+---
+---
+Responses = ['fire', 'volcano', 'tornado', 'flood', 'seasons']
+---
+---
+Correct Answer = ['fire', 'volcano', 'flood', 'seasons']
+---
+---
+Question Number = 6 of 30
+---
+---
+Question = Question:  What is an example of a feedback mechanism that affects fish populations in their natural ecosystem?    Select all that apply.
+---
+---
+Responses = ['When cod populations are large, cod control herring numbers by positive feedback.', 'When cod populations are small, herring control cod numbers by positive feedback.', 'When cod populations are large, cod control herring numbers by negative feedback.', 'When cod populations are small, herring control cod numbers by negative feedback.']
+---
+---
+Correct Answer = ['When cod populations are small, herring control cod numbers by positive feedback.', 'When cod populations are large, cod control herring numbers by negative feedback.']
+---
+---
+Image Question
+---
+---
+Question Number = 7 of 30
+---
+---
+Question = Question:  A graph of population size over time. More information in long description.  © 2020 StrongMind    Population Size Over Time Image  Long Description  A graph showing the growth of a population over time. Vertical y-axis shows the population size. A trend line shows what starts out as an S-shaped curve. At the top, the plot levels out, but not to a straight horizontal line. Instead, the line wobbles above and below where an imaginary horizontal line representing the carrying capacity would be. Four points are shown on the line. A is the inflection point located on the S-shaped curve below the line representing the carrying capacity. B is a point on the S-shaped curve where it intersects with the carrying capacity. C is a point on the S-shaped curve above the carrying capacity where the population size is about to drop. D is a point much further along on the plot where the population is exactly at the carrying capacity.               Which point on the graph indicates where resources first become limiting?
+---
+---
+Responses = ['A', 'D', 'C', 'B']
+---
+---
+Correct Answer = ['A']
+---
+---
+Question Number = 8 of 30
+---
+---
+Question = Question:  A graph showing population growth of 2 paramecium species grown separately. More information in long description.    Figure © 2018 StrongMind; Species A: Michael Abbey/Photo Researchers/Science Source; Species B: Lebendkulturen.de/Shutterstock    Paramecium Grown Separately Image  Long Description  Vertical y-axis is population size. Horizontal x-axis is time in days. Time starts at Day 0 and ends at Day 16. The populations are shown as separate curves. Both species start at Day 1, on which Species A has a population of 5 and Species B has a population of 8. Species A increases slowly and at a constant rate until it levels off at about Day 9. Species B increases slowly and at a constant rate until it levels off at Day 7. Both populations remain stable from this point on, as indicated by the horizontal end to their growth curves.          A graph showing population growth of 2 paramecium species. More information in long description.    Figure © 2018 StrongMind; Species A: Michael Abbey/Photo Researchers/Science Source; Species B: Lebendkulturen.de/Shutterstock    Paramecium Grown Separately Image  Long Description  Vertical y-axis is population size. Horizontal x-axis is time in days. Time starts at Day 0 and ends at Day 16. The populations are shown as separate curves. Both species start at Day 1, on which Species A has a population of 5 and Species B has a population of 8. Species A increases slowly and at a constant rate until it levels off at about Day 9. Species B increases slowly and at a constant rate until it levels off at Day 7. Both populations remain stable from this point on, as indicated by the horizontal end to their growth curves.               What explains why Species B declines when grown together with Species A?
+---
+---
+Responses = ['It is limited by micronutrients such as iron.', 'It is outcompeted by Species A.', 'Its birth rate is higher than its death rate.', 'It outcompetes Species A.']
+---
+---
+Correct Answer = ['It is outcompeted by Species A.']
+---
+---
+Image Question
+---
+---
+Question Number = 9 of 30
+---
+---
+Question = Question:  Examine the two relationships shown.    Image of a clown fish and a separate image of a caterpillar. More information in long description.    © 2020 StrongMind    Compare Relationships Image  Long Description  First image: A clownfish in the tentacles of a sea anemone. The clownfish is labeled with a caption indicating that it lives within the tentacles of the sea anemone where it is safe from predators. The sea anemone is labeled with a caption indicating that it is cleaned by the clownfish. Second image: A caterpillar with many white eggs attached to it. The eggs are labeled with a caption indicating that a wasp lays its eggs in the caterpillar. The caterpillar is labeled with a caption indicating that it is eaten by the wasps that hatch inside of it.               Which correctly compares the relationships?
+---
+---
+Responses = ['Both examples are types of symbiosis. However, in the case of the sea anemone, only one organism benefits, while both benefit in the case of the caterpillar.', 'Both examples are types of predation. However, in the case of the sea anemone, both partners benefit, while only one organism benefits in the case of the caterpillar.', 'Both examples are types of predation. However, in the case of the sea anemone, only one organism benefits, while both benefit in the case of the caterpillar.', 'Both examples are types of symbiosis. However, in the case of the sea anemone, both partners benefit, while only one organism benefits in the case of the caterpillar.']
+---
+---
+Correct Answer = ['Both examples are types of symbiosis. However, in the case of the sea anemone, both partners benefit, while only one organism benefits in the case of the caterpillar.']
+---
+---
+Question Number = 10 of 30
+---
+---
+Question = Question:  Which are abiotic factors of both aquatic and terrestrial ecosystems?    Select all that apply.
+---
+---
+Responses = ['oxygen', 'predators', 'phytoplankton', 'sunlight']
+---
+---
+Correct Answer = ['oxygen', 'sunlight']
+---
+---
+Question Number = 11 of 30
+---
+---
+Question = Question:  What are the consequences of the introduction of zebra mussels to the Great Lakes ecosystem?    Select all that apply.
+---
+---
+Responses = ['decreased water clarity', 'increased sunlight penetration into the water', 'increased algal growth', 'decrease in amount of phosphorus in water', 'decreased ecosystem biodiversity']
+---
+---
+Correct Answer = ['decreased water clarity', 'increased algal growth', 'decreased ecosystem biodiversity']
+---
+---
+Question Number = 12 of 30
+---
+---
+Question = Question:  What describes the movement of matter and energy through an ecosystem?
+---
+---
+Responses = ['energy flows; matter cycles', 'energy cycles; matter flows', 'both cycle', 'both flow']
+---
+---
+Correct Answer = ['energy flows; matter cycles']
+---
+---
+Image Question
+---
+---
+Question Number = 13 of 30
+---
+---
+Question = Question:  Food chain showing the relationship between organisms in oceans near Antarctica. More information in long description.    © 2020 StrongMind      Transfer of Energy Image  Long Description  Sun with arrow pointing to phytoplankton. Another arrow points from the phytoplankton to krill. Another arrow points from the krill to a fish. Another arrow points from the fish to a penguin. Another arrow points from the penguin to a leopard seal. Finally, an arrow points from the leopard seal to a killer whale.               What percent of the Sun’s energy that enters the ecosystem is expected to be available to the penguin?
+---
+---
+Responses = ['Energy travels through three trophic levels to reach the penguin; on average 10% of the energy makes it to that level.', 'Energy travels through four trophic levels to reach the penguin; on average 0.01% of the energy makes it to that level.', 'Energy travels through three trophic levels to reach the penguin; on average 0.1% of the energy makes it to that level.', 'Energy travels through four trophic levels to reach the penguin; on average 0.1% of the energy makes it to that level.']
+---
+---
+Correct Answer = ['Energy travels through three trophic levels to reach the penguin; on average 0.1% of the energy makes it to that level.']
+---
+---
+Image Question
+---
+---
+Question Number = 14 of 30
+---
+---
+Question = Question:  Study the food web.    A pair of food webs. More information in long description.    © 2020 StrongMind      Food Web Image  Long Description  First food web: Guam 1965. The brown tree snake eats terns, starlings, turtle doves, ground doves, fruit doves, fruit bats, crows, geckos, kingfishers, and musk shrews. The musk shrew eats rats and skinks. The kingfisher eats skinks.    Second food web: Guam 1995. The brown tree snake eats rats, turtle doves, geckos and skinks. The other organisms no longer exist on the island of Guam.               Which describes the effect of the brown tree snake on Guam’s food web?    Select all that apply.
+---
+---
+Responses = ['Over time, it has destroyed all species that compete for the same food.', 'Over time, the biodiversity of the island ecosystem has increased.', 'Over time, predators have evolved to eat the brown tree snake.', 'Over time, the snake has changed its feeding behavior.']
+---
+***
+Error Detected - ['Fatal Error', TypeError("Could not create `Blob`, expected `Blob`, `dict` or an `Image` type(`PIL.Image.Image` or `IPython.display.Image`).\nGot a: <class 'NoneType'>\nValue: None")]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Image Question
+---
+---
+Question Number = 14 of 30
+---
+---
+Question = Question:  Study the food web.    A pair of food webs. More information in long description.    © 2020 StrongMind      Food Web Image  Long Description  First food web: Guam 1965. The brown tree snake eats terns, starlings, turtle doves, ground doves, fruit doves, fruit bats, crows, geckos, kingfishers, and musk shrews. The musk shrew eats rats and skinks. The kingfisher eats skinks.    Second food web: Guam 1995. The brown tree snake eats rats, turtle doves, geckos and skinks. The other organisms no longer exist on the island of Guam.               Which describes the effect of the brown tree snake on Guam’s food web?    Select all that apply.
+---
+---
+Responses = ['Over time, it has destroyed all species that compete for the same food.', 'Over time, the biodiversity of the island ecosystem has increased.', 'Over time, predators have evolved to eat the brown tree snake.', 'Over time, the snake has changed its feeding behavior.']
+---
+---
+Correct Answer = ['Over time, it has destroyed all species that compete for the same food.']
+---
+---
+Question Number = 15 of 30
+---
+---
+Question = Question:  Study the image.    The carbon cycle. More information in long description.    © 2020 StrongMind      Long Description: Ocean Surface pH  The video shows how the pH of the world's oceans changes from 1860 to 2100. The pH starts out in a normal range in the year 1860. However, as the years progress to the present day and into the future, the pH lowers or becomes more acidic due to ocean acidification.               Identify which parts of the carbon cycle are correct and why.
+---
+---
+Responses = ['C: fixation because carbon fixation by lighting is how carbon enters the soil', 'D: runoff because this is how carbon enters rivers and the ocean', 'A: ocean uptake because the ocean takes up carbon and stores it', 'B: vehicle emissions because burning fossil fuels adds significant carbon dioxide to the atmosphere']
+---
+---
+Correct Answer = ['D: runoff because this is how carbon enters rivers and the ocean', 'A: ocean uptake because the ocean takes up carbon and stores it']
+---
+---
+Question Number = 16 of 30
+---
+---
+Question = Question:  What is the role of the ocean in the carbon cycle?    Select all that apply.
+---
+---
+Responses = ['converting CO2 into CO', 'releasing carbon as CO2 into the atmosphere', 'breaking down rocks and sediments to release CO2', 'depositing carbon in deep ocean sediments', 'absorbing CO2 from the atmosphere at the surface of the ocean']
+---
+---
+Correct Answer = ['depositing carbon in deep ocean sediments', 'absorbing CO2 from the atmosphere at the surface of the ocean']
+---
+---
+Question Number = 17 of 30
+---
+---
+Question = Question:  Which correctly diagrams the flow of nitrogen through the soil during the nitrogen cycle?
+---
+---
+Responses = ['waportionofthenitrogencvclemoreinformationinlongdescription©2020strongmind', 'l#/portionofthenitrogencvclemoreinformationinlongdescription©2020strongmind', '©2020strongmind', 'leaportionofthenitrogencvclemoreinformationinlongdescription©2020strongmind']
+---
+***
+Error Detected - ['Fatal Error', IndexError('list index out of range')]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 18 of 30
+---
+---
+Question = Question:  Which policies describe the sustainable use of a fish population?    Select all that apply.
+---
+---
+Responses = ['fishing seasons', 'catch and release', 'elimination of predators', 'size limits']
+---
+---
+Correct Answer = ['fishing seasons', 'size limits']
+---
+---
+Image Question
+---
+---
+Question Number = 19 of 30
+---
+---
+Question = Question:  Study the image.    Organisms in an ecosystem. More information in long description.    © 2020 StrongMind      Trophic Levels Image  Long Description  Organisms in an ecosystem organized into a pyramid with five layers. Bottom layer is producers, second layer is primary consumers, third layer is secondary consumers, fourth layer is tertiary consumers, fifth (top) layer is quaternary consumers.               What is true about a trophic level in an ecosystem?    Select all that apply.
+---
+---
+Responses = ['The ecosystem is an isolated system.', 'The amount of energy flowing into the secondary consumers is less than the amount that flows into the primary consumers.', 'The ecosystem is an open system.', 'The amount of energy flowing into secondary consumers must equal the amount that flows into primary consumers.']
+---
+---
+Correct Answer = ['The ecosystem is an open system.']
+---
+---
+Question Number = 20 of 30
+---
+---
+Question = Question:  What is true about ATV (all terrain vehicle) use in national forests?    Select all that apply.
+---
+---
+Responses = ['increases access to remote areas', 'reduces ability for rehabilitation on trails', 'ATVs are not permitted in national forests', 'decreases production of sediment and runoff']
+---
+---
+Correct Answer = ['increases access to remote areas', 'reduces ability for rehabilitation on trails']
+---
+---
+Question Number = 21 of 30
+---
+---
+Question = Question:  What organisms play a similar role to earthworms in a forest?    Select all that apply.
+---
+---
+Responses = ['eagle', 'termites', 'barnacles', 'dung beetle', 'jellyfish']
+---
+---
+Correct Answer = ['termites', 'dung beetle']
+---
+---
+Image Question
+---
+---
+Question Number = 22 of 30
+---
+---
+Question = Question:  Study the food web.    A food web. More information in long description.    © 2020 StrongMind      Food Web Image  Long Description  The food web starts with the Sun. The Sun is connected to the Heliconia, the Heliconia is connected to the grasshopper, the grasshopper is connected to a frog, slow loris, and a toucan. The slow loris is connected to an orangutan and the orangutan is connected to a python. The grasshopper is connected to the toucan and the toucan is connected to the clouded leopard.               What would happen if the frog was removed from the food web?    Select all that apply.
+---
+---
+Responses = ['The population of slow loris would increase.', 'The population of clouded leopards would decrease.', 'The population of toucans would decrease.', 'The population of Heliconia would decrease.', 'The population of grasshoppers would increase.']
+---
+---
+Correct Answer = ['The population of slow loris would increase.', 'The population of clouded leopards would decrease.', 'The population of toucans would decrease.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 24 of 30
+---
+---
+Question = Question:  What are ways that biodiversity loss can be reduced?    Select all that apply.
+---
+---
+Responses = ['fragmenting habitats', 'controlling invasive species', 'captive breeding', 'keeping seeds in seed banks']
+---
+---
+Correct Answer = ['controlling invasive species', 'captive breeding', 'keeping seeds in seed banks']
+---
+---
+Question Number = 25 of 30
+---
+---
+Question = Question:  A mountain forms, splitting a species of lizard into two groups. Over time, the lizard species evolves into two separate species.     What type of speciation is described in the example?
+---
+---
+Responses = ['allopatric', 'sympatric', 'coevolution', 'genetic drift']
+---
+---
+Correct Answer = ['allopatric']
+---
+---
+Question Number = 26 of 30
+---
+---
+Question = Question:  Studies show that invasive plant species can increase the cycling of nitrogen in an ecosystem by producing an increased amount and higher quality of leaf litter.    Is this an example of positive or negative feedback, and why?
+---
+---
+Responses = ["Negative feedback. The invasive species produces more leaf litter, which causes more nitrogen to go into the cycle. More nitrogen increases the invasive species' ability to take in nitrogen, causing a negative feedback loop.", 'Negative feedback. The invasive species produces higher-quality leaf litter, increasing the cycling of nitrogen that native plant species can use to grow.', 'Positive feedback. When an invasive species produces more leaf litter than a native species, that extra litter also puts more nitrogen into the cycle than would be present without the invasive species. This extra nitrogen increases the ability of the invasive species to take in nitrogen, causing a positive feedback loop.', 'Positive feedback. The invasive species produces higher-quality leaf litter. which increases the cycling of nitrogen. This increases the amount of nitrogen that the native plant species can use to grow.']
+---
+---
+Correct Answer = ['Positive feedback. When an invasive species produces more leaf litter than a native species, that extra litter also puts more nitrogen into the cycle than would be present without the invasive species. This extra nitrogen increases the ability of the invasive species to take in nitrogen, causing a positive feedback loop.']
+---
+---
+Question Number = 27 of 30
+---
+---
+Question = Question:  What are important biotic factors in aquatic environments?
+---
+---
+Responses = ['salinity', 'producers', 'consumers', 'pH']
+---
+---
+Correct Answer = ['salinity', 'producers', 'consumers', 'pH']
+---
+---
+Question Number = 28 of 30
+---
+---
+Question = Question:  What effect does removing too much groundwater have on the water cycle?
+---
+---
+Responses = ['It increases the amount of runoff.', 'It increases the rate of transpiration.', 'It decreases the water level of lakes.', 'It decreases the energy that drives evaporation.']
+---
+---
+Correct Answer = ['It decreases the water level of lakes.']
+---
+---
+Question Number = 29 of 30
+---
+---
+Question = Question:  Which describes an ecosystem and why?
+---
+---
+Responses = ['closed system; energy moves through the system', 'open system; energy moves through the system', 'open system; matter and energy move through the system', 'closed system; matter and energy move through the system']
+---
+---
+Correct Answer = ['open system; matter and energy move through the system']
+---
+---
+Question Number = 30 of 30
+---
+---
+Question = Question:  Scientists have discovered a curious type of sea slug that lives on the bottom of the ocean. Like other slugs, it eats algae, but unlike other slugs, it steals their chloroplasts and uses them to perform photosynthesis.     Which roles would this organism have in its ecosystem?   Select all that apply.
+---
+---
+Responses = ['decomposer', 'carnivore', 'consumer', 'producer']
+---
+---
+Correct Answer = ['consumer', 'producer']
+---
+---
+Percentage = 80
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>

@@ -1,0 +1,86 @@
+AI-Based Primavera Automation Version 2.1
+Created by Kyle Sebring
+©DESAD Tech Group 2024
+
+
+Updates:
+	
+
+Features:
+	- Runs as long as Chrome is open
+	- Uses Google Gemini to process questions
+	- Works on:
+		- Workbooks
+		- Checkpoints
+		- Exams
+	- Waits for input on:
+		- Discussion
+		- Project
+		- Quiz
+	- Processes image questions through AI
+	- Clicks answers automatically
+	- Clicks next question automatically
+	- Clicks next page automatically
+	- Goes back when pages are locked
+	- Handles exceptions with notification and wait for input
+	- Organized Graphic Output
+	- Distinguishes between multi choice and single choice
+
+Issues:
+	- Consistent error on percentage?
+	- Gets caught on some SEL activities?
+	- Uses top button or bottom button to identify test
+	- OCR for responses limited to narrow viewfield
+	- Blank section to select isnt optimal
+	- Checks for image question by selcting a position above box 1 and seeing if copy image is available
+
+Display:
+	- Options for display of:
+		- Unfiltered Data
+		- Filtered Data
+		- Percentage OCR
+		- Percentage*
+		- Box Position Data
+		- Responses from OCR
+		- Question and Assignment Number
+		- Question*
+		- Responses*
+		- AI Response
+		- Correct Box Clicks
+		- Correct Answer*
+		- Assignment Finished*
+		- Image Question*
+	- Defined errors for:
+		- Could not find {png} to click
+		- Could not locate button
+		- Could not find checkboxes
+		- Error on percentage
+		- No correct anwers detected
+		- Correct answer not selected
+		- Fatal Error
+
+Written Process:
+	- Clicks tab then empty space
+	- While loop checking for chrome
+	- Finishes assignment if available
+		- Checks assignment percentage
+	- Goes back when pages are locked
+	- Waits for input on:
+		- Discussion
+		- Project
+		- Quiz
+	- Checks for assignment
+	- Grabs box positions
+	- Uses OCR to check for duplicate scanned boxes
+	- Copies question using select all, copy, and pyperclip paste
+	- Sorts out and filters duplicate in responses
+	- Checks for image question by selcting a position above box 1 and seeing if copy image is available
+	- Sends question and respones to AI
+	- Creates lists of correct answers and boxes
+	- Uses OCR respones as backup for copied responses not being processed correctly
+	- Selects correct boxes
+	- Checks to make sure an answer was selected
+	- Clicks next question
+	- Clicks next page if test not detected
+	- Presses end page if no next page button is detected
+	- Stops next page process while loading

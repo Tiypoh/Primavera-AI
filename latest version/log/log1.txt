@@ -1,0 +1,638 @@
+---
+Question = Question:
+Read the statement.
+
+If the price of a product becomes too expensive, then the demand for it decreases.
+
+Which economics concept is this?
+
+
+---
+---
+Responses = ['law of production law of production', 'law of income law of income', 'law of supply law of supply', 'law of demand']
+---
+---
+AI Response = law of demand
+---
+---
+Click = Box(left=302, top=708, width=20, height=26)
+---
+---
+Correct Answer = ['law of demand']
+---
+---
+Question = Question:
+Which economics concept states that price and quantity of demand have an inverse relationship?
+
+
+---
+---
+Responses = ['law of supply', 'law of demand', 'law of macroeconomics', 'law of microeconomics']
+---
+---
+AI Response = law of demand
+---
+---
+Click = Box(left=302, top=588, width=20, height=26)
+---
+---
+Correct Answer = ['law of demand']
+---
+Error on 100%
+---
+Percentage = 100
+---
+[ImageNotFoundException(), 'Fatal Error, press Enter to continue']
+[ImageNotFoundException(), 'Fatal Error, press Enter to continue']
+[ImageNotFoundException(), 'Fatal Error, press Enter to continue']
+---
+Question = Question:
+Which correctly demonstrates the law of demand?
+
+
+---
+---
+Responses = ['The Pizza Place increases the cost of a slice of pizza from $2.00 to $2.50. The number of slices sold in one day drops from 250 to 175.', 'The Pizza Place increases the cost of a slice of pizza from $1.50 to $2.25. The number of slices sold in one day increases from 150 to 175.', 'The Pizza Place decreases the cost of a slice of pizza from $2.50 to $2.00. The number of slices sold in one day drops from 300 to 275.', 'The Pizza Place increases the cost of a slice of pizza from $2.00 to $2.50. The number of slices sold in one day stays the same.']
+---
+---
+AI Response = The Pizza Place increases the cost of a slice of pizza from $2.00 to $2.50. The number of slices sold in one day drops from 250 to 175.
+---
+---
+Click = Box(left=302, top=542, width=20, height=26)
+---
+---
+Correct Answer = ['The Pizza Place increases the cost of a slice of pizza from $2.00 to $2.50. The number of slices sold in one day drops from 250 to 175.']
+---
+---
+Question = Question:
+What is the relationship between price and demand?
+
+
+---
+---
+Responses = ['They move in an upward direction.', 'They move in parallel directions.', 'They move in opposite directions.', 'They move in a downward direction.']
+---
+---
+AI Response = They move in opposite directions.
+---
+---
+Click = Box(left=302, top=569, width=20, height=26)
+---
+---
+Correct Answer = ['They move in opposite directions.']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question = Question:
+Which correctly demonstrates the law of demand?
+
+
+---
+---
+Responses = ['The Pizza Place increases the cost of a slice of pizza from $1.50 to $2.25. The number of slices sold in one day increases from 150 to 175.', 'The Pizza Place increases the cost of a slice of pizza from $2.00 to $2.50. The number of slices sold in one day stays the same.', 'The Pizza Place increases the cost of a slice of pizza from $2.00 to $2.50. The number of slices sold in one day drops from 250 to 175.', 'The Pizza Place decreases the cost of a slice of pizza from $2.50 to $2.00. The number of slices sold in one day drops from 300 to 275.']
+---
+---
+AI Response = The Pizza Place increases the cost of a slice of pizza from $2.00 to $2.50. The number of slices sold in one day drops from 250 to 175.
+---
+---
+Click = Box(left=302, top=654, width=20, height=26)
+---
+---
+Correct Answer = ['The Pizza Place increases the cost of a slice of pizza from $2.00 to $2.50. The number of slices sold in one day drops from 250 to 175.']
+---
+---
+Question = Question:
+What is the relationship between price and demand?
+
+
+---
+---
+Responses = ['They move in an upward direction.', 'They move in opposite directions.', 'They move in a downward direction.', 'They move in parallel directions.']
+---
+---
+AI Response = They move in opposite directions.
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Correct Answer = ['They move in opposite directions.']
+---
+Error on 100%
+---
+Percentage = 100
+---
+---
+Question = Question:
+What is a measure that demonstrates how consumers respond to changes in the price of goods and services?
+
+
+---
+---
+Responses = ['demand elasticity', 'law of demand', 'law of diminishing returns', 'unit elasticity']
+---
+---
+AI Response = demand elasticity
+---
+---
+Click = Box(left=302, top=551, width=20, height=26)
+---
+---
+Correct Answer = ['demand elasticity']
+---
+---
+Question = Question:
+Which accurately provides an example of demand elasticity?
+
+
+---
+---
+Responses = ['As the price of video games decreases by 20 percent, the demand for video games increases by 30 percent.', 'As the price of penicillin decreases by 30 percent, the demand for penicillin remains constant. As the price of penicillin decreases by 30 percent, the demand for penicillin remains constant.', 'As the price of bananas decreases by 10 percent, the demand for bananas decreases by 10 percent. As the price of bananas decreases by 10 percent, the demand for bananas decreases by 10 percent.', 'As the price of gasoline increases by 5 percent, the demand for gasoline remains constant. As the price of gasoline increases by 5 percent, the demand for gasoline remains constant.']
+---
+---
+AI Response = As the price of video games decreases by 20 percent, the demand for video games increases by 30 percent.
+---
+---
+Click = Box(left=302, top=542, width=20, height=26)
+---
+---
+Correct Answer = ['As the price of video games decreases by 20 percent, the demand for video games increases by 30 percent.']
+---
+Error on 100%
+---
+Percentage = 100
+---
+---
+Question = Question:
+Adding a series of numbers and dividing the sum by the total number of items will supply you with what?
+
+
+---
+---
+Responses = ['the mean', 'the mode', 'the matrix', 'the median']
+---
+---
+AI Response = the mean
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Correct Answer = ['the mean']
+---
+---
+Question = Question:
+How do you calculate the mode?
+
+
+---
+---
+Responses = ['You find the data point that is the least. You find the data point that is the least.', 'You find the data point that occurs least often. You find the data point that occurs least often.', 'You find the data point that is the greatest. You find the data point that is the greatest.', 'You find the data point that occurs most often.']
+---
+---
+AI Response = You find the data point that occurs most often.
+---
+---
+Click = Box(left=302, top=605, width=20, height=26)
+---
+---
+Correct Answer = ['You find the data point that occurs most often.']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question = Question:
+Adding a series of numbers and dividing the sum by the total number of items will supply you with what?
+
+
+---
+---
+Responses = ['the mode', 'the median', 'the mean', 'the matrix']
+---
+---
+AI Response = the mean
+---
+---
+Click = Box(left=302, top=624, width=20, height=26)
+---
+---
+Correct Answer = ['the mean']
+---
+---
+Question = Question:
+How do you calculate the mode?
+
+
+---
+---
+Responses = ['You find the data point that is the least. You find the data point that is the least.', 'You find the data point that occurs most often.', 'You find the data point that occurs least often. You find the data point that occurs least often.', 'You find the data point that is the greatest. You find the data point that is the greatest.']
+---
+---
+AI Response = You find the data point that occurs most often.
+---
+---
+Click = Box(left=302, top=568, width=20, height=26)
+---
+---
+Correct Answer = ['You find the data point that occurs most often.']
+---
+Error on 100%
+---
+Percentage = 100
+---
+Discussion Detected - Press Enter to continue
+---
+Question = Question:
+How does an increase in the price of a substitute affect demand for a product?
+
+
+---
+---
+Responses = ['It causes demand to fluctuate because people are unsure of the market.', 'It causes demand to go up because the product is less expensive than its substitute.', 'It causes demand to go down because people are concerned about the higher price.', 'It causes demand to remain the same because people are not concerned with substitutes.']
+---
+---
+AI Response = It causes demand to go down because people are concerned about the higher price.
+---
+---
+Click = Box(left=302, top=641, width=20, height=26)
+---
+---
+Correct Answer = ['It causes demand to go down because people are concerned about the higher price.']
+---
+---
+Question = Question:
+Which is a true statement about demand?
+
+
+---
+---
+Responses = ['For demand to exist, there must be a price drop that stimulates interest.', 'For demand to exist, the reasons a person wants a product must be reasonable.', 'For demand to exist, there must be a desire, willingness, and ability to pay for a product.', 'For demand to exist, the desire for a product must be coupled with available supply of the product.']
+---
+---
+AI Response = For demand to exist, there must be a desire, willingness, and ability to pay for a product.
+---
+---
+Click = Box(left=302, top=576, width=20, height=26)
+---
+---
+Correct Answer = ['For demand to exist, there must be a desire, willingness, and ability to pay for a product.']
+---
+---
+Question = Question:
+What happens to demand when prices increase?
+
+
+---
+---
+Responses = ['When prices go up, demand causes a shortage.', 'When prices go up, demand does not change.', 'When prices go up, demand goes up.', 'When prices go up, demand goes down.']
+---
+---
+AI Response = When prices go up, demand goes down.
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['When prices go up, demand goes down.']
+---
+---
+Question = Question:
+According to the law of demand, what increases the demand in the marketplace?
+
+
+---
+---
+Responses = ['more supply', 'more choices', 'lower prices', 'lower quality']
+---
+---
+AI Response = lower prices
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['lower prices']
+---
+---
+Question = Question:
+What does the law of demand state about consumer decisions?
+
+
+---
+---
+Responses = ['Consumers will buy more based on the opportunity cost.', 'Consumers will buy more at lower prices.', 'Consumers will buy less based on the opportunity cost.', 'Consumers will buy less at lower prices.']
+---
+---
+AI Response = Consumers will buy more at lower prices.
+---
+---
+Click = Box(left=302, top=561, width=20, height=26)
+---
+---
+Correct Answer = ['Consumers will buy more at lower prices.']
+---
+---
+Question = Question:
+Which accurately describes the difference between elastic and inelastic demand?
+
+
+---
+---
+Responses = ['Inelastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas elastic demand refers to the lack of change in demand as prices change. Inelastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas elastic demand refers to the lack of change in demand as prices change.', 'Inelastic demand refers to a change in production by producers when the price of a good or service changes, whereas elastic demand refers to the lack of change in production as prices change. Inelastic demand refers to a change in production by producers when the price of a good or service changes, whereas elastic demand refers to the lack of change in production as prices change.', 'Elastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in demand as prices change.', 'Elastic demand refers to a change in production by producers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in production as prices change. Elastic demand refers to a change in production by producers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in production as prices change.']
+---
+---
+AI Response = Elastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in demand as prices change.
+---
+---
+Click = Box(left=302, top=674, width=20, height=26)
+---
+---
+Correct Answer = ['Elastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in demand as prices change.']
+---
+---
+Question = Question:
+What is demand elasticity?
+
+
+---
+---
+Responses = ['a measure of the value of a product in the marketplace', 'a measure of the usefulness of a product for consumers', 'a measure of the shift in the demand curve after a price change', 'a measure of the impact a price change has on demand']
+---
+---
+AI Response = a measure of the impact a price change has on demand
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['a measure of the impact a price change has on demand']
+---
+---
+Question = Question:
+In an odd number of points in a set, how do you find the median?
+
+
+---
+---
+Responses = ['Find the number that appears most often in the list. Find the number that appears most often in the list.', 'Subtract the lowest number in the list from the highest. Subtract the lowest number in the list from the highest.', 'Add them all and divide by the total number. Add them all and divide by the total number.', 'The median is the number in the middle of the set.']
+---
+---
+AI Response = The median is the number in the middle of the set.
+---
+---
+Click = Box(left=302, top=634, width=20, height=26)
+---
+---
+Correct Answer = ['The median is the number in the middle of the set.']
+---
+---
+Question = Question:
+For the set {16,17,17,19,22,26,32,35}
+, what is the mean?
+
+
+---
+---
+Responses = ['23', '22', '35', '17']
+---
+---
+AI Response = 22
+---
+---
+Click = Box(left=302, top=564, width=20, height=26)
+---
+---
+Correct Answer = ['22']
+---
+---
+Question = Question:
+For the set {20,21,21,23,26,30,36,39}
+, what is the mode?
+
+
+---
+---
+Responses = ['23', '21', '20', '27']
+---
+---
+AI Response = 21
+---
+---
+Click = Box(left=302, top=578, width=20, height=26)
+---
+---
+Correct Answer = ['21']
+---
+---
+Percentage = 60
+---
+---
+Percentage = 60
+---
+---
+Question = Question:
+How does an increase in the price of a substitute affect demand for a product?
+
+
+---
+---
+Responses = ['It causes demand to fluctuate because people are unsure of the market.', 'It causes demand to go up because the product is less expensive than its substitute.', 'It causes demand to remain the same because people are not concerned with substitutes.', 'It causes demand to go down because people are concerned about the higher price.']
+---
+---
+AI Response = It causes demand to go down because people are concerned about the higher price.
+---
+---
+Click = Box(left=302, top=697, width=20, height=26)
+---
+---
+Correct Answer = ['It causes demand to go down because people are concerned about the higher price.']
+---
+---
+Question = Question:
+Which is a true statement about demand?
+
+
+---
+---
+Responses = ['For demand to exist, there must be a desire, willingness, and ability to pay for a product.', 'For demand to exist, there must be a price drop that stimulates interest.', 'For demand to exist, the reasons a person wants a product must be reasonable.', 'For demand to exist, the desire for a product must be coupled with available supply of the product.']
+---
+---
+AI Response = For demand to exist, there must be a desire, willingness, and ability to pay for a product.
+---
+---
+Click = Box(left=302, top=549, width=20, height=26)
+---
+---
+Correct Answer = ['For demand to exist, there must be a desire, willingness, and ability to pay for a product.']
+---
+---
+Question = Question:
+What happens to demand when prices increase?
+
+
+---
+---
+Responses = ['When prices go up, demand causes a shortage.', 'When prices go up, demand goes up.', 'When prices go up, demand does not change.', 'When prices go up, demand goes down.']
+---
+---
+AI Response = When prices go up, demand goes down.
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['When prices go up, demand goes down.']
+---
+---
+Question = Question:
+According to the law of demand, what increases the demand in the marketplace?
+
+
+---
+---
+Responses = ['more choices', 'lower prices', 'more supply', 'lower quality']
+---
+---
+AI Response = more choices
+---
+---
+Click = Box(left=302, top=539, width=20, height=26)
+---
+---
+Correct Answer = ['more choices']
+---
+---
+Question = Question:
+What does the law of demand state about consumer decisions?
+
+
+---
+---
+Responses = ['Consumers will buy more at lower prices.', 'Consumers will buy less based on the opportunity cost.', 'Consumers will buy more based on the opportunity cost.', 'Consumers will buy less at lower prices.']
+---
+---
+AI Response = Consumers will buy more at lower prices.
+---
+---
+Click = Box(left=302, top=525, width=20, height=26)
+---
+---
+Correct Answer = ['Consumers will buy more at lower prices.']
+---
+---
+Question = Question:
+Which accurately describes the difference between elastic and inelastic demand?
+
+
+---
+---
+Responses = ['Inelastic demand refers to a change in production by producers when the price of a good or service changes, whereas elastic demand refers to the lack of change in production as prices change. Inelastic demand refers to a change in production by producers when the price of a good or service changes, whereas elastic demand refers to the lack of change in production as prices change.', 'Inelastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas elastic demand refers to the lack of change in demand as prices change. Inelastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas elastic demand refers to the lack of change in demand as prices change.', 'Elastic demand refers to a change in production by producers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in production as prices change. Elastic demand refers to a change in production by producers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in production as prices change.', 'Elastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in demand as prices change.']
+---
+---
+AI Response = Inelastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas elastic demand refers to the lack of change in demand as prices change.
+---
+Error: No correct anwers detected
+---
+Correct Answer = []
+---
+---
+Question = Question:
+What is demand elasticity?
+
+
+---
+---
+Responses = ['a measure of the usefulness of a product for consumers', 'a measure of the shift in the demand curve after a price change', 'a measure of the impact a price change has on demand', 'a measure of the value of a product in the marketplace']
+---
+---
+AI Response = a measure of the impact a price change has on demand
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['a measure of the impact a price change has on demand']
+---
+---
+Question = Question:
+In an odd number of points in a set, how do you find the median?
+
+
+---
+---
+Responses = ['Add them all and divide by the total number. Add them all and divide by the total number.', 'Find the number that appears most often in the list. Find the number that appears most often in the list.', 'The median is the number in the middle of the set.', 'Subtract the lowest number in the list from the highest. Subtract the lowest number in the list from the highest.']
+---
+---
+AI Response = The median is the number in the middle of the set.
+---
+---
+Click = Box(left=302, top=598, width=20, height=26)
+---
+---
+Correct Answer = ['The median is the number in the middle of the set.']
+---
+---
+Question = Question:
+For the set {16,17,17,19,22,26,32,35}
+, what is the mean?
+
+
+---
+---
+Responses = ['17', '23', '22', '35']
+---
+---
+AI Response = 23
+---
+---
+Click = Box(left=302, top=564, width=20, height=26)
+---
+---
+Correct Answer = ['23']
+---
+---
+Question = Question:
+For the set {20,21,21,23,26,30,36,39}
+, what is the mode?
+
+
+---
+---
+Responses = ['20', '21', '23', '27']
+---
+---
+AI Response = 21
+---
+---
+Click = Box(left=302, top=578, width=20, height=26)
+---
+---
+Correct Answer = ['21']
+---
+---
+Question = Question:
+Which accurately describes the difference between elastic and inelastic demand?
+
+
+---
+---
+Responses = ['Inelastic demand refers to a change in production by producers when the price of a good or service changes, whereas elastic demand refers to the lack of change in production as prices change. Inelastic demand refers to a change in production by producers when the price of a good or service changes, whereas elastic demand refers to the lack of change in production as prices change.', 'Inelastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas elastic demand refers to the lack of change in demand as prices change. Inelastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas elastic demand refers to the lack of change in demand as prices change.', 'Elastic demand refers to a change in production by producers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in production as prices change. Elastic demand refers to a change in production by producers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in production as prices change.', 'Elastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in demand as prices change.']
+---
+---
+AI Response = Elastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in demand as prices change.
+---
+---
+Click = Box(left=302, top=749, width=20, height=26)
+---
+---
+Correct Answer = ['Elastic demand refers to a change in demand by consumers when the price of a good or service changes, whereas inelastic demand refers to the lack of change in demand as prices change.']
+---

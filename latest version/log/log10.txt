@@ -1,0 +1,1667 @@
+log 10 (US Government Unit 1)
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Quiz Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  What is the main difference between a federal government and a unitary government?
+---
+---
+Responses = ['A federal government is a democracy while a unitary government is a dictatorship.', 'A federal government has no monarch, while a unitary government has a constitutional monarch who is a living symbol of unity for nation.', 'A federal government shares power with state and local governments while a unitary government has complete control over local governments.', 'A federal government has both an executive and legislative branch while a unitary government only has one branch.']
+---
+---
+Correct Answer = ['A federal government shares power with state and local governments while a unitary government has complete control over local governments.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Percentage = 86
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which statement describes an advantage and disadvantage of a market economy?
+---
+---
+Responses = ['A market economy encourages business opportunities but does little to address income inequality.', 'A market economy encourages innovation but high taxes make it difficult for consumers.', 'A market economy creates a sense of community, but does little to encourage innovation.', 'A market economy provides government support for all citizens, but leaves people with little motivation to work.']
+---
+---
+Correct Answer = ['A market economy encourages business opportunities but does little to address income inequality.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Percentage = 75
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Read the sentence.    The Spartan system of government provides the United States with a model for _[blank]_.    Which option correctly completes the sentence?
+---
+---
+Responses = ['the establishment and growth of city-states', 'democratic government powered by the citizens', 'a government based on being ready for war at all times', 'separation of powers between different branches']
+---
+---
+Correct Answer = ['a government based on being ready for war at all times']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Read the sentence.    Plato believed that a _[blank]_ would arise out of an aristocracy if individuals who had been selected to serve were not of the best quality.    Which option correctly completes the sentence?
+---
+---
+Responses = ['mobocracy', 'timocracy', 'tyranny', 'oligarchy']
+---
+---
+Correct Answer = ['mobocracy']
+---
+***
+Error Detected - Error on percentage
+***
+---
+Percentage = 1
+---
+***
+Error Detected - Error on percentage
+***
+---
+Percentage = 1
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Read the sentence.    The Spartan system of government provides the United States with a model for _[blank]_.    Which option correctly completes the sentence?
+---
+---
+Responses = ['separation of powers between different branches', 'a government based on being ready for war at all times', 'the establishment and growth of city-states', 'democratic government powered by the citizens']
+---
+---
+Correct Answer = ['separation of powers between different branches']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Read the sentence.    Plato believed that a _[blank]_ would arise out of an aristocracy if individuals who had been selected to serve were not of the best quality.    Which option correctly completes the sentence?
+---
+---
+Responses = ['tyranny', 'oligarchy', 'timocracy', 'mobocracy']
+---
+---
+Correct Answer = ['tyranny']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Read the sentence.    The Spartan system of government provides the United States with a model for _[blank]_.    Which option correctly completes the sentence?
+---
+---
+Responses = ['separation of powers between different branches', 'a government based on being ready for war at all times', 'the establishment and growth of city-states', 'democratic government powered by the citizens']
+---
+---
+Correct Answer = ['separation of powers between different branches']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Read the sentence.    Plato believed that a _[blank]_ would arise out of an aristocracy if individuals who had been selected to serve were not of the best quality.    Which option correctly completes the sentence?
+---
+---
+Responses = ['oligarchy', 'tyranny', 'timocracy', 'mobocracy']
+---
+---
+Correct Answer = ['oligarchy']
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  Which class rose to new power and established assemblies and tribunals to serve their needs?   
+---
+---
+Responses = ['patricians', 'slaves', 'soldiers', 'plebeians']
+---
+---
+Correct Answer = ['plebeians']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which church promoted Charlemagne’s divine right to rule?
+---
+---
+Responses = ['Catholic Church', 'Lutheran Church', 'Church of England', 'Presbyterian Church']
+---
+---
+Correct Answer = ['Catholic Church']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Percentage = 100
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 9
+---
+---
+Question = Question:  Which statement best describes the role of the monarch under the British parliamentary system? 
+---
+---
+Responses = ['The monarch gets to choose the prime minister.', 'The power of the monarch is limited by the constitution.', 'The monarch is part of a ruling oligarchy.', 'The monarch serves as the head of state.']
+---
+---
+Correct Answer = ['The monarch serves as the head of state.']
+---
+---
+Question Number = 2 of 9
+---
+---
+Question = Question:  How do Britain’s proportional elections influence the government?
+---
+---
+Responses = ['Proportional elections give more parties a voice in government. But no one party may ever have enough seats to elect a prime minister. This would leave the government without a leader.', 'Proportional elections allow the central government to split power with local governments. But the lack of unity between the two may make the country weak.', 'Proportional elections allow minority parties greater representation. But the larger number of representatives may make it difficult for members of government to form coalitions.', 'Proportional elections encourage candidates to represent all members of their district. But they may give one or two parties too much power in the government.']
+---
+---
+Correct Answer = ['Proportional elections give more parties a voice in government. But no one party may ever have enough seats to elect a prime minister. This would leave the government without a leader.']
+---
+---
+Question Number = 3 of 9
+---
+---
+Question = Question:  Which statement is characteristic of a traditional economy?
+---
+---
+Responses = ['Most people are involved in agriculture.', 'Advertising is used to increase demand.', 'Innovation helps the economy grow.', 'The government controls distribution.']
+---
+---
+Correct Answer = ['Most people are involved in agriculture.']
+---
+---
+Question Number = 4 of 9
+---
+---
+Question = Question:  Read the sentence.    Adam Smith believed that governments should not interfere in the economy. This approach is known as _[blank]_ .    Which best completes the sentence?
+---
+---
+Responses = ['laissez faire', 'supply and demand', 'private enterprise', 'goods and services']
+---
+---
+Correct Answer = ['laissez faire']
+---
+---
+Question Number = 5 of 9
+---
+---
+Question = Question:  How did Pericles encourage Athenians to take responsibility in government?
+---
+---
+Responses = ['He advised them to write their own constitution.', 'He established a council of elders elected by the people.', 'He started a revolt that dismantled the Thirty Tyrants.', 'He eliminated suffrage based on property ownership.']
+---
+---
+Correct Answer = ['He established a council of elders elected by the people.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 7 of 9
+---
+---
+Question = Question:  How did the Romans influence the creation of a representative government and written law?     Select all that apply.
+---
+---
+Responses = ['allowing elected leaders to speak for the citizens they represented', 'establishing legislatures where all property owners served the government', 'writing down the law and making it available to the public', 'establishing schools to insure that elected officials were educated']
+---
+---
+Correct Answer = ['allowing elected leaders to speak for the citizens they represented', 'writing down the law and making it available to the public']
+---
+---
+Question Number = 8 of 9
+---
+---
+Question = Question:  What was the significance of the Law of the Twelve Tables?
+---
+---
+Responses = ['These laws established a constitution to rule the Roman Empire.', 'These laws provided Romans with a legal precedent for electing an emperor.', 'These laws verified the need for the Roman army.', 'These laws were easy to understand and made available to the citizens.']
+---
+---
+Correct Answer = ['These laws were easy to understand and made available to the citizens.']
+---
+---
+Question Number = 9 of 9
+---
+---
+Question = Question:  What services did the Catholic Church provide to ease the burden of peasants serving under feudalism?    Select all that apply.
+---
+---
+Responses = ['education', 'health care', 'suffrage', 'job training']
+---
+---
+Correct Answer = ['education', 'health care']
+---
+---
+Percentage = 66
+---
+---
+Percentage = 66
+---
+---
+Question Number = 1 of 9
+---
+---
+Question = Question:  Which statement best describes the role of the monarch under the British parliamentary system? 
+---
+---
+Responses = ['The power of the monarch is limited by the constitution.', 'The monarch is part of a ruling oligarchy.', 'The monarch serves as the head of state.', 'The monarch gets to choose the prime minister.']
+---
+---
+Correct Answer = ['The monarch serves as the head of state.']
+---
+---
+Question Number = 2 of 9
+---
+---
+Question = Question:  How do Britain’s proportional elections influence the government?
+---
+---
+Responses = ['Proportional elections allow the central government to split power with local governments. But the lack of unity between the two may make the country weak.', 'Proportional elections allow minority parties greater representation. But the larger number of representatives may make it difficult for members of government to form coalitions.', 'Proportional elections encourage candidates to represent all members of their district. But they may give one or two parties too much power in the government.', 'Proportional elections give more parties a voice in government. But no one party may ever have enough seats to elect a prime minister. This would leave the government without a leader.']
+---
+---
+Correct Answer = ['Proportional elections allow minority parties greater representation. But the larger number of representatives may make it difficult for members of government to form coalitions.']
+---
+---
+Question Number = 3 of 9
+---
+---
+Question = Question:  Which statement is characteristic of a traditional economy?
+---
+---
+Responses = ['Most people are involved in agriculture.', 'Advertising is used to increase demand.', 'Innovation helps the economy grow.', 'The government controls distribution.']
+---
+---
+Correct Answer = ['Most people are involved in agriculture.']
+---
+---
+Question Number = 4 of 9
+---
+---
+Question = Question:  Read the sentence.    Adam Smith believed that governments should not interfere in the economy. This approach is known as _[blank]_ .    Which best completes the sentence?
+---
+---
+Responses = ['private enterprise', 'supply and demand', 'goods and services', 'laissez faire']
+---
+---
+Correct Answer = ['laissez faire']
+---
+---
+Question Number = 5 of 9
+---
+---
+Question = Question:  How did Pericles encourage Athenians to take responsibility in government?
+---
+---
+Responses = ['He established a council of elders elected by the people.', 'He eliminated suffrage based on property ownership.', 'He advised them to write their own constitution.', 'He started a revolt that dismantled the Thirty Tyrants.']
+---
+---
+Correct Answer = ['He established a council of elders elected by the people.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 7 of 9
+---
+---
+Question = Question:  How did the Romans influence the creation of a representative government and written law?     Select all that apply.
+---
+---
+Responses = ['allowing elected leaders to speak for the citizens they represented', 'establishing legislatures where all property owners served the government', 'writing down the law and making it available to the public', 'establishing schools to insure that elected officials were educated']
+---
+---
+Correct Answer = ['allowing elected leaders to speak for the citizens they represented', 'writing down the law and making it available to the public']
+---
+---
+Question Number = 8 of 9
+---
+---
+Question = Question:  What was the significance of the Law of the Twelve Tables?
+---
+---
+Responses = ['These laws verified the need for the Roman army.', 'These laws were easy to understand and made available to the citizens.', 'These laws provided Romans with a legal precedent for electing an emperor.', 'These laws established a constitution to rule the Roman Empire.']
+---
+---
+Correct Answer = ['These laws were easy to understand and made available to the citizens.']
+---
+---
+Question Number = 9 of 9
+---
+---
+Question = Question:  What services did the Catholic Church provide to ease the burden of peasants serving under feudalism?    Select all that apply.
+---
+---
+Responses = ['suffrage', 'education', 'health care', 'job training']
+---
+---
+Correct Answer = ['education', 'health care']
+---
+---
+Percentage = 77
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which documents were influenced by the Magna Carta?    Select all that apply.
+---
+---
+Responses = ['Declaration of Independence', 'Salic Law', 'Twelve Tables', 'US Constitution']
+---
+---
+Correct Answer = ['Declaration of Independence', 'US Constitution']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Read the sentence.    The Magna Carta helped to establish the idea of a _[blank]_ between the government and its citizens.    Which option correctly completes the sentence?
+---
+---
+Responses = ['social engagement', 'social contract', 'manifest destiny', 'political mandate']
+---
+---
+Correct Answer = ['social contract']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which documents were influenced by the Magna Carta?    Select all that apply.
+---
+---
+Responses = ['Salic Law', 'US Constitution', 'Declaration of Independence', 'Twelve Tables']
+---
+---
+Correct Answer = ['US Constitution', 'Declaration of Independence']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Read the sentence.    The Magna Carta helped to establish the idea of a _[blank]_ between the government and its citizens.    Which option correctly completes the sentence?
+---
+---
+Responses = ['social engagement', 'political mandate', 'social contract', 'manifest destiny']
+---
+---
+Correct Answer = ['social contract']
+---
+---
+Program = Starting
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which options are common to both the British Parliament and the US government system?    Select all that apply.
+---
+---
+Responses = ['front and backbenchers', 'prime minister', 'house and senate', 'executive']
+---
+---
+Correct Answer = ['house and senate', 'executive']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Percentage = 80
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  What led King John I to sign the Magna Carta?
+---
+---
+Responses = ['Nobles liked Henry VIII better.', 'John I, a French prince, stole the crown from Henry III.', 'He disagreed with the Archbishop of Canterbury about the pope.', 'He wanted to maintain peace with the nobles.']
+---
+---
+Correct Answer = ['He wanted to maintain peace with the nobles.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  What are some of the similarities between the Magna Carta and the United States Constitution?    Select all that apply.
+---
+---
+Responses = ['separation of church and state', "established bankruptcy laws to avoid debtors' prison", "trial by jury of one's peers", 'provided a three-branch government']
+---
+---
+Correct Answer = ["trial by jury of one's peers"]
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  What is the upper house also referred to as?
+---
+---
+Responses = ['congress', 'house of representatives', 'greater parliament', 'senate']
+---
+---
+Correct Answer = ['senate']
+---
+---
+Percentage = 83
+---
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  Read the sentence.    Because King James II had abused his power, the English Bill of Rights sought to increase the power of _[blank]_.    Which terms correctly complete the sentence?    Select all that apply.   
+---
+---
+Responses = ['Parliament', 'the queen', 'the Vatican', 'citizens']
+---
+---
+Correct Answer = ['Parliament']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  Read the sentence.    Because King James II had abused his power, the English Bill of Rights sought to increase the power of _[blank]_.    Which terms correctly complete the sentence?    Select all that apply.   
+---
+---
+Responses = ['Parliament', 'the Vatican', 'the queen', 'citizens']
+---
+---
+Correct Answer = ['Parliament']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  Read the sentence.    Because King James II had abused his power, the English Bill of Rights sought to increase the power of _[blank]_.    Which terms correctly complete the sentence?    Select all that apply.   
+---
+---
+Responses = ['the Vatican', 'Parliament', 'the queen', 'citizens']
+---
+---
+Correct Answer = ['Parliament']
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 5
+---
+---
+Question = Question:  How did The Prince change European thinking?
+---
+---
+Responses = ['The book declared that the purpose of leadership was to make sure citizens had good lives.', 'The book looked at political leadership in a realistic rather than idealistic way.', 'The book looked at political leadership in an idealistic rather than realistic way.', 'The book declared that leaders could no longer state that they were chosen by God.']
+---
+---
+Correct Answer = ['The book looked at political leadership in a realistic rather than idealistic way.']
+---
+---
+Question Number = 2 of 5
+---
+---
+Question = Question:  What ideas were brought forth by John Locke’s Two Treatises of Civil Government?    Select all that apply.
+---
+---
+Responses = ['social contract', 'checks and balances', 'religious freedom', 'natural rights']
+---
+---
+Correct Answer = ['social contract', 'natural rights']
+---
+---
+Question Number = 3 of 5
+---
+---
+Question = Question:  In The Spirit of the Laws, Montesquieu lays out a system for what type of government?
+---
+---
+Responses = ['a monarchy', 'a bicameral government', 'a unicameral government', 'a three-branch government']
+---
+---
+Correct Answer = ['a three-branch government']
+---
+---
+Question Number = 4 of 5
+---
+---
+Question = Question:  Which option identifies a primary goal of mercantilism?
+---
+---
+Responses = ['spreading economic influence through Christianity', 'amassing wealth through trade', 'complete economic freedom for a colony', 'heavy taxation of merchant activity']
+---
+---
+Correct Answer = ['amassing wealth through trade']
+---
+---
+Question Number = 5 of 5
+---
+---
+Question = Question:  Which best describes the role of mercantilism during the 1600s?
+---
+---
+Responses = ['European countries wanted to expand their wealth by exporting raw materials from colonies.', 'European colonies in South America grew wealthy by seizing gold from native tribes.', 'European countries wanted to expand their wealth by taxing colonists and native peoples.', 'European colonies in North America grew wealthy through lucrative shipbuilding industries.']
+---
+---
+Correct Answer = ['European countries wanted to expand their wealth by exporting raw materials from colonies.']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  In which work did Rousseau state that surrendering individual rights for the good of all would create equality for everyone?
+---
+---
+Responses = ['The Social Contract', 'Reveries of a Solitary Walker', 'The Discourse', 'On the Origin of Language']
+---
+---
+Correct Answer = ['The Social Contract']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  Why did the British Parliament create the English Bill of Rights?
+---
+---
+Responses = ['to establish rights for women', 'to strengthen the rights of citizens', 'to end the tyranny of the court system', 'to approve a pay raise for representatives']
+---
+---
+Correct Answer = ['to strengthen the rights of citizens']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  What governmental practices led to the writing of the English Bill of Rights?    Select all that apply.
+---
+---
+Responses = ['James II created a standing army that killed hundreds of Protestants.', 'James II had created laws restricting the right of Protestants to bear arms.', 'The Crown had tortured the accused to receive confessions for crimes.', 'The Crown created laws restricting the right of Catholics to bear arms.']
+---
+---
+Correct Answer = ['James II created a standing army that killed hundreds of Protestants.', 'James II had created laws restricting the right of Protestants to bear arms.']
+---
+---
+Percentage = 89
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  What prompted King James I to issue a second charter to give colonists more rights to land and government?
+---
+---
+Responses = ['the fact that colonists found gold', 'an increase in the taxes paid to the Crown', 'a successful crop year in all English colonies', 'the success of the Jamestown Colony']
+---
+---
+Correct Answer = ['the success of the Jamestown Colony']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What was the House of Burgesses?
+---
+---
+Responses = ['the first elected legislature in North America', 'the first schoolhouse founded in the New World', 'the first Protestant church built in New England', 'the first house constructed at the Jamestown settlement']
+---
+---
+Correct Answer = ['the first elected legislature in North America']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Why is the Mayflower Compact important?
+---
+---
+Responses = ['It was the first rental arrangement for a ship to the New World.', 'It was the first record of births and deaths in the New World.', 'It was the first document of self-government in the New World.', 'It was the first trade treaty between Europe and the New World.']
+---
+---
+Correct Answer = ['It was the first document of self-government in the New World.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  How did the Mayflower Compact influence later American government?    Select all that apply.   
+---
+---
+Responses = ["It set up branches of government and a system of checks and balances like those in today's US government.", 'Like the US Constitution, it was a written agreement between individuals about how their government would work.', 'The colonial council that it established resembled the city councils currently in place in the United States.', 'Like the US government, it was established with the blessing of important foreign stakeholders.']
+---
+---
+Correct Answer = ['Like the US Constitution, it was a written agreement between individuals about how their government would work.']
+---
+---
+Percentage = 75
+---
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  Who was the author of the Declaration of Independence?
+---
+---
+Responses = ['Samuel Adams', 'Thomas Jefferson', 'James Madison', 'John Hancock']
+---
+---
+Correct Answer = ['Thomas Jefferson']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  Read this statement by Thomas Jefferson.    “That to secure these rights, governments are instituted among Men, deriving their just powers from the consent of the governed.”    Where does the power of the government come from, according to Jefferson?
+---
+---
+Responses = ['the Congress', 'the people', 'the Senate', 'the president']
+---
+---
+Correct Answer = ['the people']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  Why did colonist leaders hold a conference in Albany, New York, in 1754?
+---
+---
+Responses = ['to draft an early version of the Declaration of Independence', 'to debate the challenges of British taxation without representation', 'to elect the wartime leadership of the English colonies', 'to determine how to defend the British colonies in North America']
+---
+---
+Correct Answer = ['to determine how to defend the British colonies in North America']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  Read the sentence.    The Albany Plan was the first step in determining how to establish a government that would _[blank]_ the colonies.    Which option correctly completes the sentence?
+---
+---
+Responses = ['divide', 'grow the number of', 'unite', 'shrink the number of']
+---
+---
+Correct Answer = ['unite']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  What was the predecessor to the Articles of Confederation?
+---
+---
+Responses = ['Connecticut Compromise', 'Albany Plan of Union', 'Lee’s Revolution', 'Olive Branch Petition']
+---
+---
+Correct Answer = ['Albany Plan of Union']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 5
+---
+---
+Question = Question:  How did the accessibility of individuals to their church council in Jamestown impact government?
+---
+---
+Responses = ['James I allowed for the local church council to run the government.', 'Jamestown colonists expected to have access to government officials.', 'The Jamestown government became a theocracy because of the openness of church council.', 'The British Parliament assigned parishioners to create a system for electing colonial leaders.']
+---
+---
+Correct Answer = ['James I allowed for the local church council to run the government.']
+---
+---
+Question Number = 2 of 5
+---
+---
+Question = Question:  What did the Second Charter of Virginia provide to the colonists?
+---
+---
+Responses = ['the ability to establish the first Church of England in the New World', 'the right to seize territory from neighboring Native American tribes', 'the rights to colonize in Spanish territory', 'the rights to establish a representative government']
+---
+---
+Correct Answer = ['the rights to establish a representative government']
+---
+---
+Question Number = 3 of 5
+---
+---
+Question = Question:  Why did so many Pilgrims and Puritans move to the New World?
+---
+---
+Responses = ['They had overthrown the king in England and fled justice by going to the New World.', 'They were extremely competitive and wanted to beat their English rivals to the New World.', 'They were persecuted for their religion in England and wanted religious freedom in the New World.', 'There was not enough land in England to build cathedrals as big as they could in the New World.']
+---
+---
+Correct Answer = ['They were persecuted for their religion in England and wanted religious freedom in the New World.']
+---
+---
+Question Number = 4 of 5
+---
+---
+Question = Question:  How did the Pilgrims influence the notion of representative democracy?
+---
+---
+Responses = ['The government was a true democracy representing all members of society.', 'Government officials were selected from a list provided by the Church of England.', 'The signers of the Mayflower Compact appointed the officials to represent everyone.', 'Government officials were selected locally.']
+---
+---
+Correct Answer = ['The signers of the Mayflower Compact appointed the officials to represent everyone.']
+---
+---
+Question Number = 5 of 5
+---
+---
+Question = Question:  Why did Benjamin Franklin change Thomas Jefferson’s original phase of “We hold these truths to be sacred” to “We hold these truths to be self-evident”?
+---
+---
+Responses = ['Benjamin Franklin wanted to display his prowess as a newspaper editor.', 'Only through reason could a new nation protect the rights of the people.', 'Benjamin Franklin could find no evidence that rights were sacredly given by God.', '\u200bThere is no evidence to convey the reasoning behind Franklin’s decision.']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['\u200bThere is no evidence to convey the reasoning behind Franklin’s decision.', 10]]
+---
+---
+Percentage = 40
+---
+---
+Percentage = 40
+---
+---
+Question Number = 1 of 5
+---
+---
+Question = Question:  How did the accessibility of individuals to their church council in Jamestown impact government?
+---
+---
+Responses = ['The British Parliament assigned parishioners to create a system for electing colonial leaders.', 'The Jamestown government became a theocracy because of the openness of church council.', 'Jamestown colonists expected to have access to government officials.', 'James I allowed for the local church council to run the government.']
+---
+---
+Correct Answer = ['Jamestown colonists expected to have access to government officials.']
+---
+---
+Question Number = 2 of 5
+---
+---
+Question = Question:  What did the Second Charter of Virginia provide to the colonists?
+---
+---
+Responses = ['the ability to establish the first Church of England in the New World', 'the rights to colonize in Spanish territory', 'the right to seize territory from neighboring Native American tribes', 'the rights to establish a representative government']
+---
+---
+Correct Answer = ['the rights to establish a representative government']
+---
+---
+Question Number = 3 of 5
+---
+---
+Question = Question:  Why did so many Pilgrims and Puritans move to the New World?
+---
+---
+Responses = ['They had overthrown the king in England and fled justice by going to the New World.', 'They were extremely competitive and wanted to beat their English rivals to the New World.', 'There was not enough land in England to build cathedrals as big as they could in the New World.', 'They were persecuted for their religion in England and wanted religious freedom in the New World.']
+---
+---
+Correct Answer = ['They were persecuted for their religion in England and wanted religious freedom in the New World.']
+---
+---
+Question Number = 4 of 5
+---
+---
+Question = Question:  How did the Pilgrims influence the notion of representative democracy?
+---
+---
+Responses = ['The signers of the Mayflower Compact appointed the officials to represent everyone.', 'Government officials were selected locally.', 'The government was a true democracy representing all members of society.', 'Government officials were selected from a list provided by the Church of England.']
+---
+---
+Correct Answer = ['The signers of the Mayflower Compact appointed the officials to represent everyone.']
+---
+---
+Question Number = 5 of 5
+---
+---
+Question = Question:  Why did Benjamin Franklin change Thomas Jefferson’s original phase of “We hold these truths to be sacred” to “We hold these truths to be self-evident”?
+---
+---
+Responses = ['Only through reason could a new nation protect the rights of the people.', '\u200bThere is no evidence to convey the reasoning behind Franklin’s decision.', 'Benjamin Franklin could find no evidence that rights were sacredly given by God.', 'Benjamin Franklin wanted to display his prowess as a newspaper editor.']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['\u200bThere is no evidence to convey the reasoning behind Franklin’s decision.', 10]]
+---
+---
+Percentage = 60
+---
+---
+Percentage = 60
+---
+---
+Question Number = 1 of 5
+---
+---
+Question = Question:  How did the accessibility of individuals to their church council in Jamestown impact government?
+---
+---
+Responses = ['The British Parliament assigned parishioners to create a system for electing colonial leaders.', 'The Jamestown government became a theocracy because of the openness of church council.', 'Jamestown colonists expected to have access to government officials.', 'James I allowed for the local church council to run the government.']
+---
+---
+Correct Answer = ['Jamestown colonists expected to have access to government officials.']
+---
+---
+Question Number = 2 of 5
+---
+---
+Question = Question:  What did the Second Charter of Virginia provide to the colonists?
+---
+---
+Responses = ['the ability to establish the first Church of England in the New World', 'the right to seize territory from neighboring Native American tribes', 'the rights to colonize in Spanish territory', 'the rights to establish a representative government']
+---
+---
+Correct Answer = ['the rights to establish a representative government']
+---
+---
+Question Number = 3 of 5
+---
+---
+Question = Question:  Why did so many Pilgrims and Puritans move to the New World?
+---
+---
+Responses = ['There was not enough land in England to build cathedrals as big as they could in the New World.', 'They were persecuted for their religion in England and wanted religious freedom in the New World.', 'They had overthrown the king in England and fled justice by going to the New World.', 'They were extremely competitive and wanted to beat their English rivals to the New World.']
+---
+---
+Correct Answer = ['They were persecuted for their religion in England and wanted religious freedom in the New World.']
+---
+---
+Question Number = 4 of 5
+---
+---
+Question = Question:  How did the Pilgrims influence the notion of representative democracy?
+---
+---
+Responses = ['The signers of the Mayflower Compact appointed the officials to represent everyone.', 'Government officials were selected from a list provided by the Church of England.', 'The government was a true democracy representing all members of society.', 'Government officials were selected locally.']
+---
+---
+Correct Answer = ['Government officials were selected locally.']
+---
+---
+Question Number = 5 of 5
+---
+---
+Question = Question:  Why did Benjamin Franklin change Thomas Jefferson’s original phase of “We hold these truths to be sacred” to “We hold these truths to be self-evident”?
+---
+---
+Responses = ['Benjamin Franklin could find no evidence that rights were sacredly given by God.', '\u200bThere is no evidence to convey the reasoning behind Franklin’s decision.', 'Benjamin Franklin wanted to display his prowess as a newspaper editor.', 'Only through reason could a new nation protect the rights of the people.']
+---
+---
+Correct Answer = ['Only through reason could a new nation protect the rights of the people.']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Read the sentence.    The Articles of Confederation was exposed as an ineffective governing system because _[blank]_.    Which option correctly completes the sentence?
+---
+---
+Responses = ['individual states could ignore the United States government', 'representation in Congress was not determined by population', 'Congress only had power to regulate trade and declare war', 'the president would have to answer to a Grand Council']
+---
+---
+Correct Answer = ['individual states could ignore the United States government']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  What agreement served as the first constitution of the 13 original states?
+---
+---
+Responses = ['Continental Congress', 'English Bill of Rights', 'Magna Carta', 'Articles of Confederation']
+---
+---
+Correct Answer = ['Articles of Confederation']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Read the quotation.    Governments are instituted among Men, deriving their just powers from the consent of the governed.    How did the Articles of Confederation successfully implement this ideal from the Declaration of Independence?    Select all that apply.
+---
+---
+Responses = ['The Articles prevented Congress from making trade agreements with foreign countries.', 'The Articles required 9 or more of the 13 states to approve new laws.', 'The Articles gave equal voting power to all states in the Congress.', 'The Articles authorized Congress to establish a postal service.']
+---
+---
+Correct Answer = ['The Articles required 9 or more of the 13 states to approve new laws.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  How did the Articles of Confederation give limited powers to the national government?
+---
+---
+Responses = ['It could not coin money.', 'It could not make treaties with foreign nations.', 'It could not tax the people.', 'It could not declare war.']
+---
+---
+Correct Answer = ['It could not tax the people.']
+---
+---
+Percentage = 87
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  Why was the Philadelphia Convention called in 1787?
+---
+---
+Responses = ['to edit the Declaration of Independence', 'to write the Albany Plan of Union', 'to amend the Articles of Confederation', 'to put down Shays’s Rebellion']
+---
+---
+Correct Answer = ['to amend the Articles of Confederation']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  Which ideas were created by James Madison?    Select all that apply.
+---
+---
+Responses = ['Virginia Plan', 'Three-Fifths Compromise', 'Connecticut Compromise', 'New Jersey Plan']
+---
+---
+Correct Answer = ['Virginia Plan', 'Three-Fifths Compromise']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  Read the sentence.    _[blank]_ believed if slaves were counted as part of the population then they should be taxed accordingly.    Which option correctly completes the sentence?
+---
+---
+Responses = ['The House of Representatives', 'Philadelphia Convention delegates', 'Northerners', 'Southerners']
+---
+---
+Correct Answer = ['Southerners']
+---
+---
+Percentage = 66
+---
+---
+Percentage = 66
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  Why was the Philadelphia Convention called in 1787?
+---
+---
+Responses = ['to edit the Declaration of Independence', 'to put down Shays’s Rebellion', 'to write the Albany Plan of Union', 'to amend the Articles of Confederation']
+---
+---
+Correct Answer = ['to amend the Articles of Confederation']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  Which ideas were created by James Madison?    Select all that apply.
+---
+---
+Responses = ['Three-Fifths Compromise', 'New Jersey Plan', 'Connecticut Compromise', 'Virginia Plan']
+---
+---
+Correct Answer = ['Virginia Plan']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  Read the sentence.    _[blank]_ believed if slaves were counted as part of the population then they should be taxed accordingly.    Which option correctly completes the sentence?
+---
+---
+Responses = ['The House of Representatives', 'Philadelphia Convention delegates', 'Northerners', 'Southerners']
+---
+---
+Correct Answer = ['Southerners']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  Why was the Philadelphia Convention called in 1787?
+---
+---
+Responses = ['to edit the Declaration of Independence', 'to write the Albany Plan of Union', 'to put down Shays’s Rebellion', 'to amend the Articles of Confederation']
+---
+---
+Correct Answer = ['to amend the Articles of Confederation']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  Which ideas were created by James Madison?    Select all that apply.
+---
+---
+Responses = ['Virginia Plan', 'Three-Fifths Compromise', 'New Jersey Plan', 'Connecticut Compromise']
+---
+---
+Correct Answer = ['Virginia Plan']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  Read the sentence.    _[blank]_ believed if slaves were counted as part of the population then they should be taxed accordingly.    Which option correctly completes the sentence?
+---
+---
+Responses = ['Northerners', 'Philadelphia Convention delegates', 'The House of Representatives', 'Southerners']
+---
+---
+Correct Answer = ['Southerners']
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 5
+---
+---
+Question = Question:  Which features of the Massachusetts Constitution later influenced the writers of the US Constitution?
+---
+---
+Responses = ['lifetime terms for the chief executive and state senators', 'bicameral legislature and power of veto', 'electoral vote to select governors and judges', 'voting rights for women and American Indians']
+---
+---
+Correct Answer = ['bicameral legislature and power of veto']
+---
+---
+Question Number = 2 of 5
+---
+---
+Question = Question:  Which ideas in the US Constitution were included earlier in Georgia’s constitution?    Select all that apply.
+---
+---
+Responses = ['basic rights for individuals', 'separation of powers', 'state religion', 'unicameral legislature']
+---
+---
+Correct Answer = ['basic rights for individuals', 'separation of powers']
+---
+---
+Question Number = 3 of 5
+---
+---
+Question = Question:  How did the Virginia Statute for Religious Freedom impact the development of the US government?
+---
+---
+Responses = ['The Second Amendment ensured that Christians of any denomination could hold office.', 'Congress allowed non-Christians to pay a small fee to become US citizens.', 'The First Amendment prevented Congress from establishing a state religion.', 'The Constitution allowed states to decide whether they would become Catholic or Protestant.']
+---
+---
+Correct Answer = ['The First Amendment prevented Congress from establishing a state religion.']
+---
+---
+Question Number = 4 of 5
+---
+---
+Question = Question:  Which identifies the fundamental principles and laws by which a state or country is governed?  
+---
+---
+Responses = ['constitution', 'bill of rights', 'parliament', 'democracy']
+---
+---
+Correct Answer = ['constitution']
+---
+---
+Question Number = 5 of 5
+---
+---
+Question = Question:  What was Jefferson’s view of government and religion?
+---
+---
+Responses = ['He believed that church and state should be separate.', 'He believed that all state governments should be Christian.', 'He believed that only church members should serve in government.', 'He believed that the government should build churches.']
+---
+---
+Correct Answer = ['He believed that church and state should be separate.']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 5
+---
+---
+Question = Question:  Which English Parliament traditions were adopted into the Constitution?    Select all that apply.
+---
+---
+Responses = ['constitutional monarchy', 'representative government', 'bicameral legislature', 'female voting']
+---
+---
+Correct Answer = ['constitutional monarchy', 'representative government', 'bicameral legislature']
+---
+---
+Question Number = 2 of 5
+---
+---
+Question = Question:  Which powers are enumerated for Congress in the Constitution?    Select all that apply.
+---
+---
+Responses = ['declare war', 'lay taxes', 'enforce laws', 'settle disputes']
+---
+---
+Correct Answer = ['declare war', 'lay taxes', 'enforce laws']
+---
+---
+Question Number = 3 of 5
+---
+---
+Question = Question:  Read the sentence.    The Necessary and Proper clause is also called the _[blank]_ Clause because it allows Congress to stretch its powers beyond those specifically enumerated in the Constitution.    Which option correctly completes the sentence?
+---
+---
+Responses = ['Powers', 'Enumerated', 'Separation', 'Elastic']
+---
+---
+Correct Answer = ['Elastic']
+---
+---
+Question Number = 4 of 5
+---
+---
+Question = Question:  What do federalism and dual sovereignty mean with respect to the Constitution?
+---
+---
+Responses = ['Only the federal government can coin money.', 'State and federal governments would each have their own separate powers.', 'Both Congress and the president would need to agree on passing a law.', 'The federal government can change state laws and states can change federal laws.']
+---
+---
+Correct Answer = ['State and federal governments would each have their own separate powers.']
+---
+---
+Question Number = 5 of 5
+---
+---
+Question = Question:  Which functions of government are defined in the Preamble to the Constitution?    Select all that apply.
+---
+---
+Responses = ['collect taxes from businesses', 'provide for the common defense', 'establish Justice for citizens', 'creates a military populated by draftees']
+---
+---
+Correct Answer = ['provide for the common defense', 'establish Justice for citizens']
+---
+---
+Percentage = 90
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  How many states were needed to ratify the Constitution in 1789?
+---
+---
+Responses = ['seven', 'thirteen', 'ten', 'one']
+---
+---
+Correct Answer = ['thirteen']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Which point did James Madison make in Federalist No. 51?
+---
+---
+Responses = ['A democratic republic would safeguard the interests of citizens.', 'A unicameral legislative branch with representation based on population offered control for states.', 'A system of checks and balances would prevent power from becoming concentrated in any one branch or person.', 'A system of checks and balances could hurt the federal government by taking away the authority of the executive branch.']
+---
+---
+Correct Answer = ['A system of checks and balances would prevent power from becoming concentrated in any one branch or person.']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  How many states were needed to ratify the Constitution in 1789?
+---
+---
+Responses = ['seven', 'one', 'thirteen', 'ten']
+---
+---
+Correct Answer = ['thirteen']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Which point did James Madison make in Federalist No. 51?
+---
+---
+Responses = ['A unicameral legislative branch with representation based on population offered control for states.', 'A democratic republic would safeguard the interests of citizens.', 'A system of checks and balances would prevent power from becoming concentrated in any one branch or person.', 'A system of checks and balances could hurt the federal government by taking away the authority of the executive branch.']
+---
+---
+Correct Answer = ['A system of checks and balances would prevent power from becoming concentrated in any one branch or person.']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  How many states were needed to ratify the Constitution in 1789?
+---
+---
+Responses = ['one', 'ten', 'seven', 'thirteen']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['one', 0]]
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Which point did James Madison make in Federalist No. 51?
+---
+---
+Responses = ['A democratic republic would safeguard the interests of citizens.', 'A system of checks and balances could hurt the federal government by taking away the authority of the executive branch.', 'A system of checks and balances would prevent power from becoming concentrated in any one branch or person.', 'A unicameral legislative branch with representation based on population offered control for states.']
+---
+---
+Correct Answer = ['A system of checks and balances would prevent power from becoming concentrated in any one branch or person.']
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which civil liberties are enumerated in the Bill of Rights?    Select all that apply.
+---
+---
+Responses = ['right to privacy', 'right to equal protection under the law', 'right to vote', 'right to liberty']
+---
+---
+Correct Answer = ['right to privacy', 'right to equal protection under the law', 'right to liberty']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What does the Tenth Amendment give to the states?
+---
+---
+Responses = ['the powers to protest and demand a new federal government', 'the power not to follow federal laws if a majority of state voters disagree with them', 'the powers not given to the federal government', 'the power to amend the US Constitution if a state wants to offer more freedoms']
+---
+---
+Correct Answer = ['the powers not given to the federal government']
+---
+---
+Percentage = 87
+---
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  The Fourth Amendment protects people from what?
+---
+---
+Responses = ['acquisition of property by the government', 'examination without a lawyer', 'unlawful searches and seizures', 'arrest without proof of a crime']
+---
+---
+Correct Answer = ['unlawful searches and seizures']
+---
+---
+Percentage = 100
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 2 of 20
+---
+---
+Question = Question:  How are the governments of Sparta and the United States similar?
+---
+---
+Responses = ['Both systems establish an executive branch with two leaders.', 'Both systems create an oligarchy to protect the rights of the people.', 'Both systems separate governmental powers into three different branches.', 'Both systems believe in the social contract theory.']
+---
+---
+Correct Answer = ['Both systems separate governmental powers into three different branches.']
+---
+---
+Question Number = 3 of 20
+---
+---
+Question = Question:  How did Pericles influence the formation of the United States government?
+---
+---
+Responses = ['He established a system of checks and balances in a tyrannical government.', 'He fought for suffrage for all citizens.', 'He encouraged the people of Athens to write their own constitution.', 'He eliminated rule by divine right.']
+---
+---
+Correct Answer = ['He encouraged the people of Athens to write their own constitution.']
+---
+---
+Question Number = 4 of 20
+---
+---
+Question = Question:  How did the Romans influence the creation of the United States government?    Select all that apply.
+---
+---
+Responses = ['The Roman Empire established a system in which the executive branch had supreme authority in creating laws.', 'The Romans created tribunals to create laws to govern property owners.', 'The Romans established a system of justice based on written laws.', 'The Romans created a representative democracy.']
+---
+---
+Correct Answer = ['The Romans established a system of justice based on written laws.']
+---
+---
+Question Number = 5 of 20
+---
+---
+Question = Question:  Read the sentence.    The similarities between the Magna Carta and the Constitution include _[blank]_.    Which options correctly complete the sentence?    Select all that apply.
+---
+---
+Responses = ['jury trials', 'protection of religious freedom', 'establishment of a unicameral legislature', 'rights granted to all people']
+---
+---
+Correct Answer = ['jury trials', 'protection of religious freedom']
+---
+---
+Question Number = 6 of 20
+---
+---
+Question = Question:  Read the sentence.    John Locke's Two Treatises of Civil Government changed the nature of government by providing the ideas of _[blank]_.     Which options correctly complete the sentence?    Select all that apply.
+---
+---
+Responses = ['natural rights', 'social contract', 'checks and balances', 'separation of powers']
+---
+---
+Correct Answer = ['natural rights', 'social contract']
+---
+---
+Question Number = 7 of 20
+---
+---
+Question = Question:  Read the sentence.    Baron de Montesquieu's The Spirit of the Laws changed the nature of government by providing the ideas of _[blank]_.    Which option correctly completes the sentence?
+---
+---
+Responses = ['natural rights', 'social contract theory', 'freedom of speech', 'three-branch government']
+---
+---
+Correct Answer = ['three-branch government']
+---
+---
+Question Number = 8 of 20
+---
+---
+Question = Question:  Which amendment to the United States Constitution is similar to the English Bill of Rights?
+---
+---
+Responses = ["the First Amendment's guarantee prohibiting speech", "the Ninth Amendment's balance of power between the state and federal branches", "the Sixth Amendment's elimination of Roman Catholics to hold office", "the Eighth Amendment's ban on cruel and unusual punishment"]
+---
+---
+Correct Answer = ["the Eighth Amendment's ban on cruel and unusual punishment"]
+---
+---
+Program = Stopping
+---
+---
+Question Number = 9 of 20
+---
+---
+Question = Question:  Read the sentence.    The Albany Plan in 1754 is most significant as an early _[blank]_.     Which option correctly completes the sentence?
+---
+---
+Responses = ['idea of a separation of powers between the branches', 'attempt to unite the colonies under one government', 'notion of representation based on taxation', 'belief of the pursuit of life, liberty, and happiness']
+---
+---
+Program = Starting
+---
+---
+Correct Answer = ['attempt to unite the colonies under one government']
+---
+---
+Question Number = 10 of 20
+---
+---
+Question = Question:  How was the House of Burgesses different than the British Parliament?
+---
+---
+Responses = ['The House of Burgesses was more open to the average colonist because officials were locally elected.', 'The British Parliament had a greater impact on the daily operation of the Virginia colonies based on salutary neglect.', 'The British Parliament promoted the idea of government experimentation in the Massachusetts colony.', 'The House of Burgesses provided a greater revenue based on tax codes established by the legislature.']
+---
+---
+Correct Answer = ['The House of Burgesses was more open to the average colonist because officials were locally elected.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 12 of 20
+---
+---
+Question = Question:  Why was Shays’s Rebellion important?
+---
+---
+Responses = ['It showed that the danger of slave revolts was always present.', 'It showed that the Articles of Confederation were weak.', 'It showed that the Constitution threatened citizens’ safety.', 'It showed that farmers were not capable of being good citizens.']
+---
+---
+Correct Answer = ['It showed that the Articles of Confederation were weak.']
+---
+---
+Question Number = 13 of 20
+---
+---
+Question = Question:  How did the Connecticut Compromise in the Philadelphia Convention lead to the acceptance of the Constitution?
+---
+---
+Responses = ['The ability for each state to choose their delegates for the upper house allowed for equal representation among the states, allowing for the passage of the Constitution.', 'The Connecticut Compromise promoted the adoption of the Three-Fifths Clause, allowing for Southern states to have adjusted populations.', 'The Connecticut Compromise sought to establish a system that precisely replicated the British government.', 'The ability for states to have a legislative body based on population allowed for the success of the Connecticut Compromise.']
+---
+---
+Correct Answer = ['The ability for each state to choose their delegates for the upper house allowed for equal representation among the states, allowing for the passage of the Constitution.']
+---
+---
+Question Number = 14 of 20
+---
+---
+Question = Question:  Why was the Three-Fifths Compromise necessary?    Select all that apply.
+---
+---
+Responses = ['Southerners feared that they would be taxed twice if each slave were counted as property as well as part of the population.', 'Southerners were concerned that Northerners would institute plantations and drive down the price of their cash crops.', 'Northerners feared that Southerners would manumit their slaves, causing a mass migration to northern states.', 'Northerners believed that if slaves were counted as part of the population, then the Southern states would dominate the House of Representatives.']
+---
+---
+Correct Answer = ['Southerners feared that they would be taxed twice if each slave were counted as property as well as part of the population.', 'Northerners believed that if slaves were counted as part of the population, then the Southern states would dominate the House of Representatives.']
+---
+---
+Question Number = 15 of 20
+---
+---
+Question = Question:  What are the two ways for ratifying and amending the Constitution?    Select all that apply.   
+---
+---
+Responses = ['introducing legislation into Congress', 'reviewing the amendment through the process of judicial review', 'issuing an executive order from the president of the United States', 'calling an amendment convention']
+---
+---
+Correct Answer = ['introducing legislation into Congress', 'calling an amendment convention']
+---
+---
+Question Number = 16 of 20
+---
+---
+Question = Question:  Which document enumerates the limitations of the federal government and the personal freedoms of United States citizens?
+---
+---
+Responses = ['Albany Plan of Union', 'Articles of Confederation', 'Bill of Rights', 'Declaration of Independence']
+---
+---
+Correct Answer = ['Bill of Rights']
+---
+---
+Question Number = 17 of 20
+---
+---
+Question = Question:  What is the significance of the Bill of Rights?
+---
+---
+Responses = ['The amendments constitute the government’s recognition of naturally occurring rights and liberties.', 'The amendments proved that the notions long held by the Catholic Church were provided by divine right.', 'The passage of the Bill of Rights marked the first instance in which states had power over the federal government.', 'The Bill of Rights were the first instance of establishing representative democracy.']
+---
+---
+Correct Answer = ['The amendments constitute the government’s recognition of naturally occurring rights and liberties.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 19 of 20
+---
+---
+Question = Question:  What was the purpose of the Articles of Confederation?
+---
+---
+Responses = ['The Articles of Confederation were meant to provide legal documentation about the separation of the American colonies from Great Britain.', 'The Articles of Confederation comprised a list of grievances about the atrocities perpetrated on colonial citizens by King George III.', 'The Articles of Confederation were created to form a firm federal tie between the states and the central government.', 'The Articles of Confederation were designed to provide the 13 colonies with a system to work together in times of need, like war.']
+---
+---
+Correct Answer = ['The Articles of Confederation were designed to provide the 13 colonies with a system to work together in times of need, like war.']
+---
+---
+Question Number = 20 of 20
+---
+---
+Question = Question:  Which event led to King John I signing the Magna Carta?
+---
+---
+Responses = ['The English nobles rebelled.', 'The imprisonment of Robert Godbeard angered the citizens.', 'The pope and the king disagreed about how the country should be ruled.', 'The king wanted to invade France and be crowned as its rightful ruler.']
+---
+---
+Correct Answer = ['The English nobles rebelled.']
+---
+---
+Percentage = 97
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>

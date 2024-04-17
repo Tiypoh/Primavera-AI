@@ -1,0 +1,4314 @@
+log7 (Environmental Science A Unit 2-4)
+
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  Which events are part of the carbon cycle?    Select all that apply.
+---
+---
+Responses = ['photosynthesis', 'respiration', 'decomposition', 'precipitation']
+---
+---
+AI Response = ['photosynthesis', 'respiration', 'decomposition']
+---
+---
+Correct Answer = ['photosynthesis', 'respiration', 'decomposition']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  Which best defines solubility?
+---
+---
+Responses = ['the amount of a substance that is required for it to be dissolved in a liquid', 'the minimum amount of a substance that can dissolve in a liquid', 'the maximum amount of a substance that can melt into a liquid', 'the maximum amount of a substance that can dissolve in a liquid']
+---
+---
+AI Response = the maximum amount of a substance that can dissolve in a liquid
+---
+---
+Correct Answer = ['the maximum amount of a substance that can dissolve in a liquid']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How do oceans help to control climate?    Select all that apply.
+---
+---
+Responses = ['Evaporating ocean water increases atmospheric humidity and temperature, causing it to rain.', 'Oceans are generally cooler than Earth and represent a place people can go to cool off.', 'Oceans help to evenly distribute the solar radiation Earth receives through their currents.', 'Atmospheric carbon dioxide dissolves in oceans, forming carbonic acid, which helps to keep Earth cool.']
+---
+---
+AI Response = ['Oceans help to evenly distribute the solar radiation Earth receives through their currents.', 'Atmospheric carbon dioxide dissolves in oceans, forming carbonic acid, which helps to keep Earth cool.']
+---
+---
+Correct Answer = ['Oceans help to evenly distribute the solar radiation Earth receives through their currents.', 'Atmospheric carbon dioxide dissolves in oceans, forming carbonic acid, which helps to keep Earth cool.']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  Why are carbonates important for marine life?
+---
+---
+Responses = ['Carbonates in the ocean form carbonic acid, which is an important acid in marine systems.', 'Carbonates react with water to form bicarbonates, which help maintain the health of marine life.', 'Carbonates increase the ocean’s acidity, which enhances the environment for aquatic life to thrive.', 'Carbonates are the building blocks that marine life use to make their shells or build their skeletons.']
+---
+---
+AI Response = Carbonates are the building blocks that marine life use to make their shells or build their skeletons.
+---
+---
+Correct Answer = ['Carbonates are the building blocks that marine life use to make their shells or build their skeletons.']
+---
+---
+Percentage = 41
+---
+---
+Percentage = 41
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  Which best defines solubility?
+---
+---
+Responses = ['the maximum amount of a substance that can dissolve in a liquid', 'the maximum amount of a substance that can melt into a liquid', 'the amount of a substance that is required for it to be dissolved in a liquid', 'the minimum amount of a substance that can dissolve in a liquid']
+---
+---
+AI Response = the maximum amount of a substance that can dissolve in a liquid
+---
+---
+Correct Answer = ['the maximum amount of a substance that can dissolve in a liquid']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How do oceans help to control climate?    Select all that apply.
+---
+---
+Responses = ['Oceans help to evenly distribute the solar radiation Earth receives through their currents.', 'Atmospheric carbon dioxide dissolves in oceans, forming carbonic acid, which helps to keep Earth cool.', 'Oceans are generally cooler than Earth and represent a place people can go to cool off.', 'Evaporating ocean water increases atmospheric humidity and temperature, causing it to rain.']
+---
+---
+AI Response = - Oceans help to evenly distribute the solar radiation Earth receives through their currents.
+- Atmospheric carbon dioxide dissolves in oceans, forming carbonic acid, which helps to keep Earth cool.
+---
+---
+Correct Answer = ['Oceans help to evenly distribute the solar radiation Earth receives through their currents.', 'Atmospheric carbon dioxide dissolves in oceans, forming carbonic acid, which helps to keep Earth cool.']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  Why are carbonates important for marine life?
+---
+---
+Responses = ['Carbonates react with water to form bicarbonates, which help maintain the health of marine life.', 'Carbonates in the ocean form carbonic acid, which is an important acid in marine systems.', 'Carbonates are the building blocks that marine life use to make their shells or build their skeletons.', 'Carbonates increase the ocean’s acidity, which enhances the environment for aquatic life to thrive.']
+---
+---
+AI Response = Carbonates are the building blocks that marine life use to make their shells or build their skeletons.
+---
+---
+Correct Answer = ['Carbonates are the building blocks that marine life use to make their shells or build their skeletons.']
+---
+---
+Percentage = 75
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  Which best defines the carbon cycle?
+---
+---
+Responses = ['a cycle in which carbon moves through living and nonliving components of the Earth', 'a circular process in which plants and animals consume atmospheric carbon dioxide', 'the recycling of energy through ecosystems based on hierarchical needs of organisms', 'the cycle of life for plants and animals, which uses carbon for food and other processes']
+---
+---
+AI Response = a cycle in which carbon moves through living and nonliving components of the Earth
+---
+---
+Correct Answer = ['a cycle in which carbon moves through living and nonliving components of the Earth']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  C6H12O6 is the formula for glucose, a key product of photosynthesis.    How many of each type of atom is present in glucose?    Select all that apply.
+---
+---
+Responses = ['12 hydrogen', '12 water', '6 carbon', '6 hydrogen', '6 oxygen', '12 oxygen']
+---
+---
+AI Response = ['6 carbon', '12 hydrogen', '6 oxygen']
+---
+---
+Correct Answer = ['12 hydrogen', '6 carbon', '6 oxygen']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which best defines carbon dioxide?
+---
+---
+Responses = ['It is the resulting molecule when one carbon atom bonds to two oxygen atoms.', 'It is the resulting molecule when two carbon atoms bond to two oxygen atoms.', 'It is the resulting molecule when two carbon atoms bond to one oxygen atom.', 'It is the resulting molecule when one carbon atom bonds to one oxygen molecule.']
+---
+---
+AI Response = It is the resulting molecule when one carbon atom bonds to two oxygen atoms.
+---
+---
+Correct Answer = ['It is the resulting molecule when one carbon atom bonds to two oxygen atoms.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...s
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which best describes the flow of matter in biogeochemical cycles?
+---
+---
+Responses = ['In a biogeochemical cycle, matter moves through living and nonliving things until it gets completely used up.', 'In a biogeochemical cycle, matter moves through living and nonliving things so that it is recycled and conserved.', 'In a biogeochemical cycle, matter is used by living things only so that all energy contained is maximized.', 'In a biogeochemical cycle, matter moves through living things only and remains unchanged in form.']
+---
+---
+AI Response = In a biogeochemical cycle, matter moves through living and nonliving things so that it is recycled and conserved.
+---
+---
+Correct Answer = ['In a biogeochemical cycle, matter moves through living and nonliving things so that it is recycled and conserved.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is carbonic acid?
+---
+---
+Responses = ['the name given to carbon dioxide when in its liquid form', 'the acid formed when carbon dioxide dissolves in water', 'the acid formed when carbon reacts with another acid', 'the acidic substance released from the weathering of rocks']
+---
+---
+AI Response = the acid formed when carbon dioxide dissolves in water
+---
+---
+Correct Answer = ['the acid formed when carbon dioxide dissolves in water']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  Which defines "carbonate"?
+---
+---
+Responses = ['gases in the atmosphere', 'compound derived from either carbonic acid or carbon dioxide; it is also found in the inorganic form from minerals in rock, such as limestone', 'a mild acid with the chemical formula H₂CO₃, formed when carbon dioxide is dissolved in water', 'the maximum amount of a substance that can be dissolved in a liquid']
+---
+---
+AI Response = compound derived from either carbonic acid or carbon dioxide; it is also found in the inorganic form from minerals in rock, such as limestone
+---
+---
+Correct Answer = ['compound derived from either carbonic acid or carbon dioxide; it is also found in the inorganic form from minerals in rock, such as limestone']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Which is an explanation of the importance of carbonates for marine life?    Select all that apply.
+---
+---
+Responses = ['Carbonates form part of the skeletal structure of corals, sea urchins, and other aquatic life.', 'Carbonates increase the ocean’s solubility so that marine organisms have adequate oxygen for survival.', 'Carbonates supply calcium carbonate, a critical building block for the shells of oysters and clams.', 'Carbonates decrease the pH of the ocean, which improves the health of marine organisms.']
+---
+---
+AI Response = ['Carbonates form part of the skeletal structure of corals, sea urchins, and other aquatic life.', 'Carbonates supply calcium carbonate, a critical building block for the shells of oysters and clams.']
+---
+---
+Correct Answer = ['Carbonates form part of the skeletal structure of corals, sea urchins, and other aquatic life.', 'Carbonates supply calcium carbonate, a critical building block for the shells of oysters and clams.']
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Quiz Detected - Press Enter when you are ready to continue...ss
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Which best describes how nitrogen in the soil is returned to the atmosphere?
+---
+---
+Responses = ['nitrogen-fixing bacteria', 'assimilation by plants', 'denitrifying bacteria', 'nitrifying bacteria']
+---
+---
+AI Response = denitrifying bacteria
+---
+---
+Correct Answer = ['denitrifying bacteria', 'nitrifying bacteria']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which statement best describes nitrogen fixation?
+---
+---
+Responses = ['a process in which nitrate is converted to nitrogen gas', 'a process in which bacteria convert organic forms of nitrogen into ammonia or ammonium', 'a process in which bacteria convert ammonium into nitrate and nitrite', 'a process in which bacteria break nitrogen gas down into a usable form for plants']
+---
+---
+AI Response = a process in which bacteria break nitrogen gas down into a usable form for plants
+---
+---
+Correct Answer = ['a process in which bacteria break nitrogen gas down into a usable form for plants']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which depiction of changing chemical compounds best describes the flow of nitrogen from the atmosphere, through the nitrogen cycle, and back into the atmosphere?
+---
+---
+Responses = ['N']
+---
+---
+AI Response = ['N']
+---
+---
+Correct Answer = ['N']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  What roles do bacteria play in the nitrogen cycle?    Select all that apply.
+---
+---
+Responses = ['They convert nitrate into ammonia.', 'They transform nitrate into nitrogen gas.', 'They convert nitrogen gas to ammonia and ammonium.', 'They change ammonium into nitrates and nitrites.']
+---
+---
+AI Response = ['They convert nitrogen gas to ammonia and ammonium.', 'They change ammonium into nitrates and nitrites.']
+---
+---
+Correct Answer = ['They convert nitrogen gas to ammonia and ammonium.', 'They change ammonium into nitrates and nitrites.']
+---
+---
+Percentage = 66
+---
+---
+Percentage = 66
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Which best describes how nitrogen in the soil is returned to the atmosphere?
+---
+---
+Responses = ['assimilation by plants', 'nitrifying bacteria', 'denitrifying bacteria', 'nitrogen-fixing bacteria']
+---
+---
+AI Response = denitrifying bacteria
+---
+---
+Correct Answer = ['nitrifying bacteria', 'denitrifying bacteria']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which statement best describes nitrogen fixation?
+---
+---
+Responses = ['a process in which bacteria convert ammonium into nitrate and nitrite', 'a process in which bacteria convert organic forms of nitrogen into ammonia or ammonium', 'a process in which nitrate is converted to nitrogen gas', 'a process in which bacteria break nitrogen gas down into a usable form for plants']
+---
+---
+AI Response = a process in which bacteria break nitrogen gas down into a usable form for plants
+---
+---
+Correct Answer = ['a process in which bacteria break nitrogen gas down into a usable form for plants']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which depiction of changing chemical compounds best describes the flow of nitrogen from the atmosphere, through the nitrogen cycle, and back into the atmosphere?
+---
+---
+Responses = ['N']
+---
+---
+AI Response = N
+---
+---
+Correct Answer = ['N']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which depiction of changing chemical compounds best describes the flow of nitrogen from the atmosphere, through the nitrogen cycle, and back into the atmosphere?
+---
+---
+Responses = ['N']
+---
+---
+AI Response = ['N']
+---
+---
+Correct Answer = ['N']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which depiction of changing chemical compounds best describes the flow of nitrogen from the atmosphere, through the nitrogen cycle, and back into the atmosphere?
+---
+---
+Responses = ['N']
+---
+---
+AI Response = ['N']
+---
+---
+Correct Answer = ['N']
+---
+---
+Percentage = 33
+---
+---
+Percentage = 33
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Which best describes how nitrogen in the soil is returned to the atmosphere?
+---
+---
+Responses = ['nitrogen-fixing bacteria', 'denitrifying bacteria', 'assimilation by plants', 'nitrifying bacteria']
+---
+---
+AI Response = denitrifying bacteria
+---
+---
+Correct Answer = ['denitrifying bacteria', 'nitrifying bacteria']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which statement best describes nitrogen fixation?
+---
+---
+Responses = ['a process in which bacteria break nitrogen gas down into a usable form for plants', 'a process in which bacteria convert organic forms of nitrogen into ammonia or ammonium', 'a process in which nitrate is converted to nitrogen gas', 'a process in which bacteria convert ammonium into nitrate and nitrite']
+---
+---
+AI Response = a process in which bacteria break nitrogen gas down into a usable form for plants
+---
+---
+Correct Answer = ['a process in which bacteria break nitrogen gas down into a usable form for plants']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which depiction of changing chemical compounds best describes the flow of nitrogen from the atmosphere, through the nitrogen cycle, and back into the atmosphere?
+---
+---
+Responses = ['N']
+---
+---
+AI Response = ['N']
+---
+---
+Correct Answer = ['N']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  What roles do bacteria play in the nitrogen cycle?    Select all that apply.
+---
+---
+Responses = ['They transform nitrate into nitrogen gas.', 'They convert nitrate into ammonia.', 'They change ammonium into nitrates and nitrites.', 'They convert nitrogen gas to ammonia and ammonium.']
+---
+---
+AI Response = ['They convert nitrogen gas to ammonia and ammonium.', 'They change ammonium into nitrates and nitrites.']
+---
+---
+Correct Answer = ['They change ammonium into nitrates and nitrites.', 'They convert nitrogen gas to ammonia and ammonium.']
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Which best describes how nitrogen in the soil is returned to the atmosphere?
+---
+---
+Responses = ['assimilation by plants', 'nitrogen-fixing bacteria', 'denitrifying bacteria', 'nitrifying bacteria']
+---
+---
+AI Response = denitrifying bacteria
+---
+---
+Correct Answer = ['denitrifying bacteria', 'nitrifying bacteria']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which statement best describes nitrogen fixation?
+---
+---
+Responses = ['a process in which bacteria break nitrogen gas down into a usable form for plants', 'a process in which bacteria convert ammonium into nitrate and nitrite', 'a process in which bacteria convert organic forms of nitrogen into ammonia or ammonium', 'a process in which nitrate is converted to nitrogen gas']
+---
+---
+AI Response = a process in which bacteria break nitrogen gas down into a usable form for plants
+---
+---
+Correct Answer = ['a process in which bacteria break nitrogen gas down into a usable form for plants']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which depiction of changing chemical compounds best describes the flow of nitrogen from the atmosphere, through the nitrogen cycle, and back into the atmosphere?
+---
+---
+Responses = ['', 'N2 → NH3 → NO4- → N2\r\nN 2 → NH 3 → NO 4 - → N 2', 'N2 → NO3- → NH4+ → N2\r\nN 2 → NO 3 - → NH 4 + → N 2', 'N2 → NH4+ → NO3- → N2\r\nN 2 → NH 4 + → NO 3 - → N 2', 'N2 → NH3 → NO2- → N2\r\nN 2 → NH 3 → NO 2 - → N 2\r\n']
+---
+---
+AI Response = N2 → NH3 → NO2- → N2
+---
+---
+Correct Answer = ['']
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  What roles do bacteria play in the nitrogen cycle?    Select all that apply.
+---
+---
+Responses = ['They transform nitrate into nitrogen gas.', 'They convert nitrogen gas to ammonia and ammonium.', 'They change ammonium into nitrates and nitrites.', 'They convert nitrate into ammonia.']
+---
+---
+AI Response = ['They transform nitrate into nitrogen gas.', 'They convert nitrogen gas to ammonia and ammonium.']
+---
+---
+Correct Answer = ['They transform nitrate into nitrogen gas.', 'They convert nitrogen gas to ammonia and ammonium.']
+---
+---
+Percentage = 91
+---
+---
+Question Number = 1 of 25
+---
+---
+Question = Question:  What is part of the cryosphere?    Select all that apply.
+---
+---
+Responses = ['ice caps', 'inner core', 'glaciers', 'plants', 'river ice']
+---
+---
+AI Response = ['ice caps', 'glaciers', 'river ice']
+---
+---
+Correct Answer = ['ice caps', 'glaciers', 'river ice']
+---
+---
+Question Number = 2 of 25
+---
+---
+Question = Question:  Which are included in the geosphere?    Select all that apply.
+---
+---
+Responses = ['molten rock', 'sunlight', 'heavy metals', 'icebergs']
+---
+---
+AI Response = ['molten rock', 'heavy metals', 'icebergs']
+---
+---
+Correct Answer = ['molten rock', 'heavy metals', 'icebergs']
+---
+---
+Question Number = 3 of 25
+---
+---
+Question = Question:  Read the sentence.    The biosphere includes_[blank]_ and _[blank]_.    Which words best complete the sentence?
+---
+---
+Responses = ['beaches', 'bacteria', 'gases', 'rivers', 'fungi']
+---
+---
+AI Response = bacteria, gases
+---
+---
+Correct Answer = ['bacteria', 'gases']
+---
+---
+Question Number = 4 of 25
+---
+---
+Question = Question:  Which only belongs to the hydrosphere?    Select all that apply.
+---
+---
+Responses = ['boulders', 'birds', 'rivers', 'streams']
+---
+---
+AI Response = ['rivers', 'streams']
+---
+---
+Correct Answer = ['rivers', 'streams']
+---
+---
+Question Number = 5 of 25
+---
+---
+Question = Question:  What is part of the atmosphere?
+---
+---
+Responses = ['fungi', 'rocks', 'soil', 'air']
+---
+---
+AI Response = air
+---
+---
+Correct Answer = ['air']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...ss
+---
+---
+Question Number = 7 of 25
+---
+---
+Question = Question:  Which are forms of kinetic energy?    Select all that apply.
+---
+---
+Responses = ['light', 'thermal', 'chemical', 'gravitational']
+---
+---
+AI Response = ['light', 'thermal']
+---
+---
+Correct Answer = ['light', 'thermal']
+---
+---
+Question Number = 8 of 25
+---
+---
+Question = Question:  Which best describes the law of conservation?
+---
+---
+Responses = ['Energy cannot be created or destroyed.', 'Energy can only be created.', 'Energy can only be destroyed.', 'Energy can be created or destroyed.']
+---
+---
+AI Response = Energy cannot be created or destroyed.
+---
+---
+Correct Answer = ['Energy cannot be created or destroyed.']
+---
+---
+Question Number = 9 of 25
+---
+---
+Question = Question:  How is light interacting with the object?    Light rays shine onto a dark square object and move into the object. None of the light moves through the object.    OSweetNature/Shutterstock  Modified by StrongMind. 
+---
+---
+Responses = ['Light is being absorbed.', 'Light is being released.', 'Light is being transmitted.', 'Light is being reflected.']
+---
+---
+AI Response = Light is being absorbed.
+---
+---
+Correct Answer = ['Light is being absorbed.']
+---
+---
+Question Number = 10 of 25
+---
+---
+Question = Question:  What is climate?
+---
+---
+Responses = ['Climate is the average humidity of a town over multiple decades.', 'Climate is the weekly global temperature around the world.', 'Climate is a mix of events that happen daily in the atmosphere.', 'Climate is the average weather in a place over many years.']
+---
+---
+AI Response = Climate is the average weather in a place over many years.
+---
+---
+Correct Answer = ['Climate is the average weather in a place over many years.']
+---
+---
+Question Number = 11 of 25
+---
+---
+Question = Question:  How does the atmosphere retain thermal energy?
+---
+---
+Responses = ['Gases absorb and re-emit thermal energy back into the atmosphere.', 'Light-colored surfaces on Earth reflect thermal energy back into the atmosphere.', 'When there is precipitation, thermal energy travels upward back into the atmosphere.', 'As organisms move around, they release thermal energy back into the atmosphere.']
+---
+---
+AI Response = Gases absorb and re-emit thermal energy back into the atmosphere.
+---
+---
+Correct Answer = ['Gases absorb and re-emit thermal energy back into the atmosphere.']
+---
+---
+Question Number = 12 of 25
+---
+---
+Question = Question:  How does the Sun affect air?
+---
+---
+Responses = ['The Sun makes air travel slower and shorter distances.', 'The Sun creates constant wind as a result of its cooling ability.', 'The Sun cleans the air and lessens pollution.', 'The Sun heats air masses and drives weather conditions.']
+---
+---
+AI Response = The Sun heats air masses and drives weather conditions.
+---
+---
+Correct Answer = ['The Sun heats air masses and drives weather conditions.']
+---
+---
+Question Number = 13 of 25
+---
+---
+Question = Question:  Which best summarizes the water cycle?
+---
+---
+Responses = ['Water rises into the atmosphere and cools and condenses.', 'Water rises from Earth’s surface and falls as precipitation.', 'Water evaporates from the atmosphere, cools and condenses into rain or snow in clouds, and falls to Earth as precipitation.', 'Water evaporates from Earth’s surface into the atmosphere, cools and condenses into rain or snow in clouds, and falls again as precipitation.']
+---
+---
+AI Response = Water evaporates from Earth’s surface into the atmosphere, cools and condenses into rain or snow in clouds, and falls again as precipitation.
+---
+---
+Correct Answer = ['Water evaporates from Earth’s surface into the atmosphere, cools and condenses into rain or snow in clouds, and falls again as precipitation.']
+---
+---
+Question Number = 14 of 25
+---
+---
+Question = Question:  How does the Sun power the water cycle?
+---
+---
+Responses = ['The Sun causes water to freeze.', 'The Sun causes water to precipitate.', 'The Sun causes water to stick to organisms.', 'The Sun causes water to evaporate.']
+---
+---
+AI Response = The Sun causes water to evaporate.
+---
+---
+Correct Answer = ['The Sun causes water to evaporate.']
+---
+---
+Question Number = 15 of 25
+---
+---
+Question = Question:  What is the importance of plants in the water cycle?
+---
+---
+Responses = ['They transpire or release water from their leaves.', 'They prevent the cycle from continuing by absorbing all available water.', 'They put water back into the ground after it has rained.', 'They decrease condensation and cloud formation.']
+---
+---
+AI Response = They transpire or release water from their leaves.
+---
+---
+Correct Answer = ['They transpire or release water from their leaves.']
+---
+---
+Question Number = 16 of 25
+---
+---
+Question = Question:  Which best describes the rock cycle?
+---
+---
+Responses = ['a process in which molten rock is converted into igneous rocks', 'a process in which various types of rock are continually converted from one type to another', 'a process in which various rock particles are deposited on top of other types of rock', 'a process in which only one type of rock is melted into a different type']
+---
+---
+AI Response = a process in which various types of rock are continually converted from one type to another
+---
+---
+Correct Answer = ['a process in which various types of rock are continually converted from one type to another']
+---
+---
+Question Number = 17 of 25
+---
+---
+Question = Question:  How does the carbon cycle function?
+---
+---
+Responses = ['In the carbon cycle, carbon travels between and stays among organisms on Earth.', 'In the carbon cycle, carbon travels from the atmosphere into organisms and the Earth and back into the atmosphere.', 'In the carbon cycle, carbon travels from the atmosphere into organisms and the Earth.', 'In the carbon cycle, carbon stays in the atmosphere.']
+---
+---
+AI Response = In the carbon cycle, carbon travels from the atmosphere into organisms and the Earth and back into the atmosphere.
+---
+---
+Correct Answer = ['In the carbon cycle, carbon travels from the atmosphere into organisms and the Earth and back into the atmosphere.']
+---
+---
+Question Number = 18 of 25
+---
+---
+Question = Question:  Which occurs in the carbon cycle?    Select all that apply.
+---
+---
+Responses = ['Plants perform photosynthesis to convert water and carbon dioxide into energy.', 'Carbon dioxide is taken in through the respiration of animals.', 'The burning of fossil fuels absorbs carbon dioxide.', 'Animals eat plants, using the carbon found in plants for their needs.', 'Carbon moves into the soil when an animal decomposes.']
+---
+---
+AI Response = - Carbon dioxide is taken in through the respiration of animals.
+- Animals eat plants, using the carbon found in plants for their needs.
+- Carbon moves into the soil when an animal decomposes.
+---
+---
+Correct Answer = ['Carbon dioxide is taken in through the respiration of animals.', 'Animals eat plants, using the carbon found in plants for their needs.', 'Carbon moves into the soil when an animal decomposes.']
+---
+---
+Question Number = 19 of 25
+---
+---
+Question = Question:  What are some of the major events of the carbon cycle?    Select all that apply.
+---
+---
+Responses = ['decomposition', 'evaporation', 'photosynthesis', 'respiration']
+---
+---
+AI Response = ['decomposition', 'photosynthesis', 'respiration']
+---
+---
+Correct Answer = ['decomposition', 'photosynthesis', 'respiration']
+---
+---
+Question Number = 20 of 25
+---
+---
+Question = Question:  What role might a sheep play in the carbon cycle?
+---
+---
+Responses = ['A sheep helps to move carbon into the ocean for uptake by aquatic plants.', 'A sheep converts carbon dioxide to food during photosynthesis.', 'A sheep eats plants and uses the carbon, then when it dies, the carbon moves into the soil.', 'A sheep lessens carbon fuel emissions from power plants and vehicles.']
+---
+---
+AI Response = A sheep eats plants and uses the carbon, then when it dies, the carbon moves into the soil.
+---
+---
+Correct Answer = ['A sheep eats plants and uses the carbon, then when it dies, the carbon moves into the soil.']
+---
+---
+Question Number = 21 of 25
+---
+---
+Question = Question:  What role does the ocean play in the carbon cycle?
+---
+---
+Responses = ['The ocean acts as a carbon pit stop, transferring carbon to organisms within the ocean.', 'The ocean acts as a carbon sink, holding much more carbon than the atmosphere.', 'The ocean acts as a carbon magnet, attracting components that produce a lot of carbon.', 'The ocean acts as a carbon source, producing more carbon than any other component.']
+---
+---
+AI Response = The ocean acts as a carbon sink, holding much more carbon than the atmosphere.
+---
+---
+Correct Answer = ['The ocean acts as a carbon sink, holding much more carbon than the atmosphere.']
+---
+---
+Question Number = 22 of 25
+---
+---
+Question = Question:  How does the ocean moderate our climate?    Select all that apply.
+---
+---
+Responses = ['The ocean absorbs carbon dioxide.', 'Oceans produce excess amounts of carbon dioxide.', 'Oceans absorb large amounts of solar energy.', 'The ocean keeps heat from being distributed around the globe.']
+---
+---
+AI Response = ['The ocean absorbs carbon dioxide.', 'Oceans absorb large amounts of solar energy.']
+---
+---
+Correct Answer = ['The ocean absorbs carbon dioxide.', 'Oceans absorb large amounts of solar energy.']
+---
+---
+Question Number = 23 of 25
+---
+---
+Question = Question:  What role might a tree play in the nitrogen cycle?
+---
+---
+Responses = ['A tree takes in nitrogen compounds from soil and uses them to form proteins.', 'A tree helps to move nitrogen into waterways for uptake by other organisms.', 'A tree converts nitrogen into usable forms for animals.', 'A tree stores nitrogen in its roots and leaves.']
+---
+---
+AI Response = A tree takes in nitrogen compounds from soil and uses them to form proteins.
+---
+---
+Correct Answer = ['A tree takes in nitrogen compounds from soil and uses them to form proteins.']
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  How does nitrogen flow through the nitrogen cycle?
+---
+---
+Responses = ['Bacteria change nitrogen gas from the atmosphere into compounds that plants can absorb. Other bacteria change the compounds back to nitrogen gas, which returns to the atmosphere.', 'Plants move nitrogen gas from the atmosphere to compounds that animals can absorb. Other plants change the compounds back to nitrogen gas, which returns to the atmosphere.', 'Bacteria change nitrogen gas from the atmosphere and ocean into compounds plants can absorb. Other bacteria change the nitrogen into a liquid that remains in the ground.', 'Plants move nitrogen gas from the ocean to compounds that other plants can absorb. Animals change the compounds back to nitrogen gas, which returns to the ocean.']
+---
+---
+AI Response = Bacteria change nitrogen gas from the atmosphere into compounds that plants can absorb. Other bacteria change the compounds back to nitrogen gas, which returns to the atmosphere.
+---
+---
+Correct Answer = ['Bacteria change nitrogen gas from the atmosphere into compounds that plants can absorb. Other bacteria change the compounds back to nitrogen gas, which returns to the atmosphere.']
+---
+---
+Question Number = 25 of 25
+---
+---
+Question = Question:  What are the main roles of bacteria in the nitrogen cycle?    Select all that apply.
+---
+---
+Responses = ['nitrogen assimilation', 'denitrification', 'nitrification', 'nitrogen fixation']
+---
+---
+AI Response = ['nitrogen fixation', 'denitrification', 'nitrification']
+---
+---
+Correct Answer = ['denitrification', 'nitrification', 'nitrogen fixation']
+---
+---
+Percentage = 79
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  What is a biome?
+---
+---
+Responses = ['A biome is a large geographical area identifiable by its climate and organisms.', 'A biome is a group of living organisms that interact and depend upon one another for survival.', 'A biome is a small geographical area identifiable by its climate and environmental conditions.', 'A biome is a community of living organisms and nonliving factors that interact and depend upon one another.']
+---
+---
+AI Response = A biome is a large geographical area identifiable by its climate and organisms.
+---
+---
+Correct Answer = ['A biome is a large geographical area identifiable by its climate and organisms.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What are abiotic factors of biomes?    Select all that apply.
+---
+---
+Responses = ['rainfall', 'fungi', 'animals', 'minerals']
+---
+---
+AI Response = ['rainfall', 'minerals']
+---
+---
+Correct Answer = ['rainfall', 'minerals']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  What is a habitat?
+---
+---
+Responses = ['A habitat is a body of water, and never includes land, where an organism mates and reproduces.', 'A habitat is any natural home or environment for an organism.', 'A habitat is a community of interacting organisms and their environment.', 'A habitat is a large area that organisms only travel through.']
+---
+---
+AI Response = A habitat is any natural home or environment for an organism.
+---
+---
+Correct Answer = ['A habitat is any natural home or environment for an organism.']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Percentage = 83
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+***
+Error Detected - Could not find strongmind to click
+***
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  How can a biome be identified?
+---
+---
+Responses = ['by its precipitation and number of rare organisms', 'by its age and environmental factors', 'by its climate and the organisms living there', 'by its appearance and weather']
+---
+---
+AI Response = by its climate and the organisms living there
+---
+---
+Correct Answer = ['by its climate and the organisms living there']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What part of a biome is abiotic?
+---
+---
+Responses = ['the decomposed components', 'the living components', 'the living and nonliving components', 'the nonliving components']
+---
+---
+AI Response = the nonliving components
+---
+---
+Correct Answer = ['the nonliving components']
+---
+***
+Error Detected - ['Fatal Error', FailSafeException('PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.')]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What does the word "biotic" refer to?
+---
+---
+Responses = ['the nonliving things in a community', 'the living organisms in a community', 'the nonliving things and weather in a community', 'the nonliving and living things in a community']
+---
+---
+AI Response = the living organisms in a community
+---
+---
+Correct Answer = ['the living organisms in a community']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What is a terrestrial ecosystem?
+---
+---
+Responses = ['a water-based community of organisms', 'a cold and dry community', 'a biotic community only', 'a land-based community of organisms']
+---
+---
+AI Response = a land-based community of organisms
+---
+---
+Correct Answer = ['a land-based community of organisms']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What does "aquatic" mean?
+---
+---
+Responses = ['animals and plants that live on land', 'animals and plants that live in the heat', 'animals and plants that live in or around water', 'animals and plants that live with windy conditions']
+---
+---
+AI Response = animals and plants that live in or around water
+---
+---
+Correct Answer = ['animals and plants that live in or around water']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What would happen if there was no oxygen in water?
+---
+---
+Responses = ['Many organisms would move to live on land.', 'Many organisms would not be large in size.', 'Many organisms would have an improved life.', 'Many organisms would not be able to live.']
+---
+---
+AI Response = Many organisms would not be able to live.
+---
+---
+Correct Answer = ['Many organisms would not be able to live.']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is salinity?
+---
+---
+Responses = ['the amount of dissolved carbon dioxide in water', 'the amount of dissolved salts in water', 'the amount of dissolved minerals in water', 'the amount of dissolved oxygen in water']
+---
+---
+AI Response = the amount of dissolved salts in water
+---
+---
+Correct Answer = ['the amount of dissolved salts in water']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which statement is true of succession?
+---
+---
+Responses = ['Succession happens occasionally, and we can always see it.', 'Succession happens sometimes, and scientists can rarely measure it.', 'Succession happens all the time, and sometimes we can see it.', 'Succession happens rarely, and scientists can sometimes measure it.']
+---
+---
+AI Response = Succession happens all the time, and sometimes we can see it.
+---
+---
+Correct Answer = ['Succession happens all the time, and sometimes we can see it.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  How do ecosystems change naturally over time?
+---
+---
+Responses = ['A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.', 'Pollutants can cause a meadow of flowers to die. Only hardy shrubs will return. Others will not.', 'Humans can introduce invasive species to a forest. The species takes over the forest, causing existing species to die and be replaced by weeds.', 'Deforestation can remove species from a tropical rainforest. The species will not return, and the land will remain barren.']
+---
+---
+AI Response = A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.
+---
+---
+Correct Answer = ['A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What does the term "stable states" refer to?
+---
+---
+Responses = ['a theory that ecosystems are stable but can transition easily to another state from small disturbances or changes', 'a theory that ecosystems are not stable and can transition rapidly to another state from disturbances or changes', 'a theory that ecosystems are stable but can transition quickly to another state from human-caused disturbances or changes', 'a theory that ecosystems are semi-stable and can transition slowly to another state from large natural changes']
+---
+---
+AI Response = a theory that ecosystems are stable but can transition easily to another state from small disturbances or changes
+---
+---
+Correct Answer = ['a theory that ecosystems are stable but can transition easily to another state from small disturbances or changes']
+---
+---
+Percentage = 40
+---
+---
+Percentage = 40
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  How can a biome be identified?
+---
+---
+Responses = ['by its age and environmental factors', 'by its precipitation and number of rare organisms', 'by its climate and the organisms living there', 'by its appearance and weather']
+---
+---
+AI Response = by its climate and the organisms living there
+---
+---
+Correct Answer = ['by its climate and the organisms living there']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What part of a biome is abiotic?
+---
+---
+Responses = ['the living components', 'the living and nonliving components', 'the nonliving components', 'the decomposed components']
+---
+---
+AI Response = the nonliving components
+---
+---
+Correct Answer = ['the nonliving components']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What does the word "biotic" refer to?
+---
+---
+Responses = ['the living organisms in a community', 'the nonliving things in a community', 'the nonliving things and weather in a community', 'the nonliving and living things in a community']
+---
+---
+AI Response = the living organisms in a community
+---
+---
+Correct Answer = ['the living organisms in a community']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What is a terrestrial ecosystem?
+---
+---
+Responses = ['a cold and dry community', 'a water-based community of organisms', 'a land-based community of organisms', 'a biotic community only']
+---
+---
+AI Response = a land-based community of organisms
+---
+---
+Correct Answer = ['a land-based community of organisms']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What does "aquatic" mean?
+---
+---
+Responses = ['animals and plants that live in the heat', 'animals and plants that live in or around water', 'animals and plants that live on land', 'animals and plants that live with windy conditions']
+---
+---
+AI Response = animals and plants that live in or around water
+---
+---
+Correct Answer = ['animals and plants that live in or around water']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What would happen if there was no oxygen in water?
+---
+---
+Responses = ['Many organisms would not be large in size.', 'Many organisms would not be able to live.', 'Many organisms would move to live on land.', 'Many organisms would have an improved life.']
+---
+---
+AI Response = Many organisms would not be able to live.
+---
+---
+Correct Answer = ['Many organisms would not be able to live.']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is salinity?
+---
+---
+Responses = ['the amount of dissolved oxygen in water', 'the amount of dissolved minerals in water', 'the amount of dissolved carbon dioxide in water', 'the amount of dissolved salts in water']
+---
+---
+AI Response = the amount of dissolved salts in water
+---
+---
+Correct Answer = ['the amount of dissolved salts in water']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which statement is true of succession?
+---
+---
+Responses = ['Succession happens rarely, and scientists can sometimes measure it.', 'Succession happens sometimes, and scientists can rarely measure it.', 'Succession happens all the time, and sometimes we can see it.', 'Succession happens occasionally, and we can always see it.']
+---
+---
+AI Response = Succession happens all the time, and sometimes we can see it.
+---
+---
+Correct Answer = ['Succession happens all the time, and sometimes we can see it.']
+---
+***
+Error Detected - ['Fatal Error', FailSafeException('PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.')]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  How do ecosystems change naturally over time?
+---
+---
+Responses = ['Pollutants can cause a meadow of flowers to die. Only hardy shrubs will return. Others will not.', 'Deforestation can remove species from a tropical rainforest. The species will not return, and the land will remain barren.', 'A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.', 'Humans can introduce invasive species to a forest. The species takes over the forest, causing existing species to die and be replaced by weeds.']
+---
+---
+AI Response = A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.
+---
+---
+Correct Answer = ['A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What does the term "stable states" refer to?
+---
+---
+Responses = ['a theory that ecosystems are semi-stable and can transition slowly to another state from large natural changes', 'a theory that ecosystems are not stable and can transition rapidly to another state from disturbances or changes', 'a theory that ecosystems are stable but can transition quickly to another state from human-caused disturbances or changes', 'a theory that ecosystems are stable but can transition easily to another state from small disturbances or changes']
+---
+---
+AI Response = a theory that ecosystems are semi-stable and can transition slowly to another state from large natural changes
+---
+---
+Correct Answer = ['a theory that ecosystems are semi-stable and can transition slowly to another state from large natural changes']
+---
+---
+Percentage = 40
+---
+---
+Percentage = 40
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  How can a biome be identified?
+---
+---
+Responses = ['by its climate and the organisms living there', 'by its appearance and weather', 'by its age and environmental factors', 'by its precipitation and number of rare organisms']
+---
+---
+AI Response = by its climate and the organisms living there
+---
+---
+Correct Answer = ['by its climate and the organisms living there']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What part of a biome is abiotic?
+---
+---
+Responses = ['the living and nonliving components', 'the nonliving components', 'the living components', 'the decomposed components']
+---
+---
+AI Response = the nonliving components
+---
+---
+Correct Answer = ['the nonliving components']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What does the word "biotic" refer to?
+---
+---
+Responses = ['the nonliving and living things in a community', 'the living organisms in a community', 'the nonliving things in a community', 'the nonliving things and weather in a community']
+---
+---
+AI Response = the living organisms in a community
+---
+---
+Correct Answer = ['the living organisms in a community']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What is a terrestrial ecosystem?
+---
+---
+Responses = ['a land-based community of organisms', 'a cold and dry community', 'a water-based community of organisms', 'a biotic community only']
+---
+---
+AI Response = a land-based community of organisms
+---
+---
+Correct Answer = ['a land-based community of organisms']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What does "aquatic" mean?
+---
+---
+Responses = ['animals and plants that live in the heat', 'animals and plants that live in or around water', 'animals and plants that live on land', 'animals and plants that live with windy conditions']
+---
+---
+AI Response = animals and plants that live in or around water
+---
+---
+Correct Answer = ['animals and plants that live in or around water']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What would happen if there was no oxygen in water?
+---
+---
+Responses = ['Many organisms would not be large in size.', 'Many organisms would not be able to live.', 'Many organisms would have an improved life.', 'Many organisms would move to live on land.']
+---
+---
+AI Response = Many organisms would not be able to live.
+---
+---
+Correct Answer = ['Many organisms would not be able to live.']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is salinity?
+---
+---
+Responses = ['the amount of dissolved salts in water', 'the amount of dissolved minerals in water', 'the amount of dissolved oxygen in water', 'the amount of dissolved carbon dioxide in water']
+---
+---
+AI Response = the amount of dissolved salts in water
+---
+---
+Correct Answer = ['the amount of dissolved salts in water']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which statement is true of succession?
+---
+---
+Responses = ['Succession happens sometimes, and scientists can rarely measure it.', 'Succession happens rarely, and scientists can sometimes measure it.', 'Succession happens occasionally, and we can always see it.', 'Succession happens all the time, and sometimes we can see it.']
+---
+---
+AI Response = Succession happens all the time, and sometimes we can see it.
+---
+---
+Correct Answer = ['Succession happens all the time, and sometimes we can see it.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  How do ecosystems change naturally over time?
+---
+---
+Responses = ['Humans can introduce invasive species to a forest. The species takes over the forest, causing existing species to die and be replaced by weeds.', 'Pollutants can cause a meadow of flowers to die. Only hardy shrubs will return. Others will not.', 'A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.', 'Deforestation can remove species from a tropical rainforest. The species will not return, and the land will remain barren.']
+---
+---
+AI Response = A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.
+---
+---
+Correct Answer = ['A volcano can cause a soybean field to be wiped out. Grasses take over, then flowering plants and shrubs arrive, and then finally trees arrive.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What does the term "stable states" refer to?
+---
+---
+Responses = ['a theory that ecosystems are semi-stable and can transition slowly to another state from large natural changes', 'a theory that ecosystems are not stable and can transition rapidly to another state from disturbances or changes', 'a theory that ecosystems are stable but can transition quickly to another state from human-caused disturbances or changes', 'a theory that ecosystems are stable but can transition easily to another state from small disturbances or changes']
+---
+---
+AI Response = a theory that ecosystems are stable but can transition quickly to another state from human-caused disturbances or changes
+---
+---
+Correct Answer = ['a theory that ecosystems are stable but can transition quickly to another state from human-caused disturbances or changes']
+---
+---
+Percentage = 80
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What is the role of the Sun in ecosystems?
+---
+---
+Responses = ['It ensures the warmth of the organisms.', 'It cycles matter throughout the ecosystem.', 'It supplies energy to producers for food.', 'It helps transfer energy through the ecosystem.']
+---
+---
+AI Response = It supplies energy to producers for food.
+---
+---
+Correct Answer = ['It supplies energy to producers for food.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Study the ecological pyramid.    Ecological pyramid showing 4 trophic levels. An owl is at the narrow top, followed by a snake, followed by a rabbit, followed by corn at the wide base.   QA International/Photo Researchers/ Science Source    In the ecological pyramid, which organism has the least amount of energy and why?
+---
+---
+Responses = ['he', '']
+---
+---
+AI Response = he
+---
+---
+Correct Answer = ['he', '']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  What happens to the energy as it flows between trophic levels?
+---
+---
+Responses = ['It is returned to producers to make food.', 'It is shared among organisms within a trophic level.', 'It is used by organisms in other ecosystems.', 'It flows in one direction and most of the energy doesn’t make it from one level to the next level.']
+---
+---
+AI Response = It flows in one direction and most of the energy doesn’t make it from one level to the next level.
+---
+---
+Correct Answer = ['It flows in one direction and most of the energy doesn’t make it from one level to the next level.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which describes an ecological pyramid?
+---
+---
+Responses = ['A place which provides shelter for organisms in various trophic levels in an ecosystem.', 'A process that occurs in an ecosystem to transform energy for use throughout the system.', 'A model which shows how inorganic carbon is converted into a form which is usable by organisms.', 'A model which shows how energy is transferred between trophic levels in an ecosystem.']
+---
+---
+AI Response = A model which shows how energy is transferred between trophic levels in an ecosystem.
+---
+---
+Correct Answer = ['A model which shows how energy is transferred between trophic levels in an ecosystem.']
+---
+---
+Percentage = 25
+---
+---
+Percentage = 25
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What is the role of the Sun in ecosystems?
+---
+---
+Responses = ['It cycles matter throughout the ecosystem.', 'It helps transfer energy through the ecosystem.', 'It ensures the warmth of the organisms.', 'It supplies energy to producers for food.']
+---
+---
+AI Response = It supplies energy to producers for food.
+---
+---
+Correct Answer = ['It supplies energy to producers for food.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Study the ecological pyramid.    Ecological pyramid showing 4 trophic levels. An owl is at the narrow top, followed by a snake, followed by a rabbit, followed by corn at the wide base.   QA International/Photo Researchers/ Science Source    In the ecological pyramid, which organism has the least amount of energy and why?
+---
+---
+Responses = ['he', '']
+---
+---
+AI Response = he
+---
+---
+Correct Answer = ['he', '']
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What is the role of the Sun in ecosystems?
+---
+---
+Responses = ['It cycles matter throughout the ecosystem.', 'It helps transfer energy through the ecosystem.', 'It ensures the warmth of the organisms.', 'It supplies energy to producers for food.']
+---
+---
+AI Response = It supplies energy to producers for food.
+---
+---
+Correct Answer = ['It supplies energy to producers for food.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Study the ecological pyramid.    Ecological pyramid showing 4 trophic levels. An owl is at the narrow top, followed by a snake, followed by a rabbit, followed by corn at the wide base.   QA International/Photo Researchers/ Science Source    In the ecological pyramid, which organism has the least amount of energy and why?
+---
+---
+Responses = ['he', '']
+---
+---
+AI Response = he
+---
+---
+Correct Answer = ['he', '']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  What happens to the energy as it flows between trophic levels?
+---
+---
+Responses = ['It flows in one direction and most of the energy doesn’t make it from one level to the next level.', 'It is returned to producers to make food.', 'It is used by organisms in other ecosystems.', 'It is shared among organisms within a trophic level.']
+---
+---
+AI Response = It flows in one direction and most of the energy doesn’t make it from one level to the next level.
+---
+---
+Correct Answer = ['It flows in one direction and most of the energy doesn’t make it from one level to the next level.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which describes an ecological pyramid?
+---
+---
+Responses = ['A place which provides shelter for organisms in various trophic levels in an ecosystem.', 'A process that occurs in an ecosystem to transform energy for use throughout the system.', 'A model which shows how inorganic carbon is converted into a form which is usable by organisms.', 'A model which shows how energy is transferred between trophic levels in an ecosystem.']
+---
+---
+AI Response = A model which shows how energy is transferred between trophic levels in an ecosystem.
+---
+---
+Correct Answer = ['A model which shows how energy is transferred between trophic levels in an ecosystem.']
+---
+---
+Percentage = 75
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  Which accurately describes the role of the Sun in ecosystems?
+---
+---
+Responses = ['It is the biotic factor which drives the cycling of matter.', 'It is the original source of energy for organisms.', 'It is the source of organic carbon which is usable by organisms.', 'It is the producer in an ecological pyramid.']
+---
+---
+AI Response = It is the original source of energy for organisms.
+---
+---
+Correct Answer = ['It is the original source of energy for organisms.']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What is a producer in an ecosystem?
+---
+---
+Responses = ['an organism located at the top of an ecological pyramid', 'an organism that feeds on other organisms', 'an organism that uses sunlight for warmth', 'an organism that makes its own food']
+---
+---
+AI Response = an organism that makes its own food
+---
+---
+Correct Answer = ['an organism that makes its own food']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Why are producers important to ecosystems?    Select all that apply.
+---
+---
+Responses = ['They are at the top of the ecological pyramid.', 'They are the primary source of food for other organisms.', 'They are able to make their own food.', 'They convert the Sun’s energy into a usable form for other organisms.', 'They decompose matter to release vital nutrients for other organisms.']
+---
+---
+AI Response = ['They are the primary source of food for other organisms.', 'They are able to make their own food.', 'They convert the Sun’s energy into a usable form for other organisms.']
+---
+---
+Correct Answer = ['They are the primary source of food for other organisms.', 'They are able to make their own food.', 'They convert the Sun’s energy into a usable form for other organisms.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What is a trophic level of an ecological pyramid?
+---
+---
+Responses = ['The trophic level describes the types of organisms eaten in an ecosystem.', 'The trophic level tells the geographical location of organisms in an ecosystem.', 'The trophic level reflects where an organism is in the sequence of energy transfers in an ecosystem.', 'The trophic level gives the number of organisms which can be found at each level of an ecosystem.']
+---
+---
+AI Response = The trophic level reflects where an organism is in the sequence of energy transfers in an ecosystem.
+---
+---
+Correct Answer = ['The trophic level reflects where an organism is in the sequence of energy transfers in an ecosystem.']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What is photosynthesis?    Select all that apply.
+---
+---
+Responses = ['the process by which energy is transferred between trophic levels of ecological pyramids', 'a type of carbon fixation in which inorganic carbon is turned into a usable form for organisms', 'the process in which the energy from sunlight is used to make sugars out of carbon dioxide from the atmosphere and water', 'the manner in which matter is cycled throughout an ecosystem to maintain its health']
+---
+---
+AI Response = ['the process in which the energy from sunlight is used to make sugars out of carbon dioxide from the atmosphere and water', 'a type of carbon fixation in which inorganic carbon is turned into a usable form for organisms']
+---
+---
+Correct Answer = ['a type of carbon fixation in which inorganic carbon is turned into a usable form for organisms', 'the process in which the energy from sunlight is used to make sugars out of carbon dioxide from the atmosphere and water']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What are phytoplankton?
+---
+---
+Responses = ['Phytoplankton are consumers in ecosystems.', 'Phytoplankton are microscopic algae that serve as producers in marine ecosystems.', 'Phytoplankton are microscopic organisms that cycle only matter through ecosystems.', 'Phytoplankton are the organisms at the top of marine ecological pyramids.']
+---
+---
+AI Response = Phytoplankton are microscopic algae that serve as producers in marine ecosystems.
+---
+---
+Correct Answer = ['Phytoplankton are microscopic algae that serve as producers in marine ecosystems.']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which describes carbon fixation?
+---
+---
+Responses = ['Both inorganic and organic carbon compounds are cycled and recycled through ecosystems.', 'Carbon present in sugars reacts with oxygen to produce carbon dioxide and water and energy.', 'Carbon compounds, such as carbon dioxide, are converted into inorganic carbon, such as carbonic acid.', 'Carbon in the atmosphere, such as carbon dioxide, is converted into a form which organisms can use, such as sugars.']
+---
+---
+AI Response = Carbon in the atmosphere, such as carbon dioxide, is converted into a form which organisms can use, such as sugars.
+---
+---
+Correct Answer = ['Carbon in the atmosphere, such as carbon dioxide, is converted into a form which organisms can use, such as sugars.']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is carbon fixation?
+---
+---
+Responses = ['The process of transferring energy between trophic levels.', 'The process by which organisms use sunlight as an energy source.', 'The conversion of inorganic carbon into organic compounds that are usable by organisms.', 'The conversion of glucose into carbon dioxide and energy for organism processes.']
+---
+---
+AI Response = The conversion of inorganic carbon into organic compounds that are usable by organisms.
+---
+---
+Correct Answer = ['The conversion of inorganic carbon into organic compounds that are usable by organisms.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  Which describes ecological pyramids?
+---
+---
+Responses = ['Ecological pyramids reflect where an organism is in a sequence of energy transfers. Organisms with the least energy are always at the middle of the pyramid, as energy gets lost with each transfer.', 'Ecological pyramids show hierarchical layers of organisms in an ecosystem. Primary consumers, the organisms with the least energy, are at the bottom of the pyramid, followed by several layers of producers.', 'Ecological pyramids show hierarchical layers of organisms in an ecosystem. Producers, the organisms with the most energy, are at the bottom of the pyramid, followed by several layers of consumers.', 'Ecological pyramids reflect where an organism is in a sequence of energy transfers. Organisms with the most energy are always last in the sequence, at the top of the pyramid, as a number of organisms would have transferred energy to them.']
+---
+---
+AI Response = Ecological pyramids show hierarchical layers of organisms in an ecosystem. Producers, the organisms with the most energy, are at the bottom of the pyramid, followed by several layers of consumers.
+---
+---
+Correct Answer = ['Ecological pyramids show hierarchical layers of organisms in an ecosystem. Producers, the organisms with the most energy, are at the bottom of the pyramid, followed by several layers of consumers.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  How does the cycling of matter in ecosystems occur?    Select all that apply.
+---
+---
+Responses = ['Like energy, matter flows through ecosystems with some matter being lost at each next stage of transfer.', 'Matter flows upwards in a pyramidal model going through trophic levels from producers to consumers.', 'In ecosystems, matter is passed on when one organism eats another so that matter is not destroyed.', 'Matter moves through the various reservoirs of ecosystems as well as through living things in a continuous cycle.']
+---
+---
+AI Response = ['In ecosystems, matter is passed on when one organism eats another so that matter is not destroyed.', 'Matter moves through the various reservoirs of ecosystems as well as through living things in a continuous cycle.']
+---
+---
+Correct Answer = ['In ecosystems, matter is passed on when one organism eats another so that matter is not destroyed.', 'Matter moves through the various reservoirs of ecosystems as well as through living things in a continuous cycle.']
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+***
+Error Detected - Could not find next to click
+***
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What is a carnivore?
+---
+---
+Responses = ['an animal that eats only plants', 'an animal that eats only meat', 'an animal that eats dead organic material', 'an animal that eats animals and plants']
+---
+---
+AI Response = an animal that eats only meat
+---
+---
+Correct Answer = ['an animal that eats only meat']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which option best defines “herbivore”?
+---
+---
+Responses = ['an animal that eats only meat', 'an animal that eats only plants', 'an animal that eats dead organic material', 'an animal that eats animals and plants']
+---
+---
+AI Response = an animal that eats only plants
+---
+---
+Correct Answer = ['an animal that eats only plants']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  What is a predator?
+---
+---
+Responses = ['an animal that is eaten by another animal as food', 'an animal that eats another animal for food', 'an animal that eats only meat', 'an organism that makes its own food']
+---
+---
+AI Response = an animal that eats another animal for food
+---
+---
+Correct Answer = ['an animal that eats another animal for food']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which type of organism consumes both plants and animals?
+---
+---
+Responses = ['omnivore', 'producer', 'herbivore', 'carnivore']
+---
+---
+AI Response = omnivore
+---
+---
+Correct Answer = ['omnivore']
+---
+---
+Percentage = 100
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  In the dry desert, green, leafy plants are scarce. Tough cacti are more common. Small animals like rats, mice, and insects rely on the cacti for food. Larger animals like lizards eat those small animals and insects. Hawks and snakes prey on the small and large animals.    Of the organisms in this example, which are carnivores?    Select all that apply.
+---
+---
+Responses = ['insects', 'rats', 'snakes', 'hawks', 'lizards', 'mice']
+---
+---
+AI Response = ['snakes', 'hawks']
+---
+---
+Correct Answer = ['snakes', 'hawks']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What is a decomposer?
+---
+---
+Responses = ['an organism that obtains its energy by consuming other organisms so that the organisms left can have a higher reproduction rate', 'an organism that helps break down dead organic materials so vital nutrients can be recycled for the use of other living organisms', 'an organism that eats both plants and animals', 'an organism that eats dead organic material']
+---
+---
+AI Response = an organism that helps break down dead organic materials so vital nutrients can be recycled for the use of other living organisms
+---
+---
+Correct Answer = ['an organism that helps break down dead organic materials so vital nutrients can be recycled for the use of other living organisms']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  On the African savanna, grasses feed wildebeest, gazelles, and hares. Lions, hyenas, and cheetahs hunt the wildebeest and gazelles. Vultures eat the remains from predator kills. Bacteria and fungi break down anything that is left over from the carcasses. Dung beetles eat the feces left behind from grass-eating animals like hares and elephants.    Which organism is a detritivore in this example?
+---
+---
+Responses = ['fungi', 'dung beetle', 'bacteria', 'vulture']
+---
+---
+AI Response = dung beetle
+---
+---
+Correct Answer = ['dung beetle']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  On the African savanna, grasses feed wildebeest, gazelles, and hares. Lions, hyenas, and cheetahs hunt the wildebeest and gazelles. Vultures eat the remains from predator kills. Bacteria and fungi break down anything that is left over from the carcasses. Dung beetles eat the feces left behind from grass-eating animals like hares and elephants.    Which organisms are herbivores?    Select all that apply.
+---
+---
+Responses = ['wildebeest', 'hare', 'gazelle', 'dung beetle', 'hyena']
+---
+---
+AI Response = ['wildebeest', 'hare', 'gazelle']
+---
+---
+Correct Answer = ['wildebeest', 'hare', 'gazelle']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What is an omnivore?
+---
+---
+Responses = ['an animal that only eats plants', 'an animal that only eats animals', 'an animal that eats dead organic material', 'an animal that eats both plants and animals']
+---
+---
+AI Response = an animal that eats both plants and animals
+---
+---
+Correct Answer = ['an animal that eats both plants and animals']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  In order for an ecosystem to be diverse, it must be healthy. In order for an ecosystem to be healthy, it must have enough food, energy, and nutrients for the organisms that are present. What trophic levels are an absolute necessity in ensuring that an ecosystem is diverse and healthy?    Select all that apply.
+---
+---
+Responses = ['carnivore', 'detritivore', 'producer', 'herbivore', 'omnivore', 'decomposer']
+---
+---
+AI Response = ['producer', 'detritivore', 'decomposer']
+---
+---
+Correct Answer = ['detritivore', 'producer', 'decomposer']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is symbiosis?
+---
+---
+Responses = ['the relationship between an organism and a host where the host is harmed', 'the relationship between an organism and a host where the host benefits', 'the relationship that occurs when two different organisms belonging to different species live closely together and have specific interactions', 'the relationship that occurs when two different organisms belonging to the same species live closely together and have specific interactions']
+---
+---
+AI Response = the relationship that occurs when two different organisms belonging to different species live closely together and have specific interactions
+---
+---
+Correct Answer = ['the relationship that occurs when two different organisms belonging to different species live closely together and have specific interactions']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What represents a symbiotic relationship?    Select all that apply.
+---
+---
+Responses = ['meerkats helping each other find food', 'lions hunting and eating a gazelle', 'remoras eating leftovers from a shark', 'wasps laying eggs inside a hornworm', 'owls living in the hollow of a tree']
+---
+---
+AI Response = ['meerkats helping each other find food', 'remoras eating leftovers from a shark']
+---
+---
+Correct Answer = ['meerkats helping each other find food', 'remoras eating leftovers from a shark']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Percentage = 60
+---
+---
+Percentage = 60
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  In the dry desert, green, leafy plants are scarce. Tough cacti are more common. Small animals like rats, mice, and insects rely on the cacti for food. Larger animals like lizards eat those small animals and insects. Hawks and snakes prey on the small and large animals.    Of the organisms in this example, which are carnivores?    Select all that apply.
+---
+---
+Responses = ['snakes', 'hawks', 'rats', 'mice', 'lizards', 'insects']
+---
+---
+AI Response = ['snakes', 'hawks']
+---
+---
+Correct Answer = ['snakes', 'hawks']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What is a decomposer?
+---
+---
+Responses = ['an organism that helps break down dead organic materials so vital nutrients can be recycled for the use of other living organisms', 'an organism that eats both plants and animals', 'an organism that eats dead organic material', 'an organism that obtains its energy by consuming other organisms so that the organisms left can have a higher reproduction rate']
+---
+---
+AI Response = an organism that helps break down dead organic materials so vital nutrients can be recycled for the use of other living organisms
+---
+---
+Correct Answer = ['an organism that helps break down dead organic materials so vital nutrients can be recycled for the use of other living organisms']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  On the African savanna, grasses feed wildebeest, gazelles, and hares. Lions, hyenas, and cheetahs hunt the wildebeest and gazelles. Vultures eat the remains from predator kills. Bacteria and fungi break down anything that is left over from the carcasses. Dung beetles eat the feces left behind from grass-eating animals like hares and elephants.    Which organism is a detritivore in this example?
+---
+---
+Responses = ['bacteria', 'dung beetle', 'fungi', 'vulture']
+---
+---
+AI Response = dung beetle
+---
+---
+Correct Answer = ['dung beetle']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  On the African savanna, grasses feed wildebeest, gazelles, and hares. Lions, hyenas, and cheetahs hunt the wildebeest and gazelles. Vultures eat the remains from predator kills. Bacteria and fungi break down anything that is left over from the carcasses. Dung beetles eat the feces left behind from grass-eating animals like hares and elephants.    Which organisms are herbivores?    Select all that apply.
+---
+---
+Responses = ['hyena', 'dung beetle', 'hare', 'wildebeest', 'gazelle']
+---
+---
+AI Response = ['hare', 'wildebeest', 'gazelle']
+---
+---
+Correct Answer = ['hare', 'wildebeest', 'gazelle']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What is an omnivore?
+---
+---
+Responses = ['an animal that eats dead organic material', 'an animal that only eats plants', 'an animal that eats both plants and animals', 'an animal that only eats animals']
+---
+---
+AI Response = an animal that eats both plants and animals
+---
+---
+Correct Answer = ['an animal that eats both plants and animals']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  In order for an ecosystem to be diverse, it must be healthy. In order for an ecosystem to be healthy, it must have enough food, energy, and nutrients for the organisms that are present. What trophic levels are an absolute necessity in ensuring that an ecosystem is diverse and healthy?    Select all that apply.
+---
+---
+Responses = ['decomposer', 'carnivore', 'omnivore', 'producer', 'herbivore', 'detritivore']
+---
+---
+AI Response = ['producer', 'decomposer']
+---
+---
+Correct Answer = ['decomposer', 'producer']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is symbiosis?
+---
+---
+Responses = ['the relationship that occurs when two different organisms belonging to different species live closely together and have specific interactions', 'the relationship between an organism and a host where the host benefits', 'the relationship that occurs when two different organisms belonging to the same species live closely together and have specific interactions', 'the relationship between an organism and a host where the host is harmed']
+---
+---
+AI Response = the relationship that occurs when two different organisms belonging to different species live closely together and have specific interactions
+---
+---
+Correct Answer = ['the relationship that occurs when two different organisms belonging to different species live closely together and have specific interactions']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What represents a symbiotic relationship?    Select all that apply.
+---
+---
+Responses = ['meerkats helping each other find food', 'lions hunting and eating a gazelle', 'remoras eating leftovers from a shark', 'owls living in the hollow of a tree', 'wasps laying eggs inside a hornworm']
+---
+---
+AI Response = ['meerkats helping each other find food', 'remoras eating leftovers from a shark']
+---
+---
+Correct Answer = ['meerkats helping each other find food', 'remoras eating leftovers from a shark']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+---
+---
+Percentage = 71
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...
+***
+Error Detected - Could not find strongmind to click
+***
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What is an open system?
+---
+---
+Responses = ['a system that allows energy, but not matter, to enter and leave', 'a system that allows matter, but not energy, to enter and leave', 'a system that allows neither energy nor matter to enter and leave', 'a system that allows both energy and matter to enter and leave']
+---
+---
+AI Response = a system that allows both energy and matter to enter and leave
+---
+---
+Correct Answer = ['a system that allows both energy and matter to enter and leave']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  What is an isolated system?
+---
+---
+Responses = ['a system that allows neither energy nor matter to enter and leave', 'a system that allows matter, but not energy, to enter and leave', 'a system that allows energy, but not matter, to enter and leave', 'a system that allows both energy and matter to enter and leave']
+---
+---
+AI Response = a system that allows neither energy nor matter to enter and leave
+---
+---
+Correct Answer = ['a system that allows neither energy nor matter to enter and leave']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  What is negative feedback?
+---
+---
+Responses = ['a change triggering a response that increases the magnitude of the original change', 'a change triggering a response that decreases the magnitude of the original change', 'a change triggering no response to the original change', 'a change triggering a response that is unable to correct the original change']
+---
+---
+AI Response = a change triggering a response that decreases the magnitude of the original change
+---
+---
+Correct Answer = ['a change triggering a response that decreases the magnitude of the original change']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  What is positive feedback?
+---
+---
+Responses = ['a change triggering a response that decreases the magnitude of the original change', 'a change triggering a response that increases the magnitude of the original change', 'feedback that corrects a system', 'feedback that has no effect on a system']
+---
+---
+AI Response = a change triggering a response that increases the magnitude of the original change
+---
+---
+Correct Answer = ['a change triggering a response that increases the magnitude of the original change']
+---
+---
+Percentage = 75
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What is an open system?
+---
+---
+Responses = ['a system that allows both energy and matter to enter or leave', 'a system that allows neither energy nor matter to enter or leave', 'a system that allows energy, but not matter, to enter or leave', 'a system that allows matter, but not energy, to enter or leave']
+---
+---
+AI Response = a system that allows both energy and matter to enter or leave
+---
+---
+Correct Answer = ['a system that allows both energy and matter to enter or leave']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which is true about an isolated system?
+---
+---
+Responses = ['Matter can enter and leave it, but energy cannot.', 'Matter and energy cannot enter or leave it.', 'Both matter and energy can enter and leave it.', 'Energy can enter and leave it, but matter cannot.']
+---
+---
+AI Response = Matter and energy cannot enter or leave it.
+---
+---
+Correct Answer = ['Matter and energy cannot enter or leave it.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What happens to the population of cod when spawning areas for reproduction are lost and then recovered?
+---
+---
+Responses = ['The population increases and then decreases to return to a stable state.', 'The population remains in a stable state despite environmental changes.', 'The population remains unpredictable because of environmental changes.', 'The population decreases and then increases to return to a stable state.']
+---
+---
+AI Response = The population decreases and then increases to return to a stable state.
+---
+---
+Correct Answer = ['The population decreases and then increases to return to a stable state.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  How does feedback control a system?
+---
+---
+Responses = ['Negative and positive feedback work against each other to destroy systems.', 'Negative feedback amplifies a previous change that positive feedback corrects.', 'Positive feedback amplifies a previous change that negative feedback corrects.', 'Positive feedback causes stability, and negative feedback causes change.']
+---
+---
+AI Response = Positive feedback amplifies a previous change that negative feedback corrects.
+---
+---
+Correct Answer = ['Positive feedback amplifies a previous change that negative feedback corrects.']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Corals can become bleached, meaning that the plankton living within them die.     What happens to a population of fish that feed on plankton within the reef?
+---
+---
+Responses = ['The fish population increases due to the increase in plankton.', 'The fish population decreases due to the increase in plankton.', 'The fish population increases due to the decrease in plankton.', 'The fish population decreases due to the decrease in plankton.']
+---
+---
+AI Response = The fish population decreases due to the decrease in plankton.
+---
+---
+Correct Answer = ['The fish population decreases due to the decrease in plankton.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What is negative feedback?
+---
+---
+Responses = ['a change that does not correct the original change based on the triggered response', 'a change that does not trigger a response to the original change', 'a change triggering a response that increases the magnitude of the original change', 'a change triggering a response that decreases the magnitude of the original change']
+---
+---
+AI Response = a change triggering a response that decreases the magnitude of the original change
+---
+---
+Correct Answer = ['a change triggering a response that decreases the magnitude of the original change']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is positive feedback?
+---
+---
+Responses = ['a change in a system that reduces the previous change', 'a change in a system that does not correct the previous change', 'a change in a system that amplifies a previous change', 'a change in a system to which there is no response']
+---
+---
+AI Response = a change in a system that amplifies a previous change
+---
+---
+Correct Answer = ['a change in a system that amplifies a previous change']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is an example of negative feedback in an ecosystem?
+---
+---
+Responses = ['A rabbit population decreases, and its food supply decreases.', 'A rabbit population increases, and its food supply decreases.', 'A rabbit population decreases, and its food supply increases.', 'A rabbit population increases, and its food supply increases.']
+---
+---
+AI Response = A rabbit population increases, and its food supply decreases.
+---
+---
+Correct Answer = ['A rabbit population increases, and its food supply decreases.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is an example of positive feedback in an ecosystem?
+---
+---
+Responses = ['The food supply for rabbits increases, and the population of rabbits decreases.', 'The food supply for rabbits increases, and the population of rabbits increases.', 'The food supply for rabbits decreases, and the population of rabbits remains constant.', 'The food supply for rabbits decreases, and the population of rabbits increases.']
+---
+---
+AI Response = The food supply for rabbits increases, and the population of rabbits increases.
+---
+---
+Correct Answer = ['The food supply for rabbits increases, and the population of rabbits increases.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Are ecosystems open or isolated systems, and are they affected by feedback?
+---
+---
+Responses = ['Ecosystems are open systems and are affected by feedback.', 'Ecosystems are open systems and are not affected by feedback.', 'Ecosystems are isolated systems and are affected by feedback.', 'Ecosystems are isolated systems and are not affected by feedback.']
+---
+---
+AI Response = Ecosystems are open systems and are affected by feedback.
+---
+---
+Correct Answer = ['Ecosystems are open systems and are affected by feedback.']
+---
+---
+Percentage = 40
+---
+---
+Percentage = 40
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What is an open system?
+---
+---
+Responses = ['a system that allows matter, but not energy, to enter or leave', 'a system that allows neither energy nor matter to enter or leave', 'a system that allows energy, but not matter, to enter or leave', 'a system that allows both energy and matter to enter or leave']
+---
+---
+AI Response = a system that allows both energy and matter to enter or leave
+---
+---
+Correct Answer = ['a system that allows both energy and matter to enter or leave']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which is true about an isolated system?
+---
+---
+Responses = ['Both matter and energy can enter and leave it.', 'Energy can enter and leave it, but matter cannot.', 'Matter can enter and leave it, but energy cannot.', 'Matter and energy cannot enter or leave it.']
+---
+---
+AI Response = Matter and energy cannot enter or leave it.
+---
+---
+Correct Answer = ['Matter and energy cannot enter or leave it.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What happens to the population of cod when spawning areas for reproduction are lost and then recovered?
+---
+---
+Responses = ['The population remains unpredictable because of environmental changes.', 'The population remains in a stable state despite environmental changes.', 'The population increases and then decreases to return to a stable state.', 'The population decreases and then increases to return to a stable state.']
+---
+---
+AI Response = The population decreases and then increases to return to a stable state.
+---
+---
+Correct Answer = ['The population decreases and then increases to return to a stable state.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  How does feedback control a system?
+---
+---
+Responses = ['Negative feedback amplifies a previous change that positive feedback corrects.', 'Negative and positive feedback work against each other to destroy systems.', 'Positive feedback causes stability, and negative feedback causes change.', 'Positive feedback amplifies a previous change that negative feedback corrects.']
+---
+---
+AI Response = Positive feedback amplifies a previous change that negative feedback corrects.
+---
+---
+Correct Answer = ['Positive feedback amplifies a previous change that negative feedback corrects.']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Corals can become bleached, meaning that the plankton living within them die.     What happens to a population of fish that feed on plankton within the reef?
+---
+---
+Responses = ['The fish population decreases due to the increase in plankton.', 'The fish population increases due to the increase in plankton.', 'The fish population increases due to the decrease in plankton.', 'The fish population decreases due to the decrease in plankton.']
+---
+---
+AI Response = The fish population decreases due to the decrease in plankton.
+---
+---
+Correct Answer = ['The fish population decreases due to the decrease in plankton.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What is negative feedback?
+---
+---
+Responses = ['a change that does not trigger a response to the original change', 'a change that does not correct the original change based on the triggered response', 'a change triggering a response that decreases the magnitude of the original change', 'a change triggering a response that increases the magnitude of the original change']
+---
+---
+AI Response = a change triggering a response that decreases the magnitude of the original change
+---
+---
+Correct Answer = ['a change triggering a response that decreases the magnitude of the original change']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is positive feedback?
+---
+---
+Responses = ['a change in a system to which there is no response', 'a change in a system that does not correct the previous change', 'a change in a system that amplifies a previous change', 'a change in a system that reduces the previous change']
+---
+---
+AI Response = a change in a system that amplifies a previous change
+---
+---
+Correct Answer = ['a change in a system that amplifies a previous change']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is an example of negative feedback in an ecosystem?
+---
+---
+Responses = ['A rabbit population increases, and its food supply increases.', 'A rabbit population decreases, and its food supply decreases.', 'A rabbit population increases, and its food supply decreases.', 'A rabbit population decreases, and its food supply increases.']
+---
+---
+AI Response = A rabbit population decreases, and its food supply increases.
+---
+---
+Correct Answer = ['A rabbit population decreases, and its food supply increases.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is an example of positive feedback in an ecosystem?
+---
+---
+Responses = ['The food supply for rabbits increases, and the population of rabbits increases.', 'The food supply for rabbits decreases, and the population of rabbits increases.', 'The food supply for rabbits decreases, and the population of rabbits remains constant.', 'The food supply for rabbits increases, and the population of rabbits decreases.']
+---
+---
+AI Response = The food supply for rabbits increases, and the population of rabbits increases.
+---
+---
+Correct Answer = ['The food supply for rabbits increases, and the population of rabbits increases.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Are ecosystems open or isolated systems, and are they affected by feedback?
+---
+---
+Responses = ['Ecosystems are isolated systems and are affected by feedback.', 'Ecosystems are isolated systems and are not affected by feedback.', 'Ecosystems are open systems and are affected by feedback.', 'Ecosystems are open systems and are not affected by feedback.']
+---
+---
+AI Response = Ecosystems are open systems and are affected by feedback.
+---
+---
+Correct Answer = ['Ecosystems are open systems and are affected by feedback.']
+---
+---
+Percentage = 10
+---
+---
+Percentage = 10
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What is an open system?
+---
+---
+Responses = ['a system that allows energy, but not matter, to enter or leave', 'a system that allows both energy and matter to enter or leave', 'a system that allows neither energy nor matter to enter or leave', 'a system that allows matter, but not energy, to enter or leave']
+---
+---
+AI Response = a system that allows both energy and matter to enter or leave
+---
+---
+Correct Answer = ['a system that allows both energy and matter to enter or leave']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which is true about an isolated system?
+---
+---
+Responses = ['Matter and energy cannot enter or leave it.', 'Energy can enter and leave it, but matter cannot.', 'Matter can enter and leave it, but energy cannot.', 'Both matter and energy can enter and leave it.']
+---
+---
+AI Response = Matter and energy cannot enter or leave it.
+---
+---
+Correct Answer = ['Matter and energy cannot enter or leave it.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What happens to the population of cod when spawning areas for reproduction are lost and then recovered?
+---
+---
+Responses = ['The population increases and then decreases to return to a stable state.', 'The population decreases and then increases to return to a stable state.', 'The population remains unpredictable because of environmental changes.', 'The population remains in a stable state despite environmental changes.']
+---
+---
+AI Response = The population decreases and then increases to return to a stable state.
+---
+---
+Correct Answer = ['The population decreases and then increases to return to a stable state.']
+---
+***
+Error Detected - ['Fatal Error', IndexError('list index out of range')]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  How does feedback control a system?
+---
+---
+Responses = ['Negative and positive feedback work against each other to destroy systems.', 'Negative feedback amplifies a previous change that positive feedback corrects.', 'Positive feedback causes stability, and negative feedback causes change.', 'Positive feedback amplifies a previous change that negative feedback corrects.']
+---
+---
+AI Response = Positive feedback amplifies a previous change that negative feedback corrects.
+---
+---
+Correct Answer = ['Positive feedback amplifies a previous change that negative feedback corrects.']
+---
+---
+Program = Starting
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Corals can become bleached, meaning that the plankton living within them die.     What happens to a population of fish that feed on plankton within the reef?
+---
+---
+Responses = ['The fish population increases due to the decrease in plankton.', 'The fish population decreases due to the decrease in plankton.', 'The fish population increases due to the increase in plankton.', 'The fish population decreases due to the increase in plankton.']
+---
+---
+AI Response = The fish population decreases due to the decrease in plankton.
+---
+---
+Correct Answer = ['The fish population decreases due to the decrease in plankton.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What is negative feedback?
+---
+---
+Responses = ['a change that does not correct the original change based on the triggered response', 'a change triggering a response that increases the magnitude of the original change', 'a change that does not trigger a response to the original change', 'a change triggering a response that decreases the magnitude of the original change']
+---
+---
+AI Response = 'a change triggering a response that decreases the magnitude of the original change'
+---
+---
+Correct Answer = ['a change triggering a response that decreases the magnitude of the original change']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is positive feedback?
+---
+---
+Responses = ['a change in a system that amplifies a previous change', 'a change in a system that reduces the previous change', 'a change in a system that does not correct the previous change', 'a change in a system to which there is no response']
+---
+---
+AI Response = a change in a system that amplifies a previous change
+---
+---
+Correct Answer = ['a change in a system that amplifies a previous change']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is an example of negative feedback in an ecosystem?
+---
+---
+Responses = ['A rabbit population decreases, and its food supply increases.', 'A rabbit population decreases, and its food supply decreases.', 'A rabbit population increases, and its food supply decreases.', 'A rabbit population increases, and its food supply increases.']
+---
+---
+AI Response = A rabbit population decreases, and its food supply increases.
+---
+---
+Correct Answer = ['A rabbit population decreases, and its food supply increases.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is an example of positive feedback in an ecosystem?
+---
+---
+Responses = ['The food supply for rabbits increases, and the population of rabbits increases.', 'The food supply for rabbits increases, and the population of rabbits decreases.', 'The food supply for rabbits decreases, and the population of rabbits increases.', 'The food supply for rabbits decreases, and the population of rabbits remains constant.']
+---
+---
+AI Response = The food supply for rabbits increases, and the population of rabbits increases.
+---
+---
+Correct Answer = ['The food supply for rabbits increases, and the population of rabbits increases.']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Are ecosystems open or isolated systems, and are they affected by feedback?
+---
+---
+Responses = ['Ecosystems are open systems and are affected by feedback.', 'Ecosystems are isolated systems and are not affected by feedback.', 'Ecosystems are open systems and are not affected by feedback.', 'Ecosystems are isolated systems and are affected by feedback.']
+---
+---
+AI Response = Ecosystems are open systems and are affected by feedback.
+---
+---
+Correct Answer = ['Ecosystems are open systems and are affected by feedback.']
+---
+---
+Program = Starting
+---
+***
+Error Detected - ['Fatal Error', ImageNotFoundException()]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+***
+Error Detected - ['Fatal Error', ImageNotFoundException()]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Quiz Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Study the diagram.    An arrow points from phytoplankton to krill; an arrow points from krill to chinstrap penguin; and an arrow points from chinstrap penguin to seal.  NoPainNoGain/Shutterstock  Modified by StrongMind    What correctly describes the movement of matter and energy through this food chain?
+---
+---
+Responses = ['The seal gets energy and matter from the krill, which gets energy and matter from the penguin, which gets energy and matter from the phytoplankton.', 'The phytoplankton gets energy and matter from the krill, which gets energy and matter from the penguin, which gets energy and matter from the seal.', 'The seal gets energy and matter from the penguin, which gets energy and matter from the phytoplankton, which gets energy and matter from the krill.', 'The seal gets energy and matter from the penguin, which gets energy and matter from the krill, which gets energy and matter from the phytoplankton.']
+---
+---
+AI Response = The seal gets energy and matter from the penguin, which gets energy and matter from the krill, which gets energy and matter from the phytoplankton.
+---
+---
+Correct Answer = ['The seal gets energy and matter from the penguin, which gets energy and matter from the krill, which gets energy and matter from the phytoplankton.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Study the diagram.    A food web. More information in the long description.  snapgalleria/Shutterstock   Modified by StrongMind.      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.             How can the food web be described?
+---
+---
+Responses = ['Not all organisms depend on grass and trees.', 'The lion only has one organism to prey upon.', 'The lion depends on the jackal, goat, and green plants as one pathway for food.', 'Goats have no predators.']
+---
+---
+AI Response = The lion depends on the jackal, goat, and green plants as one pathway for food.
+---
+---
+Correct Answer = ['The lion depends on the jackal, goat, and green plants as one pathway for food.']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Study the diagram.    A food web. More information in the long description.  snapgalleria/Shutterstock   Modified by StrongMind.      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.            What would happen to the populations of snakes and owls if there was a drought and less grass was available?
+---
+---
+Responses = ['The populations would stay the same.', 'The populations would increase.', 'The populations would decrease then stabilize.', 'The population would decrease.']
+---
+---
+AI Response = The population would decrease.
+---
+---
+Correct Answer = ['The population would decrease.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  How does matter move through organisms in an ecosystem?
+---
+---
+Responses = ['The top predator depends on other consumers but not producers.', 'The top predator depends on other consumers, which depend on producers for food.', 'Producers depend on consumers for food.', 'Organisms do not depend on one another for food.']
+---
+---
+AI Response = The top predator depends on other consumers, which depend on producers for food.
+---
+---
+Correct Answer = ['The top predator depends on other consumers, which depend on producers for food.']
+---
+***
+Error Detected - Error on percentage
+***
+---
+Input Percentage Manually
+Percentage = 75
+---
+---
+Percentage = 75
+---
+---
+Question Number = 1 of 25
+---
+---
+Question = Question:  Which definition best describes a biome?
+---
+---
+Responses = ['a large geographical area identifiable by its climate and the organisms living there', 'a layer on the surface of Earth stretching from the deep sea to the lower atmosphere', 'a biological community of interacting organisms and their physical environment', 'the natural home or environment of an animal, plant, or other organism']
+---
+---
+AI Response = a large geographical area identifiable by its climate and the organisms living there
+---
+---
+Correct Answer = ['a large geographical area identifiable by its climate and the organisms living there']
+---
+---
+Question Number = 2 of 25
+---
+---
+Question = Question:  What conditions must be present for an ecosystem to exist?    Select all that apply.
+---
+---
+Responses = ['multiple interactions among organisms', 'physical environment', 'varying temperatures', 'variety of different organisms']
+---
+---
+AI Response = ['multiple interactions among organisms', 'physical environment', 'variety of different organisms']
+---
+---
+Correct Answer = ['multiple interactions among organisms', 'physical environment', 'variety of different organisms']
+---
+---
+Question Number = 3 of 25
+---
+---
+Question = Question:  What are some biotic factors that can be found in any environment?    Select all that apply.   
+---
+---
+Responses = ['bacteria', 'predators', 'plants', 'climate', 'oxygen']
+---
+---
+AI Response = ['bacteria', 'predators', 'plants', 'oxygen']
+---
+---
+Correct Answer = ['bacteria', 'predators', 'plants', 'oxygen']
+---
+---
+Question Number = 4 of 25
+---
+---
+Question = Question:  What abiotic factors are common to terrestrial, freshwater and marine ecosystems?    Select all that apply.
+---
+---
+Responses = ['nutrients', 'animals', 'sunlight', 'plants', 'temperature']
+---
+---
+AI Response = ['sunlight', 'temperature']
+---
+---
+Correct Answer = ['sunlight', 'temperature']
+---
+---
+Question Number = 5 of 25
+---
+---
+Question = Question:  Which factors will cause a change within an ecosystem?    Select all that apply.
+---
+---
+Responses = ['entrance of a foreign organism', 'animals giving birth to new offspring', 'lava flow from a volcanic eruption', 'having one extremely hot day']
+---
+---
+AI Response = ['entrance of a foreign organism', 'lava flow from a volcanic eruption']
+---
+---
+Correct Answer = ['entrance of a foreign organism', 'lava flow from a volcanic eruption']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 5 of 25
+---
+---
+Question = Question:  Which factors will cause a change within an ecosystem?    Select all that apply.
+---
+---
+Responses = ['entrance of a foreign organism', 'animals giving birth to new offspring', 'lava flow from a volcanic eruption', 'having one extremely hot day']
+---
+---
+AI Response = ['entrance of a foreign organism', 'lava flow from a volcanic eruption']
+---
+---
+Correct Answer = ['entrance of a foreign organism', 'lava flow from a volcanic eruption']
+---
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Question Number = 6 of 25
+---
+---
+Question = Question:  Which best describes how an ecosystem changes naturally?
+---
+---
+Responses = ['Ecosystems change gradually over many years from rocks to grass and shrubs, eventually reaching a stable state, such as a forest. This occurs via a process of primary succession.', 'Ecosystems change abruptly when a natural occurrence, such as a flood, changes the overall species structure. This occurs via a process of secondary succession.', 'Ecosystems are stable and do not change except when a major disturbance, such as a fire, causes an abrupt change. This occurs via a process of secondary succession.', 'Ecosystems change gradually but unpredictably over many years. They go through several stages, eventually reaching a stable state, such as a forest. This occurs via a process of primary succession.']
+---
+---
+AI Response = Ecosystems change gradually over many years from rocks to grass and shrubs, eventually reaching a stable state, such as a forest. This occurs via a process of primary succession.
+---
+---
+Correct Answer = ['Ecosystems change gradually over many years from rocks to grass and shrubs, eventually reaching a stable state, such as a forest. This occurs via a process of primary succession.']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 25
+---
+---
+Question = Question:  What is the Sun’s most important role in ecosystems?
+---
+---
+Responses = ['The Sun helps to regulate the temperature of ecosystems.', 'The Sun provides all the energy for making food in ecosystems.', 'The Sun provides visible light for movement in ecosystems.', 'The Sun, as part of the solar system, has no role in ecosystems.']
+---
+---
+AI Response = The Sun provides all the energy for making food in ecosystems.
+---
+***
+Error Detected - ['Fatal Error', NameError("name 'boxes' is not defined")]
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 25
+---
+---
+Question = Question:  What is the Sun’s most important role in ecosystems?
+---
+---
+Responses = ['The Sun helps to regulate the temperature of ecosystems.', 'The Sun provides all the energy for making food in ecosystems.', 'The Sun provides visible light for movement in ecosystems.', 'The Sun, as part of the solar system, has no role in ecosystems.']
+---
+---
+AI Response = The Sun provides all the energy for making food in ecosystems.
+---
+***
+Error Detected - ['Fatal Error', NameError("name 'boxes' is not defined")]
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 25
+---
+---
+Question = Question:  What is the Sun’s most important role in ecosystems?
+---
+---
+Responses = ['The Sun helps to regulate the temperature of ecosystems.', 'The Sun provides all the energy for making food in ecosystems.', 'The Sun provides visible light for movement in ecosystems.', 'The Sun, as part of the solar system, has no role in ecosystems.']
+---
+---
+AI Response = The Sun provides all the energy for making food in ecosystems.
+---
+---
+Correct Answer = ['The Sun provides all the energy for making food in ecosystems.']
+---
+---
+Question Number = 8 of 25
+---
+---
+Question = Question:  What are trophic levels?    Select all that apply.
+---
+---
+Responses = ['They are the hierarchical layers of an ecological pyramid showing the relative size of organisms in an ecosystem. The size of organisms increases as you go upwards through each layer.', 'They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.', 'They are hierarchical layers of consumers in an ecosystem. Each layer shows whether the consumer is at a primary, secondary, or tertiary level.']
+---
+---
+AI Response = ['They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.', 'They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.']
+---
+---
+Correct Answer = ['They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.']
+---
+---
+Question Number = 8 of 25
+---
+---
+Question = Question:  What are trophic levels?    Select all that apply.
+---
+---
+Responses = ['They are the hierarchical layers of an ecological pyramid showing the relative size of organisms in an ecosystem. The size of organisms increases as you go upwards through each layer.', 'They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.', 'They are hierarchical layers of consumers in an ecosystem. Each layer shows whether the consumer is at a primary, secondary, or tertiary level.']
+---
+---
+AI Response = - They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.
+- They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.
+---
+---
+Correct Answer = ['They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.']
+---
+---
+Question Number = 8 of 25
+---
+---
+Question = Question:  What are trophic levels?    Select all that apply.
+---
+---
+Responses = ['They are the hierarchical layers of an ecological pyramid showing the relative size of organisms in an ecosystem. The size of organisms increases as you go upwards through each layer.', 'They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.', 'They are hierarchical layers of consumers in an ecosystem. Each layer shows whether the consumer is at a primary, secondary, or tertiary level.']
+---
+---
+AI Response = ['They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.', 'They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.']
+---
+---
+Program = Stopping
+---
+---
+Correct Answer = ['They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Question Number = 8 of 25
+---
+---
+Question = Question:  What are trophic levels?    Select all that apply.
+---
+---
+Responses = ['They are the hierarchical layers of an ecological pyramid showing the relative size of organisms in an ecosystem. The size of organisms increases as you go upwards through each layer.', 'They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.', 'They are hierarchical layers of consumers in an ecosystem. Each layer shows whether the consumer is at a primary, secondary, or tertiary level.']
+---
+---
+Boxes = [Box(left=302, top=490, width=20, height=26), Box(left=302, top=491, width=20, height=26), Box(left=302, top=492, width=20, height=26), Box(left=302, top=566, width=20, height=26), Box(left=302, top=567, width=20, height=26), Box(left=302, top=642, width=20, height=26), Box(left=302, top=643, width=20, height=26), Box(left=302, top=707, width=20, height=26)]
+---
+---
+OCR Responses = ['theyarethehierarchicallayersofanecologicalpyramidshowingtherelativesizeof‘organismsinanecosystem.thesizeoforganismsincreasesasyougoupwardsthrougheachlaver.', 'theyarethehierarchicallayersofanecologicalpyramidshowingtherelativesizeof‘organismsinanecosystem.thesizeoforganismsincreasesasyougoupwardsthrougheachlayer.', '‘theyarethehierarchicallayersofanecologicalpyramidshowingtherelativesizeof‘organismsinanecosystem.thesizeoforganismsincreasesasyougoupwardsthrougheachlayer.', 'theyshowthelocationoforganismsinanecosystemwithinanecologicalpyramidhierarchy.thetrophiclevelatthepyramid’sbaseconsistsofproducers,followedbysuccessivelevelsofconsumers.', '‘theyshowthelocationoforganismsinanecosystemwithinanecologicalpyramidhierarchy.thetrophiclevelatthepyramid’sbaseconsistsofproducers,followedbysuccessivelevelsofconsumers.', 'theyarehierarchicallayersoforganismsinanecosystem.eachlevelgroups‘organismswithsimilarrolesinthesystembeginningwithproducers,thenprimary,secondary.andtertiaryconsumers.', '‘theyarehierarchicallayersoforganismsinanecosystem.eachlevelgroups‘organismswithsimilarrolesinthesystembeginningwithproducers,thenprimary,secondary,andtertiaryconsumers.', 'theyarehierarchicallayersofconsumersinanecosystem.eachlayershowswhethertheconsumerisataprimary,secondary,ortertiarylevel.']
+---
+---
+Correct Answer = ['They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 8 of 25
+---
+---
+Question = Question:  What are trophic levels?    Select all that apply.
+---
+---
+Responses = ['They are the hierarchical layers of an ecological pyramid showing the relative size of organisms in an ecosystem. The size of organisms increases as you go upwards through each layer.', 'They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.', 'They are hierarchical layers of consumers in an ecosystem. Each layer shows whether the consumer is at a primary, secondary, or tertiary level.']
+---
+---
+Correct Answer = ['They show the location of organisms in an ecosystem within an ecological pyramid hierarchy. The trophic level at the pyramid’s base consists of producers, followed by successive levels of consumers.', 'They are hierarchical layers of organisms in an ecosystem. Each level groups organisms with similar roles in the system beginning with producers, then primary, secondary, and tertiary consumers.']
+---
+---
+Question Number = 9 of 25
+---
+---
+Question = Question:  Which describes how energy transfers through trophic levels?
+---
+---
+Responses = ['Energy moves through trophic levels from consumers to producers. The amount of energy decreases by about 10% from one level to the next.', 'Energy moves through trophic levels from producers to consumers. The amount of energy decreases by about 90% from one level to the next.', 'Energy moves through trophic levels from consumers to producers. The amount of energy increases by about 10% from one level to the next.', 'Energy moves through trophic levels from producers to consumers. The amount of energy increases by about 90% from one level to the next.']
+---
+---
+Program = Stopping
+---
+---
+Correct Answer = ['Energy moves through trophic levels from producers to consumers. The amount of energy decreases by about 90% from one level to the next.']
+---
+---
+Program = Starting
+---
+---
+Question Number = 10 of 25
+---
+---
+Question = Question:  In an ecological pyramid, what organisms could be at the bottom and top of the pyramid, respectively?    Select all that apply.
+---
+---
+Responses = ['An ecological pyramid could have rabbits at the bottom and deer at the top.', 'An ecological pyramid could have grass at the bottom and phytoplankton at the top.', 'An ecological pyramid could have plants at the bottom and foxes at the top.', 'An ecological pyramid could have grass at the bottom and humans at the top.', 'An ecological pyramid could have phytoplankton at the bottom and sharks at the top.']
+---
+---
+Correct Answer = ['An ecological pyramid could have grass at the bottom and phytoplankton at the top.', 'An ecological pyramid could have plants at the bottom and foxes at the top.', 'An ecological pyramid could have grass at the bottom and humans at the top.', 'An ecological pyramid could have phytoplankton at the bottom and sharks at the top.']
+---
+---
+Question Number = 11 of 25
+---
+---
+Question = Question:  In an ecosystem, which level of consumer feeds on producers?
+---
+---
+Responses = ['tertiary', 'primary', 'decomposer', 'secondary']
+---
+***
+Error Detected - OCR and Boxes do not match
+***
+---
+Boxes = [Box(left=302, top=436, width=20, height=26), Box(left=302, top=472, width=20, height=26), Box(left=302, top=509, width=20, height=26), Box(left=302, top=545, width=20, height=26)]
+---
+---
+OCR Responses = ['tertiarv', 'neprimarv', 'primarv', 'eenadecomposer', 'eeeeesecondarv']
+---
+---
+Correct Answer = ['primary']
+---
+---
+Question Number = 12 of 25
+---
+---
+Question = Question:  Which phrase best describes diverse ecosystems?
+---
+---
+Responses = ['ecosystems that have a large population of a few species in many different ecological roles', 'ecosystems that have a small population of many species in many different ecological roles', 'ecosystems that have a high variation of many species in many different ecological roles', 'ecosystems that have a low variation of a few species in a few different ecological roles']
+---
+---
+Correct Answer = ['ecosystems that have a high variation of many species in many different ecological roles']
+---
+---
+Question Number = 13 of 25
+---
+---
+Question = Question:  How does the role of fungi compare in a terrestrial ecosystem versus a marine ecosystem?
+---
+---
+Responses = ['Fungi function as decomposers in both terrestrial and marine ecosystems, breaking down decaying matter, causing the nutrients to be released for use by other organisms.', 'Fungi function as producers in both terrestrial and marine ecosystems, converting the Sun’s energy into food for primary consumers.', 'Fungi function as decomposers in terrestrial ecosystems, breaking down decaying matter, while they function as producers in marine ecosystems, converting the energy into food for consumers.', 'Fungi function as detritivores in both terrestrial and marine ecosystems, feeding on dead organic matter and eventually releasing the nutrients into the ecosystem when they die.']
+---
+***
+Error Detected - OCR and Boxes do not match
+***
+---
+Boxes = [Box(left=302, top=455, width=20, height=26), Box(left=302, top=521, width=20, height=26), Box(left=302, top=587, width=20, height=26), Box(left=302, top=663, width=20, height=26)]
+---
+---
+OCR Responses = ['fungifunctionasdecomposersinbothterrestrialandmarineecosvstemsbreakingdowndecavingmattercausingthenutrientstobereleasedforusebvotherorganisms', 'fungifunctionasdecomposersinbothterrestrialandmarineecosvstemsbreakingdowndecavingmattercausingthenutrientstobereleasedforusebvotheroraanisms', "fungifunctionasproducersinbothterrestrialandmarineecosvstemsconvertingthesun'senergvintofoodforprimarvconsumers", 'fungifunctionasdecomposersinterrestrialecosvstemsbreakingdowndecavingmatterwhilethevfunctionasproducersinmarineecosvstemsconvertingtheenergvintofoodforconsumers', 'fungifunctionasdetritivoresinbothterrestrialandmarineecosvstemsfeedingondeadorganicmatterandeventuallvreleasingthenutrientsintotheecosvstemwhenthevdie']
+---
+---
+Correct Answer = ['Fungi function as decomposers in both terrestrial and marine ecosystems, breaking down decaying matter, causing the nutrients to be released for use by other organisms.']
+---
+---
+Question Number = 14 of 25
+---
+---
+Question = Question:  Which are conditions necessary for competition within an ecosystem?    Select all that apply.  
+---
+---
+Responses = ['an interaction between species or within a species', 'a limited supply of a mutually needed resource', "an organism's interaction with environment", 'an abundant supply of sunlight']
+---
+---
+Correct Answer = ['an interaction between species or within a species', 'a limited supply of a mutually needed resource']
+---
+---
+Question Number = 15 of 25
+---
+---
+Question = Question:  What are examples of a mutualistic relationship?
+---
+---
+Responses = ['a tapeworm living inside a human', 'egrets eating insects stirred up by herds of cattle', 'wolves hunting and eating beavers', 'butterflies pollinating flowers']
+---
+***
+Error Detected - OCR and Boxes do not match
+***
+---
+Boxes = [Box(left=302, top=436, width=20, height=26), Box(left=302, top=472, width=20, height=26), Box(left=302, top=509, width=20, height=26), Box(left=302, top=545, width=20, height=26)]
+---
+---
+OCR Responses = ['atapewormlivinginsideahuman', 'iinetetheneaeegretseatinginsectsstirredupbvherdsofcattle', 'egretseatinginsectsstirredupbvherdsofcattle', 'nnwolveshuntingandeatingbeavers', 'eeeedlbutterfliespollinatingflowers']
+---
+---
+Correct Answer = ['egrets eating insects stirred up by herds of cattle', 'butterflies pollinating flowers']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...s
+---
+---
+Question Number = 17 of 25
+---
+---
+Question = Question:  Which describes how feedback systems control an ecosystem?
+---
+---
+Responses = ['Feedback systems allow an ecosystem to remain stable during a disturbance.', 'Feedback systems ensure that the amount of energy in the system is constant.', 'Feedback systems affect changes to a disturbance in the system.', 'Feedback systems trigger ecological succession to occur in the system.']
+---
+***
+Error Detected - OCR and Boxes do not match
+***
+---
+Boxes = [Box(left=302, top=436, width=20, height=26), Box(left=302, top=472, width=20, height=26), Box(left=302, top=509, width=20, height=26), Box(left=302, top=545, width=20, height=26)]
+---
+---
+OCR Responses = ['feedbacksvstemsallowanecosvstemtoremainstableduringadisturbance', 'eeeeenoeifeedbacksvstemsensurethattheamountofenergvinthesvstemisconstant', 'feedbacksvstemsensurethattheamountofenergvinthesvstemisconstant', 'eeereena_aaefeedbacksvstemsaffectchangestoadisturbanceinthesvstem', 'neeeeeeeeoeeleoofeedbacksvstemstriggerecologicalsuccessiontooccurinthesvstem']
+---
+---
+Correct Answer = ['Feedback systems allow an ecosystem to remain stable during a disturbance.']
+---
+---
+Question Number = 18 of 25
+---
+---
+Question = Question:  What is positive feedback?
+---
+---
+Responses = ['a change in a system that causes another change', 'a change in a system that evens out a previous change', 'a change in a system that amplifies a previous change', 'a change in a system that reduces a previous change']
+---
+***
+Error Detected - OCR and Boxes do not match
+***
+---
+Boxes = [Box(left=302, top=436, width=20, height=26), Box(left=302, top=472, width=20, height=26), Box(left=302, top=509, width=20, height=26), Box(left=302, top=545, width=20, height=26)]
+---
+---
+OCR Responses = ['achangeinasvstemthatcausesanotherchange', 'ieiachangeinasvstemthatevensoutapreviouschange', 'achangeinasvstemthatevensoutapreviouschange', 'ieeeachangeinasvstemthatamplifiesapreviouschange', 'ieeeachangeinasvstemthatreducesapreviouschange']
+---
+---
+Correct Answer = ['a change in a system that amplifies a previous change']
+---
+---
+Question Number = 19 of 25
+---
+---
+Question = Question:  In a grassland ecosystem, an ample supply of grass causes an increase in the rabbit population. The rabbit population is, in turn, controlled by its predator, the fox.    What feedback mechanism is this an example of, and why?
+---
+---
+Responses = ['positive feedback; each change that caused an increase led to another change that caused an increase', 'negative feedback; each change that caused an increase led to another change that reversed the increase', 'positive feedback; each change that caused an increase led to another change that reversed the increase', 'negative feedback; each change that caused an increase led to another change that caused an increase']
+---
+---
+Correct Answer = ['negative feedback; each change that caused an increase led to another change that reversed the increase']
+---
+---
+Question Number = 20 of 25
+---
+---
+Question = Question:  What type of system is an ecosystem and why?
+---
+---
+Responses = ['Isolated system, because energy and matter can move in or out of the ecosystem.', 'Isolated system, because neither energy or matter can move in or out of the ecosystem.', 'Open system, because energy and matter can move in or out of the ecosystem.', 'Open system, because only energy is able to move in or out of the ecosystem.']
+---
+***
+Error Detected - OCR and Boxes do not match
+***
+---
+Boxes = [Box(left=302, top=436, width=20, height=26), Box(left=302, top=482, width=20, height=26), Box(left=302, top=528, width=20, height=26), Box(left=302, top=565, width=20, height=26)]
+---
+---
+OCR Responses = ['isolatedsvstembecauseenergvandmattercanmoveinoroutoftheecosvstem', 'isolatedsvstembecauseneitherenergvormattercanmoveinoroutoftheecosvstem', 'eeeopensvstembecauseenergvandmattercanmoveinoroutoftheecosvstem', 'opensvstembecauseenergvandmattercanmoveinoroutoftheecosvstem', 'oeoneeeeeieeeeioiopensvstembecauseonlvenergvisabletomoveinoroutoftheecosvstem']
+---
+---
+Correct Answer = ['Open system, because energy and matter can move in or out of the ecosystem.']
+---
+---
+Question Number = 21 of 25
+---
+---
+Question = Question:  Which statement best describes how matter and energy move through an ecosystem?
+---
+---
+Responses = ['Energy is recycled through the system, but only a small proportion of matter flows through.', 'Matter is recycled through the system, but only a small proportion of energy flows through.', 'Matter is recycled through the system, and most of the energy flows through with only a small proportion lost.', 'Both matter and energy are recycled through the system so that none of either is lost.']
+---
+---
+Correct Answer = ['Energy is recycled through the system, but only a small proportion of matter flows through.']
+---
+---
+Question Number = 22 of 25
+---
+---
+Question = Question:  What describes a food web?
+---
+---
+Responses = ['diagrams that show how organisms’ feeding has changed over time', 'interconnected pathways that show how various organisms feed', 'a pathway that shows which organism feeds on another', 'a flowchart that shows how biomass changes between trophic levels']
+---
+***
+Error Detected - OCR and Boxes do not match
+***
+---
+Boxes = [Box(left=302, top=436, width=20, height=26), Box(left=302, top=472, width=20, height=26), Box(left=302, top=509, width=20, height=26), Box(left=302, top=545, width=20, height=26)]
+---
+---
+OCR Responses = ['diagramsthatshowhoworganismsfeedinghaschangedovertime', 'eeoeeeinterconnectedpathwavsthatshowhowvariousorganismsfeed', 'interconnectedpathwavsthatshowhowvariousorganismsfeed', 'eeeeeeieeadeeoesapathwavthatshowswhichorganismfeedsonanother', 'ioaflowchartthatshowshowbiomasschangesbetweentrophiclevels']
+---
+---
+Correct Answer = ['interconnected pathways that show how various organisms feed']
+---
+***
+Error Detected - ['Fatal Error', NameError("name 'boxes' is not defined")]
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.               What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+---
+Correct Answer = ['The population of snakes would decrease and the population of mice would increase.']
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.               What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+---
+Correct Answer = ['The population of snakes would decrease and the population of mice would increase.']
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.               What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+---
+Program = Stopping
+---
+---
+Correct Answer = ['The population of snakes would decrease and the population of mice would increase.']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.               What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+---
+Correct Answer = ['The population of snakes would decrease and the population of mice would increase.']
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.               What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+---
+Correct Answer = ['The population of snakes would decrease and the population of mice would increase.']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock    Long Description         What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+***
+Error Detected - Could not find checkboxes
+***
+---
+Program = Exiting
+---
+[ WARN:0@22.749] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+***
+Error Detected - ['Fatal Error', OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format')]
+***
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.               What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+---
+Program = Stopping
+---
+---
+Boxes = [Box(left=713, top=199, width=20, height=26), Box(left=302, top=630, width=20, height=26), Box(left=302, top=676, width=20, height=26), Box(left=302, top=713, width=20, height=26), Box(left=302, top=759, width=20, height=26)]
+---
+---
+OCR Responses = ['', 'thepopulationofsnakeswoulddecreaseandthepopulationofmicewouldincrease', 'thepopulationofbothsnakesandmicewouldincrease', 'eeiedeethepopulationofbothsnakesandmicewoulddecrease', 'thepopulationofsnakeswouldincreaseandthepopulationofmicewoulddecrease']
+---
+---
+Correct Answer = ['The population of snakes would decrease and the population of mice would increase.']
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock    Long Description         What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+***
+Error Detected - Could not find checkboxes
+***
+---
+Program = Exiting
+---
+[ WARN:0@6.095] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+***
+Error Detected - ['Fatal Error', OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format')]
+***
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  Consider the food web shown:    Illustration of a food web beginning with green plants and showing several chains that end with a kite and a lion.    snapgalleria/Shutterstock      Long Description: Food Web Image  A food web containing a green plant at the first level, arrows pointing to a mouse, a rabbit, and a goat on the next level. Arrows from the mouse point to the snake, owl, and wildcat. Arrows from the rabbit point to the jackal and wildcat. Arrows from the goat point to the lion and jackal. An arrow from the snake points to the kite. An arrow from the wildcat points to the lion. An arrow from the jackal points to the lion.               What is the likely effect of removing the kite on the population of both snakes and mice?
+---
+---
+Responses = ['The population of snakes would decrease and the population of mice would increase.', 'The population of both snakes and mice would increase.', 'The population of both snakes and mice would decrease.', 'The population of snakes would increase and the population of mice would decrease.']
+---
+---
+Boxes = [Box(left=302, top=676, width=20, height=26), Box(left=302, top=713, width=20, height=26), Box(left=302, top=759, width=20, height=26)]
+---
+---
+OCR Responses = ['thepopulationofbothsnakesandmicewouldincrease', 'eeiedeethepopulationofbothsnakesandmicewoulddecrease', 'thepopulationofsnakeswouldincreaseandthepopulationofmicewoulddecrease']
+---
+---
+Correct Answer = ['The population of snakes would decrease and the population of mice would increase.']
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 25 of 25
+---
+---
+Question = Question:  Food chain beginning with the Sun, showing a leaf - caterpillar - bird - snake relationship and their relationship to detritivores.    NoPainNoGain/Shutterstock      Food Chain Image  Long Description  Circular food chain shows the Sun, with an arrow going to a leaf. There is an arrow from the leaf to the caterpillar, another from the caterpillar to a bird, and another from the bird to a snake. The leaf, caterpillar, bird, and snake all have a second arrow going to a mix of worms and mushrooms, which is in the center of the food chain.               In the example shown of a food chain in an ecosystem, what percent of the Sun’s energy is available to the caterpillar and the bird for food?
+---
+---
+Responses = ['The caterpillar has approximately 50% of the Sun’s energy available to it, and the bird has approximately 5% available to it.', 'The caterpillar has approximately 1% of the Sun’s energy available to it, and the bird has approximately 0.1% available to it.', 'The caterpillar has approximately 100% of the Sun’s energy available to it, and the bird has approximately 10% available to it.', 'The caterpillar has approximately 10% of the Sun’s energy available to it, and the bird has approximately 1% available to it.']
+---
+---
+Boxes = [Box(left=302, top=591, width=20, height=26), Box(left=302, top=647, width=20, height=26), Box(left=302, top=703, width=20, height=26), Box(left=302, top=759, width=20, height=26)]
+---
+---
+OCR Responses = ["thecaterpillarhasapproximatelv50%ofthesun'senergvavailabletoitandthebirdhasapproximatelv5%availabletoit", 'thecaterpillarhasapproximatelv1%ofthesunsenergvavailabletoitandthebirdhasapproximatelv01%availabletoit', "thecaterpillarhasapproximatelv100%ofthesun'senergvavailabletoitandthebirdhasapproximatelv10%availabletoit", "thecaterpillarhasapproximatelv10%ofthesun'senergvavailabletoitandthebirdhasapproximatelv1%availabletoit"]
+---
+---
+Correct Answer = ['The caterpillar has approximately 1% of the Sun’s energy available to it, and the bird has approximately 0.1% available to it.']
+---
+---
+Percentage = 87
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Which statement best explains why genetic variation is significant?
+---
+---
+Responses = ['Genetic variation leads to every individual having a different appearance, which helps them identify one another.', 'Some individuals have traits that give them a competitive advantage, increasing their ability to survive and reproduce.', 'Competition cannot occur without genetic variation.']
+---
+---
+Boxes = [Box(left=302, top=529, width=20, height=26), Box(left=302, top=585, width=20, height=26), Box(left=302, top=631, width=20, height=26)]
+---
+---
+OCR Responses = ['geneticvariationleadstoevervindividualhavingadifferentappearancewhichhelpsthemidentifvoneanother', 'someindividualshavetraitsthatgivethemacompetitiveadvantageincreasingtheirabilitvtosurviveandreproduce', 'necompetitioncannotoccurwithoutgeneticvariation']
+---
+---
+Correct Answer = ['Some individuals have traits that give them a competitive advantage, increasing their ability to survive and reproduce.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which statements most accurately reflect aspects of differential reproductive success?    Select all that apply.
+---
+---
+Responses = ['Individuals who reproduce pass their traits on to their offspring.', 'More fit individuals have higher survival and reproduction rates.', 'Offspring with advantageous traits from their fit parents are guaranteed to survive and reproduce.', 'Some individuals are more fit than others.']
+---
+---
+Boxes = [Box(left=302, top=554, width=20, height=26), Box(left=302, top=590, width=20, height=26), Box(left=302, top=636, width=20, height=26), Box(left=302, top=683, width=20, height=26)]
+---
+---
+OCR Responses = ['individualswhoreproducepasstheirtraitsontotheiroffspring', 'morefitindividualshavehighersurvivalandreproductionrates', 'offspringwithadvantageoustraitsfromtheirfitparentsareguaranteedtosurviveandreproduce', 'someindividualsaremorefitthanothers']
+---
+---
+Correct Answer = ['Individuals who reproduce pass their traits on to their offspring.', 'More fit individuals have higher survival and reproduction rates.', 'Some individuals are more fit than others.']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which statement best defines "fitness?"
+---
+---
+Responses = ['how strong or healthy an individual is compared to other individuals', 'the ability of some individuals to be better suited for survival and reproduction', 'the differences in the traits of organisms from the same species', 'a trait that makes an individual different']
+---
+---
+Boxes = [Box(left=302, top=519, width=20, height=26), Box(left=302, top=555, width=20, height=26), Box(left=302, top=592, width=20, height=26), Box(left=302, top=628, width=20, height=26)]
+---
+---
+OCR Responses = ['howstrongorhealthvanindividualiscomparedtootherindividuals', 'deeeieoontheabilitvofsomeindividualstobebettersuitedforsurvivalandreproduction', 'eeeeeeebepeieethedifferencesinthetraitsoforganismsfromthesamespecies', 'eeeeatraitthatmakesanindividualdifferent']
+---
+---
+Correct Answer = ['the ability of some individuals to be better suited for survival and reproduction']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which statement best defines "gene?"
+---
+---
+Responses = ['a section of DNA that controls a trait', 'a structure that consists of threadlike strands of DNA, wound up and bound to proteins.', 'one of two forms that determine the traits an organism displays', 'a double-stranded macromolecule that carries all of an organism’s genetic information']
+---
+---
+Boxes = [Box(left=302, top=519, width=20, height=26), Box(left=302, top=565, width=20, height=26), Box(left=302, top=611, width=20, height=26), Box(left=302, top=658, width=20, height=26)]
+---
+---
+OCR Responses = ['asectionofdnathatcontrolsatrait', 'astructurethatconsistsofthreadiikestrandsofdnawoundupandboundtoproteins', 'eeeoneoftwoformsthatdeterminethetraitsanorganismdisplavs', "adouble-strandedmacromoleculethatcarriesallofanorganism'sgeneticinformation"]
+---
+---
+Correct Answer = ['a section of DNA that controls a trait']
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  Which statement best defines "natural selection"?
+---
+---
+Responses = ['a process by which individuals that carry advantageous traits survive and produce offspring', 'the ability of some individuals to be better suited for survival and reproduction in particular habitat', 'a trait that is passed down or acquired from ancestors that gives a competitive advantage', 'the number of offspring produced that produce additional offspring with the same inherited traits']
+---
+---
+Correct Answer = ['a process by which individuals that carry advantageous traits survive and produce offspring']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which statement best defines "species"?
+---
+---
+Responses = ['various groups of organisms in the same location interacting with their habitat', 'a group of organisms that all have similar features and behaviors', 'several different groups of organisms living in the same place', 'a group of potentially interbreeding organisms that have the ability to produce fertile offspring']
+---
+---
+Correct Answer = ['a group of potentially interbreeding organisms that have the ability to produce fertile offspring']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which statements about overproduction with regard to reproduction are true?    Select all that apply.
+---
+---
+Responses = ['The reproductive success resulting from overproduction means at least some offspring will have the same successful traits as their parents.', 'More offspring are produced than can survive, which helps guarantee that at least some individuals survive.', 'Overproduction ensures that some individuals survive and go on to reproduce; this is known as reproductive success.', 'Animals reproduce until the end of their natural life cycle, mating consistently and always producing offspring.']
+---
+---
+Correct Answer = ['More offspring are produced than can survive, which helps guarantee that at least some individuals survive.', 'Overproduction ensures that some individuals survive and go on to reproduce; this is known as reproductive success.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Which statement best defines "variation"?
+---
+---
+Responses = ['differences in appearance that arise as an organism grows and matures', 'an array of different levels of fitness and success in a species', 'different appearances in organisms of the same species', 'physical differences acquired over an individual’s lifetime']
+---
+---
+Correct Answer = ['different appearances in organisms of the same species']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What is the significance of high genetic variation in a species?
+---
+---
+Responses = ['The species will have individuals that all look, act, and smell different.', 'The species as a whole will have a greater or lesser level of fitness.', 'The species that has a wide variety of traits is more likely to survive, reproduce, and thrive as time passes.', 'The species will have an increased chance of survival, as all individuals have an advantage.']
+---
+---
+Correct Answer = ['The species that has a wide variety of traits is more likely to survive, reproduce, and thrive as time passes.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which statement best defines "fitness"?
+---
+---
+Responses = ['the increase in frequency of a particular genetic makeup in subsequent generations due to inheritance', 'the overall health of an individual and their ability to survive illnesses', 'a physical characteristic becoming more common as it is passed down from one generation to the next', 'the ability of some individuals to be better suited for survival and reproduction']
+---
+---
+Correct Answer = ['the ability of some individuals to be better suited for survival and reproduction']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is a section of DNA that controls a trait called?
+---
+---
+Responses = ['fitness', 'gene', 'species', 'characteristic']
+---
+---
+Correct Answer = ['gene']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  When environments are highly unstable and changing rapidly, what happens to the natural selection of a species?
+---
+---
+Responses = ['Species stay the same because changes occur so rapidly that they do not have time to adapt and evolve.', 'Natural selection cannot keep up with rapidly changing environments and the species will go extinct as a result.', 'Individuals with advantageous traits that help them adapt to the changes will go on to reproduce, and the population will evolve to survive in the new environment.', 'Organisms have to migrate away from the area if their habitat changes, as it is no longer suitable for them.']
+---
+---
+Correct Answer = ['Individuals with advantageous traits that help them adapt to the changes will go on to reproduce, and the population will evolve to survive in the new environment.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  Medium ground finches on the Galapagos Islands eat a variety of seeds. Some finches have larger beaks and can eat harder, larger seeds. Some finches have smaller beaks and can eat smaller, softer seeds. When droughts occur, the smaller and softer seeds are no longer available. How will natural selection affect the population of medium ground finches when faced with prolonged drought?    Select all that apply.
+---
+---
+Responses = ['Individuals with larger beaks will survive at higher rates.', 'Individuals with smaller beaks will survive at higher rates.', 'The frequency of large beaks in the population will increase.', 'Individuals with larger beaks will die at higher rates.', 'Individuals with smaller beaks will die at higher rates.', 'The frequency of small beaks in the population will increase.']
+---
+---
+Correct Answer = ['Individuals with larger beaks will survive at higher rates.', 'The frequency of large beaks in the population will increase.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  How did the Industrial Revolution lead to an increase in air pollution?
+---
+---
+Responses = ['Coal burning in factories released a lot of smoke, dust, and chemicals.', 'Many new technologies were invented and implemented.', 'Engines used to transport goods released steam into the air.', 'Productivity increased at high rates.']
+---
+---
+Correct Answer = ['Coal burning in factories released a lot of smoke, dust, and chemicals.']
+---
+---
+Percentage = 93
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What is biodiversity?
+---
+---
+Responses = ['a population that lives in an ecosystem', 'a species that lives in an ecosystem', 'the variety of organisms at all levels in an ecosystem', 'the biotic and abiotic factors in an ecosystem']
+---
+---
+Correct Answer = ['the variety of organisms at all levels in an ecosystem']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which statement explains how biodiversity arises?
+---
+---
+Responses = ['Biodiversity arises from speciation, in which new species of organisms emerge.', 'Biodiversity depends on organisms of different species breeding with one another.', 'Extinction creates biodiversity because resources are available for new species.', 'Environmental destruction supports biodiversity because new environments are made for new species.']
+---
+---
+Correct Answer = ['Biodiversity arises from speciation, in which new species of organisms emerge.']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Many years ago, an earthquake occurred. The development of a large crevice kept two populations of the same species of squirrels apart. Eventually, a new species of squirrels emerged on one side of the crevice. Which method of speciation does this describe?
+---
+---
+Responses = ['sympatric', 'isolation', 'inbreeding', 'allopatric']
+---
+---
+Correct Answer = ['allopatric']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Why is genetic variation important?
+---
+---
+Responses = ['It allows for organisms to live in the same habitat.', 'It allows species to better adapt to environmental changes.', 'It helps organisms inbreed with one another.']
+---
+---
+Correct Answer = ['It allows species to better adapt to environmental changes.']
+---
+---
+Percentage = 100
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What is biodiversity?
+---
+---
+Responses = ['a species living in an ecosystem', 'the biotic and abiotic factors in an ecosystem', 'the variety of organisms at all levels in an ecosystem', 'a population of organisms living in an ecosystem']
+---
+---
+Correct Answer = ['the variety of organisms at all levels in an ecosystem']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which factors decrease biodiversity?
+---
+---
+Responses = ['isolation and human impact', 'speciation and extinction', 'evolution and mutations', 'extinction and human impact']
+---
+---
+Correct Answer = ['extinction and human impact']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  How does biodiversity increase?
+---
+---
+Responses = ['slowly over time, by speciation', 'slowly, as humans affect ecosystems', 'quickly, by environmental destruction of habitats', 'quickly, by an increase in genetic disorders']
+---
+---
+Correct Answer = ['slowly over time, by speciation']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What are some causes of species diversity?
+---
+---
+Responses = ['inbreeding and human impact', 'reproductive isolation and mutations', 'genetic disorders and inbreeding', 'speciation and extinction']
+---
+---
+Correct Answer = ['reproductive isolation and mutations']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What is a mutation?
+---
+---
+Responses = ['addition of genes to gene pool', 'change in the nucleotide sequence of the genome', 'damage to an organism’s cells', 'reduction in individuals in a population']
+---
+---
+Correct Answer = ['change in the nucleotide sequence of the genome']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which is a method of speciation due to isolation?
+---
+---
+Responses = ['inbreeding', 'allopatric', 'sympatric', 'mutation']
+---
+---
+Correct Answer = ['allopatric']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What is the significance of genetic variation?
+---
+---
+Responses = ['increases genetic disorders', 'decreases speciation', 'leads to speciation', 'allows for inbreeding']
+---
+---
+Correct Answer = ['leads to speciation']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is inbreeding?
+---
+---
+Responses = ['the combination of all alleles from two individuals', 'when two individuals of the same species reproduce', 'when two closely related individuals reproduce', 'the combination of all genes from two individuals']
+---
+---
+Correct Answer = ['when two closely related individuals reproduce']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What are some effects of inbreeding?
+---
+---
+Responses = ['genetic disorders and less genetic variation', 'genetic variation and less biodiversity', 'sympatric speciation and more genetic disorders', 'allopatric speciation and more biodiversity']
+---
+---
+Correct Answer = ['genetic disorders and less genetic variation']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What is a genetic disorder?
+---
+---
+Responses = ['genetic drift caused by an abnormality in the genetic makeup of an organism', 'type of speciation due to genetic variation', 'a health problem caused by an abnormality in the genetic makeup of an organism', 'type of isolation leading to a health problem']
+---
+---
+Correct Answer = ['a health problem caused by an abnormality in the genetic makeup of an organism']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What are possible causes of biodiversity loss?    Select all that apply.
+---
+---
+Responses = ['constructing a new multi-lane highway as a shortcut through a tropical rainforest', 'an area experiencing hotter and rainier weather than it previously did over a prolonged period of years', 'introducing a new species of snake to a habitat that does not have snakes', 'replanting the same type of trees in an area where those trees were lost to fire']
+---
+---
+Correct Answer = ['constructing a new multi-lane highway as a shortcut through a tropical rainforest', 'introducing a new species of snake to a habitat that does not have snakes']
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...ss
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which defines invasive species?
+---
+---
+Responses = ['an organism that moves from habitat to habitat over its lifetime, scavenging for the remains left over by native organisms', 'an organism that has lived in an ecosystem over a long period of time and interacts with other organisms living there', 'an organism that is not native to a particular area', 'an organism that moves away from a particular area']
+---
+---
+Correct Answer = ['an organism that is not native to a particular area']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  What is the traditional role native zooplankton play in the Great Lakes ecosystem?
+---
+---
+Responses = ['They are food for zebra mussels.', 'They are predators.', 'They are food for algae.', 'They are food for fish.']
+---
+---
+Correct Answer = ['They are food for fish.']
+---
+---
+Percentage = 91
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What factors can cause loss of biodiversity in an ecosystem?    Select all that apply.
+---
+---
+Responses = ['habitat fragmentation', 'the introduction of a native species', 'the introduction of an invasive species', 'increased breeding of native species', 'a change in climate']
+---
+---
+Correct Answer = ['habitat fragmentation', 'the introduction of an invasive species', 'a change in climate']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What is habitat fragmentation?
+---
+---
+Responses = ['the process in which a larger habitat becomes isolated due to a landslide', 'the process in which a larger habitat gets divided into smaller habitats', 'the process in which smaller habitats merge together into a larger one', 'the process in which a small habitat expands into new territories']
+---
+---
+Correct Answer = ['the process in which a larger habitat gets divided into smaller habitats']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which best describe how the biodiversity of a species' population might become reduced?     Select all that apply.
+---
+---
+Responses = ['The species becomes separated from its primary food source.', 'The species becomes prey to another new species.', 'The species is introduced into a similar ecosystem.', 'The species population gains a foothold in a new ecosystem.']
+---
+---
+Correct Answer = ['The species becomes separated from its primary food source.', 'The species becomes prey to another new species.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What is an invasive species?
+---
+---
+Responses = ['an organism that had gone extinct in a particular area', 'an organism that is native to a particular area', 'an organism that is not native to a particular area', 'an organism that had been hiding in a particular area']
+---
+---
+Correct Answer = ['an organism that is not native to a particular area']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What is an invasive species on the island of Guam?
+---
+---
+Responses = ['birds', 'brown tree snakes', 'lizards', 'bats']
+---
+---
+Correct Answer = ['brown tree snakes']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What does an increase in the growth of toxic algae bloom caused by zebra mussels in the Great Lakes lead to?    Select all that apply.
+---
+---
+Responses = ['increased death rate of marine organisms', 'a depletion in the oxygen levels of the water', 'water temperatures that are too hot for aquatic life', 'aquatic plants not getting enough sunlight for growth']
+---
+---
+Correct Answer = ['increased death rate of marine organisms', 'a depletion in the oxygen levels of the water']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What effect do zebra mussels have on the food web of the ecosystem of the Great Lakes?
+---
+---
+Responses = ['They decrease available food for fish.', 'They increase available food for algae.', 'They force birds to migrate to find food.', 'They lead to an overpopulation of birds.']
+---
+---
+Correct Answer = ['They decrease available food for fish.']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is a native species?
+---
+---
+Responses = ['a new species that moves to occupy an area', 'the original species occupying an area', 'the photosynthetic plants occupying an area', 'a microscopic species occupying an area']
+---
+---
+Correct Answer = ['the original species occupying an area']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What are the roles of birds in the Great Lakes ecosystem?    Select all that apply.
+---
+---
+Responses = ['producers', 'consumers', 'predators', 'invasive species']
+---
+---
+Correct Answer = ['consumers', 'predators']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What roles do native algae play in the Great Lakes ecosystem?     Select all that apply.
+---
+---
+Responses = ['They are the base of the food web.', 'They produce oxygen.', 'They produce bloom for water beautification.', 'They remove carbon dioxide.']
+---
+---
+Correct Answer = ['They are the base of the food web.', 'They produce oxygen.', 'They remove carbon dioxide.']
+---
+---
+Percentage = 96
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  How has hybridization affected the endangered spotted owl in Washington State?
+---
+---
+Responses = ['Predatory mammals are hybridizing and preying on barred owls, making the owl population decline.', "Hybridization of the spotted owl's prey has caused the spotted owl to become endangered.", 'Trees in which the spotted owls make nests are hybridizing with other trees and are declining, causing a lack of shelter for the owls.', 'Competition and hybridization from barred owls have caused the spotted owl to become endangered.']
+---
+---
+Correct Answer = ['Competition and hybridization from barred owls have caused the spotted owl to become endangered.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  What are endangered species?
+---
+---
+Responses = ['Endangered species are any species with an increasing population in a specific location.', 'Endangered species are any species that cannot be saved by conservation efforts.', 'Endangered species are any species that face competition and habitat loss in an area.', 'Endangered species are any species in danger of going extinct in a specific area or worldwide.']
+---
+---
+Correct Answer = ['Endangered species are any species in danger of going extinct in a specific area or worldwide.']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  What does the Endangered Species Act do?
+---
+---
+Responses = ['The act protects endangered species and predators that prey on them.', 'The act protects endangered species and their habitat.', 'The act protects endangered species and their prey.', 'The act protects the habitat of endangered species and humans that live nearby.']
+---
+---
+Correct Answer = ['The act protects endangered species and their habitat.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  Which are ethical questions regarding conservation?    Select all that apply.
+---
+---
+Responses = ['Should we allow species to disappear due to climate change?', 'Is it right to create hybrids to save a species?', 'Does the protection of a hybrid add to society?', 'Can we afford to add hybrids to management plans?']
+---
+---
+Correct Answer = ['Should we allow species to disappear due to climate change?', 'Is it right to create hybrids to save a species?']
+---
+---
+Percentage = 100
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What term means to cross two different varieties or species?
+---
+---
+Responses = ['conservation', 'hybridize', 'sympatric', 'inbreeding']
+---
+---
+Correct Answer = ['hybridize']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  How could hybridization affect endangered species?
+---
+---
+Responses = ['Hybrids could help endangered species find resources, and this would increase their population.', 'Hybrids might reproduce with existing species, and this would produce super-hybrids.', 'Coexisting with the hybrids might cause other species to gain the hybrid’s traits.', 'Hybrids might introduce genes into endangered species, and these genes could help them survive.']
+---
+---
+Correct Answer = ['Hybrids might introduce genes into endangered species, and these genes could help them survive.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which is true of endangered species?
+---
+---
+Responses = ['They are in danger of moving habitats.', 'They are in danger of going extinct.', 'They are in danger of human attack.', 'They are in danger of becoming prey.']
+---
+---
+Correct Answer = ['They are in danger of going extinct.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Which organisms are endangered?    Select all that apply.
+---
+---
+Responses = ['grizzly bears', 'California condor', 'Garry oak', 'scotch broom']
+---
+---
+Correct Answer = ['grizzly bears', 'California condor']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  The Endangered Species Act was passed in 1972.     What does this act help protect?
+---
+---
+Responses = ['well-known species and their habitats', 'edible species and their habitats', 'at-risk species and their habitats', 'useful species and their habitats']
+---
+---
+Correct Answer = ['at-risk species and their habitats']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which are ethical issues that surround conservation?    Select all that apply.
+---
+---
+Responses = ['It may cost too much money if effort is spent on making hybrids.', 'It may be unknown how hybridized organisms impact other species around them.', 'It may be unfair to choose which organisms should go extinct and which organisms should be saved.']
+---
+---
+Correct Answer = ['It may be unknown how hybridized organisms impact other species around them.', 'It may be unfair to choose which organisms should go extinct and which organisms should be saved.']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which questions address social issues about conservation?    Select all that apply.
+---
+---
+Responses = ['Can protecting one species cause harm to another species?', 'Can protecting a species add to the amount of hunting and wildlife viewing?', 'Does protecting a species cause difficulty in a society?', 'Does protecting a species involve hidden costs?']
+---
+---
+Correct Answer = ['Does protecting a species cause difficulty in a society?', 'Does protecting a species involve hidden costs?']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What economic issues should be considered during conservation?    Select all that apply.
+---
+---
+Responses = ['Do hybrids impact homeowners?', 'What money should be spent protecting endangered species?', 'Are hybrid organisms an affordable strategy?', 'Does the protection of a species affect hunting?']
+---
+---
+Correct Answer = ['What money should be spent protecting endangered species?', 'Are hybrid organisms an affordable strategy?']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What are some political issues with conservation?    Select all that apply.
+---
+---
+Responses = ['People may not want to protect a species if it can do harm to them.', 'People may oppose different conservation viewpoints and petition or rally against those people.', 'People may view the protection of organisms differently and group together.', 'People may want to protect a species that is visually more appealing and well known.']
+---
+---
+Correct Answer = ['People may not want to protect a species if it can do harm to them.', 'People may oppose different conservation viewpoints and petition or rally against those people.', 'People may view the protection of organisms differently and group together.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What is an advantage to using hybridization in endangered species conservation efforts?
+---
+---
+Responses = ['Hybridization offers quick results and requires little effort.', 'Hybridization might allow scientists to get new genes into a population to help it adapt more quickly.', 'Hybridization happens naturally, and so no ethical concerns are associated with it.', 'Hybridization is much less expensive than other conservation techniques.']
+---
+---
+Correct Answer = ['Hybridization might allow scientists to get new genes into a population to help it adapt more quickly.']
+---
+---
+Percentage = 82
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  Which of these statements is correct for a gene drive?
+---
+---
+Responses = ['The altered gene will be inherited more than 50% of the time.', 'The altered gene is inherited in alternate generations.', 'The normal gene is inherited in alternate generations.', 'The normal gene is always inherited.']
+---
+---
+Correct Answer = ['The altered gene will be inherited more than 50% of the time.']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which of these is a likely application of a gene drive?
+---
+---
+Responses = ['It can be used to eliminate an invasive species.', 'It can be used to increase the lifespan of any organism.', 'It can be used to produce a new native species under laboratory conditions.', 'It can be used to reduce the number of genes in an organism.']
+---
+---
+Correct Answer = ['It can be used to eliminate an invasive species.']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which of these statements explains the working of a gene drive?
+---
+---
+Responses = ['It utilizes CRISPR to copy DNA from one chromosome to another.', 'It ensures the transfer of recombinant DNA from one species into another species.', 'It modifies an organism by moving all its genes to new locations on its chromosomes']
+---
+---
+Correct Answer = ['It utilizes CRISPR to copy DNA from one chromosome to another.']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  How are genes for a trait normally inherited?
+---
+---
+Responses = ['Genes for a trait remain the same in every generation.', 'Genes for a trait are passed down from the offspring and inherited to the parents.', 'Genes for a trait are passed down from the parents and inherited by the offspring.', 'Genes for a trait are directly inherited by the son from his father only.']
+---
+---
+Correct Answer = ['Genes for a trait are passed down from the parents and inherited by the offspring.']
+---
+---
+Percentage = 100
+---
+***
+Error Detected - Could not find next to click
+***
+***
+Error Detected - Could not find next to click
+***
+***
+Error Detected - Could not find next to click
+***
+---
+Quiz Detected - Press Enter when you are ready to continue...ss---
+Program = Stopping
+---s
+---
+Program = Exiting
+---
+
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>

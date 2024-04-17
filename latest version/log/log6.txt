@@ -1,0 +1,2680 @@
+log6 (Environmental Science A Unit 1 Testing)
+
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 4
+---
+---
+Question = Question:  What makes up the geosphere?    Select all that apply.
+---
+---
+Responses = ['salt water', 'heavy metals', 'glaciers', 'sediments']
+---
+---
+Correct Answer = ['glaciers', 'sediments']
+---
+---
+Question Number = 2 of 4
+---
+---
+Question = Question:  Which are part of the biosphere?    Select all that apply.
+---
+---
+Responses = ['icicles', 'freshwater', 'humans', 'minerals', 'bacteria']
+---
+---
+Correct Answer = ['freshwater', 'humans', 'bacteria']
+---
+---
+Question Number = 3 of 4
+---
+---
+Question = Question:  Which are components that make up the hydrosphere?    Select all that apply.
+---
+---
+Responses = ['river', 'ocean', 'desert', 'volcano']
+---
+---
+Correct Answer = ['river', 'ocean']
+---
+---
+Question Number = 4 of 4
+---
+---
+Question = Question:  What is an interaction between the geosphere and atmosphere?
+---
+---
+Responses = ['Air blows dandelion seeds to a new location.', 'A snowflake falls to the ground and melts.', 'A dog takes a drink of water from a stream.', 'Wind carries particles of soil and rock from a dusty path.']
+---
+---
+Correct Answer = ['Wind carries particles of soil and rock from a dusty path.']
+---
+---
+Percentage = 75
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  Which defines the cryosphere?
+---
+---
+Responses = ['The cryosphere is molten rock, heavy metals, and minerals in the interior of Earth.', 'The cryosphere is a thin layer of gases at and above Earth’s surface.', 'The cryosphere is made up of ice, including glaciers, ice caps, and river ice.', 'The cryosphere is all previously living and currently living organisms.']
+---
+---
+Correct Answer = ['The cryosphere is made up of ice, including glaciers, ice caps, and river ice.']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which cryosphere components would you likely find in Greenland or Antarctica?    Select all that apply.
+---
+---
+Responses = ['glaciers', 'ice caps', 'sand particles', 'molten rock']
+---
+---
+Correct Answer = ['glaciers', 'ice caps']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  What defines the geosphere?
+---
+---
+Responses = ['The geosphere is a thin layer of gases at and above Earth’s surface.', 'The geosphere is the solid part of Earth that is made up of geologic materials.', 'The geosphere is all of the liquid water on Earth, including streams, rivers, lakes, and ponds.', 'The geosphere is all of the solid water or ice, including glaciers, ice caps, and river ice.']
+---
+---
+Correct Answer = ['The geosphere is the solid part of Earth that is made up of geologic materials.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Which are examples that make up the geosphere?    Select all that apply.
+---
+---
+Responses = ['groundwater', "nickel in Earth's core", 'smoke from a fire', 'sediments']
+---
+---
+Correct Answer = ['groundwater', "nickel in Earth's core", 'sediments']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What defines the biosphere?
+---
+---
+Responses = ['The biosphere is the part of Earth that supports life.', "The biosphere is a thin layer of gases at and above Earth's surface.", 'The biosphere is all of the liquid water on Earth, including streams, rivers, lakes, and ponds.', 'The biosphere is molten rock, heavy metals, and minerals in the interior of Earth.']
+---
+---
+Correct Answer = ['The biosphere is the part of Earth that supports life.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which are components of the biosphere?    Select all that apply.
+---
+---
+Responses = ['air bubbles', 'sediment', 'wind', 'bass fish', 'algae']
+---
+---
+Correct Answer = ['bass fish', 'algae']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which statement defines the hydrosphere?
+---
+---
+Responses = ['The hydrosphere is all of the liquid water on Earth, including streams, rivers, lakes, and ponds.', 'The hydrosphere is all previously living and currently living organisms.', "The hydrosphere is a thin layer of gases at and above Earth's surface.", 'The hydrosphere is all of the solid water or ice, including glaciers, ice caps, and river ice.']
+---
+---
+Correct Answer = ['The hydrosphere is all of the liquid water on Earth, including streams, rivers, lakes, and ponds.']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What defines the atmosphere?
+---
+---
+Responses = ["The atmosphere is a group of organisms at and above Earth's surface.", "The atmosphere is a thin layer of gases at and above Earth's surface.", "The atmosphere is a large area of water droplets at and above Earth's surface.", "The atmosphere is a thick layer of solid ice at and above Earth's surface."]
+---
+---
+Correct Answer = ["The atmosphere is a thin layer of gases at and above Earth's surface."]
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  Which are examples of atmosphere components?    Select all that apply.
+---
+---
+Responses = ['ground moss', 'nitrogen gas', 'oxygen gas', 'heavy metals', 'blackbirds']
+---
+---
+Correct Answer = ['nitrogen gas', 'oxygen gas']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Which is an interaction between the hydrosphere and biosphere?
+---
+---
+Responses = ['A carpenter stacks bricks to make a house.', 'Strong winds knock a tree down.', 'A person shovels snow on their driveway.', 'Rain falls and a monkey scoops it up to drink.']
+---
+---
+Correct Answer = ['Rain falls and a monkey scoops it up to drink.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Which is an interaction between the hydrosphere and biosphere?
+---
+---
+Responses = ['A carpenter stacks bricks to make a house.', 'Strong winds knock a tree down.', 'A person shovels snow on their driveway.', 'Rain falls and a monkey scoops it up to drink.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  Which are examples of atmosphere components?    Select all that apply.
+---
+---
+Responses = ['ground moss', 'nitrogen gas', 'oxygen gas', 'heavy metals', 'blackbirds']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What defines the atmosphere?
+---
+---
+Responses = ["The atmosphere is a group of organisms at and above Earth's surface.", "The atmosphere is a thin layer of gases at and above Earth's surface.", "The atmosphere is a large area of water droplets at and above Earth's surface.", "The atmosphere is a thick layer of solid ice at and above Earth's surface."]
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which statement defines the hydrosphere?
+---
+---
+Responses = ['The hydrosphere is all of the liquid water on Earth, including streams, rivers, lakes, and ponds.', 'The hydrosphere is all previously living and currently living organisms.', "The hydrosphere is a thin layer of gases at and above Earth's surface.", 'The hydrosphere is all of the solid water or ice, including glaciers, ice caps, and river ice.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which are components of the biosphere?    Select all that apply.
+---
+---
+Responses = ['air bubbles', 'sediment', 'wind', 'bass fish', 'algae']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What defines the biosphere?
+---
+---
+Responses = ['The biosphere is the part of Earth that supports life.', "The biosphere is a thin layer of gases at and above Earth's surface.", 'The biosphere is all of the liquid water on Earth, including streams, rivers, lakes, and ponds.', 'The biosphere is molten rock, heavy metals, and minerals in the interior of Earth.']
+---
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+***
+Error Detected - Could not find checkboxes
+***
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 363, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 352, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 322, in function
+    if cf('yes'):finish(70)
+                 ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 186, in finish
+    checkans()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 195, in checkans
+    if '1 of' in copyquestion()[2]:
+                 ^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 257, in copyquestion
+    question = f'Question:{question.split('Responses')[0]}Respond with only the correct answer{qtype()} from the following options:\n{responses}'
+                                                                                               ^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 120, in qtype
+    return(qtype())
+           ^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 120, in qtype
+    return(qtype())
+           ^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 120, in qtype
+    return(qtype())
+           ^^^^^^^
+  [Previous line repeated 45 more times]
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 119, in qtype
+    pyautogui.press('end')
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 595, in wrapper
+    _handlePause(kwargs.get("_pause", True))
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 639, in _handlePause
+    time.sleep(PAUSE)
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Percentage = 775
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...^S---
+Program = Stopping
+---
+^QTraceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 362, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 351, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 327, in function
+    elif cf('match'): wait('Matching Question')
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 50, in wait
+    input(f'---\n{type} Detected - Press Enter when you are ready to continue...')
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...^STraceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 362, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 351, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 327, in function
+    elif cf('match'): wait('Matching Question')
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 50, in wait
+    input(f'---\n{type} Detected - Press Enter when you are ready to continue...')
+KeyboardInterrupt
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Matching Question Detected - Press Enter when you are ready to continue...^SException in thread Thread-2 (process):
+Traceback (most recent call last):
+^E  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\_generic.py", line 58, in process
+    if self.pre_process_event(event):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\__init__.py", line 218, in pre_process_event
+    callback(event)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\__init__.py", line 649, in <lambda>
+    handler = lambda e: (event_type == KEY_DOWN and e.event_type == KEY_UP and e.scan_code in _logically_pressed_keys) or (event_type == e.event_type and callback())
+                                                                                                                                                          ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 369, in <lambda>
+    keyboard.add_hotkey("ctrl+e", lambda: exit())
+                                          ^^^^^^
+TypeError: 'bool' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 370, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 357, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 327, in function
+    elif cf('match', 0.95): wait('Matching Question')
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 50, in wait
+    input(f'---\n{type} Detected - Press Enter when you are ready to continue...')
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  What is the law of conservation of energy?
+---
+---
+Responses = ['Energy is not transformed from one type to another. It is only created and destroyed.', 'Energy is transformed from one type to another. It is not created or destroyed. It is only transformed.', 'Energy is transformed from one type to another. It is created and transformed.', 'Energy is not transformed from one type to another. It is only destroyed.']
+---
+---
+Correct Answer = ['Energy is transformed from one type to another. It is not created or destroyed. It is only transformed.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  How does energy change form?
+---
+---
+Responses = ['Energy is transformed from one form to another when it interacts with materials.', 'Energy can only transform into heat when it remains undisturbed.', 'Energy transforms from one form to another when it remains undisturbed.', 'Energy can only be transformed into heat when it interacts with materials.']
+---
+---
+Correct Answer = ['Energy is transformed from one form to another when it interacts with materials.']
+---
+***
+Error Detected - ['Fatal Error', ImageNotFoundException()]
+***
+---
+Program = Stopping
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 370, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 355, in main
+    while not exit:
+              ^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+---
+Program = Stopping
+---
+Exception in thread Thread-2 (process):
+Traceback (most recent call last):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\_generic.py", line 58, in process
+    if self.pre_process_event(event):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\__init__.py", line 218, in pre_process_event
+    callback(event)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\__init__.py", line 649, in <lambda>
+    handler = lambda e: (event_type == KEY_DOWN and e.event_type == KEY_UP and e.scan_code in _logically_pressed_keys) or (event_type == e.event_type and callback())
+                                                                                                                                                          ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 369, in <lambda>
+    keyboard.add_hotkey("ctrl+e", lambda: exit())
+                                          ^^^^^^
+TypeError: 'bool' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 370, in <module>
+    keyboard.add_hotkey("ctrl+q", lambda: quit())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 355, in main
+
+KeyboardInterrupt
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+---
+Program = Stopping
+---
+Exception in thread Thread-2 (process):
+Traceback (most recent call last):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\_generic.py", line 58, in process
+    if self.pre_process_event(event):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\__init__.py", line 218, in pre_process_event
+    callback(event)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\__init__.py", line 649, in <lambda>
+    handler = lambda e: (event_type == KEY_DOWN and e.event_type == KEY_UP and e.scan_code in _logically_pressed_keys) or (event_type == e.event_type and callback())
+                                                                                                                                                          ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 371, in <lambda>
+    keyboard.add_hotkey("ctrl+e", lambda: exit())
+                                          ^^^^^^
+TypeError: 'bool' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 372, in <module>
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 357, in main
+    quit()
+      ^^^^
+KeyboardInterrupt
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 339
+    if run = True:
+       ^^^^^^^^^^
+SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+***
+Error Detected - Could not find empty to click
+***
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which correctly defines climate?
+---
+---
+Responses = ['the average conditions found in a region over long periods of time', 'the change in temperature between day and night', 'the yearly change in the seasons']
+---
+---
+Correct Answer = ['the average conditions found in a region over long periods of time']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What substance has the highest heat capacity?
+---
+---
+Responses = ['copper', 'water', 'glass', 'aluminum']
+---
+---
+Correct Answer = ['water']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  Which statement correctly defines a closed system?
+---
+---
+Responses = ['a system that allows matter or material to enter or leave the system', 'a system that allows energy, but not matter, to enter or leave the system', 'a system that does not allow either matter or energy to enter or leave the system', 'a system that does not allow matter to enter or leave the system']
+---
+---
+Correct Answer = ['a system that does not allow matter to enter or leave the system']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which forms of energy are due to motion (either macroscopic or microscopic)?    Select all that apply.
+---
+---
+Responses = ['potential', 'thermal', 'kinetic', 'chemical']
+---
+---
+Correct Answer = ['thermal', 'kinetic']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which statement explains the law of conservation of energy?
+---
+---
+Responses = ['Energy can be divided to form different energy types.', 'Energy can be created in a system.', 'Energy can be converted from one form to another.', 'Energy can be destroyed in a system.']
+---
+---
+Correct Answer = ['Energy can be converted from one form to another.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Which statement explains how energy changes forms?
+---
+---
+Responses = ['Energy of different systems combines to change their form.', 'Energy transforms from one form to another.', 'Energy is destroyed in a system to change its form.', 'Energy is created in a system into different forms.']
+---
+---
+Correct Answer = ['Energy transforms from one form to another.']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Grass is an opaque material.    What will happen when light falls on the grass?    Select all that apply.
+---
+---
+Responses = ['The grass will reflect the light.', 'The grass will transmit the light.', 'The grass will produce more light.', 'The grass will absorb the light.']
+---
+---
+Correct Answer = ['The grass will reflect the light.', 'The grass will absorb the light.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which statement defines absorption?
+---
+---
+Responses = ['a type of interaction where light energy passes completely through the material', 'a type of interaction where light energy is produced by the object', 'a type of interaction where light reflects back to its source', 'a type of interaction where light energy is taken in by the object']
+---
+---
+Correct Answer = ['a type of interaction where light energy is taken in by the object']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.', 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space."]
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.', 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space."]
+---
+---
+Correct Answer = ['Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which statement explains the heating of air by the Sun?
+---
+---
+Responses = ['The pollen grains in the air absorb light energy from the Sun, heating the air.', 'The small organisms in the air absorb light energy from the Sun, heating the air.', 'The gases in the air absorb light energy from the Sun, heating the air.', 'The dust particles in the air absorb light energy from the Sun, heating the air.']
+---
+---
+Correct Answer = ['The gases in the air absorb light energy from the Sun, heating the air.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is different about the heating of water by the Sun than the heating of the land?
+---
+---
+Responses = ['It allows water to produce energy, which helps increase the temperature of the atmosphere.', 'The temperature of the water increases much more than that of the land as a result of the solar energy it absorbs.', 'It allows water to transmit energy to the lower levels of the Earth, which helps in the survival of organisms.', 'The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.']
+---
+---
+Correct Answer = ['The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Which factors would make an object easier to heat up?    Select all that apply.
+---
+---
+Responses = ['a high heat capacity', 'a dark color', 'a light color', 'a low heat capacity']
+---
+---
+Correct Answer = ['a dark color', 'a low heat capacity']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  Which statement correctly defines a closed system?
+---
+---
+Responses = ['a system that allows energy, but not matter, to enter or leave the system', 'a system that does not allow matter to enter or leave the system', 'a system that allows matter or material to enter or leave the system', 'a system that does not allow either matter or energy to enter or leave the system']
+---
+---
+Correct Answer = ['a system that does not allow matter to enter or leave the system']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which forms of energy are due to motion (either macroscopic or microscopic)?    Select all that apply.
+---
+---
+Responses = ['kinetic', 'chemical', 'thermal', 'potential']
+---
+---
+Correct Answer = ['kinetic', 'thermal']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which statement explains the law of conservation of energy?
+---
+---
+Responses = ['Energy can be divided to form different energy types.', 'Energy can be destroyed in a system.', 'Energy can be converted from one form to another.', 'Energy can be created in a system.']
+---
+---
+Correct Answer = ['Energy can be converted from one form to another.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Which statement explains how energy changes forms?
+---
+---
+Responses = ['Energy is created in a system into different forms.', 'Energy transforms from one form to another.', 'Energy of different systems combines to change their form.', 'Energy is destroyed in a system to change its form.']
+---
+---
+Correct Answer = ['Energy transforms from one form to another.']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Grass is an opaque material.    What will happen when light falls on the grass?    Select all that apply.
+---
+---
+Responses = ['The grass will produce more light.', 'The grass will reflect the light.', 'The grass will absorb the light.', 'The grass will transmit the light.']
+---
+---
+Correct Answer = ['The grass will reflect the light.', 'The grass will absorb the light.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which statement defines absorption?
+---
+---
+Responses = ['a type of interaction where light energy is taken in by the object', 'a type of interaction where light reflects back to its source', 'a type of interaction where light energy is produced by the object', 'a type of interaction where light energy passes completely through the material']
+---
+---
+Correct Answer = ['a type of interaction where light energy is taken in by the object']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+***
+Error Detected - ['Fatal Error', IndexError('list index out of range')]
+***
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+***
+Error Detected - ['Fatal Error', IndexError('list index out of range')]
+***
+---
+Program = Stopping
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 366, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 352, in main
+    while not exit:
+              ^^^^
+KeyboardInterrupt
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+***
+Error Detected - ['Fatal Error', IndexError('list index out of range')]
+***
+---
+Program = Stopping
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 366, in <module>
+    #-------------------------------------------------------------------------------------------
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 352, in main
+    keyboard.add_hotkey('ctrl+s', lambda: startstop())
+              ^^^^
+KeyboardInterrupt
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 370, in <module>
+    keyboard.wait()
+
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 358, in main
+    error(['Fatal Error', e])
+      ^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>^S^S^S^S^S^S^S^S^S^S^S^S^S^D^S^S^S^S^S^S
+'‼‼‼‼‼‼‼‼‼‼‼‼‼♦‼‼‼‼‼‼' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 370, in <module>
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\keyboard\__init__.py", line 886, in wait
+    _time.sleep(1e6)
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject> 
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+---
+Program = Stopping
+---
+***
+Error Detected - ['Fatal Error', IndexError('list index out of range')]
+***
+---
+Program = Starting
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Program = Stopping
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+***
+Error Detected - Could not find empty to click
+***
+---
+Program = Stopping
+---
+***
+Error Detected - ['Fatal Error', IndexError('list index out of range')]
+***
+---
+Program = Starting
+---
+***
+Error Detected - Could not find strongmind to click
+***
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Program = Stopping
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No correct anwers detected, defaulting to OCR
+***
+---
+Correct Answer = []
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.'
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+***
+Error Detected - ['Fatal Error', ValueError("'G' is not in list")]
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.'
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 382, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 370, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 346, in function
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 331, in solve
+    correct = select(boxes, response, responses, ocrresponses)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 312, in select
+    [cbox.append(boxes[responses.index(x)]) for x in correct]
+                       ^^^^^^^^^^^^^^^^^^
+ValueError: 'G' is not in list
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 383, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 371, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 347, in function
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 332, in solve
+    correct = select(boxes, response, responses, ocrresponses)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 313, in select
+    [cbox.append(boxes[responses.index(x)]) for x in correct]
+                       ^^^^^^^^^^^^^^^^^^
+ValueError: 'G' is not in list
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.']
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+[['Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 22], ['Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.', 21], ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", 12], ["Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space.", 11]]
+---
+Correct Answer = ['Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.']
+---
+---
+Program = Exiting
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which statement explains the heating of air by the Sun?
+---
+---
+Responses = ['The small organisms in the air absorb light energy from the Sun, heating the air.', 'The pollen grains in the air absorb light energy from the Sun, heating the air.', 'The dust particles in the air absorb light energy from the Sun, heating the air.', 'The gases in the air absorb light energy from the Sun, heating the air.']
+---
+---
+Program = Stopping
+---
+---
+AI Response = The gases in the air absorb light energy from the Sun, heating the air.
+---
+---
+Correct Answer = ['The gases in the air absorb light energy from the Sun, heating the air.']
+---
+---
+Program = Starting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 297
+    [n += 1 for word in r if word in response]
+       ^^
+SyntaxError: invalid syntax
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 297
+    [n += 1 for word in r if word in response]
+       ^^
+SyntaxError: invalid syntax
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 297
+    [n+=1 for word in r if word in response]
+      ^^
+SyntaxError: invalid syntax
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 297
+    for word in r if word in response: n+=1
+                                     ^
+SyntaxError: invalid syntax
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is different about the heating of water by the Sun than the heating of the land?
+---
+---
+Responses = ['The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.', 'The temperature of the water increases much more than that of the land as a result of the solar energy it absorbs.', 'It allows water to transmit energy to the lower levels of the Earth, which helps in the survival of organisms.', 'It allows water to produce energy, which helps increase the temperature of the atmosphere.']
+---
+---
+AI Response = The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 373, in <module>
+    thread = threading.Thread(target=main())
+                                     ^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 361, in main
+    if run: function()
+            ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 337, in function
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 323, in solve
+    correct = select(boxes, response, responses)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 304, in select
+    else: correct.append(responsessorted[0])
+                         ^^^^^^^^^^^^^^^
+NameError: name 'responsessorted' is not defined. Did you mean: 'responsessort'?
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is different about the heating of water by the Sun than the heating of the land?
+---
+---
+Responses = ['The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.', 'The temperature of the water increases much more than that of the land as a result of the solar energy it absorbs.', 'It allows water to transmit energy to the lower levels of the Earth, which helps in the survival of organisms.', 'It allows water to produce energy, which helps increase the temperature of the atmosphere.']
+---
+---
+AI Response = The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['It allows water to transmit energy to the lower levels of the Earth, which helps in the survival of organisms.', 2.0]]
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Which factors would make an object easier to heat up?    Select all that apply.
+---
+---
+Responses = ['a low heat capacity', 'a high heat capacity', 'a dark color', 'a light color']
+---
+---
+AI Response = ['a low heat capacity', 'a dark color']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['a light color', 1.5], ['a high heat capacity', 1.3333333333333333]]
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Which factors would make an object easier to heat up?    Select all that apply.
+---
+---
+Responses = ['a low heat capacity', 'a high heat capacity', 'a dark color', 'a light color']
+---
+---
+AI Response = ['a low heat capacity', 'a dark color']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['a light color', 1.5], ['a high heat capacity', 1.3333333333333333]]
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Grass is an opaque material.    What will happen when light falls on the grass?    Select all that apply.
+---
+---
+Responses = ['The grass will produce more light.', 'The grass will reflect the light.', 'The grass will absorb the light.', 'The grass will transmit the light.']
+---
+---
+AI Response = ['The grass will reflect the light.', 'The grass will absorb the light.']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['The grass will reflect the light.', 1.0], ['The grass will absorb the light.', 1.0]]
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Grass is an opaque material.    What will happen when light falls on the grass?    Select all that apply.
+---
+---
+Responses = ['The grass will produce more light.', 'The grass will reflect the light.', 'The grass will absorb the light.', 'The grass will transmit the light.']
+---
+---
+AI Response = ['The grass will reflect the light.', 'The grass will absorb the light.']
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['The grass will reflect the light.', 100.0], ['The grass will absorb the light.', 100.0]]
+---
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Program = Starting
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  Which statement correctly defines a closed system?
+---
+---
+Responses = ['a system that allows matter or material to enter or leave the system', 'a system that does not allow either matter or energy to enter or leave the system', 'a system that does not allow matter to enter or leave the system', 'a system that allows energy, but not matter, to enter or leave the system']
+---
+---
+AI Response = a system that does not allow matter to enter or leave the system
+---
+---
+Correct Answer = ['a system that does not allow matter to enter or leave the system']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  Which forms of energy are due to motion (either macroscopic or microscopic)?    Select all that apply.
+---
+---
+Responses = ['chemical', 'kinetic', 'potential', 'thermal']
+---
+---
+AI Response = ['kinetic', 'thermal']
+---
+---
+Correct Answer = ['kinetic', 'thermal']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which statement explains the law of conservation of energy?
+---
+---
+Responses = ['Energy can be created in a system.', 'Energy can be converted from one form to another.', 'Energy can be divided to form different energy types.', 'Energy can be destroyed in a system.']
+---
+---
+AI Response = Energy can be converted from one form to another.
+---
+---
+Correct Answer = ['Energy can be converted from one form to another.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  Which statement explains how energy changes forms?
+---
+---
+Responses = ['Energy transforms from one form to another.', 'Energy is created in a system into different forms.', 'Energy of different systems combines to change their form.', 'Energy is destroyed in a system to change its form.']
+---
+---
+AI Response = Energy transforms from one form to another.
+---
+---
+Correct Answer = ['Energy transforms from one form to another.']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  Grass is an opaque material.    What will happen when light falls on the grass?    Select all that apply.
+---
+---
+Responses = ['The grass will absorb the light.', 'The grass will produce more light.', 'The grass will reflect the light.', 'The grass will transmit the light.']
+---
+---
+AI Response = ['The grass will absorb the light.', 'The grass will reflect the light.']
+---
+---
+Correct Answer = ['The grass will absorb the light.', 'The grass will reflect the light.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  Which statement defines absorption?
+---
+---
+Responses = ['a type of interaction where light energy passes completely through the material', 'a type of interaction where light energy is produced by the object', 'a type of interaction where light energy is taken in by the object', 'a type of interaction where light reflects back to its source']
+---
+---
+AI Response = a type of interaction where light energy is taken in by the object
+---
+---
+Correct Answer = ['a type of interaction where light energy is taken in by the object']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Which example best explains how the atmosphere helps retain thermal energy?
+---
+---
+Responses = ["Gases in the atmosphere transmit all of the sunlight to the Earth's surface. But they cannot transmit any of the radiated infrared light from the surface back into space.", 'Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 'Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They use this energy to reflect light back toward the Earth.', "Gases in the atmosphere reflect all of the sunlight onto the Earth's surface. But they cannot transmit any of the thermal energy from the surface back into space."]
+---
+---
+AI Response = Gases in the atmosphere absorb thermal energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.
+---
+***
+Error Detected - No exact correct anwers detected, finding best match
+***
+---
+Correct Answer = [['Gases in the atmosphere absorb light energy, which makes their molecules vibrate faster. They then radiate infrared light back toward the Earth.', 100.0]]
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which statement explains the heating of air by the Sun?
+---
+---
+Responses = ['The pollen grains in the air absorb light energy from the Sun, heating the air.', 'The dust particles in the air absorb light energy from the Sun, heating the air.', 'The small organisms in the air absorb light energy from the Sun, heating the air.', 'The gases in the air absorb light energy from the Sun, heating the air.']
+---
+---
+AI Response = The gases in the air absorb light energy from the Sun, heating the air.
+---
+---
+Correct Answer = ['The gases in the air absorb light energy from the Sun, heating the air.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What is different about the heating of water by the Sun than the heating of the land?
+---
+---
+Responses = ['The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.', 'It allows water to transmit energy to the lower levels of the Earth, which helps in the survival of organisms.', 'It allows water to produce energy, which helps increase the temperature of the atmosphere.', 'The temperature of the water increases much more than that of the land as a result of the solar energy it absorbs.']
+---
+---
+AI Response = The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.
+---
+---
+Correct Answer = ['The temperature of the water increases very little compared to the land as a result of the solar energy it absorbs.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Which factors would make an object easier to heat up?    Select all that apply.
+---
+---
+Responses = ['a high heat capacity', 'a light color', 'a dark color', 'a low heat capacity']
+---
+---
+AI Response = ['a low heat capacity', 'a dark color']
+---
+---
+Correct Answer = ['a dark color', 'a low heat capacity']
+---
+---
+Percentage = 62
+---
+---
+Percentage = 62
+---
+***
+Error Detected - Could not find retake to click
+***
+***
+Error Detected - Could not find retake2 to click
+***
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which statement best describes the water cycle?
+---
+---
+Responses = ['Water is found in glaciers, plants, and oceans.', 'Water moves as runoff, transpiration, and evaporation/condensation.', 'Water moves through different components of the Earth’s systems using different processes.', 'Water can be a solid, liquid, or gas.']
+---
+---
+AI Response = Water moves through different components of the Earth’s systems using different processes.
+---
+---
+Correct Answer = ['Water moves through different components of the Earth’s systems using different processes.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What is "transpiration"?
+---
+---
+Responses = ['Water changes from a liquid into a gas to form clouds.', 'Water is lost to the air from the leaves of plants.', 'Water falls from the atmosphere as snow or rain.', 'Water in clouds changes from a gas into a liquid.']
+---
+---
+AI Response = Water is lost to the air from the leaves of plants.
+---
+---
+Correct Answer = ['Water is lost to the air from the leaves of plants.']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which statement best describes the water cycle?
+---
+---
+Responses = ['Water is found in glaciers, plants, and oceans.', 'Water can be a solid, liquid, or gas.', 'Water moves as runoff, transpiration, and evaporation/condensation.', 'Water moves through different components of the Earth’s systems using different processes.']
+---
+---
+AI Response = Water moves through different components of the Earth’s systems using different processes.
+---
+---
+Correct Answer = ['Water moves through different components of the Earth’s systems using different processes.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What is "transpiration"?
+---
+---
+Responses = ['Water changes from a liquid into a gas to form clouds.', 'Water falls from the atmosphere as snow or rain.', 'Water in clouds changes from a gas into a liquid.', 'Water is lost to the air from the leaves of plants.']
+---
+---
+AI Response = Water is lost to the air from the leaves of plants.
+---
+---
+Correct Answer = ['Water is lost to the air from the leaves of plants.']
+---
+***
+Error Detected - Error on percentage
+***
+---
+Input Percentage Manually
+Percentage = 0
+---
+---
+Percentage = 0
+---
+***
+Error Detected - Error on percentage
+***
+---
+Input Percentage Manually
+Percentage = 0
+---
+---
+Percentage = 0
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which statement best describes the water cycle?
+---
+---
+Responses = ['Water moves through different components of the Earth’s systems using different processes.', 'Water moves as runoff, transpiration, and evaporation/condensation.', 'Water can be a solid, liquid, or gas.', 'Water is found in glaciers, plants, and oceans.']
+---
+---
+AI Response = Water moves through different components of the Earth’s systems using different processes.
+---
+---
+Correct Answer = ['Water moves through different components of the Earth’s systems using different processes.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What is "transpiration"?
+---
+---
+Responses = ['Water in clouds changes from a gas into a liquid.', 'Water falls from the atmosphere as snow or rain.', 'Water changes from a liquid into a gas to form clouds.', 'Water is lost to the air from the leaves of plants.']
+---
+---
+AI Response = Water is lost to the air from the leaves of plants.
+---
+---
+Correct Answer = ['Water is lost to the air from the leaves of plants.']
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which statement best describes the water cycle?
+---
+---
+Responses = ['Water moves as runoff, transpiration, and evaporation/condensation.', 'Water moves through different components of the Earth’s systems using different processes.', 'Water can be a solid, liquid, or gas.', 'Water is found in glaciers, plants, and oceans.']
+---
+---
+AI Response = Water moves through different components of the Earth’s systems using different processes.
+---
+---
+Correct Answer = ['Water moves through different components of the Earth’s systems using different processes.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What is "transpiration"?
+---
+---
+Responses = ['Water falls from the atmosphere as snow or rain.', 'Water changes from a liquid into a gas to form clouds.', 'Water in clouds changes from a gas into a liquid.', 'Water is lost to the air from the leaves of plants.']
+---
+---
+AI Response = Water is lost to the air from the leaves of plants.
+---
+---
+Correct Answer = ['Water is lost to the air from the leaves of plants.']
+---
+---
+Program = Stopping
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which statement best describes the water cycle?
+---
+---
+Responses = ['Water moves as runoff, transpiration, and evaporation/condensation.', 'Water can be a solid, liquid, or gas.', 'Water moves through different components of the Earth’s systems using different processes.', 'Water is found in glaciers, plants, and oceans.']
+---
+---
+AI Response = Water moves through different components of the Earth’s systems using different processes.
+---
+---
+Correct Answer = ['Water moves through different components of the Earth’s systems using different processes.']
+---
+---
+Program = Stopping
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What is "transpiration"?
+---
+---
+Responses = ['Water falls from the atmosphere as snow or rain.', 'Water is lost to the air from the leaves of plants.', 'Water in clouds changes from a gas into a liquid.', 'Water changes from a liquid into a gas to form clouds.']
+---
+---
+AI Response = Water is lost to the air from the leaves of plants.
+---
+---
+Correct Answer = ['Water is lost to the air from the leaves of plants.']
+---
+---
+Program = Starting
+---
+---
+Program = Stopping
+---
+---
+Percentage = 50
+---
+---
+Percentage = 50
+---
+---
+Program = Starting
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which statement best describes the water cycle?
+---
+---
+Responses = ['Water can be a solid, liquid, or gas.', 'Water is found in glaciers, plants, and oceans.', 'Water moves through different components of the Earth’s systems using different processes.', 'Water moves as runoff, transpiration, and evaporation/condensation.']
+---
+---
+AI Response = Water moves through different components of the Earth’s systems using different processes.
+---
+---
+Correct Answer = ['Water moves through different components of the Earth’s systems using different processes.']
+---
+---
+Program = Stopping
+---
+---
+Program = Starting
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What is "transpiration"?
+---
+---
+Responses = ['Water in clouds changes from a gas into a liquid.', 'Water is lost to the air from the leaves of plants.', 'Water falls from the atmosphere as snow or rain.', 'Water changes from a liquid into a gas to form clouds.']
+---
+---
+AI Response = Water is lost to the air from the leaves of plants.
+---
+---
+Correct Answer = ['Water is lost to the air from the leaves of plants.']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  What are sediments?
+---
+---
+Responses = ['solid material formed from layers of rock that cement together over time', 'solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice', 'solid material formed from the cooling of magma after it flows from a volcano', 'solid material that changes physically due to heat and pressure']
+---
+---
+AI Response = solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice
+---
+---
+Correct Answer = ['solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What is a major event in the rock cycle?
+---
+---
+Responses = ['Rocks form from cooling magma.', 'Water forms rain used in Earth’s systems.', 'Various minerals are formed from elements.', 'The Earth’s crust is formed over time.']
+---
+---
+AI Response = Rocks form from cooling magma.
+---
+---
+Correct Answer = ['Rocks form from cooling magma.']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What happens during the water cycle?    Select all that apply.
+---
+---
+Responses = ['Water evaporates into the atmosphere.', 'The Sun provides energy causing water to evaporate.', 'Water condenses to form water vapor.', 'Gravity alone powers the water cycle.', 'Water condenses to form precipitation.']
+---
+---
+AI Response = ['Water evaporates into the atmosphere.', 'The Sun provides energy causing water to evaporate.', 'Water condenses to form precipitation.']
+---
+---
+Correct Answer = ['Water evaporates into the atmosphere.', 'The Sun provides energy causing water to evaporate.', 'Water condenses to form precipitation.']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  How is the water cycle powered?
+---
+---
+Responses = ['It is powered by condensation.', 'It is powered by runoff.', 'It is powered by transpiration.', 'It is powered by the Sun.']
+---
+---
+AI Response = It is powered by the Sun.
+---
+---
+Correct Answer = ['It is powered by the Sun.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which is a major event in the water cycle?
+---
+---
+Responses = ['Water condenses forming oceans.', 'Water infiltrates forming oceans.', 'Water evaporates to form clouds.', 'Water precipitates to form clouds.']
+---
+---
+AI Response = Water evaporates to form clouds.
+---
+---
+Correct Answer = ['Water evaporates to form clouds.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What is "transpiration"?
+---
+---
+Responses = ['a process in which liquid water is heated to form water vapor', 'a process in which water vapor is cooled to form liquid water', 'a process in which water is lost to the air from the leaves of plants', 'a process in which rain, snow, or ice form and fall from clouds']
+---
+---
+AI Response = a process in which water is lost to the air from the leaves of plants
+---
+---
+Correct Answer = ['a process in which water is lost to the air from the leaves of plants']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What is a role of the oceans, rivers, and lakes in the water cycle?
+---
+---
+Responses = ['Water evaporates from them to form clouds.', 'Water is released from them by transpiration.', 'Water runs off of them to form precipitation.', 'Water condenses from them causing precipitation.']
+---
+---
+AI Response = Water evaporates from them to form clouds.
+---
+---
+Correct Answer = ['Water evaporates from them to form clouds.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What are "sediments"?
+---
+---
+Responses = ['solid material that forms clay beneath the soil', 'solid material that forms soil in which plants can grow', 'solid material that forms after hot lava from volcanoes cools', 'solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice']
+---
+---
+AI Response = 'solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice'
+---
+---
+Correct Answer = ['solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What happens during the rock cycle?
+---
+---
+Responses = ['Sedimentary rock forms from cooled magma.', 'Metamorphic rock forms due to heat or pressure.', 'Igneous rock forms due to heat or pressure.', 'Sedimentary rock forms from rock layers.', 'Igneous rock forms from cooled magma.']
+---
+---
+AI Response = ['Sedimentary rock forms from rock layers.', 'Metamorphic rock forms due to heat or pressure.', 'Igneous rock forms from cooled magma.']
+---
+---
+Correct Answer = ['Metamorphic rock forms due to heat or pressure.', 'Sedimentary rock forms from rock layers.', 'Igneous rock forms from cooled magma.']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which describes a major event in the rock cycle?
+---
+---
+Responses = ['A rock breaks down into smaller material, which can then be moved to a new location.', 'A rock stays in one place and no changes ever occur to it.', 'A rock breaks down into smaller material until it completely disappears.', 'A rock is reformed from decaying matter.']
+---
+---
+AI Response = A rock breaks down into smaller material, which can then be moved to a new location.
+---
+---
+Correct Answer = ['A rock breaks down into smaller material, which can then be moved to a new location.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What role do sediments play in the rock cycle?
+---
+---
+Responses = ['Sediments stay in the same rocks forever once a new rock is formed.', 'Sediments form new rocks as layers are continually deposited.', 'Sediments form new rocks only after heat and pressure are applied to them.', 'Sediments are instantly melted to create magma.']
+---
+---
+AI Response = Sediments form new rocks as layers are continually deposited.
+---
+---
+Correct Answer = ['Sediments form new rocks as layers are continually deposited.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What happens to the matter that makes up rocks in the rock cycle?
+---
+---
+Responses = ['It forms new matter over time.', 'It only moves through living systems.', 'It provides energy for the cycle.', 'It is recycled in the environment.']
+---
+---
+AI Response = It is recycled in the environment.
+---
+---
+Correct Answer = ['It is recycled in the environment.']
+---
+---
+Percentage = 60
+---
+---
+Percentage = 60
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What happens during the water cycle?    Select all that apply.
+---
+---
+Responses = ['Gravity alone powers the water cycle.', 'Water condenses to form water vapor.', 'The Sun provides energy causing water to evaporate.', 'Water evaporates into the atmosphere.', 'Water condenses to form precipitation.']
+---
+---
+AI Response = ['The Sun provides energy causing water to evaporate.', 'Water evaporates into the atmosphere.', 'Water condenses to form precipitation.']
+---
+---
+Correct Answer = ['The Sun provides energy causing water to evaporate.', 'Water evaporates into the atmosphere.', 'Water condenses to form precipitation.']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  How is the water cycle powered?
+---
+---
+Responses = ['It is powered by runoff.', 'It is powered by condensation.', 'It is powered by transpiration.', 'It is powered by the Sun.']
+---
+---
+AI Response = It is powered by the Sun.
+---
+---
+Correct Answer = ['It is powered by the Sun.']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which is a major event in the water cycle?
+---
+---
+Responses = ['Water infiltrates forming oceans.', 'Water evaporates to form clouds.', 'Water condenses forming oceans.', 'Water precipitates to form clouds.']
+---
+---
+AI Response = Water evaporates to form clouds.
+---
+---
+Correct Answer = ['Water evaporates to form clouds.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  What is "transpiration"?
+---
+---
+Responses = ['a process in which liquid water is heated to form water vapor', 'a process in which water vapor is cooled to form liquid water', 'a process in which water is lost to the air from the leaves of plants', 'a process in which rain, snow, or ice form and fall from clouds']
+---
+---
+AI Response = a process in which water is lost to the air from the leaves of plants
+---
+---
+Correct Answer = ['a process in which water is lost to the air from the leaves of plants']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  What is a role of the oceans, rivers, and lakes in the water cycle?
+---
+---
+Responses = ['Water is released from them by transpiration.', 'Water evaporates from them to form clouds.', 'Water runs off of them to form precipitation.', 'Water condenses from them causing precipitation.']
+---
+---
+AI Response = Water evaporates from them to form clouds.
+---
+---
+Correct Answer = ['Water evaporates from them to form clouds.']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  What are "sediments"?
+---
+---
+Responses = ['solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice', 'solid material that forms soil in which plants can grow', 'solid material that forms clay beneath the soil', 'solid material that forms after hot lava from volcanoes cools']
+---
+---
+AI Response = solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice
+---
+---
+Correct Answer = ['solid material formed by the weathering of rock, which is then carried and deposited by wind, water, or ice']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  What happens during the rock cycle?
+---
+---
+Responses = ['Igneous rock forms due to heat or pressure.', 'Igneous rock forms from cooled magma.', 'Sedimentary rock forms from rock layers.', 'Sedimentary rock forms from cooled magma.', 'Metamorphic rock forms due to heat or pressure.']
+---
+---
+AI Response = ['Igneous rock forms due to heat or pressure.', 'Igneous rock forms from cooled magma.', 'Metamorphic rock forms due to heat or pressure.']
+---
+---
+Correct Answer = ['Igneous rock forms due to heat or pressure.', 'Igneous rock forms from cooled magma.', 'Metamorphic rock forms due to heat or pressure.']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Which describes a major event in the rock cycle?
+---
+---
+Responses = ['A rock breaks down into smaller material, which can then be moved to a new location.', 'A rock breaks down into smaller material until it completely disappears.', 'A rock is reformed from decaying matter.', 'A rock stays in one place and no changes ever occur to it.']
+---
+---
+AI Response = A rock breaks down into smaller material, which can then be moved to a new location.
+---
+---
+Correct Answer = ['A rock breaks down into smaller material, which can then be moved to a new location.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  What role do sediments play in the rock cycle?
+---
+---
+Responses = ['Sediments form new rocks as layers are continually deposited.', 'Sediments stay in the same rocks forever once a new rock is formed.', 'Sediments form new rocks only after heat and pressure are applied to them.', 'Sediments are instantly melted to create magma.']
+---
+---
+AI Response = Sediments form new rocks as layers are continually deposited.
+---
+---
+Correct Answer = ['Sediments form new rocks as layers are continually deposited.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What happens to the matter that makes up rocks in the rock cycle?
+---
+---
+Responses = ['It provides energy for the cycle.', 'It forms new matter over time.', 'It is recycled in the environment.', 'It only moves through living systems.']
+---
+---
+AI Response = It is recycled in the environment.
+---
+---
+Correct Answer = ['It is recycled in the environment.']
+---
+***
+Error Detected - ['Fatal Error', ImageNotFoundException()]
+***
+---
+Program = Stopping
+---
+---
+Program = Exiting
+---
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 178
+    global retries
+    ^^^^^^^^^^^^^^
+SyntaxError: name 'retries' is used prior to global declaration
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py

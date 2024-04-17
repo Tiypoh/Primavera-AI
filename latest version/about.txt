@@ -1,7 +1,3 @@
-# Primavera AI
- A program that utilizes google's Gemini AI API to answer multi-choice questions on Primavera or Strongmind online courses.
-
-# Latest about.txt
 AI-Based Primavera Automation Version 2.3
 Created by Kyle Sebring
 ©DESAD Tech Group 2024

@@ -1,0 +1,1866 @@
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>cd C:\Users\kylew\Documents\Personal\Coding\AI\aiproject
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Chrome not Detected - Press Enter when you are ready to continue...
+---
+---
+Science Is Based on Evidence =
+---
+---
+Question = Question:  Which is an example of science?
+---
+---
+Responses = ['events about people on Earth based on the positions of celestial objects in the universe', 'studying the universe, including motions, positions, and interactions of celestial objects', 'exploring crystals to experience healing or other special powers', 'analyzing handwriting gives information about a person’s character']
+---
+---
+Correct Answer = ['studying the universe, including motions, positions, and interactions of celestial objects']
+---
+---
+Percentage = 100
+---
+---
+Environmental Science =
+---
+---
+Question = Question:  What is environmental science?
+---
+---
+Responses = ['the study of the composition of the environment and organisms’ interactions within that environment', 'the study of parts of the environment and how water and gases flow through the environment', 'the study of the environment and the minerals that are within that environment', 'the study of how the environment relates to organisms at a microscopic level']
+---
+---
+Correct Answer = ['the study of the composition of the environment and organisms’ interactions within that environment']
+---
+---
+Environmental Science =
+---
+---
+Question = Question:  Which are human causes of extinction?    Select all that apply.
+---
+---
+Responses = ['volcanic eruption', 'burning of fossil fuels', 'drought', 'introduction of a foreign species']
+---
+---
+Correct Answer = ['burning of fossil fuels', 'introduction of a foreign species']
+---
+---
+Environmental Science =
+---
+---
+Question = Question:  How is conservation defined?
+---
+---
+Responses = ['Conservation is protecting the physical environment at the expense of the organisms living there.', 'Conservation is the careful management of resources and the preservation of wildlife and habitats.', 'Conservation is the protection and preservation of humans in an environment.', 'Conservation is protecting some organisms at the expense of others.']
+---
+---
+Correct Answer = ['Conservation is the careful management of resources and the preservation of wildlife and habitats.']
+---
+---
+Percentage = 100
+---
+---
+Chrome not Detected - Press Enter when you are ready to continue...Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 339, in <module>
+    wait('Chrome not')
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 48, in wait
+    input(f'---\n{type} Detected - Press Enter when you are ready to continue...')
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+[ WARN:0@1.882] global loadsave.cpp:248 cv::findDecoder imread_('img/discussion.png'): can't open/read file: check file path/integrity
+[ WARN:0@3.225] global loadsave.cpp:248 cv::findDecoder imread_('img/discussion.png'): can't open/read file: check file path/integrity
+[ WARN:0@7.832] global loadsave.cpp:248 cv::findDecoder imread_('img/discussion.png'): can't open/read file: check file path/integrity
+---
+Checkpoint 01 = None
+---
+---
+Question = Question:  How is proper science validated?
+---
+---
+Responses = ['opinions and beliefs', 'tests and personal claims', 'assumptions and quantitative data', 'experimentation and testing']
+---
+---
+Correct Answer = ['experimentation and testing']
+---
+[ WARN:0@12.749] global loadsave.cpp:248 cv::findDecoder imread_('img/discussion.png'): can't open/read file: check file path/integrity
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 329, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 299, in solve
+    boxes, ocrresponses = findboxes(qtype())
+                          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 229, in findboxes
+    ocrresponse = parsescreen(left, box.top, width, 40)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 77, in parsescreen
+    return(pytesseract.image_to_string(pyautogui.screenshot(region=(left, top, width, height))).replace('\n',''))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 423, in image_to_string
+    return {
+           ^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 426, in <lambda>
+    Output.STRING: lambda: run_and_get_output(*args),
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 288, in run_and_get_output
+    run_tesseract(**kwargs)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 262, in run_tesseract
+    with timeout_manager(proc, timeout) as error_string:
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 127, in timeout_manager
+    yield proc.communicate()[1]
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1626, in _communicate
+    self.stdout_thread.join(self._remaining_time(endtime))
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1147, in join
+    self._wait_for_tstate_lock()
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1167, in _wait_for_tstate_lock
+    if lock.acquire(block, timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+2 of 102 of 10 = 2 of 10
+---
+---
+Question = Question:  What type of science is a pseudoscience?
+---
+---
+Responses = ['false', 'illegal', 'credible', 'simple']
+---
+---
+Correct Answer = ['false']
+---
+---
+3 of 103 of 10 = 3 of 10
+---
+---
+Question = Question:  Which scientific questions can be disproved by conducting tests?    Select all that apply.
+---
+---
+Responses = ['Will my published scientific paper be successful?', 'Are vegetables good for growing strong bones?', 'Can monkeys communicate with each other?', 'Are dogs the most responsible type of pet?', 'Do video games negatively impact mental health?']
+---
+---
+Correct Answer = ['Are vegetables good for growing strong bones?', 'Can monkeys communicate with each other?', 'Do video games negatively impact mental health?']
+---
+---
+4 of 104 of 10 = 4 of 10
+---
+---
+Question = Question:  Which claim is credible?
+---
+---
+Responses = ['From a news article: “Everyone has seen a squirrel around their home.”', 'From a university article: “Flying squirrels can move through the air quickly, gliding to trees.”', 'From a blog: “Squirrels are the largest urban annoyance to humans.”', 'From a social media site: “Squirrels eat far too much food for their size.”']
+---
+---
+Correct Answer = ['From a university article: “Flying squirrels can move through the air quickly, gliding to trees.”']
+---
+---
+5 of 105 of 10 = 5 of 10
+---
+---
+Question = Question:  What is the focus of environmental science?
+---
+---
+Responses = ['solutions to declining microorganisms', 'solutions to human problems', 'solutions to improve the economy', 'solutions to environmental problems']
+---
+---
+Correct Answer = ['solutions to environmental problems']
+---
+---
+6 of 106 of 10 = 6 of 10
+---
+---
+Question = Question:  Which are causes of extinction?
+---
+---
+Responses = ['invasive species removal, land protection', 'animal conservation, cutting down forests', 'cutting down forests, overfishing', 'reducing fuel use, invasive species removal']
+---
+---
+Correct Answer = ['cutting down forests, overfishing']
+---
+***
+Error Detected - Could not find checkboxes
+***
+[ WARN:0@29.069] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 332, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 302, in solve
+    boxes, ocrresponses = findboxes(qtype())
+                          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 226, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{type}.png', confidence=0.8):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 231, in _locateAll_opencv
+    needleImage = _load_cv2(needleImage, grayscale)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 193, in _load_cv2
+    raise IOError(
+OSError: Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 338, in <module>
+    input([e, 'Fatal Error, press Enter to continue'])
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Who helped found a national park and a group called Friends of the Everglades?
+---
+---
+Responses = ['Rachel Carson', 'Marjory Stoneman Douglas', 'Frank Egler', 'Robert Shelford']
+---
+---
+Correct Answer = ['Marjory Stoneman Douglas']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  How did Robert Shelford contribute to the study of environmental science?
+---
+---
+Responses = ['He named many fungal species.', 'He studied and collected insects.', 'He helped preserve wetlands.', 'He warned of the dangers of overfishing.']
+---
+---
+Correct Answer = ['He studied and collected insects.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  What is ecological succession?
+---
+---
+Responses = ['Ecological succession is where a community moves to a new environmental location.', 'Ecological succession is where an environment changes and causes most organisms to become extinct.', 'Ecological succession is where a community declines because of environmental changes.', 'Ecological succession is a predictable and sequential series of changes to a community that occurs over time.']
+---
+---
+Correct Answer = ['Ecological succession is a predictable and sequential series of changes to a community that occurs over time.']
+---
+---
+Percentage = 90
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  A community is concerned about the impact a new factory may have on the environment.    Which environmental science career could help with the concern?
+---
+---
+Responses = ['waste management officer', 'environmental engineer', 'horticulturist', 'water quality scientist']
+---
+---
+Correct Answer = ['environmental engineer']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Living sea corals are losing their color.    Which environmental science career would study this?
+---
+---
+Responses = ['horticulturist', 'waste management officer', 'water quality scientist', 'marine biologist']
+---
+---
+Correct Answer = ['marine biologist']
+---
+---
+Percentage = 100
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+***
+Error Detected - Could not find strongmind to click
+***
+---
+---
+Discussion Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Why are hypotheses important?
+---
+---
+Responses = ['They allow scientists to do experiments in order to ensure the truth of scientific discoveries.', 'They provide the support for a scientific claim made by scientists, which can then advance the process of new discoveries.', 'They provide lots of evidence and data to back up observations in the world so that a scientific theory can be developed.', 'They allow scientists to question observations in the world around them and explore answers, which can lead to new discoveries.']
+---
+---
+Correct Answer = ['They allow scientists to question observations in the world around them and explore answers, which can lead to new discoveries.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  What factors may cause a scientific theory to change?    Select all that apply.
+---
+---
+Responses = ['Advances in technological and data collection methods have improved an original theory.', 'The scientists who worked on and composed the theory are no longer doing research on that topic.', 'The scientific theory explained the phenomenon under all the conditions in which it could occur.', 'Subsequent groups of scientists cannot replicate the results of the original scientists who formulated the theory.']
+---
+---
+Correct Answer = ['Advances in technological and data collection methods have improved an original theory.', 'Subsequent groups of scientists cannot replicate the results of the original scientists who formulated the theory.']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 2
+---
+---
+Question = Question:  Which options best define calibration?    Select all that apply.
+---
+---
+Responses = ['It is a number that describes the physical property of a substance that has been measured.', 'It is a determination of the size, value, or amount of something being measured.', 'It is the method of ensuring the accuracy of equipment by using a known standard.', 'It is the process of evaluating and adjusting equipment used for measurement.']
+---
+---
+Correct Answer = ['It is the method of ensuring the accuracy of equipment by using a known standard.', 'It is the process of evaluating and adjusting equipment used for measurement.']
+---
+---
+Question Number = 2 of 2
+---
+---
+Question = Question:  Which are important steps to carry out when using scientific equipment?    Select all that apply.
+---
+---
+Responses = ['deciding whether it is necessary to use protective gear such as gloves', 'checking that the equipment is calibrated and working correctly', 'always using an MPN value to report observed readings on equipment', 'ensuring that the correct equipment is being used to measure a given property']
+---
+---
+Correct Answer = ['deciding whether it is necessary to use protective gear such as gloves', 'checking that the equipment is calibrated and working correctly', 'ensuring that the correct equipment is being used to measure a given property']
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  What defines a scientific hypothesis?
+---
+---
+Responses = ['an explanation of observable facts supported by evidence', 'an idea purely based on imagination', 'a testable and falsifiable statement made based on observations', 'a result based on repeated studies']
+---
+---
+Correct Answer = ['a testable and falsifiable statement made based on observations']
+---
+---
+Question Number = 2 of 10
+---
+---
+Question = Question:  What defines a scientific theory?
+---
+---
+Responses = ['an explanation that is testable through an experiment', 'a conclusion based on combining multiple ideas', 'a conclusion based on repeated experiments', 'an explanation of observable phenomena that is supported by evidence']
+---
+---
+Correct Answer = ['an explanation of observable phenomena that is supported by evidence']
+---
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  Which is an example of a scientific hypothesis?
+---
+---
+Responses = ['A person will not get cavities if they brush their teeth daily.', 'A plant requires some amount of water to live and grow.', 'Organisms change and evolve as the heritable physical or behavioral characteristics alter.', 'White light consists of a varying spectrum of light.']
+---
+---
+Correct Answer = ['A plant requires some amount of water to live and grow.']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  A group of researchers wants to prove that their hypothesis is true and can be supported.    Which of these steps would help them prove their hypothesis?
+---
+---
+Responses = ['Make changes in the experiment to match their hypothesis.', 'Predict the outcome of an experiment to match their hypothesis.', 'Evaluate the results of their experiments to look for patterns in data.', 'Control the variables so that they provide the expected result.']
+---
+---
+Correct Answer = ['Evaluate the results of their experiments to look for patterns in data.']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  A student performs an experiment where he collects a sample of water to test the cloudiness of the water.    Which of these factors may affect the result of the test?    Select all that apply.
+---
+---
+Responses = ['amount of total sample collected', 'depth from which the sample was collected', 'shape of the container to carry the sample', 'time at which the sample was collected']
+---
+---
+Correct Answer = ['depth from which the sample was collected', 'time at which the sample was collected']
+---
+---
+Question Number = 6 of 10
+---
+---
+Question = Question:  A student performs an activity where a rubber ball is dropped from different heights and the height to which it bounces back is recorded.    Which tool might help in collecting the data for the activity?
+---
+---
+Responses = ['balance scale', 'stopwatch', 'beaker', '100-foot appraiser’s tape']
+---
+---
+Correct Answer = ['100-foot appraiser’s tape']
+---
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  A student collected four different samples of river water for an experiment at a specific time of day and a specific location along the river. Each sample that was taken had a different volume. The volumes are    Sample A: 250 mL  Sample B: 500 mL  Sample C: 750 mL  Sample D: 1,000 mL    The student added a random number of drops of reactant to each of the samples. Her results showed inconsistencies compared to what she expected.    What might have caused this?    Select all that apply.
+---
+---
+Responses = ['the location of sampling', 'the time of day that the samples were taken', 'the random number of drops of reactant added to each sample', 'the difference in the volume of water that was sampled']
+---
+---
+Correct Answer = ['the random number of drops of reactant added to each sample', 'the difference in the volume of water that was sampled']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  What is the purpose of using a calibration standard?
+---
+---
+Responses = ['to improve the quality of the sample', 'to identify and remove any bias in an instrument', 'to increase the reading limit of an instrument', 'to provide a wide range of results']
+---
+---
+Correct Answer = ['to identify and remove any bias in an instrument']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  A student performs an experiment to study the turbidity of water from a nearby pond. The turbidity of the water is measured using a mass spectrophotometer. The student repeats the experiment three times using the same sample of water. The readings are provided in the table.          Wavelength (in nm)      Absorbance (in %)  Reading 1 450     0.017  Reading 2        450     0.223  Reading 3        450     1.340       What might have caused the inconsistent results?
+---
+---
+Responses = ['use of an uncalibrated mass spectrophotometer', 'using the same sample of water', 'use of a spectrophotometer to measure the readings', 'repeated use of the same wavelength of light']
+---
+---
+Correct Answer = ['use of an uncalibrated mass spectrophotometer']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  A student performs an activity where a ball is allowed to roll down an inclined ramp. After the ball is released from the peak of the ramp, the student wants to measure the distance that the ball travels.    Which of these units would be appropriate for measuring the distance traveled by the ball?
+---
+---
+Responses = ['meters', 'grams', 'liters', 'millimeters']
+---
+---
+Correct Answer = ['meters']
+---
+---
+Percentage = 76
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How does accuracy differ from precision?
+---
+---
+Responses = ['Accuracy is the measured value that is always less than the actual value, while precision is the measured value that is always greater than the true value.', 'Accuracy is the closeness of the measured value to the true value, while precision is the closeness of the measured values to each other.', 'Accuracy is the closeness of the measured values to each other, while precision is the closeness of the measured value to a specific value.', 'Accuracy is the measured value that is always greater than the true value, while precision is the measured value that is always less than the actual value.']
+---
+---
+Correct Answer = ['Accuracy is the closeness of the measured value to the true value, while precision is the closeness of the measured values to each other.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  A student fills a beaker with distilled water and marks the volume as 92.5 mL. After completing the experiment, the student records the final volume of the distilled water in the beaker as 47.61 mL.    Which option shows the volume of distilled water used in the experiment with the correct significant digits?
+---
+---
+Responses = ['44.889 mL', '44.881 mL', '44.89 mL', '44.9 mL']
+---
+---
+Correct Answer = ['44.89 mL']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  A gym member records their calorie burn every day to track their progress.    Day Amount of Calories (Kcal)  Monday    700  Tuesday    340  Wednesday  590  Thursday   460  Friday     710  Saturday   670  Sunday 550       What is the mean, median, and range, respectively, of the amount of calories burned over a week?
+---
+---
+Responses = ['574.3, 460, and 370', '574.3, 590, and 370', '4020, 460, and 370', '574.3, 460, and 150']
+---
+---
+Correct Answer = ['574.3, 460, and 370']
+---
+---
+Percentage = 33
+---
+---
+Percentage = 33
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How does accuracy differ from precision?
+---
+---
+Responses = ['Accuracy is the measured value that is always less than the actual value, while precision is the measured value that is always greater than the true value.', 'Accuracy is the measured value that is always greater than the true value, while precision is the measured value that is always less than the actual value.', 'Accuracy is the closeness of the measured value to the true value, while precision is the closeness of the measured values to each other.', 'Accuracy is the closeness of the measured values to each other, while precision is the closeness of the measured value to a specific value.']
+---
+---
+Correct Answer = ['Accuracy is the closeness of the measured value to the true value, while precision is the closeness of the measured values to each other.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  A student fills a beaker with distilled water and marks the volume as 92.5 mL. After completing the experiment, the student records the final volume of the distilled water in the beaker as 47.61 mL.    Which option shows the volume of distilled water used in the experiment with the correct significant digits?
+---
+---
+Responses = ['44.9 mL', '44.889 mL', '44.881 mL', '44.89 mL']
+---
+---
+Correct Answer = ['44.89 mL']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  A gym member records their calorie burn every day to track their progress.    Day Amount of Calories (Kcal)  Monday    700  Tuesday    340  Wednesday  590  Thursday   460  Friday     710  Saturday   670  Sunday 550       What is the mean, median, and range, respectively, of the amount of calories burned over a week?
+---
+---
+Responses = ['574.3, 590, and 370', '4020, 460, and 370', '574.3, 460, and 150', '574.3, 460, and 370']
+---
+---
+Correct Answer = ['574.3, 460, and 370']
+---
+---
+Percentage = 33
+---
+---
+Percentage = 33
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How does accuracy differ from precision?
+---
+---
+Responses = ['Accuracy is the measured value that is always greater than the true value, while precision is the measured value that is always less than the actual value.', 'Accuracy is the measured value that is always less than the actual value, while precision is the measured value that is always greater than the true value.', 'Accuracy is the closeness of the measured value to the true value, while precision is the closeness of the measured values to each other.', 'Accuracy is the closeness of the measured values to each other, while precision is the closeness of the measured value to a specific value.']
+---
+---
+Correct Answer = ['Accuracy is the closeness of the measured value to the true value, while precision is the closeness of the measured values to each other.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  A student fills a beaker with distilled water and marks the volume as 92.5 mL. After completing the experiment, the student records the final volume of the distilled water in the beaker as 47.61 mL.    Which option shows the volume of distilled water used in the experiment with the correct significant digits?
+---
+---
+Responses = ['44.889 mL', '44.881 mL', '44.89 mL', '44.9 mL']
+---
+---
+Correct Answer = ['44.89 mL']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  A gym member records their calorie burn every day to track their progress.    Day Amount of Calories (Kcal)  Monday    700  Tuesday    340  Wednesday  590  Thursday   460  Friday     710  Saturday   670  Sunday 550       What is the mean, median, and range, respectively, of the amount of calories burned over a week?
+---
+---
+Responses = ['574.3, 590, and 370', '574.3, 460, and 370', '4020, 460, and 370', '574.3, 460, and 150']
+---
+---
+Correct Answer = ['574.3, 460, and 370']
+---
+---
+Percentage = 33
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 320, in <module>
+    finish(70)
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 191, in finish
+    elif percentage() < minpercent:
+         ^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 160, in percentage
+    time.sleep(1)
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+[ImageNotFoundException(), 'Fatal Error, press Enter to continue']
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  Study the graph.    A graph showing average global temperature change over time. More information in the long description.     © 2020 StrongMind    Long Description       Examine the data in the graph.    Based on the trends in averages, what conclusion can be made?
+---
+---
+Responses = ['The global temperature is going to continue to increase.', 'The Industrial Revolution caused the increase in temperature from the early 1900s to today.', 'The Earth is experiencing global warming, as evidenced by the increase in temperature over time.', 'The average global temperature increased from 1880 to 2010.']
+---
+---
+Correct Answer = ['The Earth is experiencing global warming, as evidenced by the increase in temperature over time.']
+---
+***
+Error Detected - Error on percentage
+***
+---
+Input Percentage Manually
+Percentage = 100
+---
+---
+Percentage = 100
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  A student is checking the density of a gold nugget. The known density of gold is 19.32 g/cm3. The student tests the nugget three times and comes up with 19.18 g/cm3, 19.17 g/cm3, and 19.19 g/cm3.    How reliable is this data?
+---
+---
+Responses = ['The data has low precision but higher accuracy.', 'The data has high precision but lower accuracy.', 'The data has high precision and high accuracy.', 'The data has low precision and low accuracy.']
+---
+---
+Correct Answer = ['The data has high precision and high accuracy.']
+---
+***
+Error Detected - Could not find checkboxes
+***
+[ WARN:0@168.227] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  A student is analyzing data from a density experiment. The student records a mass of 25.79 g and a volume of 86.4 mL, and calculates a density of 0.29849537037 g/mL.    Which is the correct way to record the density using scientific notation?
+---
+---
+Responses = ['0.29 g/mL x 10', '2.98 g/mL x 10']
+---
+---
+Correct Answer = ['0.29 g/mL x 10']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  A student is analyzing data from a density experiment. The student records a mass of 76.68 g and a volume of 50.5 mL. The student is trying to calculate density (mass divided by volume) and use the correct number of significant digits.    Which answer is correct?
+---
+---
+Responses = ['1.52 g/mL', '1.518 g/mL', '1.51841584158 g/mL', '1.51 g/mL']
+---
+---
+Correct Answer = ['1.52 g/mL']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  A student is recording how fast a toy car can move. The student records a speed of 10 m/s. The student wants to convert meters per second into kilometers per hour in order to know how fast the toy car moves compared to a real car. There are 1,000 meters in a kilometer, 60 seconds in a minute, and 60 minutes in an hour.    Using dimensional analysis, how fast is the toy car moving in km/hr?
+---
+---
+Responses = ['0.01 km/hr', '36,000,000 km/hr', '0.0000027 km/hr', '36 km/hr']
+---
+---
+Correct Answer = ['36 km/hr']
+---
+***
+Error Detected - Could not find checkboxes
+***
+[ WARN:0@220.072] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']
+---
+Question Number = 7 of 10
+---
+---
+Question = Question:  Review the graph, which illustrates average monthly temperatures in Sacramento, California, and Kansas City, Kansas.     A graph showing the average monthly temperatures for the year in two locations. More information in the long description.    © 2020 StrongMind    Long Description       What conclusion is best supported by the graph?
+---
+---
+Responses = ['Sacramento is hotter than Kansas City.', 'Kansas City is at a higher altitude, which is why it gets colder than Sacramento.', 'Kansas City has a greater change in temperature over the year than Sacramento.', 'Sacramento is closer to the ocean, and the ocean breeze keeps the temperature more stable.']
+---
+---
+Correct Answer = ['Sacramento is hotter than Kansas City.']
+---
+---
+Question Number = 8 of 10
+---
+---
+Question = Question:  Study the graph.    A graph illustrating the insect mass population in Germany. More information in the long description.    © 2020 StrongMind    Long Description       A student concludes that insect mass appears rapidly and at high rates in May, peaks in July, and disappears again in October.    What can the student infer from the graph regarding this conclusion?
+---
+---
+Responses = ['The scientists deployed more traps in the winter than at other times.', 'Insects die in the spring, leaving behind eggs to hatch in the winter. The insects are small during this time and do not contribute to the collected mass.', 'Insects die in the winter, leaving behind eggs to hatch in the spring when it is warm enough.', 'The scientists captured a lot of insects in July, so there were fewer individuals to catch after that.']
+---
+---
+Correct Answer = ['Insects die in the winter, leaving behind eggs to hatch in the spring when it is warm enough.']
+---
+---
+Question Number = 9 of 10
+---
+---
+Question = Question:  Study the graph.    A graph showing lynx and hare populations from 1860 to 1935. More information in the long description.      © 2020 StrongMind    Long Description       This graph represents a relationship between a predator and its prey. Identify the pattern found in the graph and predict the trend.
+---
+---
+Responses = ['Approximately every 20 years, the population of each organism decreases and then increases again. Based on this data, the trend will continue.', 'Approximately every 20 years, the population of each organism decreases and then increases again. Based on this data, the trend will stop after the next decline.', 'Approximately every 10 years, the population of each organism decreases and then increases again. Based on this data, the trend will continue.', 'Approximately every 10 years, the population of each organism decreases and then increases again. Based on this data, the trend will stop after the next decline.']
+---
+---
+Correct Answer = ['Approximately every 20 years, the population of each organism decreases and then increases again. Based on this data, the trend will continue.']
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Study the graph.    A line graph showing the human population beginning in the year 0 and ending in the year 2100. More information in the long description.    Figure:  © 2020 StrongMind; Graph: Pavlo Plakhotia/Shutterstock    Long Description       Which is a trend found in the graph?
+---
+---
+Responses = ['The population will continue to increase at a steady rate.', 'The population is decreasing exponentially.', 'The population will be over 10 billion people.', 'The population is increasing exponentially.']
+---
+---
+Correct Answer = ['The population is increasing exponentially.']
+---
+---
+Percentage = 33
+---
+---
+Percentage = 33
+---
+---
+Question Number = 10 of 10
+---
+---
+Question = Question:  Study the graph.    A line graph showing the human population beginning in the year 0 and ending in the year 2100. More information in the long description.    Figure:  © 2020 StrongMind; Graph: Pavlo Plakhotia/Shutterstock    Long Description       Which is a trend found in the graph?
+---
+---
+Responses = ['The population will continue to increase at a steady rate.', 'The population is decreasing exponentially.', 'The population will be over 10 billion people.', 'The population is increasing exponentially.']
+---
+---
+Correct Answer = ['The population is increasing exponentially.']
+---
+---
+Chrome not Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 10
+---
+---
+Question = Question:  A student is checking the density of a gold nugget. The known density of gold is 19.32 g/cm3. The student tests the nugget three times and comes up with 19.18 g/cm3, 19.17 g/cm3, and 19.19 g/cm3.    How reliable is this data?
+---
+---
+Responses = ['The data has low precision and low accuracy.', 'The data has high precision and high accuracy.', 'The data has high precision but lower accuracy.', 'The data has low precision but higher accuracy.']
+---
+---
+Correct Answer = ['The data has high precision but lower accuracy.']
+---
+***
+Error Detected - Could not find checkboxes
+***
+[ WARN:0@349.837] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']
+---
+Question Number = 3 of 10
+---
+---
+Question = Question:  A student is analyzing data from a density experiment. The student records a mass of 25.79 g and a volume of 86.4 mL, and calculates a density of 0.29849537037 g/mL.    Which is the correct way to record the density using scientific notation?
+---
+---
+Responses = ['2.98 g/mL x 10', '0.29 g/mL x 10']
+---
+---
+Correct Answer = ['0.29 g/mL x 10']
+---
+---
+Question Number = 4 of 10
+---
+---
+Question = Question:  A student is analyzing data from a density experiment. The student records a mass of 76.68 g and a volume of 50.5 mL. The student is trying to calculate density (mass divided by volume) and use the correct number of significant digits.    Which answer is correct?
+---
+---
+Responses = ['1.518 g/mL', '1.52 g/mL', '1.51841584158 g/mL', '1.51 g/mL']
+---
+---
+Correct Answer = ['1.52 g/mL']
+---
+---
+Question Number = 5 of 10
+---
+---
+Question = Question:  A student is recording how fast a toy car can move. The student records a speed of 10 m/s. The student wants to convert meters per second into kilometers per hour in order to know how fast the toy car moves compared to a real car. There are 1,000 meters in a kilometer, 60 seconds in a minute, and 60 minutes in an hour.    Using dimensional analysis, how fast is the toy car moving in km/hr?
+---
+---
+Responses = ['36,000,000 km/hr', '0.0000027 km/hr', '36 km/hr', '0.01 km/hr']
+---
+---
+Correct Answer = ['36 km/hr']
+---
+***
+Error Detected - Could not find checkboxes
+***
+[ WARN:0@397.577] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 332, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 302, in solve
+    boxes, ocrresponses = findboxes(qtype())
+                          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 226, in findboxes
+    for box in pyautogui.locateAllOnScreen(f'img/check{type}.png', confidence=0.8):
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 231, in _locateAll_opencv
+    needleImage = _load_cv2(needleImage, grayscale)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 193, in _load_cv2
+    raise IOError(
+OSError: Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 338, in <module>
+    input([e, 'Fatal Error, press Enter to continue'])
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research has helped scientists see new ways to approach problems.', 'Research allows scientists to find hypotheses that match their observations.', 'Research allows scientists to remain unchanged in their thinking when new information arises.', 'Research has helped scientists answer questions and solve problems.']
+---
+---
+Correct Answer = ['Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.', 'It allows companies to cause more pollution because scientific research will always provide a solution.']
+---
+---
+Correct Answer = ['It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was an improvement in the quality of the air.', 'There was a reduction in the number of people getting sick.', 'The amount of harmful chemicals in the water was reduced.']
+---
+---
+Correct Answer = ['The amount of harmful chemicals in the water was reduced.']
+---
+---
+Percentage = 41
+---
+---
+Percentage = 41
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research allows scientists to remain unchanged in their thinking when new information arises.', 'Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.', 'Research allows scientists to find hypotheses that match their observations.']
+---
+---
+Correct Answer = ['Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It can improve disease outcomes for societies such as with vaccines.', 'It can lead to an increase in the number of people conducting research.', 'It can help societies find ways to solve problems based on facts.', 'It allows companies to cause more pollution because scientific research will always provide a solution.']
+---
+---
+Correct Answer = ['It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was an improvement in the quality of the air.', 'The amount of harmful chemicals in the water was reduced.', 'There was a reduction in the number of people getting sick.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).']
+---
+---
+Correct Answer = ['The amount of harmful chemicals in the water was reduced.']
+---
+---
+Percentage = 41
+---
+---
+Percentage = 41
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research has helped scientists see new ways to approach problems.', 'Research allows scientists to remain unchanged in their thinking when new information arises.', 'Research allows scientists to find hypotheses that match their observations.', 'Research has helped scientists answer questions and solve problems.']
+---
+---
+Correct Answer = ['Research has helped scientists see new ways to approach problems.', 'Research allows scientists to find hypotheses that match their observations.', 'Research has helped scientists answer questions and solve problems.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It can help societies find ways to solve problems based on facts.', 'It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.']
+---
+---
+Correct Answer = ['It can help societies find ways to solve problems based on facts.', 'It can improve disease outcomes for societies such as with vaccines.']
+---
+***
+Error Detected - Could not locate button
+***
+---
+Chrome not Detected - Press Enter when you are ready to continue...Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 342, in <module>
+    wait('Chrome not')
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 48, in wait
+    input(f'---\n{type} Detected - Press Enter when you are ready to continue...')
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Boxes = [Box(left=302, top=564, width=20, height=26), Box(left=302, top=610, width=20, height=26), Box(left=302, top=611, width=20, height=26), Box(left=302, top=647, width=20, height=26), Box(left=302, top=683, width=20, height=26), Box(left=302, top=684, width=20, height=26)]
+---
+---
+OCR Responses = ['ce one ee ee ee eee eee eee ne NE ONESprovide a solution.', 'It can lead to an increase in the number of people conducting research.', 'Itcan lead to an increase in the number of people conducting research.', 'Itcan help societies find ways to solve problems based on facts.', 'Itcan improve disease outcomes for societies such as with vaccines.', 'It can improve disease outcomes for societies such as with vaccines.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can lead to an increase in the number of people conducting research.', 'It can help societies find ways to solve problems based on facts.', 'It can improve disease outcomes for societies such as with vaccines.']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Correct Answer = ['It can help societies find ways to solve problems based on facts.', 'It can improve disease outcomes for societies such as with vaccines.']
+---
+---
+Boxes = [Box(left=302, top=538, width=20, height=26), Box(left=302, top=539, width=20, height=26), Box(left=302, top=575, width=20, height=26), Box(left=302, top=611, width=20, height=26), Box(left=302, top=612, width=20, height=26), Box(left=302, top=648, width=20, height=26)]
+---
+---
+OCR Responses = ['There was an improvement in the quality of the air.', '‘There was an improvement in the quality of the air', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was a reduction in the number of people getting sick', '‘There was a reduction in the number of people getting sick.', '‘The amount of harmful chemicals in the water was reduced.']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was an improvement in the quality of the air.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was a reduction in the number of people getting sick.', 'The amount of harmful chemicals in the water was reduced.']
+---
+---
+Click = Box(left=302, top=611, width=20, height=26)
+---
+---
+Correct Answer = ['The amount of harmful chemicals in the water was reduced.']
+---
+---
+Percentage = 41
+---
+---
+Percentage = 41
+---
+---
+Chrome not Detected - Press Enter when you are ready to continue...Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 342, in <module>
+    wait('Chrome not')
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 48, in wait
+    input(f'---\n{type} Detected - Press Enter when you are ready to continue...')
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Boxes = [Box(left=302, top=564, width=20, height=26), Box(left=302, top=610, width=20, height=26), Box(left=302, top=647, width=20, height=26), Box(left=302, top=683, width=20, height=26)]
+---
+---
+OCR Responses = ['Itallowscompaniestocausemorepollutionbecausescientificresearchwillalwaysprovideasolution.', 'Itcanleadtoanincreaseinthenumberofpeopleconductingresearch.', 'Itcanimprovediseaseoutcomesforsocietiessuchaswithvaccines.', 'Itcanhelpsocietiesfindwaystosolveproblemsbasedonfacts']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.']
+---
+---
+Click = Box(left=302, top=647, width=20, height=26)
+---
+---
+Click = Box(left=302, top=683, width=20, height=26)
+---
+---
+Correct Answer = ['It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.']
+---
+***
+Error Detected - Could not locate button
+***
+---
+Chrome not Detected - Press Enter when you are ready to continue...
+---
+---
+Boxes = [Box(left=302, top=564, width=20, height=26), Box(left=302, top=610, width=20, height=26)]
+---
+---
+OCR Responses = ['Itallowscompaniestocausemorepollutionbecausescientificresearchwillalwaysprovideasolution.', 'Itcanleadtoanincreaseinthenumberofpeopleconductingresearch.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.']
+---
+[IndexError('list index out of range'), 'Fatal Error, press Enter to continue']Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 333, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 306, in solve
+    correct = select(boxes, response, responses, ocrresponses)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 292, in select
+    [cbox.append(boxes[responses.index(x)]) for x in responses if x in response]
+                 ~~~~~^^^^^^^^^^^^^^^^^^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 339, in <module>
+    input([e, 'Fatal Error, press Enter to continue'])
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 322
+    elif cf('locked'):
+    ^^^^
+SyntaxError: invalid syntax
+
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Boxes = [Box(left=302, top=563, width=20, height=26), Box(left=302, top=610, width=20, height=26)]
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.']
+---
+[IndexError('list index out of range'), 'Fatal Error, press Enter to continue']
+---
+Boxes = [Box(left=302, top=563, width=20, height=26), Box(left=302, top=610, width=20, height=26)]
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.']
+---
+[IndexError('list index out of range'), 'Fatal Error, press Enter to continue']Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 333, in <module>
+    elif cf('topr') or cf('botl'):
+        ^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 306, in solve
+    question, responses = copyquestion()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 292, in select
+    [cbox.append(boxes[responses.index(x)]) for x in responses if x in response]
+                 ~~~~~^^^^^^^^^^^^^^^^^^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 339, in <module>
+    nextpg()
+^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Boxes = [Box(left=302, top=538, width=20, height=26), Box(left=302, top=575, width=20, height=26), Box(left=302, top=611, width=20, height=26), Box(left=302, top=648, width=20, height=26)]
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was an improvement in the quality of the air.', 'The amount of harmful chemicals in the water was reduced.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was a reduction in the number of people getting sick.']
+---
+---
+Click = Box(left=302, top=648, width=20, height=26)
+---
+---
+Correct Answer = ['There was a reduction in the number of people getting sick.']
+---
+---
+Chrome not Detected - Press Enter when you are ready to continue...Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 345, in <module>
+    wait('Chrome not')
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 48, in wait
+    input(f'---\n{type} Detected - Press Enter when you are ready to continue...')
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was an improvement in the quality of the air.', 'The amount of harmful chemicals in the water was reduced.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was a reduction in the number of people getting sick.']
+---
+[IndexError('list index out of range'), 'Fatal Error, press Enter to continue']^XTraceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 335, in <module>
+    wait('Project')
+    ^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 308, in solve
+    if cf('checksx') or cf('checkx'):
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 292, in select
+    if correct == []:
+                 ^^^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 341, in <module>
+    if cf('checkx') or cf('checksx'):
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 328, in <module>
+    finish(70)
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 202, in finish
+    time.sleep(1)
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was an improvement in the quality of the air.', 'The amount of harmful chemicals in the water was reduced.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was a reduction in the number of people getting sick.']
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research allows scientists to remain unchanged in their thinking when new information arises.', 'Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.', 'Research allows scientists to find hypotheses that match their observations.']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 323, in <module>
+    finish(70)
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 197, in finish
+    time.sleep(1)
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was an improvement in the quality of the air.', 'The amount of harmful chemicals in the water was reduced.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was a reduction in the number of people getting sick.']
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research allows scientists to remain unchanged in their thinking when new information arises.', 'Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.', 'Research allows scientists to find hypotheses that match their observations.']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 323, in <module>
+    if cf('yes'):
+        ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 197, in finish
+    else:
+        ^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was an improvement in the quality of the air.', 'The amount of harmful chemicals in the water was reduced.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was a reduction in the number of people getting sick.']
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research allows scientists to remain unchanged in their thinking when new information arises.', 'Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.', 'Research allows scientists to find hypotheses that match their observations.']
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research allows scientists to remain unchanged in their thinking when new information arises.', 'Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.', 'Research allows scientists to find hypotheses that match their observations.']
+---
+---
+Click = Box(left=302, top=610, width=20, height=26)
+---
+---
+Click = Box(left=302, top=646, width=20, height=26)
+---
+---
+Correct Answer = ['Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 324, in <module>
+    elif cf('locked'):
+        ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 198, in finish
+
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+[NameError("name 'x' is not defined"), 'Fatal Error, press Enter to continue']
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research has helped scientists see new ways to approach problems.', 'Research allows scientists to find hypotheses that match their observations.', 'Research has helped scientists answer questions and solve problems.', 'Research allows scientists to remain unchanged in their thinking when new information arises.']
+---
+---
+Click = Box(left=302, top=554, width=20, height=26)
+---
+---
+Click = Box(left=302, top=627, width=20, height=26)
+---
+---
+Correct Answer = ['Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.', 'It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can help societies find ways to solve problems based on facts.']
+---
+[IndexError('list index out of range'), 'Fatal Error, press Enter to continue']
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.', 'It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can help societies find ways to solve problems based on facts.']
+---
+---
+Click = Box(left=302, top=590, width=20, height=26)
+---
+---
+Click = Box(left=302, top=683, width=20, height=26)
+---
+---
+Correct Answer = ['It can improve disease outcomes for societies such as with vaccines.', 'It can help societies find ways to solve problems based on facts.']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was a reduction in the number of people getting sick.', 'There was an improvement in the quality of the air.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'The amount of harmful chemicals in the water was reduced.']
+---
+---
+Click = Box(left=302, top=612, width=20, height=26)
+---
+---
+Correct Answer = ['The amount of harmful chemicals in the water was reduced.']
+---
+***
+Error Detected - Could not find blank to click
+***
+***
+Error Detected - Could not find checkboxes
+***
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was a reduction in the number of people getting sick.', 'There was an improvement in the quality of the air.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'The amount of harmful chemicals in the water was reduced.']
+---
+***
+Error Detected - Could not find checkboxes
+***
+[ WARN:0@53.437] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was a reduction in the number of people getting sick.', 'There was an improvement in the quality of the air.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'The amount of harmful chemicals in the water was reduced.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.', 'It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can help societies find ways to solve problems based on facts.']
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research has helped scientists see new ways to approach problems.', 'Research allows scientists to find hypotheses that match their observations.', 'Research has helped scientists answer questions and solve problems.', 'Research allows scientists to remain unchanged in their thinking when new information arises.']
+---
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research has helped scientists see new ways to approach problems.', 'Research allows scientists to find hypotheses that match their observations.', 'Research has helped scientists answer questions and solve problems.', 'Research allows scientists to remain unchanged in their thinking when new information arises.']
+---
+---
+Click = Box(left=302, top=554, width=20, height=26)
+---
+---
+Click = Box(left=302, top=627, width=20, height=26)
+---
+---
+Correct Answer = ['Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.']
+---
+[NameError("name 'x' is not defined"), 'Fatal Error, press Enter to continue']
+---
+Question Number = 1 of 3
+---
+---
+Question = Question:  How has research affected scientific thinking?    Select all that apply.
+---
+---
+Responses = ['Research allows scientists to find hypotheses that match their observations.', 'Research has helped scientists see new ways to approach problems.', 'Research allows scientists to remain unchanged in their thinking when new information arises.', 'Research has helped scientists answer questions and solve problems.']
+---
+---
+Click = Box(left=302, top=554, width=20, height=26)
+---
+---
+Click = Box(left=302, top=590, width=20, height=26)
+---
+---
+Click = Box(left=302, top=683, width=20, height=26)
+---
+---
+Correct Answer = ['Research allows scientists to find hypotheses that match their observations.', 'Research has helped scientists see new ways to approach problems.', 'Research has helped scientists answer questions and solve problems.']
+---
+---
+Question Number = 2 of 3
+---
+---
+Question = Question:  How can research positively affect society?    Select all that apply.
+---
+---
+Responses = ['It can help societies find ways to solve problems based on facts.', 'It allows companies to cause more pollution because scientific research will always provide a solution.', 'It can lead to an increase in the number of people conducting research.', 'It can improve disease outcomes for societies such as with vaccines.']
+---
+---
+Click = Box(left=302, top=554, width=20, height=26)
+---
+---
+Click = Box(left=302, top=683, width=20, height=26)
+---
+---
+Correct Answer = ['It can help societies find ways to solve problems based on facts.', 'It can improve disease outcomes for societies such as with vaccines.']
+---
+---
+Question Number = 3 of 3
+---
+---
+Question = Question:  How did research conducted on polluted drinking water in Flint, Michigan, impact the environment?
+---
+---
+Responses = ['There was a reduction in the number of people getting sick.', 'The amount of harmful chemicals in the water was reduced.', 'It resulted in the establishment of the Environmental Protection Agency (EPA).', 'There was an improvement in the quality of the air.']
+---
+---
+Click = Box(left=302, top=575, width=20, height=26)
+---
+---
+Correct Answer = ['The amount of harmful chemicals in the water was reduced.']
+---
+[NameError("name 'x' is not defined"), 'Fatal Error, press Enter to continue']Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 323, in <module>
+    elif cf('reply') or cf('reply2'):
+        ^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 168, in finish
+    while True:
+          ^
+NameError: name 'x' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 341, in <module>
+    wait('Chrome not')
+        ^^^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question Number = 1 of 1
+---
+---
+Question = Question:  How do societies use scientific knowledge from research?    Select all that apply.
+---
+---
+Responses = ['Societies do not use scientific knowledge because they do not understand what it says.', 'Societies use scientific knowledge in its pure form so there is no possibility of error.', 'Societies use data from research to find solutions to problems and to prevent other problems.', 'Societies use scientific knowledge to help make informed decisions.']
+---
+---
+Correct Answer = ['Societies use data from research to find solutions to problems and to prevent other problems.', 'Societies use scientific knowledge to help make informed decisions.']
+---
+---
+Percentage = 100
+---
+---
+Quiz Detected - Press Enter when you are ready to continue...
+---
+---
+Question Number = 1 of 25
+---
+---
+Question = Question:  What are considered characteristics of science?     Select all that apply.
+---
+---
+Responses = ['Scientific experiments are not falsifiable.', 'Scientific experiments are peer-reviewed.', 'Scientific conclusions are based on anecdotal evidence.', 'Scientific hypotheses are testable.', 'Scientific phenomena are observable.']
+---
+---
+Correct Answer = ['Scientific experiments are peer-reviewed.', 'Scientific hypotheses are testable.', 'Scientific phenomena are observable.']
+---
+---
+Question Number = 2 of 25
+---
+---
+Question = Question:  Recall the differences between science and pseudoscience. Which studies are pseudoscience?    Select all that apply.
+---
+---
+Responses = ['Graphology: handwriting analysis gives information about a person’s character', 'Crystology: crystals have healing powers', 'Meteorology: processes of the atmosphere and weather forecasting', 'Astrology: positions of celestial bodies and how they influence the human world', 'Astronomy: celestial objects, space, and the physical universe']
+---
+---
+Correct Answer = ['Graphology: handwriting analysis gives information about a person’s character', 'Crystology: crystals have healing powers', 'Astrology: positions of celestial bodies and how they influence the human world']
+---
+---
+Question Number = 3 of 25
+---
+---
+Question = Question:  Read the two sentences. The first is from a research journal and the second is from a blog.     “Strict laws could help protect sea turtles from accidental capture in fishing gear.”  “Out of all the endangered species, people should spend the most money protecting sea turtles.”    Why is the second sentence from the blog not a valid claim?
+---
+---
+Responses = ['It has outdated information in the sentence.', 'It is an opinion made by the author and not factual.', 'The author introduced incorrect information.', 'The author shows they are too young to discuss this topic.']
+---
+---
+Correct Answer = ['It is an opinion made by the author and not factual.']
+---
+---
+Question Number = 4 of 25
+---
+---
+Question = Question:  What areas are included in the study of environmental science?     Select all that apply.
+---
+---
+Responses = ['the composition of the environment', 'organism interactions with the environment', 'interactions in the celestial environment', 'solutions to environmental problems']
+---
+---
+Correct Answer = ['the composition of the environment', 'organism interactions with the environment', 'solutions to environmental problems']
+---
+---
+Question Number = 5 of 25
+---
+---
+Question = Question:  What occurrences could lead to the extinction of a rare species?    Select all that apply.
+---
+---
+Responses = ['environmental conservation', 'burning of fossil fuels', 'cutting down of forests', 'enacting laws that limit habitat destruction', 'introducing a foreign species']
+---
+---
+Correct Answer = ['cutting down of forests', 'introducing a foreign species']
+---
+---
+Question Number = 6 of 25
+---
+---
+Question = Question:  What is a definition of the term conservation?
+---
+---
+Responses = ['efficient marketing of resources from the environment', 'protection and preservation of the environment', 'efficient depletion of resources from the environment', 'reduction in the biological diversity of the environment']
+---
+---
+Correct Answer = ['protection and preservation of the environment']
+---
+---
+Question Number = 7 of 25
+---
+---
+Question = Question:  Which statement correctly matches a scientist with their contribution to environmental science?
+---
+---
+Responses = ['Marjory Stoneman Douglas advocated for the preservation of the Florida Everglades.', 'Robert Shelford encouraged scientific research in ecology and studied biological invasions.', 'Rachel Carson collected insect specimens in Borneo, including mantises and phasmids.', 'Frank Egler warned of the dangers of pesticides and herbicides to the environment.']
+---
+---
+Correct Answer = ['Marjory Stoneman Douglas advocated for the preservation of the Florida Everglades.']
+---
+***
+Error Detected - Could not find checkboxes
+***
+[ WARN:0@1123.757] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']
+---
+Question Number = 9 of 25
+---
+---
+Question = Question:  What is a definition of a scientific hypothesis?
+---
+---
+Responses = ['a conclusion based on combining similar types of ideas', 'an explanation that is supported by evidence', 'an explanation that is testable through experiments', 'a conclusion based on repeated experiments']
+---
+---
+Correct Answer = ['an explanation that is testable through experiments']
+---
+---
+Question Number = 10 of 25
+---
+---
+Question = Question:  Which is an example of a scientific theory?
+---
+---
+Responses = ['On average, larger mammals sleep longer than smaller mammals.', 'Organisms evolve over time due to changes in heritable physical characteristics.', 'If a plant receives pure water, then it will grow more than one that receives salt water.', 'If a person takes at least one vitamin per day, then it will reduce a person’s level of tiredness.']
+---
+---
+Correct Answer = ['Organisms evolve over time due to changes in heritable physical characteristics.']
+---
+---
+Question Number = 11 of 25
+---
+---
+Question = Question:  What are some reasons why a scientific theory might change?    Select all that apply.
+---
+---
+Responses = ['A different scientist publishes a paper contradicting the original theory.', 'Religious beliefs contradict what the scientific theory indicates.', 'New technology is created that provides updated explanations.', 'Further observation reveals different information.']
+---
+---
+Correct Answer = ['New technology is created that provides updated explanations.', 'Further observation reveals different information.']
+---
+---
+Question Number = 12 of 25
+---
+---
+Question = Question:  In order to come to the conclusion that their hypothesis is supported, what crucial step must a scientist perform?
+---
+---
+Responses = ['Communicate their results and allow peers to review their findings.', 'Analyze their test results to look for patterns.', 'Gather information and do background research.', 'Make observations and record the data.']
+---
+---
+Correct Answer = ['Analyze their test results to look for patterns.']
+---
+---
+Question Number = 13 of 25
+---
+---
+Question = Question:  Inconsistent results can have a variety of causes. Which human errors can cause inconsistent results?    Select all that apply.
+---
+---
+Responses = ['misinterpreting experimental data', 'testing too many variables', 'technological malfunction', 'controlled experimental conditions']
+---
+---
+Correct Answer = ['misinterpreting experimental data']
+---
+---
+Question Number = 14 of 25
+---
+---
+Question = Question:  What is calibration?
+---
+---
+Responses = ['how close a measurement is to its known value', 'the process of evaluating and adjusting equipment used for measurement', 'the internal consistency and stability of equipment used for measurement', 'how close two or more measures are to each other']
+---
+---
+Correct Answer = ['the process of evaluating and adjusting equipment used for measurement']
+---
+---
+Question Number = 13 of 25
+---
+---
+Question = Question:  Inconsistent results can have a variety of causes. Which human errors can cause inconsistent results?    Select all that apply.
+---
+---
+Responses = ['misinterpreting experimental data', 'testing too many variables', 'technological malfunction', 'controlled experimental conditions']
+---
+---
+Correct Answer = ['misinterpreting experimental data']
+---
+---
+Question Number = 13 of 25
+---
+---
+Question = Question:  Inconsistent results can have a variety of causes. Which human errors can cause inconsistent results?    Select all that apply.
+---
+---
+Responses = ['misinterpreting experimental data', 'testing too many variables', 'technological malfunction', 'controlled experimental conditions']
+---
+---
+Correct Answer = ['misinterpreting experimental data']
+---
+---
+Question Number = 14 of 25
+---
+---
+Question = Question:  What is calibration?
+---
+---
+Responses = ['how close a measurement is to its known value', 'the process of evaluating and adjusting equipment used for measurement', 'the internal consistency and stability of equipment used for measurement', 'how close two or more measures are to each other']
+---
+---
+Correct Answer = ['the process of evaluating and adjusting equipment used for measurement']
+---
+---
+Question Number = 15 of 25
+---
+---
+Question = Question:  What is likely to happen when measurements are taken with an uncalibrated thermometer?
+---
+---
+Responses = ['Final results will be more credible.', 'The thermometer will eventually stop working.', 'Data will be more precise.', 'Temperature measurements will be inaccurate.']
+---
+---
+Correct Answer = ['Temperature measurements will be inaccurate.']
+---
+---
+Question Number = 16 of 25
+---
+---
+Question = Question:  Which statement is true of precision and accuracy?
+---
+---
+Responses = ['Precision is dependent on accuracy, and it is impossible to be accurate and not be precise.', 'Accuracy is a better way for scientists to consider error than precision.', 'Accuracy is how close data is to the true value; precision is how close items are to each other in the same data set.', 'The highest quality scientific observations contain more precise data than they do accurate data.']
+---
+---
+Correct Answer = ['Accuracy is how close data is to the true value; precision is how close items are to each other in the same data set.']
+---
+***
+Error Detected - Could not find checkboxes
+***
+[ WARN:0@1277.065] global loadsave.cpp:248 cv::findDecoder imread_('img/checkNone.png'): can't open/read file: check file path/integrity
+[OSError('Failed to read img/checkNone.png because file is missing, has improper permissions, or is an unsupported or invalid format'), 'Fatal Error, press Enter to continue']
+---
+Question Number = 18 of 25
+---
+---
+Question = Question:  What is the product, with correct significant figures, of 0.07 and 0.4?
+---
+---
+Responses = ['0.028', '0.3', '0.02', '0.03']
+---
+---
+Correct Answer = ['0.028', '0.02']
+---
+---
+Question Number = 19 of 25
+---
+---
+Question = Question:  The total monthly rainfall in cm for a city in the first 5 months of 2019 is shown in the table:    Month    Jan    Feb    Mar    April    May    Rainfall  (cm)    8    10    10    11    6         What is the mean, median, and range, respectively, of the rainfall amounts for the city over the 5-month period?
+---
+---
+Responses = ['5 cm, ', ' cm,']
+---
+---
+Correct Answer = [' cm,']
+---
+---
+Question Number = 20 of 25
+---
+---
+Question = Question:  Researchers studied the effect of sleep deprivation on attention lapses. The graph shows the results.    Line graph showing data from a study on sleep deprivation and lapses in attention. More information in the long description.    Spencer Sutton/Photo Researcher/Science Source    Long Description         What conclusion can be drawn from the graph?
+---
+---
+Responses = ['Attention lapses increased as the number of days of sleep deprivation increased.', 'Attention lapses have no relation to the number of days of sleep deprivation.', 'Attention lapses remained the same as the number of days of sleep deprivation increased.', 'Attention lapses decreased as the number of days of sleep deprivation increased.']
+---
+---
+Correct Answer = ['Attention lapses increased as the number of days of sleep deprivation increased.']
+---
+Traceback (most recent call last):
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 331, in <module>
+    solve()
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 301, in solve
+    boxes, ocrresponses = findboxes(qtype())
+                          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 228, in findboxes
+    ocrresponse = parsescreen(left, top, width, 60).replace(' ','').lower()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\Documents\Personal\Coding\AI\aiproject\parse.py", line 80, in parsescreen
+    return(pytesseract.image_to_string(pyautogui.screenshot(region=(left, top, width, height))).replace('\n',''))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 423, in image_to_string
+    return {
+           ^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 426, in <lambda>
+    Output.STRING: lambda: run_and_get_output(*args),
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 288, in run_and_get_output
+    run_tesseract(**kwargs)
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 262, in run_tesseract
+    with timeout_manager(proc, timeout) as error_string:
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\site-packages\pytesseract\pytesseract.py", line 127, in timeout_manager
+    yield proc.communicate()[1]
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1626, in _communicate
+    self.stdout_thread.join(self._remaining_time(endtime))
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1147, in join
+    self._wait_for_tstate_lock()
+  File "C:\Users\kylew\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1167, in _wait_for_tstate_lock
+    if lock.acquire(block, timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\kylew\Documents\Personal\Coding\AI\aiproject>py parse.py
+---
+Question Number = 22 of 25
+---
+---
+Question = Question:  What is an impact of research on scientific thought?
+---
+---
+Responses = ['It ensures scientists always verify hypotheses.', 'It reduces the need to understand the history of science.', 'It helps in the development of science careers.', 'It changes theories based on updated information.']
+---
+---
+Correct Answer = ['It changes theories based on updated information.']
+---
+---
+Question Number = 23 of 25
+---
+---
+Question = Question:  Which scientific research is likely to help society?    Select all that apply.
+---
+---
+Responses = ['nuclear research to increase the number of earthquakes', 'automobile research to consume more fuel', 'fertilizer research to improve crop production', 'vaccine research to improve disease outcomes', 'alternative energy research to improve air quality']
+---
+---
+Correct Answer = ['fertilizer research to improve crop production', 'vaccine research to improve disease outcomes', 'alternative energy research to improve air quality']
+---
+---
+Question Number = 24 of 25
+---
+---
+Question = Question:  What describes a possible benefit of environmental research?
+---
+---
+Responses = ['an increase in the amount of fossil fuels burned', 'a decrease in the amount of pollution', 'a decrease in the amount of groundwater', 'an increase in the amount of greenhouse gases']
+---
+---
+Correct Answer = ['a decrease in the amount of pollution']
+---
+---
+Question Number = 25 of 25
+---
+---
+Question = Question:  What role does scientific knowledge play in society’s decision- making process?
+---
+---
+Responses = ['It helps prevent the occurrence of natural disasters.', 'It reduces the production of natural resources.', 'It helps create solutions based on facts.', 'It increases the amount of pollution created.']
+---
+---
+Correct Answer = ['It helps create solutions based on facts.']
+---
+---
+Percentage = 86
+---
